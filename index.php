@@ -279,7 +279,7 @@ function successful()
                     <div class="box">
                         <i class="fa fa-3x fa-bank text-danger"></i>
                         <h4 class="well well-sm text-primary">Confession</h4>
-                        <p class="text-muted">Time for atonement, spent the moment with the Lord.<br> </p>
+                        <p class="text-muted">Time for atonement, spent time with the Lord.<br> </p>
                         <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#myModal42">View details &raquo;</a> </p>
                     </div>
                 </div>
@@ -288,7 +288,7 @@ function successful()
                     <div class="box">
                         <i class="fa fa-3x fa-child text-danger"></i>
                         <h4 class="well well-sm text-primary">Baptism</h4>
-                        <p class="text-muted">Bring little children to me. </p>
+                        <p class="text-muted">Come, little children. </p>
                         <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#myModal43">View details &raquo;</a> </p>
                     </div>
                 </div>
@@ -297,7 +297,7 @@ function successful()
                     <div class="box">
                         <i class="fa fa-3x fa-university text-danger"></i>
                         <h4 class="well well-sm text-primary">Catechism</h4>
-                        <p class="text-muted">Come and learn about us<br> </p>
+                        <p class="text-muted">Study about Christianity and view of our faith.<br> </p>
                         <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#myModal44">View details &raquo;</a> </p>
                     </div>
                 </div>
@@ -305,8 +305,8 @@ function successful()
                 <div class="col-lg-2 col-md-6 text-center">
                     <div class="box">
                         <i class="fa fa-3x fa-bank text-danger"></i>
-                        <h4 class="well well-sm text-primary">Matrimony</h4>
-                        <p class="text-muted">Matrimony is the sacrament of Christian marriage.<br> </p>
+                        <h4 class="well well-sm text-primary">Marriage</h4>
+                        <p class="text-muted">Marriage (Holy Matrimony) is the sacrament of Christian marriage.<br> </p>
                         <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#myModal45">View details &raquo;</a> </p>
                     </div>
                 </div>
@@ -315,7 +315,7 @@ function successful()
                     <div class="box">
                         <i class="fa fa-3x fa-shield text-danger"></i>
                         <h4 class="well well-sm text-primary">Funeral</h4>
-                        <p class="text-muted">Let pray for our departed brethren<br> </p>
+                        <p class="text-muted">Funeral otherwise known as <i>Last Order.</i>Let pray for our departed brethren<br> </p>
                         <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#myModal46">View details &raquo;</a> </p>
                     </div>
                 </div>
@@ -626,56 +626,56 @@ function successful()
                         <div class="item-owl">
                             <div class="test-review">
                                 <img src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" class="img-responsive" alt="Admin">
-                                <h5>Parish Priest (080*****)</h5>
+                                <h5>Parish Priest</h5>
                             </div>
                         </div>
 
                         <div class="item-owl">
                             <div class="test-review">
                                 <img src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" class="img-responsive" alt="Admin">
-                                <h5>Asst Parish Priest (080*****)</h5>
+                                <h5>Asst Parish Priest</h5>
                             </div>
                         </div>
 
                         <div class="item-owl">
                             <div class="test-review">
                                 <img src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" class="img-responsive" alt="Admin">
-                                <h5>Catechist (080*****)</h5>
+                                <h5>Catechist</h5>
                             </div>
                         </div>
 
                         <div class="item-owl">
                             <div class="test-review">
                                 <img src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" class="img-responsive" alt="Admin">
-                                <h5>Vice Chairman Pastoral Council (080*****)</h5>
+                                <h5>Vice Chairman Pastoral Council</h5>
                             </div>
                         </div>
 
                         <div class="item-owl">
                             <div class="test-review">
                                 <img src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" class="img-responsive" alt="Admin">
-                                <h5>Laity Council President (080*****)</h5>
+                                <h5>Laity Council President</h5>
                             </div>
                         </div>
 
                         <div class="item-owl">
                             <div class="test-review">
                                 <img src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" class="img-responsive" alt="Admin">
-                                <h5>CMO President (080*****)</h5>
+                                <h5>CMO President</h5>
                             </div>
                         </div>
 
                         <div class="item-owl">
                             <div class="test-review">
                                 <img src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" class="img-responsive" alt="Admin">
-                                <h5>CWO President (080*****)</h5>
+                                <h5>CWO President</h5>
                             </div>
                         </div>
 
                         <div class="item-owl">
                             <div class="test-review">
                                 <img src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" class="img-responsive" alt="Admin">
-                                <h5>CYON President (080*****)</h5>
+                                <h5>CYON President</h5>
                             </div>
                         </div>
                     </div>
@@ -696,67 +696,58 @@ function successful()
                                 <li data-target="#myCarousel" data-slide-to="2"></li>
                                 <li data-target="#myCarousel" data-slide-to="3"></li>
                                 <li data-target="#myCarousel" data-slide-to="4"></li>
-                                <li data-target="#myCarousel" data-slide-to="5"></li>
-                                <li data-target="#myCarousel" data-slide-to="6"></li>
+                                <li data-target="#myCarousel" data-slide-to="5"></li>                                
                             </ol>
 
                             <!-- Wrapper for slides -->
                             <div class="carousel-inner">
                                 <div class="item active">
-                                    <img src="img/background6.png" alt="High Lands">
+                                    <img src="img/abstract.png" alt="Abstract">
                                     <div class="carousel-caption">
-                                        <h3>High Lands</h3>
-                                        <p>Lands</p>
+                                        <h3>Abstract</h3>
+                                        <p>Abstract</p>
                                     </div>
                                 </div>
 
                                 <div class="item">
-                                    <img src="img/galaxy1a.png" alt="Galaxy">
+                                    <img src="img/beautiful.png" alt="Beautiful">
                                     <div class="carousel-caption">
-                                        <h3>Galaxy</h3>
-                                        <p>Galaxy</p>
+                                        <h3>Beautiful</h3>
+                                        <p>Beautiful</p>
                                     </div>
                                 </div>
 
                                 <div class="item">
-                                    <img src="img/galaxy2a.png" alt="Galaxy">
+                                    <img src="img/bedding.png" alt="Bedding">
                                     <div class="carousel-caption">
-                                        <h3>Galaxy</h3>
-                                        <p>Galaxy</p>
+                                        <h3>Bedding</h3>
+                                        <p>Bedding</p>
                                     </div>
                                 </div>
 
                                 <div class="item">
-                                    <img src="img/galaxy3a.png" alt="Galaxy">
+                                    <img src="img/beverage.png" alt="Beverage">
                                     <div class="carousel-caption">
-                                        <h3>Galaxy</h3>
-                                        <p>Galaxy</p>
+                                        <h3>Beverage</h3>
+                                        <p>Beverage</p>
                                     </div>
                                 </div>
 
                                 <div class="item">
-                                    <img src="img/galaxy4a.png" alt="Galaxy">
+                                    <img src="img/blurred.png" alt="Blurred">
                                     <div class="carousel-caption">
-                                        <h3>Galaxy</h3>
-                                        <p>Galaxy</p>
+                                        <h3>Blurred</h3>
+                                        <p>Blurred</p>
                                     </div>
                                 </div>
 
                                 <div class="item">
-                                    <img src="img/galaxy5a.png" alt="Galaxy">
+                                    <img src="img/dawn.png" alt="Dawn">
                                     <div class="carousel-caption">
-                                        <h3>Galaxy</h3>
-                                        <p>Galaxy</p>
+                                        <h3>Dawn</h3>
+                                        <p>Dawn</p>
                                     </div>
-                                </div>
-
-                                <div class="item">
-                                    <img src="img/galaxy6a.png" alt="Galaxy">
-                                    <div class="carousel-caption">
-                                        <h3>Galaxy</h3>
-                                        <p>Galaxy</p>
-                                    </div>
-                                </div>
+                                </div>                             
                             </div>
 
                             <!-- Left and right controls -->
@@ -1559,7 +1550,7 @@ function successful()
                     <div class="footer-me-leftr">
                         <h4>Location</h4>
                         <p>St. Charles L'wanga Parish, Essien Town, Calabar, Cross River State, Nigeria</p>
-                        <a href="mailto:your-email@your-domain.com"><i class="text-primary fa fa-envelope fa-2x tooltip-viewport-bottom" title="Send us an email"></i></a>
+                        <a href="mailto:info@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x tooltip-viewport-bottom" title="Send us an email"></i></a>
                     </div>
                     <div class="clearfix"></div>
                 </div>
