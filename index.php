@@ -39,6 +39,7 @@ function successful()
     <meta name="description" content="Charles+Lwanga+Parish">
     <meta name="author" content="Gabriel Etim">
 
+
     <title>St. Charles L'wanga Parish</title>
 
     <!-- Bootstrap Core CSS -->
