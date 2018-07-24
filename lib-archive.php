@@ -160,6 +160,17 @@
                                 <tbody>
                                 <tr>
                                     <td>001</td>
+                                    <td style="text-align: left" title="History of St. Charles L'wanga">History of St. Charles L'wanga</td>
+                                    <td>Faith</td>
+                                    <td>Faith</td>
+                                    <td>September 2017</td>
+                                    <td>
+                                        <a href="audio/Saint%20Charles%20Lwanga%20and%20Companions%20–%20Franciscan%20Media.MP3" download="Heaven"><button class="btn btn-primary btn-xs">Download</button></a>
+                                        <a href="audio/Saint%20Charles%20Lwanga%20and%20Companions%20–%20Franciscan%20Media.MP3" readonly="Heaven"><button class="btn btn-default btn-xs">Read-online</button></a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>002</td>
                                     <td style="text-align: left" title="Heaven.pdf">Heaven</td>
                                     <td>Faith</td>
                                     <td>Faith</td>
@@ -170,7 +181,7 @@
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td>002</td>
+                                    <td>003</td>
                                     <td style="text-align: left" title="Why become a purgatorian.pdf">Why become a purgatorian</td>
                                     <td>Faith</td>
                                     <td>Faith</td>
@@ -181,7 +192,7 @@
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td>003</td>
+                                    <td>004</td>
                                     <td style="text-align: left" title="History of St. Charles L'wanga.pdf">History of St. Charles L'wanga</td>
                                     <td>Marty</td>
                                     <td>Saint</td>
@@ -192,7 +203,7 @@
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td>007</td>
+                                    <td>005</td>
                                     <td style="text-align: left" title="Image of St. Charles L'wanga.jpeg">Image of St. Charles L'wanga</td>
                                     <td>Marty</td>
                                     <td>Saint</td>

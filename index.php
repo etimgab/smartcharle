@@ -33,7 +33,10 @@ function successful()
     <meta charset="UTF-8">
     <meta http-equiv="x-ua-compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Charles L'wanga Parish, Catholic Church">
+    <meta name="description" content="Catholic Church">
+    <meta name="description" content="Saint+Charles">
+    <meta name="description" content="Catholic+Church+Cross+River+State">
+    <meta name="description" content="Charles+Lwanga+Parish">
     <meta name="author" content="Gabriel Etim">
 
     <title>St. Charles L'wanga Parish</title>
