@@ -149,31 +149,31 @@
                             <table class="table table-striped">
                                 <thead>
                                 <tr>
-                                    <th>Serial</th>
+                                    <th>S/N</th>
                                     <th>Title</th>
-                                    <th>Synopsis</th>
-                                    <th>Genre</th>
-                                    <th>Release</th>
+                                    <th>Association</th>
+                                    <th>Type</th>
+                                    <th>Publish Date</th>
                                     <th>Rights</th>
                                 </tr>
                                 </thead>
                                 <tbody>
                                 <tr>
                                     <td>001</td>
-                                    <td style="text-align: left" title="History of St. Charles L'wanga">History of St. Charles L'wanga</td>
-                                    <td>Faith</td>
-                                    <td>Faith</td>
+                                    <td style="text-align: left" title="History of St. Charles L'wanga">St. Charles L'wanga & Companions</td>
+                                    <td>St. Charles L'wanga & Companions</td>
+                                    <td>Audio</td>
                                     <td>September 2017</td>
                                     <td>
-                                        <a href="audio/Saint%20Charles%20Lwanga%20and%20Companions%20–%20Franciscan%20Media.MP3" download="Heaven"><button class="btn btn-primary btn-xs">Download</button></a>
-                                        <a href="audio/Saint%20Charles%20Lwanga%20and%20Companions%20–%20Franciscan%20Media.MP3" readonly="Heaven"><button class="btn btn-default btn-xs">Read-online</button></a>
+                                        <a href="audio/Saint%20Charles%20Lwanga%20and%20Companions%20–%20Franciscan%20Media.MP3" download="History of St. Charles L'wanga"><button class="btn btn-primary btn-xs">Download</button></a>
+                                        <a href="audio/Saint%20Charles%20Lwanga%20and%20Companions%20–%20Franciscan%20Media.MP3" readonly="History of St. Charles L'wanga"><button class="btn btn-default btn-xs">Read-online</button></a>
                                     </td>
                                 </tr>
                                 <tr>
                                     <td>002</td>
-                                    <td style="text-align: left" title="Heaven.pdf">Heaven</td>
-                                    <td>Faith</td>
-                                    <td>Faith</td>
+                                    <td style="text-align: left" title="Heaven">Heaven</td>
+                                    <td>Purgatorian Society</td>
+                                    <td>Document</td>
                                     <td>September 2017</td>
                                     <td>
                                         <a href="docs/HEAVEN%20-%20Purgatory.pdf" download="Heaven"><button class="btn btn-primary btn-xs">Download</button></a>
@@ -182,9 +182,9 @@
                                 </tr>
                                 <tr>
                                     <td>003</td>
-                                    <td style="text-align: left" title="Why become a purgatorian.pdf">Why become a purgatorian</td>
-                                    <td>Faith</td>
-                                    <td>Faith</td>
+                                    <td style="text-align: left" title="Why become a purgatorian">Why become a purgatorian</td>
+                                    <td>Purgatorian Society</td>
+                                    <td>Document</td>
                                     <td>September 2017</td>
                                     <td>
                                         <a href="docs/WHY%20BECOME%20A%20PURGATORIAN.pdf" download="Why become a purgatorian"><button class="btn btn-primary btn-xs">Download</button></a>
@@ -193,24 +193,13 @@
                                 </tr>
                                 <tr>
                                     <td>004</td>
-                                    <td style="text-align: left" title="History of St. Charles L'wanga.pdf">History of St. Charles L'wanga</td>
-                                    <td>Marty</td>
-                                    <td>Saint</td>
+                                    <td style="text-align: left" title="St. Charles L'wanga">St. Charles L'wanga & Companions</td>
+                                    <td>St. Charles L'wanga & Companions</td>
+                                    <td>Document</td>
                                     <td>September 2017</td>
                                     <td>
                                         <a href="docs/Saint%20Charles%20Lwanga%20and%20Companion1.pdf" download="Saint Charles and Companions"><button class="btn btn-primary btn-xs">Download</button></a>
                                         <a href="docs/Saint%20Charles%20Lwanga%20and%20Companion1.pdf" readonly="Saint Charles and Companions"><button class="btn btn-default btn-xs">Read-online</button></a>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>005</td>
-                                    <td style="text-align: left" title="Image of St. Charles L'wanga.jpeg">Image of St. Charles L'wanga</td>
-                                    <td>Marty</td>
-                                    <td>Saint</td>
-                                    <td>September 2017</td>
-                                    <td>
-                                        <a href="img/charles.jpg" download="charles"><button class="btn btn-primary btn-xs">Download</button></a>
-                                        <a href="img/charles.jpg" readonly="charles"><button class="btn btn-default btn-xs">Read-online</button></a>
                                     </td>
                                 </tr>
                                 </tbody>
