@@ -35,9 +35,9 @@
                             <li class="active">
                                 <a href="index.php">Home</a>
                             </li>
-                            <li>
-                                <a href="#">Daily Meditation</a>
-                            </li>
+<!--                            <li>-->
+<!--                                <a href="#">Daily Meditation</a>-->
+<!--                            </li>-->
                         </ul>
                     </nav>
                 </div>

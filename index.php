@@ -528,10 +528,7 @@ function successful()
                         </p>
 
                         <!--Modal -->
-                        <button class="btn btn-primary underline-from-left modal-about" data-toggle="modal" data-target="#myModal40">Saint Charles L'wanga and Companions<span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span> </button><br>
-
-                        <br><a href="http://www.catholic.org/saints/saint.php?saint_id=35">More on Saint Charles L'wanga
-                        can be found here</a><br>
+                        <button class="btn btn-primary underline-from-left modal-about" data-toggle="modal" data-target="#myModal40">Saint Charles L'wanga and Companions<span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span> </button><br>                        
 
                         <!--Modal -->
                         <button class="btn btn-primary underline-from-left modal-about" data-toggle="modal" data-target="#myModal">READ MORE ABOUT THE PARISH<span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span> </button>
@@ -820,9 +817,7 @@ function successful()
                                 <dt>Morning Mass</dt>
                                 <dd>6am <br><i>(Mass of Human Labour)</i></dd>
                                 <dt>Evening Mass</dt>
-                                <dd>6pm</dd>
-                                <dt>Confession</dt>
-                                <dd>45 minutes before Mass during Holy Rosary<br></dd>
+                                <dd>6pm</dd>                                
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
                                     <strong>1st: </strong>1st Kings 19: 19a,11-13a;<br>
@@ -845,9 +840,7 @@ function successful()
                                 <dt>Morning Mass</dt>
                                 <dd>6am</dd>
                                 <dt>Evening Mass</dt>
-                                <dd>6pm</dd>
-                                <dt>Confession</dt>
-                                <dd>45 minutes before Mass during Holy Rosary<br></dd>
+                                <dd>6pm</dd>                                
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
                                     <strong>1st: </strong>1st Kings 19: 19a,11-13a;<br>
@@ -870,9 +863,7 @@ function successful()
                                 <dt>Morning Mass</dt>
                                 <dd>6am</dd>
                                 <dt>Evening Mass</dt>
-                                <dd>6pm <br><i>(Healing Mass)</i></dd>
-                                <dt>Confession</dt>
-                                <dd>45 minutes before Mass during Holy Rosary<br></dd>
+                                <dd>6pm <br><i>(Healing Mass)</i></dd>                               
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
                                     <strong>1st: </strong>1st Kings 19: 19a,11-13a;<br>
@@ -895,9 +886,7 @@ function successful()
                                 <dt>Morning Mass</dt>
                                 <dd>6am</dd>
                                 <dt>Evening Mass</dt>
-                                <dd>6pm</dd>
-                                <dt>Confession</dt>
-                                <dd>45 minutes before Mass during Holy Rosary<br></dd>
+                                <dd>6pm</dd>                                
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
                                     <strong>1st: </strong>1st Kings 19: 19a,11-13a;<br>
@@ -920,9 +909,7 @@ function successful()
                                 <dt>Morning Mass</dt>
                                 <dd>6am</dd>
                                 <dt>Evening Mass</dt>
-                                <dd>6pm</dd>
-                                <dt>Confession</dt>
-                                <dd>45 minutes before Mass during Holy Rosary<br></dd>
+                                <dd>6pm</dd>                                
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
                                     <strong>1st: </strong>1st Kings 19: 19a,11-13a;<br>
@@ -947,7 +934,7 @@ function successful()
                                 <dt>Evening Mass</dt>
                                 <dd>6pm</dd>
                                 <dt>Confession</dt>
-                                <dd>45 minutes before Mass during Holy Rosary<br></dd>
+                                <dd>1 hour before Mass during Adoration<br></dd>
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
                                     <strong>1st: </strong>1st Kings 19: 19a,11-13a;<br>
@@ -970,9 +957,7 @@ function successful()
                                 <dt>Morning Mass</dt>
                                 <dd>6am</dd>
                                 <dt>Evening Mass</dt>
-                                <dd>6pm</dd>
-                                <dt>Confession</dt>
-                                <dd>45 minutes before Mass during Holy Rosary<br></dd>
+                                <dd>6pm</dd>                                
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
                                     <strong>1st: </strong>1st Kings 19: 19a,11-13a;<br>
