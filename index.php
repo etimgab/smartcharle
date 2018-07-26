@@ -310,7 +310,7 @@ function successful()
                     <div class="box">
                         <i class="fa fa-3x fa-bank text-danger"></i>
                         <h4 class="well well-sm text-primary">Marriage</h4>
-                        <p class="text-muted">Marriage (Holy Matrimony) is the sacrament of Christian marriage.<br> </p>
+                        <p class="text-muted">Holy Matrimony is the sacrament of Christian marriage.<br> </p>
                         <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#myModal45">View details &raquo;</a> </p>
                     </div>
                 </div>
@@ -319,7 +319,7 @@ function successful()
                     <div class="box">
                         <i class="fa fa-3x fa-shield text-danger"></i>
                         <h4 class="well well-sm text-primary">Funeral</h4>
-                        <p class="text-muted">Funeral otherwise known as <i>Last Order.</i>Let pray for our departed brethren<br> </p>
+                        <p class="text-muted">Funeral service reminds us of who we are and encourages us to pray for our departed brethren<br> </p>
                         <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#myModal46">View details &raquo;</a> </p>
                     </div>
                 </div>
@@ -372,7 +372,8 @@ function successful()
                             <img src="img/our_lord1.png" alt="Sacred Heart of Jesus" class="img-responsive center-block">
                             <p>Baptism is a sacrament which wipes out original and actual sin, and makes us children of 
                             God and members of the Church. <br><br>
-                            <strong>Secure a slot with catechist</strong></p>
+                            <strong>Infant Baptism</strong> - 1st Saturday of every month.</p>
+                            <strong>Adult</strong> - Consult the Catechist or Priest.</p>
                         </div>
                     </div>
                 </div>
@@ -396,7 +397,7 @@ function successful()
                             <p>Catechism is a platform which is used to educate children, young people and adults about their faith. <br>
                             It aims is to present the <strong>essentials</strong> and fundamental <strong>contents</strong> 
                             of christian doctrine as regards both <strong>faith</strong> and <strong>morals</strong>.<br><br>
-                            <strong>Secure a slot with catechist</strong></p>
+                            <strong>Meet with catechist</strong></p>
                         </div>
                     </div>
                 </div>
@@ -419,7 +420,7 @@ function successful()
                             <img src="img/our_lord1.png" alt="Sacred Heart of Jesus" class="img-responsive center-block">
                             <p>Matrimony gives grace to the married couple to love and faithful to each other, and to 
                             bring up their children in the fear and love of God.<br><br>
-                            <strong>Secure a slot with catechist</strong></p>
+                            <strong>Meet with catechist</strong></p>
                         </div>
                     </div>
                 </div>
@@ -440,10 +441,8 @@ function successful()
                         </div>
                         <div class="modal-body modal-about">
                             <img src="img/our_lord1.png" alt="Sacred Heart of Jesus" class="img-responsive center-block">
-                            <p>Adoptive parents often celebrate "Gotcha Day," the anniversary of the day when they "chose" a
-                                child and welcomed him or her into their family. For God, every day is Gotcha Day. That’s because
-                                every day, someone is baptized into Christ and becomes an adopted son or daughter.
-                                <br>Every day, he gathers new children into his arms and says, "I have chosen you to be my own."</p>
+                            <p>Funeral service reminds us of who we are and encourages us to pray for our departed brethren.</p> <br><br>
+                                <strong>Meet with catechist</strong></p>
                         </div>
                     </div>
                 </div>
@@ -464,10 +463,8 @@ function successful()
                         </div>
                         <div class="modal-body modal-about">
                             <img src="img/our_lord1.png" alt="Sacred Heart of Jesus" class="img-responsive center-block">
-                            <p>Adoptive parents often celebrate "Gotcha Day," the anniversary of the day when they "chose" a
-                                child and welcomed him or her into their family. For God, every day is Gotcha Day. That’s because
-                                every day, someone is baptized into Christ and becomes an adopted son or daughter.
-                                <br>Every day, he gathers new children into his arms and says, "I have chosen you to be my own."</p>
+                            <p>Time to offer praises and thank God for all he has done.</p><br><br>
+                                <strong>Meet with catechist</strong></p>
                         </div>
                     </div>
                 </div>
@@ -531,7 +528,7 @@ function successful()
                         <button class="btn btn-primary underline-from-left modal-about" data-toggle="modal" data-target="#myModal40">Saint Charles L'wanga and Companions<span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span> </button><br>                        
 
                         <!--Modal -->
-                        <button class="btn btn-primary underline-from-left modal-about" data-toggle="modal" data-target="#myModal">READ MORE ABOUT THE PARISH<span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span> </button>
+                        <button class="btn btn-primary underline-from-left modal-about" data-toggle="modal" data-target="#myModal">ABOUT THE PARISH<span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span> </button>
 
                         <div class="tooltip-content">
                             <div class="modal fade features-modal modal-about" id="myModal" tabindex="-1" role="dialog" aria-hidden="true">
@@ -626,56 +623,56 @@ function successful()
                     <div id="owl-demo" class="owl-carousel">
                         <div class="item-owl">
                             <div class="test-review">
-                                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" class="img-responsive" alt="Admin">
+                                <img src="img/abstract.png" class="img-responsive" alt="Parish Priest">
                                 <h5>Parish Priest</h5>
                             </div>
                         </div>
 
                         <div class="item-owl">
                             <div class="test-review">
-                                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" class="img-responsive" alt="Admin">
+                                <img src="img/beautiful.png" class="img-responsive" alt="Asst Parish Priest">
                                 <h5>Asst Parish Priest</h5>
                             </div>
                         </div>
 
                         <div class="item-owl">
                             <div class="test-review">
-                                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" class="img-responsive" alt="Admin">
+                                <img src="img/bedding.png" class="img-responsive" alt="Catechist">
                                 <h5>Catechist</h5>
                             </div>
                         </div>
 
                         <div class="item-owl">
                             <div class="test-review">
-                                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" class="img-responsive" alt="Admin">
+                                <img src="img/beverage.png" class="img-responsive" alt="Vice Chairman Pastoral Council">
                                 <h5>Vice Chairman Pastoral Council</h5>
                             </div>
                         </div>
 
                         <div class="item-owl">
                             <div class="test-review">
-                                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" class="img-responsive" alt="Admin">
+                                <img src="img/blurred.png" class="img-responsive" alt="Laity Council President">
                                 <h5>Laity Council President</h5>
                             </div>
                         </div>
 
                         <div class="item-owl">
                             <div class="test-review">
-                                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" class="img-responsive" alt="Admin">
+                                <img src="img/dawn.png" class="img-responsive" alt="CMO President">
                                 <h5>CMO President</h5>
                             </div>
                         </div>
 
                         <div class="item-owl">
                             <div class="test-review">
-                                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" class="img-responsive" alt="Admin">
+                                <img src="img/beautiful.png" class="img-responsive" alt="CWO President">
                                 <h5>CWO President</h5>
                             </div>
                         </div>
 
                         <div class="item-owl">
                             <div class="test-review">
-                                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" class="img-responsive" alt="Admin">
+                                <img src="img/dawn.png" class="img-responsive" alt="CYON President">
                                 <h5>CYON President</h5>
                             </div>
                         </div>
@@ -778,10 +775,10 @@ function successful()
 
             <div class="row">
                 <div class="col-lg-2 col-md-6 mask">
-                    <img class="img-rounded img-responsive" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
+                    <img class="img-rounded img-responsive" src="img/charles.png" alt="Generic placeholder image" width="140" height="140">
                 </div>
                 <div class="col-lg-10 col-md-6">
-                    <p>Charles Lwanga (Luganda: Kaloli Lwanga (1 January 1860 – 3 June 1886) was a Ugandan convert
+                    <p>Charles Lwanga (Luganda: Kaloli Lwanga (June 3rd) was a Ugandan convert
                        to the Catholic Church, who was martyred for his faith and is revered as a saint by both the
                        Catholic Church and the Anglican Communion.<br>
                        Charles Lwanga and the other Christians who accompanied him in death were canonized on
@@ -1527,7 +1524,7 @@ function successful()
                     </div>
                     <div class="footer-me-leftr">
                         <h4>Quote of the week</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod	tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <p>For the sake of his sorrowful passion, have mercy on us and on the whole world.</p>
                     </div>
                     <div class="clearfix"></div>
                 </div>
