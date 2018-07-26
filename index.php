@@ -488,7 +488,7 @@ function successful()
             <div class="row about-grid-2">
                 <div class="col-lg-2 col-md-6 mask">
                     <img class="img-rounded img-responsive"
-                         src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=="
+                         src="img/charles.jpg"
                          alt="Generic placeholder image" width="140" height="140">
                 </div>
                 <div class="col-lg-10 col-md-6">
@@ -511,7 +511,7 @@ function successful()
             <div class="container-fluid">
                 <div class="about-grids modal-about">
                     <div class="col-lg-2 col-md-6 col-sm-6 about-grid modal-about mask">
-                        <img src="img/charles.png" alt="Saint Charles L'wanga" class="img-circle img-responsive" width="140" height="140">
+                        <img src="img/charles.jpg" alt="Saint Charles L'wanga" class="img-circle img-responsive" width="140" height="140">
                     </div>
                     <div class="col-lg-10 col-md-6 col-sm-6 about-grid modal-about about-grid-2">
                         <!--<h1>ABOUT US</h1>-->
@@ -539,7 +539,7 @@ function successful()
                                             <h4 class="modal-title modal-about text-center">About St. Charles L'wanga Parish</h4>
                                         </div>
                                         <div class="modal-body modal-about">
-                                            <img src="img/charles.png" alt="St. Charles L'wanga Parish" class="img-circle img-responsive center-block">
+                                            <img src="img/charles.jpg" alt="St. Charles L'wanga Parish" class="img-circle img-responsive center-block">
                                             <p>The history of St. Charles L’wanga Parish can be linked to the story of our Lord Jesus Christ who was born in a manger and later grew to greatness to become the Saviour of the world. It is a proud history of great achievements and contributions to evangelism in our neighborhood and the universal church in general.<br>
                                                 We therefore pay glowing tributes to Late Etinyin Essien Etim Offiong III, an illustrious son of Essien Town, Progenitor of Catholicism in Calabar and its environs. <br>
                                                 Available records show that the practice of the Catholic faith took root in Essien Town in 1915 following the celebration of the first Holy Mass here by Rev. Fr. F. Howell and J. Krafft in the compound of Late Chief Ekpenyong OtuAbasi which is directly opposite the present Church.<br>
@@ -567,7 +567,7 @@ function successful()
                                             <h4 class="modal-title modal-about text-center">About St. Charles L'wanga Parish & Companions</h4>
                                         </div>
                                         <div class="modal-body modal-about">
-                                            <img src="img/saint-charles1.png" alt="St. Charles L'wanga Parish" class="img-circle img-responsive center-block">
+                                            <img src="img/saint-charles1.jpg" alt="St. Charles L'wanga Parish" class="img-circle img-responsive center-block">
                                             <p>One of 22 Ugandan martyrs, Charles Lwanga is the patron of youth and
                                                 Catholic action in most of tropical Africa. He protected his fellow
                                                 pages, aged 13 to 30, from the homosexual demands of the Bagandan ruler,
@@ -623,56 +623,56 @@ function successful()
                     <div id="owl-demo" class="owl-carousel">
                         <div class="item-owl">
                             <div class="test-review">
-                                <img src="img/abstract.png" class="img-responsive" alt="Parish Priest">
+                                <img src="img/abstract.jpg" class="img-responsive" alt="Parish Priest">
                                 <h5>Parish Priest</h5>
                             </div>
                         </div>
 
                         <div class="item-owl">
                             <div class="test-review">
-                                <img src="img/beautiful.png" class="img-responsive" alt="Asst Parish Priest">
+                                <img src="img/beautiful.jpg" class="img-responsive" alt="Asst Parish Priest">
                                 <h5>Asst Parish Priest</h5>
                             </div>
                         </div>
 
                         <div class="item-owl">
                             <div class="test-review">
-                                <img src="img/bedding.png" class="img-responsive" alt="Catechist">
+                                <img src="img/bedding.jpg" class="img-responsive" alt="Catechist">
                                 <h5>Catechist</h5>
                             </div>
                         </div>
 
                         <div class="item-owl">
                             <div class="test-review">
-                                <img src="img/beverage.png" class="img-responsive" alt="Vice Chairman Pastoral Council">
+                                <img src="img/beverage.jpg" class="img-responsive" alt="Vice Chairman Pastoral Council">
                                 <h5>Vice Chairman Pastoral Council</h5>
                             </div>
                         </div>
 
                         <div class="item-owl">
                             <div class="test-review">
-                                <img src="img/blurred.png" class="img-responsive" alt="Laity Council President">
+                                <img src="img/blurred.jpg" class="img-responsive" alt="Laity Council President">
                                 <h5>Laity Council President</h5>
                             </div>
                         </div>
 
                         <div class="item-owl">
                             <div class="test-review">
-                                <img src="img/dawn.png" class="img-responsive" alt="CMO President">
+                                <img src="img/dawn.jpg" class="img-responsive" alt="CMO President">
                                 <h5>CMO President</h5>
                             </div>
                         </div>
 
                         <div class="item-owl">
                             <div class="test-review">
-                                <img src="img/beautiful.png" class="img-responsive" alt="CWO President">
+                                <img src="img/beautiful.jpg" class="img-responsive" alt="CWO President">
                                 <h5>CWO President</h5>
                             </div>
                         </div>
 
                         <div class="item-owl">
                             <div class="test-review">
-                                <img src="img/dawn.png" class="img-responsive" alt="CYON President">
+                                <img src="img/dawn.jpg" class="img-responsive" alt="CYON President">
                                 <h5>CYON President</h5>
                             </div>
                         </div>
@@ -700,7 +700,7 @@ function successful()
                             <!-- Wrapper for slides -->
                             <div class="carousel-inner">
                                 <div class="item active">
-                                    <img src="img/abstract.png" alt="Abstract">
+                                    <img src="img/abstract.jpg" alt="Abstract">
                                     <div class="carousel-caption">
                                         <h3>Abstract</h3>
                                         <p>Abstract</p>
@@ -708,7 +708,7 @@ function successful()
                                 </div>
 
                                 <div class="item">
-                                    <img src="img/beautiful.png" alt="Beautiful">
+                                    <img src="img/beautiful.jpg" alt="Beautiful">
                                     <div class="carousel-caption">
                                         <h3>Beautiful</h3>
                                         <p>Beautiful</p>
@@ -716,7 +716,7 @@ function successful()
                                 </div>
 
                                 <div class="item">
-                                    <img src="img/bedding.png" alt="Bedding">
+                                    <img src="img/bedding.jpg" alt="Bedding">
                                     <div class="carousel-caption">
                                         <h3>Bedding</h3>
                                         <p>Bedding</p>
@@ -724,7 +724,7 @@ function successful()
                                 </div>
 
                                 <div class="item">
-                                    <img src="img/beverage.png" alt="Beverage">
+                                    <img src="img/beverage.jpg" alt="Beverage">
                                     <div class="carousel-caption">
                                         <h3>Beverage</h3>
                                         <p>Beverage</p>
@@ -732,7 +732,7 @@ function successful()
                                 </div>
 
                                 <div class="item">
-                                    <img src="img/blurred.png" alt="Blurred">
+                                    <img src="img/blurred.jpg" alt="Blurred">
                                     <div class="carousel-caption">
                                         <h3>Blurred</h3>
                                         <p>Blurred</p>
@@ -740,7 +740,7 @@ function successful()
                                 </div>
 
                                 <div class="item">
-                                    <img src="img/dawn.png" alt="Dawn">
+                                    <img src="img/dawn.jpg" alt="Dawn">
                                     <div class="carousel-caption">
                                         <h3>Dawn</h3>
                                         <p>Dawn</p>
@@ -775,7 +775,7 @@ function successful()
 
             <div class="row">
                 <div class="col-lg-2 col-md-6 mask">
-                    <img class="img-rounded img-responsive" src="img/charles.png" alt="Generic placeholder image" width="140" height="140">
+                    <img class="img-rounded img-responsive" src="img/charles.jpg" alt="Generic placeholder image" width="140" height="140">
                 </div>
                 <div class="col-lg-10 col-md-6">
                     <p>Charles Lwanga (Luganda: Kaloli Lwanga (June 3rd) was a Ugandan convert
@@ -797,7 +797,7 @@ function successful()
             <div class="col-lg-12 col-md-6">
                 <div class="text-center">
                     <h4 class="well well-sm">Mass Schedule</h4>
-                    <img src="img/eucharist.png" class="img-rounded img-responsive" alt="Eucharist" width="300" height="200">
+                    <img src="img/eucharist.jpg" class="img-rounded img-responsive" alt="Eucharist" width="300" height="200">
                 </div>
             </div><!-- /.End of Mass schedule -->
 
