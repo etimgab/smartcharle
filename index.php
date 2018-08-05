@@ -564,7 +564,7 @@ function successful()
                                     <div class="modal-content modal-about">
                                         <div class="modal-header modal-about" style="background-color: crimson; color: white;">
                                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
-                                            <h4 class="modal-title modal-about text-center">About St. Charles L'wanga Parish & Companions</h4>
+                                            <h4 class="modal-title modal-about text-center">About St. Charles L'wanga & Companions</h4>
                                         </div>
                                         <div class="modal-body modal-about">
                                             <img src="img/saint-charles1.jpg" alt="St. Charles L'wanga Parish" class="img-circle img-responsive center-block">
