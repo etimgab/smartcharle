@@ -1650,7 +1650,7 @@ function adduser()
                     $insert = "INSERT INTO news(Email, Date_Registered)VALUE ('$email', '$date')";
                     if ($connect->query($insert) === TRUE) {
 //                    Redirect the user to the index page if insertion is complete
-                        echo "<h1>Successful subcription </h1> ";
+                        echo "<h1>Successful subcription </h1>";
                     header("refresh:3; url=index.php");
                         //Create a tooltip to get details about the user
                     } else {
