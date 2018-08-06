@@ -11,6 +11,6 @@ class connect_me
     public static $dbhost = "localhost";
     public static $dbuser = "root";
     public static $dbpassword = "";
-    public static $dbdatabase = "church";
+    public static $dbdatabase = "data";
 }
 ?>

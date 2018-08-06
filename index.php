@@ -105,7 +105,7 @@ function successful()
             </ul>
             <form class="navbar-form navbar-right" action="#" method="post" id="join-us">
                 <div class="form-group">
-                    <input type="email" placeholder="Join our newsletter" class="form-control" id="inputEmail" name="Input_Email" value="">
+                    <input type="email" placeholder="Insert your email" class="form-control" id="inputEmail" name="Input_Email" value="">
                 </div>
                 <button type="submit" class="btn btn-success" value="join us" id="saveForm" name="saveForm">Join Us</button>
             </form>
@@ -1626,45 +1626,37 @@ function adduser()
 //        echo "Email is: ".$email;
 
         //Check if the email is already on the database before adding the user
-        $select = "SELECT * FROM user WHERE Email = '$email'";
+        $select = "SELECT * FROM news WHERE Email = '$email'";
         $query_select = $connect->query($select);
         if ($query_select){
             $count_rows = $query_select->num_rows;
 
             //Verify if there is a hit
-            if ($count_rows==1) {
-                $rows = mysqli_fetch_array($query_select);
-//                $D_email = $rows['Email'];
-                echo "<h3>" . $email . " already exist on the database. You will hear from us soon.</h3>";
+            if ($count_rows==1){
+                while ($rowsd = $query_select->fetch_assoc()){
+                $D_email = $rowsd['Email'];
+                echo "<h3>" . $D_email . " already exist on the database. You will hear from us soon.</h3>";
                 header("refresh: 3; url=index.php");
+                }
 
             }else {
                 //Add the user
-                $select1 = "SELECT MAX(Num) AS ID FROM user";
-                $query_select1 = mysqli_query($connect, $select1);
-                $row = $query_select1->fetch_array();
-
-                if ($row) {
-                    $id = $row['ID'] + 1;
-                } else {
-                    $id = 1;
-                }
-                $date = date("Y-m-d");
-//                $date = strtotime(time,now);
-//                echo $id."<br>";
-//                echo $date."<br>";
-//                echo $email."<br>";
+                    $date = date("Y-m-d");
+//                    echo $id . "<br>";
+//                    echo $date . "<br>";
+//                    echo $email . "<br>";
 
 //                    //Insert the user into the database
-                $insert = "INSERT INTO user(Num, Email, DateTime)VALUE ('$id', '$email', '$date')";
-                if ($connect->query($insert) === TRUE) {
-                    //Redirect the user to the index page if insertion is complete
-                    echo "<h1>Successful subcription </h1>";
+                    $insert = "INSERT INTO news(Email, Date_Registered)VALUE ('$email', '$date')";
+                    if ($connect->query($insert) === TRUE) {
+//                    Redirect the user to the index page if insertion is complete
+                        echo "<h1>Successful subcription </h1>";
                     header("refresh:3; url=index.php");
-                } else {
-                    echo "<h1>Unsuccessful subcription </h1>";
+                        //Create a tooltip to get details about the user
+                    } else {
+                        echo "<h1>Unsuccessful subcription </h1>";
                     header("refresh:3; url=index.php");
-                }
+                    }
                 mysqli_close($connect);
             }
         }
