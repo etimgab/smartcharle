@@ -255,8 +255,9 @@ function successful()
     <div class="header-content">
         <div class="header-content-inner">
             <h1>St. Charles L'wanga Parish</h1>
+            <br><h3>Essien Town, Calabar, Cross River State, Nigeria</h3>
             <hr><br>
-            <h3>Community of Catholic Faithful</h3>
+            <h4>Community of Catholic Faithful</h4>
             <a href="#church-services" class="btn btn-primary page-scroll">Services</a>
         </div>
     </div>
@@ -624,56 +625,56 @@ function successful()
                         <div class="item-owl">
                             <div class="test-review">
                                 <img src="img/abstract.jpg" class="img-responsive" alt="Parish Priest">
-                                <h5>Parish Priest</h5>
+                                <h5>Parish Priest (+2348032586300)</h5>
                             </div>
                         </div>
 
                         <div class="item-owl">
                             <div class="test-review">
                                 <img src="img/beautiful.jpg" class="img-responsive" alt="Asst Parish Priest">
-                                <h5>Asst Parish Priest</h5>
+                                <h5>Asst Parish Priest (+2348105849815)</h5>
                             </div>
                         </div>
 
                         <div class="item-owl">
                             <div class="test-review">
                                 <img src="img/bedding.jpg" class="img-responsive" alt="Catechist">
-                                <h5>Catechist</h5>
+                                <h5>Catechist (+2348083108777)</h5>
                             </div>
                         </div>
 
                         <div class="item-owl">
                             <div class="test-review">
                                 <img src="img/beverage.jpg" class="img-responsive" alt="Vice Chairman Pastoral Council">
-                                <h5>Vice Chairman Pastoral Council</h5>
+                                <h5>Vice Chairman Pastoral Council (080*****)</h5>
                             </div>
                         </div>
 
                         <div class="item-owl">
                             <div class="test-review">
                                 <img src="img/blurred.jpg" class="img-responsive" alt="Laity Council President">
-                                <h5>Laity Council President</h5>
+                                <h5>Laity Council President (+2348033505099)</h5>
                             </div>
                         </div>
 
                         <div class="item-owl">
                             <div class="test-review">
                                 <img src="img/dawn.jpg" class="img-responsive" alt="CMO President">
-                                <h5>CMO President</h5>
+                                <h5>CMO President (+2348039742034)</h5>
                             </div>
                         </div>
 
                         <div class="item-owl">
                             <div class="test-review">
                                 <img src="img/beautiful.jpg" class="img-responsive" alt="CWO President">
-                                <h5>CWO President</h5>
+                                <h5>CWO President (080*****)</h5>
                             </div>
                         </div>
 
                         <div class="item-owl">
                             <div class="test-review">
                                 <img src="img/dawn.jpg" class="img-responsive" alt="CYON President">
-                                <h5>CYON President</h5>
+                                <h5>CYON President (080*****)</h5>
                             </div>
                         </div>
                     </div>
@@ -1635,8 +1636,8 @@ function adduser()
             if ($count_rows==1){
                 while ($rowsd = $query_select->fetch_assoc()){
                 $D_email = $rowsd['Email'];
-                echo "<h3>" . $D_email . " already exist on the database. You will hear from us soon.</h3>";
                 header("refresh: 3; url=index.php");
+                echo "<h3>" . $D_email . " already exist on the database. You will hear from us soon.</h3>";
                 }
 
             }else {
@@ -1650,12 +1651,16 @@ function adduser()
                     $insert = "INSERT INTO news(Email, Date_Registered)VALUE ('$email', '$date')";
                     if ($connect->query($insert) === TRUE) {
 //                    Redirect the user to the index page if insertion is complete
-                        echo "<h1>Successful subcription </h1>";
-                    header("refresh:3; url=index.php");
+                        header("refresh:3; url=index.php");
+                        echo "<h1>Successful subscription</h1>";
+
+                    exit();
                         //Create a tooltip to get details about the user
                     } else {
-                        echo "<h1>Unsuccessful subcription </h1>";
-                    header("refresh:3; url=index.php");
+                        header("refresh:3; url=index.php");
+                        echo "<h1>Unsuccessful subscription</h1>";
+
+                    exit();
                     }
                 mysqli_close($connect);
             }

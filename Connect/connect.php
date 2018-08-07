@@ -8,9 +8,9 @@
 class connect_me
 {
     //Connection to localhost
-    public static $dbhost = "localhost";
-    public static $dbuser = "root";
-    public static $dbpassword = "";
-    public static $dbdatabase = "data";
+    public static $dbhost = "localhost:3306";
+    public static $dbuser = "stcharle";
+    public static $dbpassword = "oS3=sXiX";
+    public static $dbdatabase = "stcharle_Newsletter";
 }
 ?>
