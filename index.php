@@ -674,7 +674,7 @@ function successful()
                         <div class="item-owl">
                             <div class="test-review">
                                 <img src="img/dawn.jpg" class="img-responsive" alt="CYON President">
-                                <h5>CYON President (080*****)</h5>
+                                <h5>CYON President (+2348056316932)</h5>
                             </div>
                         </div>
                     </div>
@@ -992,7 +992,7 @@ function successful()
                                 <dt>Time</dt>
                                 <dd>After 6:30am Mass</dd>
                                 <dt>Contact</dt>
-                                <dd><a href="mailto:your-email@your-domain.com"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                                <dd><a href="mailto:cmo@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
                             </dl>
                         </div>
                     </div>
@@ -1010,7 +1010,7 @@ function successful()
                                 <dt>Time</dt>
                                 <dd>After 6:30am Mass</dd>
                                 <dt>Contact</dt>
-                                <dd><a href="mailto:your-email@your-domain.com"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                                <dd><a href="mailto:cwo@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
                             </dl>
                         </div>
                     </div>
@@ -1028,7 +1028,7 @@ function successful()
                                 <dt>Time</dt>
                                 <dd>After 6:30am Mass</dd>
                                 <dt>Contact</dt>
-                                <dd><a href="mailto:your-email@your-domain.com"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                                <dd><a href="mailto:cyon@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
                             </dl>
                         </div>
                     </div>
@@ -1048,7 +1048,7 @@ function successful()
                     <div class="panel panel-primary">
                         <div class="panel-heading">
                             <h3 class="panel-title">
-                                <a data-toggle="collapse" data-parent="#accordion3" href="#pastorial-council">Pastorial Council</a>
+                                <a data-toggle="collapse" data-parent="#accordion3" href="#pastorial-council">Pastoral council</a>
                             </h3>
                         </div>
                         <div id="pastorial-council" class="panel-collapse collapse in">
@@ -1058,7 +1058,7 @@ function successful()
                                 <dt>Time</dt>
                                 <dd>After 6:30am Mass</dd>
                                 <dt>Contact</dt>
-                                <dd><a href="mailto:your-email@your-domain.com"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                                <dd><a href="mailto:pastoral.council@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
                             </dl>
                         </div>
                     </div>
@@ -1076,7 +1076,7 @@ function successful()
                                 <dt>Time</dt>
                                 <dd>After 6:30am Mass</dd>
                                 <dt>Contact</dt>
-                                <dd><a href="mailto:your-email@your-domain.com"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                                <dd><a href="mailto:laity.council@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
                             </dl>
                         </div>
                     </div>
@@ -1105,7 +1105,7 @@ function successful()
                                 <dt>Time</dt>
                                 <dd>After 6:30am Mass</dd>
                                 <dt>Contact</dt>
-                                <dd><a href="mailto:your-email@your-domain.com"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                                <dd><a href="mailto:holy.family@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
                             </dl>
                         </div>
                     </div>
@@ -1123,7 +1123,7 @@ function successful()
                                 <dt>Time</dt>
                                 <dd>5pm</dd>
                                 <dt>Contact</dt>
-                                <dd><a href="mailto:your-email@your-domain.com"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                                <dd><a href="mailto:stanthony@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
                             </dl>
                         </div>
                     </div>
@@ -1141,7 +1141,7 @@ function successful()
                                 <dt>Time</dt>
                                 <dd>4:30pm</dd>
                                 <dt>Contact</dt>
-                                <dd><a href="mailto:your-email@your-domain.com"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                                <dd><a href="mailto:stjude@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
                             </dl>
                         </div>
                     </div>
@@ -1159,7 +1159,7 @@ function successful()
                                 <dt>Time</dt>
                                 <dd>4 - 6pm & 5 - 7pm respectively</dd>
                                 <dt>Contact</dt>
-                                <dd><a href="mailto:your-email@your-domain.com"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                                <dd><a href="mailto:cbiu@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
                             </dl>
                         </div>
                     </div>
@@ -1177,7 +1177,7 @@ function successful()
                                 <dt>Time</dt>
                                 <dd>5pm</dd>
                                 <dt>Contact</dt>
-                                <dd><a href="mailto:your-email@your-domain.com"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                                <dd><a href="mailto:mass.servers@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
                             </dl>
                         </div>
                     </div>
@@ -1195,7 +1195,7 @@ function successful()
                                 <dt>Time</dt>
                                 <dd>6pm</dd>
                                 <dt>Contact</dt>
-                                <dd><a href="mailto:your-email@your-domain.com"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                                <dd><a href="mailto:nurses.guild@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
                             </dl>
                         </div>
                     </div>
@@ -1213,7 +1213,7 @@ function successful()
                                 <dt>Time</dt>
                                 <dd>4:30pm</dd>
                                 <dt>Contact</dt>
-                                <dd><a href="mailto:your-email@your-domain.com"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                                <dd><a href="mailto:lay.readers@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
                             </dl>
                         </div>
                     </div>
@@ -1221,7 +1221,7 @@ function successful()
                     <div class="panel panel-primary">
                         <div class="panel-heading">
                             <h3 class="panel-title">
-                                <a data-toggle="collapse" data-parent="#accordion1" href="#ccrn">Chrismatic</a>
+                                <a data-toggle="collapse" data-parent="#accordion1" href="#ccrn">Charismatic</a>
                             </h3>
                         </div>
                         <div id="ccrn" class="panel-collapse collapse">
@@ -1231,7 +1231,7 @@ function successful()
                                 <dt>Time</dt>
                                 <dd>6pm & 4pm respectively</dd>
                                 <dt>Contact</dt>
-                                <dd><a href="mailto:your-email@your-domain.com"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                                <dd><a href="mailto:charismatic@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
                             </dl>
                         </div>
                     </div>
@@ -1249,7 +1249,7 @@ function successful()
                                 <dt>Time</dt>
                                 <dd>5pm</dd>
                                 <dt>Contact</dt>
-                                <dd><a href="mailto:your-email@your-domain.com"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                                <dd><a href="mailto:choir.association@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
                             </dl>
                         </div>
                     </div>
@@ -1267,7 +1267,7 @@ function successful()
                                 <dt>Time</dt>
                                 <dd>4:30pm</dd>
                                 <dt>Contact</dt>
-                                <dd><a href="mailto:your-email@your-domain.com"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                                <dd><a href="mailto:sacred.heart@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
                             </dl>
                         </div>
                     </div>
@@ -1285,7 +1285,7 @@ function successful()
                                 <dt>Time</dt>
                                 <dd>After 9:30am Mass</dd>
                                 <dt>Contact</dt>
-                                <dd><a href="mailto:your-email@your-domain.com"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                                <dd><a href="mailto:ministers.hospitality@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
                             </dl>
                         </div>
                     </div>
@@ -1303,7 +1303,7 @@ function successful()
                                 <dt>Time</dt>
                                 <dd>5pm</dd>
                                 <dt>Contact</dt>
-                                <dd><a href="mailto:your-email@your-domain.com"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                                <dd><a href="mailto:vincent_de_paul@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
                             </dl>
                         </div>
                     </div>
@@ -1321,7 +1321,7 @@ function successful()
                                 <dt>Time</dt>
                                 <dd>Unknown yet</dd>
                                 <dt>Contact</dt>
-                                <dd><a href="mailto:your-email@your-domain.com"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                                <dd><a href="mailto:mary.league@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
                             </dl>
                         </div>
                     </div>
@@ -1339,7 +1339,7 @@ function successful()
                                 <dt>Time</dt>
                                 <dd>4pm & after 6:30am Mass respectively</dd>
                                 <dt>Contact</dt>
-                                <dd><a href="mailto:your-email@your-domain.com"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                                <dd><a href="mailto:legion_of_mary@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
                             </dl>
                         </div>
                     </div>
@@ -1357,7 +1357,7 @@ function successful()
                                 <dt>Time</dt>
                                 <dd>6am - 12 noon</dd>
                                 <dt>Contact</dt>
-                                <dd><a href="mailto:your-email@your-domain.com"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                                <dd><a href="mailto:fatima@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
                             </dl>
                         </div>
                     </div>
@@ -1375,7 +1375,7 @@ function successful()
                                 <dt>Time</dt>
                                 <dd>5 - 6pm</dd>
                                 <dt>Contact</dt>
-                                <dd><a href="mailto:your-email@your-domain.com"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                                <dd><a href="mailto:purgatorain.society@stchaleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
                             </dl>
                         </div>
                     </div>
@@ -1393,7 +1393,7 @@ function successful()
                                 <dt>Time</dt>
                                 <dd>5pm</dd>
                                 <dt>Contact</dt>
-                                <dd><a href="mailto:your-email@your-domain.com"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                                <dd><a href="mailto:amsp@stcharleslwanaga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
                             </dl>
                         </div>
                     </div>
@@ -1411,7 +1411,7 @@ function successful()
                                 <dt>Time</dt>
                                 <dd>After 6:30am Mass</dd>
                                 <dt>Contact</dt>
-                                <dd><a href="mailto:your-email@your-domain.com"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                                <dd><a href="mailto:stmonica@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
                             </dl>
                         </div>
                     </div>
@@ -1429,7 +1429,7 @@ function successful()
                                 <dt>Time</dt>
                                 <dd>5pm</dd>
                                 <dt>Contact</dt>
-                                <dd><a href="mailto:your-email@your-domain.com"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                                <dd><a href="mailto:st_theresa@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
                             </dl>
                         </div>
                     </div>
@@ -1447,7 +1447,7 @@ function successful()
                                 <dt>Time</dt>
                                 <dd>Unknown yet</dd>
                                 <dt>Contact</dt>
-                                <dd><a href="mailto:your-email@your-domain.com"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                                <dd><a href="mailto:stmary@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
                             </dl>
                         </div>
                     </div>
@@ -1465,7 +1465,7 @@ function successful()
                                 <dt>Time</dt>
                                 <dd>3pm</dd>
                                 <dt>Contact</dt>
-                                <dd><a href="mailto:your-email@your-domain.com"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                                <dd><a href="mailto:divine_mercy@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
                             </dl>
                         </div>
                     </div>
@@ -1483,7 +1483,7 @@ function successful()
                                 <dt>Time</dt>
                                 <dd>5pm</dd>
                                 <dt>Contact</dt>
-                                <dd><a href="mailto:your-email@your-domain.com"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                                <dd><a href="mailto:friends.of.st.patrick@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
                             </dl>
                         </div>
                     </div>
@@ -1501,7 +1501,7 @@ function successful()
                                 <dt>Time</dt>
                                 <dd>11pm - 3am</dd>
                                 <dt>Contact</dt>
-                                <dd><a href="mailto:your-email@your-domain.com"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                                <dd><a href="mailto:precious.blood@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
                             </dl>
                         </div>
                     </div>
@@ -1537,7 +1537,7 @@ function successful()
                     <div class="footer-me-leftr">
                         <h4>Location</h4>
                         <p>St. Charles L'wanga Parish, Essien Town, Calabar, Cross River State, Nigeria</p>
-                        <a href="mailto:info@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x tooltip-viewport-bottom" title="Send us an email"></i></a>
+                        <a href="mailto:parish.priest@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x tooltip-viewport-bottom" title="Send us an email"></i></a>
                     </div>
                     <div class="clearfix"></div>
                 </div>
@@ -1563,7 +1563,7 @@ function successful()
 
         <div class="copyright text-center">
             <p>&copy; Powered by <a href="index.php">St. Charles L'wanga Parish</a> | Designed by <a href="#">...</a> </p>
-            <!--    <p>&copy; Powered by <a href="index.php">St. Charles L'wanga Parish</a> | Designed by <a href="#">Bert-Hodo Enterprise</a> </p>-->
+            <!--    <p>&copy; Powered by <a href="index.php">St. Charles L'wanga Parish</a> | Designed by <a href="mailto:admin@stcharleslwanga.com.ng">Web Mgt Team</a> </p>-->
         </div>
     </div>
 </footer>
