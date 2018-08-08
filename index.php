@@ -833,14 +833,47 @@ function successful()
                     <img class="img-rounded img-responsive" src="img/charles.jpg" alt="Generic placeholder image" width="140" height="140">
                 </div>
                 <div class="col-lg-10 col-md-6">
-                    <p>Charles Lwanga (Luganda: Kaloli Lwanga (June 3rd) was a Ugandan convert
-                       to the Catholic Church, who was martyred for his faith and is revered as a saint by both the
-                       Catholic Church and the Anglican Communion.<br>
-                       Charles Lwanga and the other Christians who accompanied him in death were canonized on
-                       18 October 1964 by Pope Paul VI during the Vatican II conference. "To honor these African
-                       saints, Paul VI became the first reigning pope to visit sub-Saharan Africa when he toured Uganda
-                       in July 1969, a visit that included a pilgrimage to the site of the martyrdom at Namugongo".<br>
-                       </p>
+                    <p><h3><strong>Saint Lawrence - <i>August 10</strong></i></h3></p>
+                    <p>The esteem in which the Church holds Lawrence is seen in the fact that today’s celebration ranks 
+                    as a feast. We know very little about his life. He is one of those whose martyrdom made a deep and 
+                    lasting impression on the early Church. Celebration of his feast day spread rapidly.</p>
+
+                    <p>He was a Roman deacon under Pope Saint Sixtus II. Four days after this pope was put to death, 
+                    Lawrence and four clerics suffered martyrdom, probably during the persecution of the Emperor 
+                    Valerian.</p>
+
+                    <p>Legendary details of Lawrence’s death were known to Damasus, Prudentius, Ambrose, and Augustine. 
+                    The church built over his tomb became one of the seven principal churches in Rome and a favorite 
+                    place for Roman pilgrimages.</p>
+
+                    <p>A well-known legend has persisted from earliest times. As deacon in Rome, Lawrence was charged 
+                    with the responsibility for the material goods of the Church, and the distribution of alms to the 
+                    poor. When Lawrence knew he would be arrested like the pope, he sought out the poor, widows, and 
+                    orphans of Rome and gave them all the money he had on hand, selling even the sacred vessels of the 
+                    altar to increase the sum. When the prefect of Rome heard of this, he imagined that the Christians 
+                    must have considerable treasure. He sent for Lawrence and said, <i><strong>“You Christians say we are cruel to 
+                    you, but that is not what I have in mind. I am told that your priests offer in gold, that the sacred
+                     blood is received in silver cups, that you have golden candlesticks at your evening services. 
+                     Now, your doctrine says you must render to Caesar what is his. Bring these treasures—the emperor 
+                     needs them to maintain his forces. God does not cause money to be counted: He brought none of it 
+                     into the world with him—only words. Give me the money, therefore, and be rich in words.”</strong></i></p>
+
+                    <p>Lawrence replied that the Church was indeed rich. <i><strong>“I will show you a valuable part. But give me 
+                    time to set everything in order and make an inventory.”</strong></i> After three days he gathered a great number 
+                    of blind, lame, maimed, leprous, orphaned, and widowed persons and put them in rows. When the
+                     prefect arrived, Lawrence simply said, “These are the treasure of the Church.”</p>
+
+                    <p>The prefect was so angry he told Lawrence that he would indeed have his wish to die—but it would
+                     be by inches. He had a great gridiron prepared with coals beneath it, and had Lawrence’s body placed
+                      on it. After the martyr had suffered the pain for a long time, the legend concludes, he made his 
+                      famous cheerful remark, “<i><strong>It is well done. Turn me over!”</strong></i></p>
+                      
+                       <p><h3><strong>Reflection</strong></h3></p>
+                       <p><i><strong>Once again we have a saint about whom almost nothing is known, yet one who has received 
+                       extraordinary honor in the Church since the fourth century. Almost nothing—yet the greatest fact 
+                       of his life is certain: He died for Christ. We who are hungry for details about the lives of the 
+                       saints are again reminded that their holiness was after all, a total response to Christ, 
+                       expressed perfectly by a death like this.</strong></i></p>
                 </div>
             </div>
         </div><!-- /.End of Administrative container -->
