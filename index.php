@@ -755,34 +755,34 @@ function successful()
                             <!-- Wrapper for slides -->
                             <div class="carousel-inner">
                                 <div class="item active">
-                                    <img src="img/abstract.jpg" alt="Abstract">
+                                    <img src="img/mary_league.jpg" alt="Abstract">
                                     <div class="carousel-caption">
-                                        <h3>Abstract</h3>
-                                        <p>Abstract</p>
+                                        <h3>Anniversary</h3>
+                                        <p>Mary League Girls</p>
                                     </div>
                                 </div>
 
                                 <div class="item">
-                                    <img src="img/beautiful.jpg" alt="Beautiful">
+                                    <img src="img/mary_league1.jpg" alt="Beautiful">
                                     <div class="carousel-caption">
-                                        <h3>Beautiful</h3>
-                                        <p>Beautiful</p>
+                                        <h3>Anniversary</h3>
+                                        <p>Mary League Girls</p>
                                     </div>
                                 </div>
 
                                 <div class="item">
-                                    <img src="img/bedding.jpg" alt="Bedding">
+                                    <img src="img/mary_league2.jpg" alt="Bedding">
                                     <div class="carousel-caption">
-                                        <h3>Bedding</h3>
-                                        <p>Bedding</p>
+                                        <h3>Anniversary</h3>
+                                        <p>Mary League Girls</p>
                                     </div>
                                 </div>
 
                                 <div class="item">
-                                    <img src="img/beverage.jpg" alt="Beverage">
+                                    <img src="img/mary_league3.jpg" alt="Beverage">
                                     <div class="carousel-caption">
-                                        <h3>Beverage</h3>
-                                        <p>Beverage</p>
+                                        <h3>Anniversary</h3>
+                                        <p>Mary League Girls</p>
                                     </div>
                                 </div>
 
