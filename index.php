@@ -82,7 +82,7 @@ function successful()
                     <a href="#about">About Us</a>
                 </li>
                 <li>
-                    <a href="#">Daily Meditation</a>
+                    <a href="#" data-toggle="modal" data-target="#myModaldaily">Daily Meditation</a>
                 </li>
                 <li>
                     <a href="lib-orgin.php">Online Library</a>
@@ -112,6 +112,60 @@ function successful()
         </div>
     </div>
 </nav>
+
+
+<div class="tooltip-content">
+    <div class="modal fade features-modal modal-about" id="myModaldaily" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-lg modal-about">
+            <div class="modal-content modal-about">
+                <div class="modal-header modal-about" style="background-color: black; color: white;">
+                    <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
+                    <h4 class="modal-title modal-about text-center">Daily Mediation </h4>
+                    <h6 class="modal-title modal-about text-center"><i>Jeremiah 31:1-7</i></h6>
+                </div>
+                <div class="modal-body modal-about">
+                    <p><h3>Saint Dominic, Priest (Memorial)</h3></p>
+                    <p><strong>With age-old love I have loved you; so I have kept my mercy towards you. <i>(Jeremiah 31:3)</i></strong></p><br>
+                    
+                   <p>Love is a term that we throw around a lot. We love chocolate and ice cream and water parks and the
+                    color purple. But this kind of love is different from our love for our family or our friends. Now, 
+                    take the difference between these two types of love and multiply it several thousand times, and you 
+                    are just beginning to understand God’s love for you.</p>
+
+                   <p>This is the truth that Jeremiah tried to help Israel understand. God loves them with an age-old 
+                   love. It’s a love that persists despite their having turned away from him. It’s a love that promises 
+                   mercy and restoration.</p>
+
+                   <p>God’s love is perfect. It doesn’t depend on what you do or how well you do it. In fact, you might 
+                   have really messed up, and he still loves you. That’s because his love is based on who you are: his 
+                   child, created in his own image and likeness. Don’t worry; you don’t have to prove yourself. He won’t
+                    abandon you. You may not always feel him with you, but his faithfulness remains. He knows how your 
+                    human weakness might cloud your vision of him, but in his mercy, he promises to restore you over time.</p>
+
+                   <p>Maybe you feel far from God today. Perhaps you have committed a sin that makes you think God can’t
+                    love you any more. This is simply not true. You may feel that you are broken beyond repair, but 
+                    that’s not how he sees you. It may take time, but be assured that as you take even the smallest step
+                     toward the Lord, he will run toward you and gather you in his arms. He is always assuring you of his 
+                     promises of love and mercy.</p>
+
+                   <p>If these truths speak to your heart, take a few minutes and tell the Lord what you are feeling. 
+                   It might help to write it down. Then, read through today’s first reading and the Responsorial Psalm 
+                   again. Pick out a verse that stands out, and write it somewhere where you will see it throughout your 
+                   day. These promises of love and compassion are for you, right where you are. God loves you with an 
+                   age-old love. Open the door of your heart and receive it.</p>
+
+                    <p><strong><i>“Lord, show me your love and mercy today.”</i></strong></p>
+                    <p>&copy; Word Among Us - Mediation</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        $('#myModal').modal('');
+    </script>
+</div><!--\.Modal -->
+
 
 <div class="tooltip-content">
     <div class="modal fade features-modal modal-about" id="myModal90" tabindex="-1" role="dialog" aria-hidden="true">
@@ -798,7 +852,7 @@ function successful()
             <div class="col-lg-12 col-md-6">
                 <div class="text-center">
                     <h4 class="well well-sm">Mass Schedule</h4>
-                    <img src="img/eucharist.jpg" class="img-rounded img-responsive" alt="Eucharist" width="300" height="200">
+                    <img src="img/eucharist1.jpg" class="img-rounded img-responsive" alt="Eucharist" width="" height="200">
                 </div>
             </div><!-- /.End of Mass schedule -->
 
@@ -1562,7 +1616,7 @@ function successful()
         </div>
 
         <div class="copyright text-center">
-            <p>&copy; Powered by <a href="index.php">St. Charles L'wanga Parish</a> | Designed by <a href="#">...</a> </p>
+            <p>&copy; Powered by <a href="index.php">St. Charles L'wanga Parish</a> | Designed by <a href="mailto:admin@stcharleslwanga.com.ng">Web Mgt Team</a> </p>
             <!--    <p>&copy; Powered by <a href="index.php">St. Charles L'wanga Parish</a> | Designed by <a href="mailto:admin@stcharleslwanga.com.ng">Web Mgt Team</a> </p>-->
         </div>
     </div>
