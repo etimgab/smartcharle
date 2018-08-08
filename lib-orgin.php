@@ -56,7 +56,7 @@
 
             <div class="mainfoot">
                 <div class="inner">
-                    <p>&copy; Powered by <a href="index.php">St. Charles L'wanga Parish</a> | Designed by <a href="#">...</a> </p>
+                    <p>&copy; Powered by <a href="index.php">St. Charles L'wanga Parish</a> | Designed by <a href="mailto:admin@stcharleslwanga.com.ng">Web Mgt Team</a> </p>
 <!--                    <p>&copy; Powered by <a href="index.php">St. Charles L'wanga Parish</a> | Designed by <a href="#">Bert-Hodo Enterprise</a> </p>-->
                 </div>
             </div>

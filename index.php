@@ -155,7 +155,7 @@ function successful()
                    age-old love. Open the door of your heart and receive it.</p>
 
                     <p><strong><i>“Lord, show me your love and mercy today.”</i></strong></p>
-                    <p>&copy; Word Among Us - Mediation</p>
+                    <p class="text-muted">&copy; Word Among Us - Mediation</p>
                 </div>
             </div>
         </div>
@@ -338,7 +338,7 @@ function successful()
                     <div class="box">
                         <i class="fa fa-3x fa-bank text-danger"></i>
                         <h4 class="well well-sm text-primary">Confession</h4>
-                        <p class="text-muted">Time for atonement, spent time with the Lord.<br> </p>
+                        <p class="text-muted">Sacrament of Penance and Reconciliation.<br> </p>
                         <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#myModal42">View details &raquo;</a> </p>
                     </div>
                 </div>
@@ -347,7 +347,7 @@ function successful()
                     <div class="box">
                         <i class="fa fa-3x fa-child text-danger"></i>
                         <h4 class="well well-sm text-primary">Baptism</h4>
-                        <p class="text-muted">Come, little children. </p>
+                        <p class="text-muted">Baptism is the one sacrament that all Christians share in common.</p>
                         <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#myModal43">View details &raquo;</a> </p>
                     </div>
                 </div>
@@ -356,7 +356,7 @@ function successful()
                     <div class="box">
                         <i class="fa fa-3x fa-university text-danger"></i>
                         <h4 class="well well-sm text-primary">Catechism</h4>
-                        <p class="text-muted">Study about Christianity and view of our faith.<br> </p>
+                        <p class="text-muted">Study about Christianity and view of our faith.</p>
                         <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#myModal44">View details &raquo;</a> </p>
                     </div>
                 </div>
@@ -365,7 +365,7 @@ function successful()
                     <div class="box">
                         <i class="fa fa-3x fa-bank text-danger"></i>
                         <h4 class="well well-sm text-primary">Marriage</h4>
-                        <p class="text-muted">Holy Matrimony is the sacrament of Christian marriage.<br> </p>
+                        <p class="text-muted">Union of two individuals coming together to become one.<br> </p>
                         <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#myModal45">View details &raquo;</a> </p>
                     </div>
                 </div>
@@ -374,7 +374,7 @@ function successful()
                     <div class="box">
                         <i class="fa fa-3x fa-shield text-danger"></i>
                         <h4 class="well well-sm text-primary">Funeral</h4>
-                        <p class="text-muted">Funeral service reminds us of who we are and encourages us to pray for our departed brethren<br> </p>
+                        <p class="text-muted">A funeral is a ceremony connected with the burial of a corpse with the attendance observances.</p>
                         <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#myModal46">View details &raquo;</a> </p>
                     </div>
                 </div>
@@ -383,7 +383,7 @@ function successful()
                     <div class="box">
                         <i class="fa fa-3x fa-child text-danger"></i>
                         <h4 class="well well-sm text-primary">Thanksgiving</h4>
-                        <p class="text-muted">Time to offer praises and thank God for all he has done.<br> </p>
+                        <p class="text-muted">The Catholic Church is unique in their emphasis on thanksgiving compared to other religion</p>
                         <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#myModal47">View details &raquo;</a> </p>
                     </div>
                 </div>
@@ -397,14 +397,16 @@ function successful()
                     <div class="modal-content modal-about">
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
-                            <h4 class="modal-title modal-about text-center">Confession</h4>
+                            <h4 class="modal-title modal-about text-center">Sacrament of Reconciliation</h4>
                         </div>
                         <div class="modal-body modal-about">
-                            <img src="img/our_lord1.png" alt="Sacred Heart of Jesus" class="img-responsive center-block">
-                            <p>Confession is the telling of your sins to a priest in the sacrament of Penance.<br>
-                            Penance is a sacrament, by which we get pardon for the sins we commit after Baptism<br><br>
-                            <strong>Saturdays: 6am</strong>
-                            </p>
+                            <img src="img/confession1.jpg" alt="Sacrament of Penance, Reconciliation or Confession" class="img-responsive center-block">
+                            <p>This is one of the seven Sacraments of the Catholic Church in which the faithful obtain 
+                            absolution for the sins committed against God and neighbour and are reconciled with the 
+                            community of the Church.</p> 
+                            <p><i>By this Sacrament Christians believed they are freed from sins committed after Baptism.</p>
+                
+                            <p class="text-center"><strong>Saturdays: 6am</strong></p>
                         </div>
                     </div>
                 </div>
@@ -424,11 +426,14 @@ function successful()
                             <h4 class="modal-title modal-about text-center">Baptism</h4>
                         </div>
                         <div class="modal-body modal-about">
-                            <img src="img/our_lord1.png" alt="Sacred Heart of Jesus" class="img-responsive center-block">
-                            <p>Baptism is a sacrament which wipes out original and actual sin, and makes us children of 
-                            God and members of the Church. <br><br>
-                            <strong>Infant Baptism</strong> - 1st Saturday of every month.</p>
-                            <strong>Adult</strong> - Consult the Catechist or Priest.</p>
+                            <img src="img/baptism1.jpg" alt="Baptism" class="img-responsive center-block">
+                            <p>In the Catholic Church, infants are baptized to welcome them into the Catholic faith and 
+                            free them from the original sin they were born with.</p>
+                            <p><i>Original sin isn't a personal sin of the unborn, but a sin transmitted from 
+                            generation to generation by birth. All men and women were born with original sin, and only 
+                            Baptism can be regarded as a vaccine against sin.</i></p>
+                            <p class="text-center"><strong>Infant</strong> - 1st Saturday of every month.</p>
+                            <p class="text-center"><strong>Adult</strong> - Meet Catechist or Priest.</p>
                         </div>
                     </div>
                 </div>
@@ -448,11 +453,11 @@ function successful()
                             <h4 class="modal-title modal-about text-center">Catechism</h4>
                         </div>
                         <div class="modal-body modal-about">
-                            <img src="img/our_lord1.png" alt="Sacred Heart of Jesus" class="img-responsive center-block">
-                            <p>Catechism is a platform which is used to educate children, young people and adults about their faith. <br>
-                            It aims is to present the <strong>essentials</strong> and fundamental <strong>contents</strong> 
-                            of christian doctrine as regards both <strong>faith</strong> and <strong>morals</strong>.<br><br>
-                            <strong>Meet with catechist</strong></p>
+                            <img src="img/catechism.jpg" alt="Catechism" class="img-responsive center-block">
+                            <p>A catechism is a summary or exposition of Christian/Catholic doctrine and serves as a learning introduction
+                            to the Sacraments traditionally used in educating children and adult of the Christian 
+                            community.</p>
+                            <p class="text-center"><strong>Meet with catechist</strong></p>
                         </div>
                     </div>
                 </div>
@@ -472,10 +477,13 @@ function successful()
                             <h4 class="modal-title modal-about text-center">Matrimony</h4>
                         </div>
                         <div class="modal-body modal-about">
-                            <img src="img/our_lord1.png" alt="Sacred Heart of Jesus" class="img-responsive center-block">
-                            <p>Matrimony gives grace to the married couple to love and faithful to each other, and to 
-                            bring up their children in the fear and love of God.<br><br>
-                            <strong>Meet with catechist</strong></p>
+                            <img src="img/marriage.jpg" alt="Holy Matrimony" class="img-responsive center-block">
+                            <p>Marriage in Catholic Church is referred to as Matrimony. This is the covenant by which a 
+                            man and a woman establish themselves a partnership of the whole of life and which is ordered 
+                            by its nature to the good of the spouses and the procreation and the education of offspring, 
+                            and which has been raised by Christ the Lord to the dignity of a Sacrament between the 
+                            baptised.</p>
+                            <p class="text-center"><strong>Meet with catechist</strong></p>
                         </div>
                     </div>
                 </div>
@@ -495,9 +503,13 @@ function successful()
                             <h4 class="modal-title modal-about text-center">Funeral</h4>
                         </div>
                         <div class="modal-body modal-about">
-                            <img src="img/our_lord1.png" alt="Sacred Heart of Jesus" class="img-responsive center-block">
-                            <p>Funeral service reminds us of who we are and encourages us to pray for our departed brethren.</p> <br><br>
-                                <strong>Meet with catechist</strong></p>
+                            <img src="img/funeral1.jpg" alt="Sacred Heart of Jesus" class="img-responsive center-block">
+                            <p>In Catholic funerals, the Church seeks firstly to offer the Mass often referred to as 
+                            <i>vigil</i> for the benefit of the soul of the deceased so that the temporal effects of sin 
+                            in Purgatory may be eliminated or reduced, and secondly to provide condolence and comfort 
+                            for the deceased's family and exhort the latter to pray along with the Church for the soul 
+                            of the departed.</p>
+                            <p class="text-center"><strong>Meet with catechist</strong></p>
                         </div>
                     </div>
                 </div>
@@ -517,9 +529,12 @@ function successful()
                             <h4 class="modal-title modal-about text-center">Thanksgiving</h4>
                         </div>
                         <div class="modal-body modal-about">
-                            <img src="img/our_lord1.png" alt="Sacred Heart of Jesus" class="img-responsive center-block">
-                            <p>Time to offer praises and thank God for all he has done.</p><br><br>
-                                <strong>Meet with catechist</strong></p>
+                            <img src="img/thanksgiving1.jpg" alt="Sacred Heart of Jesus" class="img-responsive center-block">
+                            <p>During Thanksgiving, we believe in a God who truly entered into human history. We give 
+                            Him thanks for His mighty deeds in the Eucharist especially. In each Eucharist thanksgiving 
+                            we give thanks not just for natural blessings, but for the fact that God supernaturally 
+                            enters our lives</p>
+                            <p class="text-center"><strong>Meet with catechist</strong></p>
                         </div>
                     </div>
                 </div>
@@ -757,7 +772,7 @@ function successful()
                                 <div class="item active">
                                     <img src="img/mary_league.jpg" alt="Abstract">
                                     <div class="carousel-caption">
-                                        <h3>Anniversary</h3>
+                                        <h3>20th Anniversary</h3>
                                         <p>Mary League Girls</p>
                                     </div>
                                 </div>
@@ -765,7 +780,7 @@ function successful()
                                 <div class="item">
                                     <img src="img/mary_league1.jpg" alt="Beautiful">
                                     <div class="carousel-caption">
-                                        <h3>Anniversary</h3>
+                                        <h3>20th Anniversary</h3>
                                         <p>Mary League Girls</p>
                                     </div>
                                 </div>
@@ -773,7 +788,7 @@ function successful()
                                 <div class="item">
                                     <img src="img/mary_league2.jpg" alt="Bedding">
                                     <div class="carousel-caption">
-                                        <h3>Anniversary</h3>
+                                        <h3>20th Anniversary</h3>
                                         <p>Mary League Girls</p>
                                     </div>
                                 </div>
@@ -781,7 +796,7 @@ function successful()
                                 <div class="item">
                                     <img src="img/mary_league3.jpg" alt="Beverage">
                                     <div class="carousel-caption">
-                                        <h3>Anniversary</h3>
+                                        <h3>20th Anniversary</h3>
                                         <p>Mary League Girls</p>
                                     </div>
                                 </div>
@@ -874,6 +889,7 @@ function successful()
                        of his life is certain: He died for Christ. We who are hungry for details about the lives of the 
                        saints are again reminded that their holiness was after all, a total response to Christ, 
                        expressed perfectly by a death like this.</strong></i></p>
+                       <p class="text-muted">&copy; Franciscan Media - Saint Lawrence</p>
                 </div>
             </div>
         </div><!-- /.End of Administrative container -->
