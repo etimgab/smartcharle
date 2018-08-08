@@ -764,13 +764,18 @@ function successful()
                                 <li data-target="#myCarousel" data-slide-to="2"></li>
                                 <li data-target="#myCarousel" data-slide-to="3"></li>
                                 <li data-target="#myCarousel" data-slide-to="4"></li>
-                                <li data-target="#myCarousel" data-slide-to="5"></li>                                
+                                <li data-target="#myCarousel" data-slide-to="5"></li> 
+                                <li data-target="#myCarousel" data-slide-to="6"></li> 
+                                <li data-target="#myCarousel" data-slide-to="7"></li> 
+                                <li data-target="#myCarousel" data-slide-to="8"></li> 
+                                <li data-target="#myCarousel" data-slide-to="9"></li> 
+                                <li data-target="#myCarousel" data-slide-to="10"></li>                                
                             </ol>
 
                             <!-- Wrapper for slides -->
                             <div class="carousel-inner">
                                 <div class="item active">
-                                    <img src="img/mary_league.jpg" alt="Abstract">
+                                    <img src="img/mary_league.jpg" alt="Mary League Girls">
                                     <div class="carousel-caption">
                                         <h3>20th Anniversary</h3>
                                         <p>Mary League Girls</p>
@@ -778,7 +783,7 @@ function successful()
                                 </div>
 
                                 <div class="item">
-                                    <img src="img/mary_league1.jpg" alt="Beautiful">
+                                    <img src="img/mary_league1.jpg" alt="Mary League Girls">
                                     <div class="carousel-caption">
                                         <h3>20th Anniversary</h3>
                                         <p>Mary League Girls</p>
@@ -786,7 +791,7 @@ function successful()
                                 </div>
 
                                 <div class="item">
-                                    <img src="img/mary_league2.jpg" alt="Bedding">
+                                    <img src="img/mary_league2.jpg" alt="Mary League Girls">
                                     <div class="carousel-caption">
                                         <h3>20th Anniversary</h3>
                                         <p>Mary League Girls</p>
@@ -794,7 +799,7 @@ function successful()
                                 </div>
 
                                 <div class="item">
-                                    <img src="img/mary_league3.jpg" alt="Beverage">
+                                    <img src="img/mary_league3.jpg" alt="Mary League Girls">
                                     <div class="carousel-caption">
                                         <h3>20th Anniversary</h3>
                                         <p>Mary League Girls</p>
@@ -802,18 +807,58 @@ function successful()
                                 </div>
 
                                 <div class="item">
-                                    <img src="img/blurred.jpg" alt="Blurred">
+                                    <img src="img/NYD_2018.jpg" alt="National Youth Day">
                                     <div class="carousel-caption">
-                                        <h3>Blurred</h3>
-                                        <p>Blurred</p>
+                                        <h3>National Youth Day</h3>
+                                        <p>National Youth Day 2018</p>
                                     </div>
                                 </div>
 
                                 <div class="item">
-                                    <img src="img/dawn.jpg" alt="Dawn">
+                                    <img src="img/NYD_2018_6.jpg" alt="National Youth Day">
                                     <div class="carousel-caption">
-                                        <h3>Dawn</h3>
-                                        <p>Dawn</p>
+                                        <h3>National Youth Day</h3>
+                                        <p>National Youth Day 2018</p>
+                                    </div>
+                                </div>
+                                
+                                <div class="item">
+                                    <img src="img/NYD_2018_5.jpg" alt="National Youth Day">
+                                    <div class="carousel-caption">
+                                        <h3>National Youth Day</h3>
+                                        <p>National Youth Day 2018</p>
+                                    </div>
+                                </div>
+                                
+                                <div class="item">
+                                    <img src="img/NYD_2018_1.jpg" alt="National Youth Day">
+                                    <div class="carousel-caption">
+                                        <h3>National Youth Day</h3>
+                                        <p>National Youth Day 2018</p>
+                                    </div>
+                                </div>
+                                
+                                <div class="item">
+                                    <img src="img/NYD_2018_2.jpg" alt="National Youth Day">
+                                    <div class="carousel-caption">
+                                        <h3>National Youth Day</h3>
+                                        <p>National Youth Day 2018</p>
+                                    </div>
+                                </div>
+                                
+                                <div class="item">
+                                    <img src="img/NYD_2018_3.jpg" alt="National Youth Day">
+                                    <div class="carousel-caption">
+                                        <h3>National Youth Day</h3>
+                                        <p>National Youth Day 2018</p>
+                                    </div>
+                                </div>
+                                
+                                <div class="item">
+                                    <img src="img/NYD_2018_4.jpg" alt="National Youth Day">
+                                    <div class="carousel-caption">
+                                        <h3>National Youth Day</h3>
+                                        <p>National Youth Day 2018</p>
                                     </div>
                                 </div>                             
                             </div>
