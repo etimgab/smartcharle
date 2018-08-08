@@ -830,7 +830,7 @@ function successful()
 
             <div class="row">
                 <div class="col-lg-2 col-md-6 mask">
-                    <img class="img-rounded img-responsive" src="img/charles.jpg" alt="Generic placeholder image" width="140" height="140">
+                    <img class="img-rounded img-responsive" src="img/saint_lawrence1.jpg" alt="Generic placeholder image" width="140" height="140">
                 </div>
                 <div class="col-lg-10 col-md-6">
                     <p><h3><strong>Saint Lawrence - <i>August 10</strong></i></h3></p>
