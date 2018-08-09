@@ -124,7 +124,7 @@ function successful()
                     <h6 class="modal-title modal-about text-center"><i>Jeremiah 31:1-7</i></h6>
                 </div>
                 <div class="modal-body modal-about">
-                    <p><h3>Saint Teresa Benedicta of the Cross (Edith Stein), Virgin and Martyr (Optional Memorial))</h3></p>
+                    <p><h3>Saint Teresa Benedicta of the Cross (Edith Stein), Virgin and Martyr (Optional Memorial)</h3></p>
                     <p><strong>I will forgive their evildoing and remember their sin no more. <i>(Jeremiah 31:34)</i></strong></p><br>
                     
                    <p>Picture the scene. The city of Jerusalem has been devastated by the armies of King Nebuchadnezzar 
