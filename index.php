@@ -124,37 +124,38 @@ function successful()
                     <h6 class="modal-title modal-about text-center"><i>Jeremiah 31:1-7</i></h6>
                 </div>
                 <div class="modal-body modal-about">
-                    <p><h3>Saint Dominic, Priest (Memorial)</h3></p>
-                    <p><strong>With age-old love I have loved you; so I have kept my mercy towards you. <i>(Jeremiah 31:3)</i></strong></p><br>
+                    <p><h3>Saint Teresa Benedicta of the Cross (Edith Stein), Virgin and Martyr (Optional Memorial))</h3></p>
+                    <p><strong>I will forgive their evildoing and remember their sin no more. <i>(Jeremiah 31:34)</i></strong></p><br>
                     
-                   <p>Love is a term that we throw around a lot. We love chocolate and ice cream and water parks and the
-                    color purple. But this kind of love is different from our love for our family or our friends. Now, 
-                    take the difference between these two types of love and multiply it several thousand times, and you 
-                    are just beginning to understand God’s love for you.</p>
+                   <p>Picture the scene. The city of Jerusalem has been devastated by the armies of King Nebuchadnezzar 
+                   of Babylon. Jerusalem’s king has been captured and taken back to Babylon. The Temple is burnt to the 
+                   ground, and many of the people have been taken along with their king into captivity and exile.</p>
 
-                   <p>This is the truth that Jeremiah tried to help Israel understand. God loves them with an age-old 
-                   love. It’s a love that persists despite their having turned away from him. It’s a love that promises 
-                   mercy and restoration.</p>
+                   <p>For years the prophet Jeremiah had been warning the people of Jerusalem that a disaster like this 
+                   would happen if they didn’t turn from their sins. But the people would not listen, so they ended up 
+                   reaping the bitter fruits of their actions. Jeremiah’s words or, rather, God’s words through 
+                   Jeremiah, were vindicated—words of judgment, punishment, and wrath.</p>
 
-                   <p>God’s love is perfect. It doesn’t depend on what you do or how well you do it. In fact, you might 
-                   have really messed up, and he still loves you. That’s because his love is based on who you are: his 
-                   child, created in his own image and likeness. Don’t worry; you don’t have to prove yourself. He won’t
-                    abandon you. You may not always feel him with you, but his faithfulness remains. He knows how your 
-                    human weakness might cloud your vision of him, but in his mercy, he promises to restore you over time.</p>
+                   <p>But now the worst has happened, and Jeremiah’s tone has shifted dramatically. No longer are there 
+                   threats of destruction, warnings of judgment, or pleas for repentance. Now there are visions of 
+                   restoration, promises of forgiveness, and poems of consolation. All the sins he had denounced? 
+                   It was as if they had never existed. God would remember them no more. All the evil they had done? 
+                   It was washed away and replaced with the promise of a new covenant written on each person’s heart. 
+                   Where once the wrath of God blazed, now there was only his tenderness and love.</p>
 
-                   <p>Maybe you feel far from God today. Perhaps you have committed a sin that makes you think God can’t
-                    love you any more. This is simply not true. You may feel that you are broken beyond repair, but 
-                    that’s not how he sees you. It may take time, but be assured that as you take even the smallest step
-                     toward the Lord, he will run toward you and gather you in his arms. He is always assuring you of his 
-                     promises of love and mercy.</p>
+                   <p>What the Israelites experienced on a massive scale, we can experience every day on a more personal
+                    scale. Day after day, the Holy Spirit sends us messages, guiding us along the path of holiness and 
+                    warning us against other dangerous paths. He knows he can only do so much, that it’s up to us to 
+                    choose which way we will go. He also knows we will not always follow his guidance, and we risk 
+                    ending up like the people of Jerusalem. And so he is prepared to offer us his mercy no matter how 
+                    far we may have fallen.</p>
 
-                   <p>If these truths speak to your heart, take a few minutes and tell the Lord what you are feeling. 
-                   It might help to write it down. Then, read through today’s first reading and the Responsorial Psalm 
-                   again. Pick out a verse that stands out, and write it somewhere where you will see it throughout your 
-                   day. These promises of love and compassion are for you, right where you are. God loves you with an 
-                   age-old love. Open the door of your heart and receive it.</p>
+                   <p>God forgives everything, big and little. Marital infidelity. White lies. Abortion. Harsh words. 
+                   Theft. Gossip. Every act born of lust or envy or selfishness. If he could forgive Jerusalem for its 
+                   many sins and crimes—if he could continue to treat them as his own special people—surely he can 
+                   forgive you. Surely he can forgive everyone around you too. Everyone.</p>
 
-                    <p><strong><i>“Lord, show me your love and mercy today.”</i></strong></p>
+                    <p><strong><i>“Jesus, I am in awe of your mercy!”</i></strong></p>
                     <p class="text-muted">&copy; Word Among Us - Mediation</p>
                 </div>
             </div>
@@ -176,7 +177,8 @@ function successful()
                     <h4 class="modal-title modal-about text-center">Parish Calendar</h4>
                 </div>
                 <div class="modal-body modal-about">
-                    <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%236633ff&amp;src=hbf6qr81i0s41qlst5ikkqkm6g%40group.calendar.google.com&amp;color=%235F6B02&amp;ctz=Europe%2FLondon" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+                    <h1 class="text-center">Coming up soon</h1>
+                    <!--<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%236633ff&amp;src=hbf6qr81i0s41qlst5ikkqkm6g%40group.calendar.google.com&amp;color=%235F6B02&amp;ctz=Europe%2FLondon" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>-->
                 </div>
             </div>
         </div>
@@ -265,6 +267,7 @@ function successful()
                         <li><strong>Eti-Ete Donatus B. Etim (KSM)</strong> - <i>(2000 - 2005)</i></li>
                         <li><strong>Mr. Patrick Coco-Bassey</strong> - <i>(2005 - 2011)</i></li>
                         <li><strong>Barr. Michael Cobham (KSM)</strong> - <i>(2011 - 2014)</i></li>
+                        <li><strong>Eti-Eka Grand Medalist (Mrs) Lawrencia E. Ita (JP))</strong> - <i>(2014 - 2018)</i></li>
                     </ol>
                 </div>
             </div>
@@ -286,15 +289,16 @@ function successful()
                 </div>
                 <div class="modal-body modal-about">
                     <ol>
-                        <li><strong>Eti-Eka Grand Medalist (Mrs) Lawrencia E. Ita (JP)</strong> - <i>President</i></li>
-                        <li><strong>Mr. Chris O. Opu</strong> - <i>Vice President</i></li>
-                        <li><strong>Mr. Kevin Amadi</strong> - <i>Secretary</i></li>
-                        <li><strong>Mr. Cyril U. Abanji</strong> - <i>Assistant Secretary</i></li>
-                        <li><strong>Mrs. Onambi Coco-Bassey</strong> - <i>Treasurer</i></li>
-                        <li><strong>Mr. John Ekure Abang</strong> - <i>Financial Secretary</i></li>
-                        <li><strong>Mr. Charles Onabe Abang</strong> - <i>Publicity Secretary</i></li>
-                        <li><strong>Miss Ikwo Usani</strong> - <i>Welfare Officer</i></li>
-                        <li><strong>Mr John Appolinaire</strong> - <i>Provost</i></li>
+                        <li><strong>Barr. Paul Asu</strong> - <i>President</i></li>
+                        <li><strong>Eti-Eka (Mrs) Mercy Etim</strong> - <i>Vice President</i></li>
+                        <li><strong>Sir. Matthew Odey</strong> - <i>Secretary</i></li>
+                        <li><strong>Engr. Peter Okopi</strong> - <i>Assistant Secretary</i></li>
+                        <li><strong>Mrs. Kate Amaga</strong> - <i>Treasurer</i></li>
+                        <li><strong>Mr. Dominic Ekong</strong> - <i>Financial Secretary</i></li>
+                        <li><strong>Anthony Ekpo Bassey</strong> - <i>Publicity Secretary</i></li>
+                        <li><strong>Miss Gedoni Edu</strong> - <i>Welfare Officer I</i></li>
+                        <li><strong>Mrs Rita Ebong</strong> - <i>Welfare Officer II</i></li>
+                        <li><strong>Joseph James</strong> - <i>Provost</i></li>
                     </ol>
                 </div>
             </div>
@@ -962,14 +966,14 @@ function successful()
                             <dl>
                                 <dt>Morning Mass</dt>
                                 <dd>6am <br><i>(Mass of Human Labour)</i></dd>
-                                <dt>Evening Mass</dt>
-                                <dd>6pm</dd>                                
+                                <!-- <dt>Evening Mass</dt>-->
+                                <!-- <dd>6pm</dd>-->                                
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
-                                    <strong>1st: </strong>1st Kings 19: 19a,11-13a;<br>
-                                    <strong>Psalm: </strong>Psalms 85: 9ab,10,11-12,13-14(Rv8)<br>
-                                    <strong>2nd: </strong>Romans 9: 1-5<br>
-                                    <strong>Gospel: </strong>Matthew 14:22-33
+                                    <strong>1st: </strong>Daniel 7: 9-10, 13-14<br>
+                                    <strong>Psalm: </strong>Psalms 97: 1-2, 5-6, 9<br>
+                                    <strong>2nd: </strong>Peter 1: 16-19<br>
+                                    <strong>Gospel: </strong>Mark 9: 2b-10
                                 </dd>
                             </dl>
                         </div>
@@ -985,14 +989,14 @@ function successful()
                             <dl>
                                 <dt>Morning Mass</dt>
                                 <dd>6am</dd>
-                                <dt>Evening Mass</dt>
-                                <dd>6pm</dd>                                
+                                <!--<dt>Evening Mass</dt>-->
+                                <!--<dd>6pm</dd>-->                                
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
-                                    <strong>1st: </strong>1st Kings 19: 19a,11-13a;<br>
-                                    <strong>Psalm: </strong>Psalms 85: 9ab,10,11-12,13-14(Rv8)<br>
-                                    <strong>2nd: </strong>Romans 9: 1-5<br>
-                                    <strong>Gospel: </strong>Matthew 14:22-33
+                                    <strong>1st: </strong>Jeremiah 30: 1-2, 12-15, 18-22<br>
+                                    <strong>Psalm: </strong>Psalms 102: 16-18, 19-21, 29, 22-23<br>
+                                    <!--<strong>2nd: </strong>Romans 9: 1-5<br>-->
+                                    <strong>Gospel: </strong>Matthew 14: 22-36
                                 </dd>
                             </dl>
                         </div>
@@ -1012,10 +1016,10 @@ function successful()
                                 <dd>6pm <br><i>(Healing Mass)</i></dd>                               
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
-                                    <strong>1st: </strong>1st Kings 19: 19a,11-13a;<br>
-                                    <strong>Psalm: </strong>Psalms 85: 9ab,10,11-12,13-14(Rv8)<br>
-                                    <strong>2nd: </strong>Romans 9: 1-5<br>
-                                    <strong>Gospel: </strong>Matthew 14:22-33
+                                    <strong>1st: </strong>Jeremiah 31: 1-7<br>
+                                    <strong>Psalm: </strong>Jeremiah 31: 10, 11-12ab, 13<br>
+                                    <!--<strong>2nd: </strong>Romans 9: 1-5<br>-->
+                                    <strong>Gospel: </strong>Matthew 15: 21-28
                                 </dd>
                             </dl>
                         </div>
@@ -1031,14 +1035,14 @@ function successful()
                             <dl>
                                 <dt>Morning Mass</dt>
                                 <dd>6am</dd>
-                                <dt>Evening Mass</dt>
-                                <dd>6pm</dd>                                
+                                <!--<dt>Evening Mass</dt>-->
+                                <!--<dd>6pm</dd>-->                                
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
-                                    <strong>1st: </strong>1st Kings 19: 19a,11-13a;<br>
-                                    <strong>Psalm: </strong>Psalms 85: 9ab,10,11-12,13-14(Rv8)<br>
-                                    <strong>2nd: </strong>Romans 9: 1-5<br>
-                                    <strong>Gospel: </strong>Matthew 14:22-33
+                                    <strong>1st: </strong>Jeremiah 31: 31-34<br>
+                                    <strong>Psalm: </strong>Psalms 51: 12-13, 14-15, 18-19 <br>
+                                    <!--<strong>2nd: </strong>Romans 9: 1-5<br>-->
+                                    <strong>Gospel: </strong>Matthew 16: 13-23
                                 </dd>
                             </dl>
                         </div>
@@ -1054,14 +1058,14 @@ function successful()
                             <dl>
                                 <dt>Morning Mass</dt>
                                 <dd>6am</dd>
-                                <dt>Evening Mass</dt>
-                                <dd>6pm</dd>                                
+                                <!--<dt>Evening Mass</dt>-->
+                                <!--<dd>6pm</dd>-->                                
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
-                                    <strong>1st: </strong>1st Kings 19: 19a,11-13a;<br>
-                                    <strong>Psalm: </strong>Psalms 85: 9ab,10,11-12,13-14(Rv8)<br>
-                                    <strong>2nd: </strong>Romans 9: 1-5<br>
-                                    <strong>Gospel: </strong>Matthew 14:22-33
+                                    <strong>1st: </strong>2nd Corinthians 9: 6-10<br>
+                                    <strong>Psalm: </strong>Psalms 112: 1b-2, 5-6, 7-8, 9<br>
+                                    <!--<strong>2nd: </strong>Romans 9: 1-5<br>-->
+                                    <strong>Gospel: </strong>John 12: 24-26
                                 </dd>
                             </dl>
                         </div>
@@ -1077,16 +1081,16 @@ function successful()
                             <dl>
                                 <dt>Morning Mass</dt>
                                 <dd>6am</dd>
-                                <dt>Evening Mass</dt>
-                                <dd>6pm</dd>
+                                <!--<dt>Evening Mass</dt>-->
+                                <!--<dd>6pm</dd>-->
                                 <dt>Confession</dt>
                                 <dd>1 hour before Mass during Adoration<br></dd>
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
-                                    <strong>1st: </strong>1st Kings 19: 19a,11-13a;<br>
-                                    <strong>Psalm: </strong>Psalms 85: 9ab,10,11-12,13-14(Rv8)<br>
-                                    <strong>2nd: </strong>Romans 9: 1-5<br>
-                                    <strong>Gospel: </strong>Matthew 14:22-33
+                                    <strong>1st: </strong>Habakkuk 1: 12-24<br>
+                                    <strong>Psalm: </strong>Psalms 9: 8-9, 10-11, 12-13<br>
+                                    <!--<strong>2nd: </strong>Romans 9: 1-5<br>-->
+                                    <strong>Gospel: </strong>Matthew 17: 14-20
                                 </dd>
                             </dl>
                         </div>
@@ -1106,10 +1110,10 @@ function successful()
                                 <dd>6pm</dd>                                
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
-                                    <strong>1st: </strong>1st Kings 19: 19a,11-13a;<br>
-                                    <strong>Psalm: </strong>Psalms 85: 9ab,10,11-12,13-14(Rv8)<br>
-                                    <strong>2nd: </strong>Romans 9: 1-5<br>
-                                    <strong>Gospel: </strong>Matthew 14:22-33
+                                    <strong>1st: </strong>1st Kings 19: 4-8<br>
+                                    <strong>Psalm: </strong>Psalms 34: 2-3, 4-5, 6-7<br>
+                                    <strong>2nd: </strong>Ephesians 4: 30-5:2<br>
+                                    <strong>Gospel: </strong>John 6: 41-51
                                 </dd>
                             </dl>
                         </div>
