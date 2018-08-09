@@ -91,7 +91,7 @@ function successful()
                     <a class="dropdown-toggle" data-toggle="dropdown" href="#">Parish Records<span class="caret"></span> </a>
                     <ul class="dropdown-menu">
                         <li><a href="#" data-toggle="modal" data-target="#myModal1">Parish Catechists</a> </li>
-                        <li><a href="#" data-toggle="modal" data-target="#myModal2">Indigenous Priests from the Parish</a> </li>
+                        <li><a href="#" data-toggle="modal" data-target="#myModal2">Indigenous Priests & Religious from the Parish</a> </li>
                         <li><a href="#" data-toggle="modal" data-target="#myModal3">Past Laity Council Presidents</a> </li>
                         <li><a href="#" data-toggle="modal" data-target="#myModal4">Current Laity Council Members</a> </li>
                     </ul>
@@ -410,7 +410,7 @@ function successful()
                             community of the Church.</p> 
                             <p><i>By this Sacrament Christians believed they are freed from sins committed after Baptism.</p>
                 
-                            <p class="text-center"><strong>Saturdays: 6am</strong></p>
+                             <p class="text-center"><strong>Saturdays: 6am</strong></p>
                         </div>
                     </div>
                 </div>
@@ -461,7 +461,8 @@ function successful()
                             <p>A catechism is a summary or exposition of Christian/Catholic doctrine and serves as a learning introduction
                             to the Sacraments traditionally used in educating children and adult of the Christian 
                             community.</p>
-                            <p class="text-center"><strong>Meet with catechist</strong></p>
+                            <p class="text-center"><strong>Meet with catechist</strong>&nbsp;&nbsp;<a href="mailto:catechist@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x tooltip-viewport-bottom" title="Email Catechist"></i></a></p>
+                            
                         </div>
                     </div>
                 </div>
@@ -487,7 +488,7 @@ function successful()
                             by its nature to the good of the spouses and the procreation and the education of offspring, 
                             and which has been raised by Christ the Lord to the dignity of a Sacrament between the 
                             baptised.</p>
-                            <p class="text-center"><strong>Meet with catechist</strong></p>
+                            <p class="text-center"><strong>Meet with catechist</strong>&nbsp;&nbsp;<a href="mailto:catechist@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x tooltip-viewport-bottom" title="Email Catechist"></i></a></p>
                         </div>
                     </div>
                 </div>
@@ -513,7 +514,7 @@ function successful()
                             in Purgatory may be eliminated or reduced, and secondly to provide condolence and comfort 
                             for the deceased's family and exhort the latter to pray along with the Church for the soul 
                             of the departed.</p>
-                            <p class="text-center"><strong>Meet with catechist</strong></p>
+                            <p class="text-center"><strong>Meet with catechist</strong>&nbsp;&nbsp;<a href="mailto:catechist@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x tooltip-viewport-bottom" title="Email Catechist"></i></a></p>
                         </div>
                     </div>
                 </div>
@@ -538,7 +539,7 @@ function successful()
                             Him thanks for His mighty deeds in the Eucharist especially. In each Eucharist thanksgiving 
                             we give thanks not just for natural blessings, but for the fact that God supernaturally 
                             enters our lives</p>
-                            <p class="text-center"><strong>Meet with catechist</strong></p>
+                            <p class="text-center"><strong>Meet with catechist</strong>&nbsp;&nbsp;<a href="mailto:catechist@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x tooltip-viewport-bottom" title="Email Catechist"></i></a></p>
                         </div>
                     </div>
                 </div>
@@ -697,7 +698,7 @@ function successful()
                     <div id="owl-demo" class="owl-carousel">
                         <div class="item-owl">
                             <div class="test-review">
-                                <img src="img/abstract.jpg" class="img-responsive" alt="Parish Priest">
+                                <img src="img/parish_priest1_1.jpg" class="img-responsive" alt="Parish Priest">
                                 <h5>Parish Priest (+2348032586300)</h5>
                             </div>
                         </div>
@@ -718,7 +719,7 @@ function successful()
 
                         <div class="item-owl">
                             <div class="test-review">
-                                <img src="img/beverage.jpg" class="img-responsive" alt="Vice Chairman Pastoral Council">
+                                <img src="img/vice_chairman_pastoral_1.jpg" class="img-responsive" alt="Vice Chairman Pastoral Council">
                                 <h5>Vice Chairman Pastoral Council (080*****)</h5>
                             </div>
                         </div>
@@ -1687,7 +1688,7 @@ function successful()
                         <i class="fa fa-2x fa-map-marker" aria-hidden="true"></i>
                     </div>
                     <div class="footer-me-leftr">
-                        <h4>Location</h4>
+                        <h4>Parish Contact</h4>
                         <p>St. Charles L'wanga Parish, Essien Town, Calabar, Cross River State, Nigeria</p>
                         <a href="mailto:parish.priest@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x tooltip-viewport-bottom" title="Send us an email"></i></a>
                     </div>
