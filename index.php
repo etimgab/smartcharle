@@ -1018,7 +1018,7 @@ function successful()
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
                                     <strong>1st: </strong>Jeremiah 31: 1-7<br>
-                                    <strong>Psalm: </strong>Jeremiah 31: 10, 11-12ab, 13<br>
+                                    <strong>Psalm: </strong>Jeremiah 31: 10-13<br>
                                     <!--<strong>2nd: </strong>Romans 9: 1-5<br>-->
                                     <strong>Gospel: </strong>Matthew 15: 21-28
                                 </dd>
@@ -1041,7 +1041,7 @@ function successful()
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
                                     <strong>1st: </strong>Jeremiah 31: 31-34<br>
-                                    <strong>Psalm: </strong>Psalms 51: 12-13, 14-15, 18-19 <br>
+                                    <strong>Psalm: </strong>Psalms 51: 12-19 <br>
                                     <!--<strong>2nd: </strong>Romans 9: 1-5<br>-->
                                     <strong>Gospel: </strong>Matthew 16: 13-23
                                 </dd>
@@ -1064,7 +1064,7 @@ function successful()
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
                                     <strong>1st: </strong>2nd Corinthians 9: 6-10<br>
-                                    <strong>Psalm: </strong>Psalms 112: 1b-2, 5-6, 7-8, 9<br>
+                                    <strong>Psalm: </strong>Psalms 112: 1-9<br>
                                     <!--<strong>2nd: </strong>Romans 9: 1-5<br>-->
                                     <strong>Gospel: </strong>John 12: 24-26
                                 </dd>
@@ -1089,7 +1089,7 @@ function successful()
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
                                     <strong>1st: </strong>Habakkuk 1: 12-24<br>
-                                    <strong>Psalm: </strong>Psalms 9: 8-9, 10-11, 12-13<br>
+                                    <strong>Psalm: </strong>Psalms 9: 8-13<br>
                                     <!--<strong>2nd: </strong>Romans 9: 1-5<br>-->
                                     <strong>Gospel: </strong>Matthew 17: 14-20
                                 </dd>
@@ -1112,7 +1112,7 @@ function successful()
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
                                     <strong>1st: </strong>1st Kings 19: 4-8<br>
-                                    <strong>Psalm: </strong>Psalms 34: 2-3, 4-5, 6-7<br>
+                                    <strong>Psalm: </strong>Psalms 34: 2-7<br>
                                     <strong>2nd: </strong>Ephesians 4: 30-5:2<br>
                                     <strong>Gospel: </strong>John 6: 41-51
                                 </dd>
