@@ -705,7 +705,7 @@ function successful()
 
                         <div class="item-owl">
                             <div class="test-review">
-                                <img src="img/saint-charles1.jpg" class="img-responsive" alt="Asst Parish Priest">
+                                <img src="img/charles9.jpg" class="img-responsive" alt="Asst Parish Priest">
                                 <h5>Asst Parish Priest (+2348105849815)</h5>
                             </div>
                         </div>
@@ -726,28 +726,28 @@ function successful()
 
                         <div class="item-owl">
                             <div class="test-review">
-                                <img src="img/saint-charles1.jpg" class="img-responsive" alt="Laity Council President">
+                                <img src="img/charles9.jpg" class="img-responsive" alt="Laity Council President">
                                 <h5>Laity Council President (+2348033505099)</h5>
                             </div>
                         </div>
 
                         <div class="item-owl">
                             <div class="test-review">
-                                <img src="img/saint-charles1.jpg" class="img-responsive" alt="CMO President">
+                                <img src="img/charles9.jpg" class="img-responsive" alt="CMO President">
                                 <h5>CMO President (+2348039742034)</h5>
                             </div>
                         </div>
 
                         <div class="item-owl">
                             <div class="test-review">
-                                <img src="img/saint-charles1.jpg" class="img-responsive" alt="CWO President">
+                                <img src="img/charles9.jpg" class="img-responsive" alt="CWO President">
                                 <h5>CWO President (080*****)</h5>
                             </div>
                         </div>
 
                         <div class="item-owl">
                             <div class="test-review">
-                                <img src="img/saint-charles1.jpg" class="img-responsive" alt="CYON President">
+                                <img src="img/charles9.jpg" class="img-responsive" alt="CYON President">
                                 <h5>CYON President (+2348056316932)</h5>
                             </div>
                         </div>
