@@ -124,38 +124,38 @@ function successful()
                     <h6 class="modal-title modal-about text-center"><i>Jeremiah 31:1-7</i></h6>
                 </div>
                 <div class="modal-body modal-about">
-                    <p><h3>Saint Teresa Benedicta of the Cross (Edith Stein), Virgin and Martyr (Optional Memorial)</h3></p>
-                    <p><strong>I will forgive their evildoing and remember their sin no more. <i>(Jeremiah 31:34)</i></strong></p><br>
+                    <p><h3>Saint Lawrence, Deacon and Martyr (Feast)</h3></p>
+                    <p><strong>If a grain of wheat dies, it produces much fruit. <i>(John 12:24)</i></strong></p><br>
                     
-                   <p>Picture the scene. The city of Jerusalem has been devastated by the armies of King Nebuchadnezzar 
-                   of Babylon. Jerusalem’s king has been captured and taken back to Babylon. The Temple is burnt to the 
-                   ground, and many of the people have been taken along with their king into captivity and exile.</p>
+                   <p>Most of what we know about St. Lawrence concerns his final days. A third-century deacon in Rome, 
+                   Lawrence was responsible for distributing alms to the poor. He was loved and respected by all 
+                   the people, and he was like a son to Pope Sixtus II. In AD 257, Roman Emperor Valerian issued edicts 
+                   forbidding the practice of Christianity. He later commanded that all bishops, priests, and deacons be
+                    killed. Pope Sixtus was put to death, and Lawrence was soon to follow.</p>
 
-                   <p>For years the prophet Jeremiah had been warning the people of Jerusalem that a disaster like this 
-                   would happen if they didn’t turn from their sins. But the people would not listen, so they ended up 
-                   reaping the bitter fruits of their actions. Jeremiah’s words or, rather, God’s words through 
-                   Jeremiah, were vindicated—words of judgment, punishment, and wrath.</p>
+                   <p>Before his death, Lawrence was required to bring the riches of the Church to the emperor. 
+                   According to tradition, Lawrence asked for three days to make a full accounting. He proceeded to 
+                   distribute all of the Church’s holdings to the poor, blind, and sick. He then gathered them into one 
+                   place and presented them to the emperor. <i><strong>“These are the treasures of the Church,”</strong></i> 
+                   he said. Unimpressed, Valerian sentenced him to death on a gridiron on August 10, 258.</p>
 
-                   <p>But now the worst has happened, and Jeremiah’s tone has shifted dramatically. No longer are there 
-                   threats of destruction, warnings of judgment, or pleas for repentance. Now there are visions of 
-                   restoration, promises of forgiveness, and poems of consolation. All the sins he had denounced? 
-                   It was as if they had never existed. God would remember them no more. All the evil they had done? 
-                   It was washed away and replaced with the promise of a new covenant written on each person’s heart. 
-                   Where once the wrath of God blazed, now there was only his tenderness and love.</p>
+                   <p>Lawrence’s martyrdom was his final act of love and the fruit of many daily <i>“deaths”</> to sin 
+                   and selfishness as he cared for the poor. Like Jesus, Lawrence understood that no cost was too great, 
+                   no suffering too dire, considering how much Jesus had given him.</p>
 
-                   <p>What the Israelites experienced on a massive scale, we can experience every day on a more personal
-                    scale. Day after day, the Holy Spirit sends us messages, guiding us along the path of holiness and 
-                    warning us against other dangerous paths. He knows he can only do so much, that it’s up to us to 
-                    choose which way we will go. He also knows we will not always follow his guidance, and we risk 
-                    ending up like the people of Jerusalem. And so he is prepared to offer us his mercy no matter how 
-                    far we may have fallen.</p>
+                   <p>We may think, <i>“I could never do what Lawrence did.”</i> Or we may want to do great things for 
+                   God but not know where to begin. Jesus gives us a clue: <i><strong>“Whoever serves me must follow me”</strong></i> 
+                   (John 12:26). Every meal Lawrence offered to the poor, every act of kindness to the sick, was another 
+                   stride in the footsteps of his Master. As he served, Lawrence became more and more like Jesus until 
+                   he took on the final likeness: death in the service of God’s people.</p>
 
-                   <p>God forgives everything, big and little. Marital infidelity. White lies. Abortion. Harsh words. 
-                   Theft. Gossip. Every act born of lust or envy or selfishness. If he could forgive Jerusalem for its 
-                   many sins and crimes—if he could continue to treat them as his own special people—surely he can 
-                   forgive you. Surely he can forgive everyone around you too. Everyone.</p>
+                   <p>Your acts of service may feel monotonous or insignificant, especially when it comes to the people 
+                   under your own roof. But your family is a real “treasure” of the Church. Like Lawrence, your simple 
+                   efforts to provide for them, to prepare meals for them, or to create a welcoming home environment can 
+                   help make you more like Jesus. With every little <i>“death”</i> to selfishness, you can bear much 
+                   fruit for God.</p>
 
-                    <p><strong><i>“Jesus, I am in awe of your mercy!”</i></strong></p>
+                    <p><strong><i>“Jesus, thank you for St. Lawrence’s example. Help me to treasure and serve my family.”</i></strong></p>
                     <p class="text-muted">&copy; Word Among Us - Mediation</p>
                 </div>
             </div>
@@ -712,7 +712,7 @@ function successful()
 
                         <div class="item-owl">
                             <div class="test-review">
-                                <img src="img/bedding.jpg" class="img-responsive" alt="Catechist">
+                                <img src="img/catechist1.jpg" class="img-responsive" alt="Catechist">
                                 <h5>Catechist (+2348083108777)</h5>
                             </div>
                         </div>
