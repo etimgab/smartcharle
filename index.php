@@ -567,17 +567,20 @@ function successful()
                 </div>
             </div>
 
-            <div class="row about-grid-2">
+            <div class="row">
                 <div class="col-lg-2 col-md-6 mask">
                     <img class="img-rounded img-responsive"
-                         src="img/charles.jpg"
+                         src="img/asst_parish_priest1.jpg"
                          alt="Generic placeholder image" width="140" height="140">
                 </div>
                 <div class="col-lg-10 col-md-6">
-                    <p>Adoptive parents often celebrate "Gotcha Day," the anniversary of the day when they "chose" a
-                        child and welcomed him or her into their family. For God, every day is Gotcha Day. That’s because
-                        every day, someone is baptized into Christ and becomes an adopted son or daughter.
-                        <br>Every day, he gathers new children into his arms and says, "I have chosen you to be my own."</p>
+                    <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#reflection">
+                        Reflection&nbsp; &nbsp;<span class="glyphicon glyphicon-chevron-down"></span>
+                    </button>
+                        <div id="reflection" class="collapse">
+                            <p>Coming soon before 11am. Thanks
+                            </p>
+                        </div>
                 </div>
             </div>
         </div><!-- /.End of Administrative container -->
@@ -712,7 +715,7 @@ function successful()
 
                         <div class="item-owl">
                             <div class="test-review">
-                                <img src="img/charles9.jpg" class="img-responsive" alt="Asst Parish Priest">
+                                <img src="img/asst_parish_priest1.jpg" class="img-responsive" alt="Asst Parish Priest">
                                 <h5>Asst Parish Priest (+2348105849815)</h5>
                             </div>
                         </div>
@@ -905,7 +908,11 @@ function successful()
                     <img class="img-rounded img-responsive" src="img/saint_lawrence1.jpg" alt="Generic placeholder image" width="140" height="140">
                 </div>
                 <div class="col-lg-10 col-md-6">
-                    <p><h3><strong>Saint Lawrence - <i>August 10</strong></i></h3></p>
+                    <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#saint_week">
+                        Saint Lawrence - August 10&nbsp; &nbsp;<span class="glyphicon glyphicon-chevron-down"></span>
+                    </button>
+                    <div id="saint_week" class="collapse">
+  
                     <p>The esteem in which the Church holds Lawrence is seen in the fact that today’s celebration ranks 
                     as a feast. We know very little about his life. He is one of those whose martyrdom made a deep and 
                     lasting impression on the early Church. Celebration of his feast day spread rapidly.</p>
@@ -946,7 +953,7 @@ function successful()
                        of his life is certain: He died for Christ. We who are hungry for details about the lives of the 
                        saints are again reminded that their holiness was after all, a total response to Christ, 
                        expressed perfectly by a death like this.</strong></i></p>
-                       <p class="text-muted">&copy; Franciscan Media - Saint Lawrence</p>
+                       <p class="text-muted">&copy; Franciscan Media - Saint Lawrence</p></div>
                 </div>
             </div>
         </div><!-- /.End of Administrative container -->
