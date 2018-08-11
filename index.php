@@ -124,38 +124,45 @@ function successful()
                     <h6 class="modal-title modal-about text-center"><i>Jeremiah 31:1-7</i></h6>
                 </div>
                 <div class="modal-body modal-about">
-                    <p><h3>Saint Lawrence, Deacon and Martyr (Feast)</h3></p>
-                    <p><strong>If a grain of wheat dies, it produces much fruit. <i>(John 12:24)</i></strong></p><br>
+                    <p><h3>Saint Clare, Virgin (Memorial))</h3></p>
+                    <p><strong>Because of your little faith <i>(Matthew 17:20)</i></strong></p><br>
                     
-                   <p>Most of what we know about St. Lawrence concerns his final days. A third-century deacon in Rome, 
-                   Lawrence was responsible for distributing alms to the poor. He was loved and respected by all 
-                   the people, and he was like a son to Pope Sixtus II. In AD 257, Roman Emperor Valerian issued edicts 
-                   forbidding the practice of Christianity. He later commanded that all bishops, priests, and deacons be
-                    killed. Pope Sixtus was put to death, and Lawrence was soon to follow.</p>
+                   <pTo a nonswimmer, it seems incredible that a human body could float on water. Bodies are too heavy! 
+                   The disciples, called to heal a man’s disturbed son, were just as incredulous. But Jesus told them 
+                   that the smallest amount of faith could move mountains, let alone drive out one demon! Surely the 
+                   disciples wondered how they could ever develop that kind of faith. For that matter, how can we?</p>
 
-                   <p>Before his death, Lawrence was required to bring the riches of the Church to the emperor. 
-                   According to tradition, Lawrence asked for three days to make a full accounting. He proceeded to 
-                   distribute all of the Church’s holdings to the poor, blind, and sick. He then gathered them into one 
-                   place and presented them to the emperor. <i><strong>“These are the treasures of the Church,”</strong></i> 
-                   he said. Unimpressed, Valerian sentenced him to death on a gridiron on August 10, 258.</p>
+                   <p>The beginning of the answer is in today’s first reading: “I will stand at my guard post, and 
+                   station myself upon the rampart, and keep watch to see what he will say to me” (Habakkuk 2:1). 
+                   Our faith will grow as we spend time in God’s presence and let him speak the truth to us, confirm 
+                   that truth in our minds, and bring that truth to life in our hearts. You might call this Habakkuk’s 
+                   four-step plan:
+                   
+                   <ol>
+                        <li>
+                            Stand at your guard post. Find peace in the place you are supposed to be, wherever that is.
+                        </li>
+                        <li>
+                            Station yourself at the rampart. A rampart is a defensive wall around a city, which provides 
+                            a broad vista. Don’t get caught up in low-level controversies; rather, fix your eyes on Jesus.
+                        </li>
+                        <li>
+                            Keep watch to see what God will say. Try to tune in to the Holy Spirit’s wavelength so that 
+                            you can detect his promptings.
+                        </li>
+                        <li>
+                            Write down what you hear. Use a notebook or journal to keep track of what you think God is 
+                            saying. That way, you can go back later and study it, test its truth, and hold on to whatever 
+                            it is that God has said to you.
+                        </li>
+                   </ol>
+                </p>
 
-                   <p>Lawrence’s martyrdom was his final act of love and the fruit of many daily <i>“deaths”</> to sin 
-                   and selfishness as he cared for the poor. Like Jesus, Lawrence understood that no cost was too great, 
-                   no suffering too dire, considering how much Jesus had given him.</p>
+                   <p>This simple plan will help you deepen your relationship with God. You will learn what his voice sounds like. You will become more familiar with his thoughts. And you will learn about his unfailing gentle love.</p>
 
-                   <p>We may think, <i>“I could never do what Lawrence did.”</i> Or we may want to do great things for 
-                   God but not know where to begin. Jesus gives us a clue: <i><strong>“Whoever serves me must follow me”</strong></i> 
-                   (John 12:26). Every meal Lawrence offered to the poor, every act of kindness to the sick, was another 
-                   stride in the footsteps of his Master. As he served, Lawrence became more and more like Jesus until 
-                   he took on the final likeness: death in the service of God’s people.</p>
+                   <p>Does it sound incredible? No more than floating on water, really. Trust the One who made you to teach and grow your faith. Let him show you that you are made to move mountains!</p>
 
-                   <p>Your acts of service may feel monotonous or insignificant, especially when it comes to the people 
-                   under your own roof. But your family is a real “treasure” of the Church. Like Lawrence, your simple 
-                   efforts to provide for them, to prepare meals for them, or to create a welcoming home environment can 
-                   help make you more like Jesus. With every little <i>“death”</i> to selfishness, you can bear much 
-                   fruit for God.</p>
-
-                    <p><strong><i>“Jesus, thank you for St. Lawrence’s example. Help me to treasure and serve my family.”</i></strong></p>
+                    <p><strong><i>“Jesus, I don’t know how to move mountains, so please teach me. Help me to hear your voice and grow deeper in my faith.”</i></strong></p>
                     <p class="text-muted">&copy; Word Among Us - Mediation</p>
                 </div>
             </div>
@@ -720,7 +727,7 @@ function successful()
                         <div class="item-owl">
                             <div class="test-review">
                                 <img src="img/vice_chairman_pastoral_1.jpg" class="img-responsive" alt="Vice Chairman Pastoral Council">
-                                <h5>Vice Chairman Pastoral Council (080*****)</h5>
+                                <h5>Vice Chairman Pastoral Council (+2348033361290)</h5>
                             </div>
                         </div>
 
@@ -741,14 +748,14 @@ function successful()
                         <div class="item-owl">
                             <div class="test-review">
                                 <img src="img/charles9.jpg" class="img-responsive" alt="CWO President">
-                                <h5>CWO President (080*****)</h5>
+                                <h5>CWO President (+2348033452833)</h5>
                             </div>
                         </div>
 
                         <div class="item-owl">
                             <div class="test-review">
                                 <img src="img/charles9.jpg" class="img-responsive" alt="CYON President">
-                                <h5>CYON President (+2348056316932)</h5>
+                                <h5>CYON President (+2348062874353)</h5>
                             </div>
                         </div>
                     </div>
