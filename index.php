@@ -575,11 +575,52 @@ function successful()
                 </div>
                 <div class="col-lg-10 col-md-6">
                     <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#reflection">
-                        Reflection&nbsp; &nbsp;<span class="glyphicon glyphicon-chevron-down"></span>
+                        Reflection - Walk in Love &nbsp; &nbsp;<span class="glyphicon glyphicon-chevron-down"></span>
                     </button>
                         <div id="reflection" class="collapse">
-                            <p>Coming soon before 11am. Thanks
-                            </p>
+                            <p></p><br>
+                            We are living in a very precarious moment where the word, love is on the lips of everybody, 
+                            but only a few strive continually to model their lives according to it. This accounts for 
+                            the mistrusts, betrayals, insubordinations, insults, abuses, bickering, embezzlements and 
+                            other vices being perpetrated in both the sacred and the civil societies. Today's readings 
+                            are a wake-up call on us to retrace our root which is love. An anonymous author has it that 
+                            every moment of a person who truly loves, is moment of grace and miracle. Our lord Jesus 
+                            Christ as well as the saints and the prophets were gracious because their lives were modelled 
+                            after self-sacrificial love. We ought to imitate them as the second reading urges us. <br>
+                            
+                            St Paul in the second reading taken from Ephesians 4: 30 - 5: 2 states: <i>"therefore be 
+                            imitators of God [and the saints and the prophets], as beloved children. And walk in 
+                            love ...."</i> As we know, there is no true love without sacrifice. St Paul could make bold 
+                            to tell them (the Ephesian believers) this because he himself was already consumed in God's 
+                            love for His people. It was because of this unmitigated love of his for God's people that 
+                            he was on many occasions imprisoned, went without food, suffered ship-wrecks, beaten and 
+                            exposed to other dangers as he states in 2 Corinthians 11: 23ff. In all these things, he 
+                            was resolute till the end because he was walking in God's love as he lets us know in 
+                            2 Timothy 4: 6 - 8.<br>
+                            
+                            The first reading is taken from 1 Kings 19: 4 - 8. Here Elijah the prophet made it to his 
+                            destination, mount Horeb because he walked in the strength of the food and water of love 
+                            prepared by our loving God in the desert. Even before this time, he exercised his prophetic 
+                            ministry in God's love. Thus, God was with him to confirm his words with signs and wonders. 
+                            As I remarked at the beginning, every moment of one who walks in love is grace-filled. For 
+                            instance, God used him to revive the widow's son in 1 Kings17: 17ff; he decreed that rain 
+                            would not to fall in Israel until he reverts it and it happened thus in 1 Kings 17: 1ff; his 
+                            sacrifice was consumed by God through fire in 1 Kings 18: 20ff. What a marvel! <br>
+                            
+                            Christ pedagogically in the Gospel taken from John 6: 41 51 tells the Jews to eat of him in 
+                            order to have eternal life. 1 John 4: 8 says that God is love and Colossians 1: 15 maintains 
+                            that Christ is the image of the invisible God. This therefore means that Christ is love 
+                            personified. If they eat of him, as Acts 17: 28 puts it, they would live in him, walk in him 
+                            and have their being in him. Thus, they would merit eternal life on the kingdom of heaven.<br>
+                            
+                            In conclusion, to exist without love is slavery. Walking or living in love which is Christ 
+                            is liberating. Let us therefore strive to emancipate ourselves from the shackles of fear, 
+                            hatred, unforgiveness, stingyness, pride, envy, gossip and other immoralities by walking in 
+                            Christ who is love. Thus, at the end, just like Elijah and the other as prophets as well as 
+                            St Paul and other Saints, we would be admitted into eternal life in the kingdom of heaven. <br>
+                            
+                            <strong>Happy Sunday to you all!</strong>
+
                         </div>
                 </div>
             </div>
