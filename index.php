@@ -121,48 +121,45 @@ function successful()
                 <div class="modal-header modal-about" style="background-color: black; color: white;">
                     <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                     <h4 class="modal-title modal-about text-center">Daily Mediation </h4>
-                    <h6 class="modal-title modal-about text-center"><i>Jeremiah 31:1-7</i></h6>
+                    <h6 class="modal-title modal-about text-center"><i>(Matthew 17:27)</i></h6>
                 </div>
                 <div class="modal-body modal-about">
-                    <p><h3>Saint Clare, Virgin (Memorial))</h3></p>
-                    <p><strong>Because of your little faith <i>(Matthew 17:20)</i></strong></p><br>
+                    <p><h3>Saints Pontian, Pope, and Hippolytus, Priest, Martyrs (Optional Memorial)</h3></p>
+                    <p><strong>Take the first fish that comes up. Open its mouth and you will find a coin. (Matthew 17:27) </strong></p><br>
                     
-                   <pTo a nonswimmer, it seems incredible that a human body could float on water. Bodies are too heavy! 
-                   The disciples, called to heal a man’s disturbed son, were just as incredulous. But Jesus told them 
-                   that the smallest amount of faith could move mountains, let alone drive out one demon! Surely the 
-                   disciples wondered how they could ever develop that kind of faith. For that matter, how can we?</p>
+                   <p>Wouldn’t we all like to find the money for our taxes in the mouth of a fish! Jesus certainly 
+                   surprised Peter with this unconventional tax plan. How easy it would be if Jesus stood beside us all 
+                   day, visibly present and explaining how to meet every challenge that came along. How to appease the 
+                   tax collector would be just the start!</p>
 
-                   <p>The beginning of the answer is in today’s first reading: “I will stand at my guard post, and 
-                   station myself upon the rampart, and keep watch to see what he will say to me” (Habakkuk 2:1). 
-                   Our faith will grow as we spend time in God’s presence and let him speak the truth to us, confirm 
-                   that truth in our minds, and bring that truth to life in our hearts. You might call this Habakkuk’s 
-                   four-step plan:
+                   <p>The truth is, Jesus loves to share his thoughts. He is always speaking to us. Or to put it in a 
+                   more immediate personal way, he is always speaking to you.</p>
+
+                   <p>Sometimes Jesus speaks matter-of-factly about practical needs. He offered Peter a simple concrete 
+                   (unusual) way to solve a problem. He can do that for you too. Try to lean into his presence and 
+                   listen at different points during your day. Perhaps an idea will pop into your thoughts as you ask 
+                   about an issue or need. Or maybe a friend will give you a suggestion that seems just right. Jesus 
+                   might be speaking to you through him or her!</p>
+
+                   <p>Other times, Jesus speaks in more mystical ways, as he spoke to Ezekiel in today’s first reading. 
+                   Ezekiel recognized that God was speaking to him in the violent winds, the flashing fire, the flapping 
+                   wings, and the roaring waters—even if he wasn’t exactly sure of what the message was. It’s like that 
+                   sometimes, almost like learning a foreign language. God occasionally does speak through dreams, 
+                   visions, and even talking donkeys (Numbers 22:22-35)!</p>
                    
-                   <ol>
-                        <li>
-                            Stand at your guard post. Find peace in the place you are supposed to be, wherever that is.
-                        </li>
-                        <li>
-                            Station yourself at the rampart. A rampart is a defensive wall around a city, which provides 
-                            a broad vista. Don’t get caught up in low-level controversies; rather, fix your eyes on Jesus.
-                        </li>
-                        <li>
-                            Keep watch to see what God will say. Try to tune in to the Holy Spirit’s wavelength so that 
-                            you can detect his promptings.
-                        </li>
-                        <li>
-                            Write down what you hear. Use a notebook or journal to keep track of what you think God is 
-                            saying. That way, you can go back later and study it, test its truth, and hold on to whatever 
-                            it is that God has said to you.
-                        </li>
-                   </ol>
-                </p>
+                   <p>More often than not, God speaks in more commonplace ways. He may make a line from Scripture strike 
+                   a chord in your heart. A homily at Mass may seem to have been written exactly to help you. Or a 
+                   conversation gives you direction, encouragement, or wisdom when you need it most and expect it 
+                   least.</p>
+                   
+                   <p>God can use anything. He is speaking always, everywhere. Little by little you can learn to hear 
+                   his voice. Then, with practice, you will grow in understanding what God is saying and how he wants 
+                   you to respond.</p>
+                   
+                   <!--<p>So take and eat today, knowing that Jesus is with you through even your most troubling 
+                   times. He will give you his energy for the long haul.</p>-->
 
-                   <p>This simple plan will help you deepen your relationship with God. You will learn what his voice sounds like. You will become more familiar with his thoughts. And you will learn about his unfailing gentle love.</p>
-
-                   <p>Does it sound incredible? No more than floating on water, really. Trust the One who made you to teach and grow your faith. Let him show you that you are made to move mountains!</p>
-
-                    <p><strong><i>“Jesus, I don’t know how to move mountains, so please teach me. Help me to hear your voice and grow deeper in my faith.”</i></strong></p>
+                    <p><strong><i>“Father, you know my needs and desires. Open my ears today to hear what you are saying to me!”</i></strong></p>
                     <p class="text-muted">&copy; Word Among Us - Mediation</p>
                 </div>
             </div>
@@ -573,55 +570,16 @@ function successful()
                          src="img/asst_parish_priest1.jpg"
                          alt="Generic placeholder image" width="140" height="140">
                 </div>
-                <div class="col-lg-10 col-md-6">
-                    <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#reflection">
-                        Reflection - Walk in Love &nbsp; &nbsp;<span class="glyphicon glyphicon-chevron-down"></span>
-                    </button>
-                        <div id="reflection" class="collapse">
-                            <p></p><br>
-                            We are living in a very precarious moment where the word, love is on the lips of everybody, 
+                <div class="col-lg-10 col-md-6 about-grid modal-about about-grid-2">
+                            <p>We are living in a very precarious moment where the word, love is on the lips of everybody, 
                             but only a few strive continually to model their lives according to it. This accounts for 
                             the mistrusts, betrayals, insubordinations, insults, abuses, bickering, embezzlements and 
                             other vices being perpetrated in both the sacred and the civil societies. Today's readings 
                             are a wake-up call on us to retrace our root which is love. An anonymous author has it that 
                             every moment of a person who truly loves, is moment of grace and miracle. Our lord Jesus 
                             Christ as well as the saints and the prophets were gracious because their lives were modelled 
-                            after self-sacrificial love. We ought to imitate them as the second reading urges us. <br>
-                            
-                            St Paul in the second reading taken from Ephesians 4: 30 - 5: 2 states: <i>"therefore be 
-                            imitators of God [and the saints and the prophets], as beloved children. And walk in 
-                            love ...."</i> As we know, there is no true love without sacrifice. St Paul could make bold 
-                            to tell them (the Ephesian believers) this because he himself was already consumed in God's 
-                            love for His people. It was because of this unmitigated love of his for God's people that 
-                            he was on many occasions imprisoned, went without food, suffered ship-wrecks, beaten and 
-                            exposed to other dangers as he states in 2 Corinthians 11: 23ff. In all these things, he 
-                            was resolute till the end because he was walking in God's love as he lets us know in 
-                            2 Timothy 4: 6 - 8.<br>
-                            
-                            The first reading is taken from 1 Kings 19: 4 - 8. Here Elijah the prophet made it to his 
-                            destination, mount Horeb because he walked in the strength of the food and water of love 
-                            prepared by our loving God in the desert. Even before this time, he exercised his prophetic 
-                            ministry in God's love. Thus, God was with him to confirm his words with signs and wonders. 
-                            As I remarked at the beginning, every moment of one who walks in love is grace-filled. For 
-                            instance, God used him to revive the widow's son in 1 Kings17: 17ff; he decreed that rain 
-                            would not to fall in Israel until he reverts it and it happened thus in 1 Kings 17: 1ff; his 
-                            sacrifice was consumed by God through fire in 1 Kings 18: 20ff. What a marvel! <br>
-                            
-                            Christ pedagogically in the Gospel taken from John 6: 41 51 tells the Jews to eat of him in 
-                            order to have eternal life. 1 John 4: 8 says that God is love and Colossians 1: 15 maintains 
-                            that Christ is the image of the invisible God. This therefore means that Christ is love 
-                            personified. If they eat of him, as Acts 17: 28 puts it, they would live in him, walk in him 
-                            and have their being in him. Thus, they would merit eternal life on the kingdom of heaven.<br>
-                            
-                            In conclusion, to exist without love is slavery. Walking or living in love which is Christ 
-                            is liberating. Let us therefore strive to emancipate ourselves from the shackles of fear, 
-                            hatred, unforgiveness, stingyness, pride, envy, gossip and other immoralities by walking in 
-                            Christ who is love. Thus, at the end, just like Elijah and the other as prophets as well as 
-                            St Paul and other Saints, we would be admitted into eternal life in the kingdom of heaven. <br>
-                            
+                            after self-sacrificial love. We ought to imitate them as the second reading urges us. </p>
                             <strong>Happy Sunday to you all!</strong>
-
-                        </div>
                 </div>
             </div>
         </div><!-- /.End of Administrative container -->
@@ -798,7 +756,7 @@ function successful()
 
                         <div class="item-owl">
                             <div class="test-review">
-                                <img src="img/charles9.jpg" class="img-responsive" alt="CYON President">
+                                <img src="img/cyon_president.jpg" class="img-responsive" alt="CYON President">
                                 <h5>CYON President (+2348062874353)</h5>
                             </div>
                         </div>
@@ -825,7 +783,28 @@ function successful()
                                 <li data-target="#myCarousel" data-slide-to="7"></li> 
                                 <li data-target="#myCarousel" data-slide-to="8"></li> 
                                 <li data-target="#myCarousel" data-slide-to="9"></li> 
-                                <li data-target="#myCarousel" data-slide-to="10"></li>                                
+                                <li data-target="#myCarousel" data-slide-to="10"></li>
+                                <li data-target="#myCarousel" data-slide-to="11"></li>
+                                <li data-target="#myCarousel" data-slide-to="12"></li>
+                                <li data-target="#myCarousel" data-slide-to="13"></li>
+                                <li data-target="#myCarousel" data-slide-to="14"></li>
+                                <li data-target="#myCarousel" data-slide-to="15"></li>
+                                <li data-target="#myCarousel" data-slide-to="16"></li>
+                                <li data-target="#myCarousel" data-slide-to="17"></li>
+                                <li data-target="#myCarousel" data-slide-to="18"></li>
+                                <li data-target="#myCarousel" data-slide-to="19"></li>
+                                <li data-target="#myCarousel" data-slide-to="20"></li>
+                                <li data-target="#myCarousel" data-slide-to="21"></li>
+                                <li data-target="#myCarousel" data-slide-to="22"></li>
+                                <li data-target="#myCarousel" data-slide-to="23"></li>
+                                <li data-target="#myCarousel" data-slide-to="24"></li>
+                                <li data-target="#myCarousel" data-slide-to="25"></li>
+                                <li data-target="#myCarousel" data-slide-to="26"></li>
+                                <li data-target="#myCarousel" data-slide-to="27"></li>
+                                <li data-target="#myCarousel" data-slide-to="28"></li>
+                                <li data-target="#myCarousel" data-slide-to="29"></li>
+                                <li data-target="#myCarousel" data-slide-to="30"></li>
+                                <li data-target="#myCarousel" data-slide-to="31"></li>                                
                             </ol>
 
                             <!-- Wrapper for slides -->
@@ -869,19 +848,84 @@ function successful()
                                         <p>National Youth Day 2018</p>
                                     </div>
                                 </div>
-
+                                
                                 <div class="item">
-                                    <img src="img/NYD_2018_6.jpg" alt="National Youth Day">
+                                    <img src="img/NYD_2018_0.jpg" alt="National Youth Day">
                                     <div class="carousel-caption">
                                         <h3>National Youth Day</h3>
                                         <p>National Youth Day 2018</p>
                                     </div>
                                 </div>
                                 
+                                
                                 <div class="item">
-                                    <img src="img/NYD_2018_5.jpg" alt="National Youth Day">
+                                    <img src="img/youth_Mass.jpg" alt="National Youth Day">
                                     <div class="carousel-caption">
-                                        <h3>National Youth Day</h3>
+                                        <h3>Mass Celebration</h3>
+                                        <p>National Youth Day 2018</p>
+                                    </div>
+                                </div>
+                                
+                                <div class="item">
+                                    <img src="img/youth_Mass1.jpg" alt="National Youth Day">
+                                    <div class="carousel-caption">
+                                        <h3>Mass Celebration</h3>
+                                        <p>National Youth Day 2018</p>
+                                    </div>
+                                </div>
+                                
+                                <div class="item">
+                                    <img src="img/youth_Mass2.jpg" alt="National Youth Day">
+                                    <div class="carousel-caption">
+                                        <h3>Mass Celebration</h3>
+                                        <p>National Youth Day 2018</p>
+                                    </div>
+                                </div>
+                                
+                                <div class="item">
+                                    <img src="img/youth_Mass3.jpg" alt="National Youth Day">
+                                    <div class="carousel-caption">
+                                        <h3>Mass Celebration</h3>
+                                        <p>National Youth Day 2018</p>
+                                    </div>
+                                </div>
+                                
+                                <div class="item">
+                                    <img src="img/youth_Mass4.jpg" alt="National Youth Day">
+                                    <div class="carousel-caption">
+                                        <h3>Mass Celebration</h3>
+                                        <p>National Youth Day 2018</p>
+                                    </div>
+                                </div>
+                                
+                                <div class="item">
+                                    <img src="img/youth_Mass5.jpg" alt="National Youth Day">
+                                    <div class="carousel-caption">
+                                        <h3>Mass Celebration</h3>
+                                        <p>National Youth Day 2018</p>
+                                    </div>
+                                </div>
+                                
+                                <div class="item">
+                                    <img src="img/youth_talk.jpg" alt="National Youth Day">
+                                    <div class="carousel-caption">
+                                        <h3>NYD Talk</h3>
+                                        <p>National Youth Day 2018</p>
+                                    </div>
+                                </div>
+                                
+                                <div class="item">
+                                    <img src="img/youth_talk1.jpg" alt="National Youth Day">
+                                    <div class="carousel-caption">
+                                        <h3>NYD Talk</h3>
+                                        <p>National Youth Day 2018</p>
+                                    </div>
+                                </div>
+                                
+                                <div class="item">
+                                    <img src="img/youth_talk2.jpg" alt="National Youth Day">
+                                    <div class="carousel-caption">
+                                        <h3>NYD Talk</h3>
                                         <p>National Youth Day 2018</p>
                                     </div>
                                 </div>
@@ -908,7 +952,7 @@ function successful()
                                         <h3>National Youth Day</h3>
                                         <p>National Youth Day 2018</p>
                                     </div>
-                                </div>
+                                </div> 
                                 
                                 <div class="item">
                                     <img src="img/NYD_2018_4.jpg" alt="National Youth Day">
@@ -916,7 +960,104 @@ function successful()
                                         <h3>National Youth Day</h3>
                                         <p>National Youth Day 2018</p>
                                     </div>
-                                </div>                             
+                                </div>
+                                
+                                <div class="item">
+                                    <img src="img/NYD.jpg" alt="National Youth Day">
+                                    <div class="carousel-caption">
+                                        <h3>St. Charles CYON President & Visiting Bishop</h3>
+                                        <p>National Youth Day 2018</p>
+                                    </div>
+                                </div>    
+                                
+                                <div class="item">
+                                    <img src="img/NYD1.jpg" alt="National Youth Day">
+                                    <div class="carousel-caption">
+                                        <h3>National Youth Day</h3>
+                                        <p>National Youth Day 2018</p>
+                                    </div>
+                                </div>
+                                
+                                <div class="item">
+                                    <img src="img/Abakaliki1.jpg" alt="National Youth Day">
+                                    <div class="carousel-caption">
+                                        <h3>CYON Abakaliki</h3>
+                                        <p>National Youth Day 2018</p>
+                                    </div>
+                                </div>
+                                
+                                <div class="item">
+                                    <img src="img/Enugu.jpg" alt="National Youth Day">
+                                    <div class="carousel-caption">
+                                        <h3>CYON Enugu</h3>
+                                        <p>National Youth Day 2018</p>
+                                    </div>
+                                </div>
+                                
+                                <div class="item">
+                                    <img src="img/Orlu.jpg" alt="National Youth Day">
+                                    <div class="carousel-caption">
+                                        <h3>CYON Orlu</h3>
+                                        <p>National Youth Day 2018</p>
+                                    </div>
+                                </div>
+                                
+                                <div class="item">
+                                    <img src="img/Shandem.jpg" alt="National Youth Day">
+                                    <div class="carousel-caption">
+                                        <h3>CYON Shandem</h3>
+                                        <p>National Youth Day 2018</p>
+                                    </div>
+                                </div>
+                                
+                                <div class="item">
+                                    <img src="img/Umuiaha.jpg" alt="National Youth Day">
+                                    <div class="carousel-caption">
+                                        <h3>CYON Umuiaha</h3>
+                                        <p>National Youth Day 2018</p>
+                                    </div>
+                                </div>
+                                
+                                
+                                <div class="item">
+                                    <img src="img/Kontagora.jpg" alt="National Youth Day">
+                                    <div class="carousel-caption">
+                                        <h3>CYON Kontagora</h3>
+                                        <p>National Youth Day 2018</p>
+                                    </div>
+                                </div>
+                                
+                                <div class="item">
+                                    <img src="img/visiting_bishop_secuirty.jpg" alt="National Youth Day">
+                                    <div class="carousel-caption">
+                                        <h3>Visiting Bishop & Security Team</h3>
+                                        <p>National Youth Day 2018</p>
+                                    </div>
+                                </div>
+                                
+                                <div class="item">
+                                    <img src="img/Volunteers.jpg" alt="National Youth Day">
+                                    <div class="carousel-caption">
+                                        <h3>National Youth Day</h3>
+                                        <p>National Youth Day 2018</p>
+                                    </div>
+                                </div>
+                                                                
+                                <div class="item">
+                                    <img src="img/Interaction.jpg" alt="National Youth Day">
+                                    <div class="carousel-caption">
+                                        <h3>NYD Interaction Session</h3>
+                                        <p>National Youth Day 2018</p>
+                                    </div>
+                                </div>
+                                
+                                <div class="item">
+                                    <img src="img/Interaction1.jpg" alt="National Youth Day">
+                                    <div class="carousel-caption">
+                                        <h3>NYD Interaction Session</h3>
+                                        <p>National Youth Day 2018</p>
+                                    </div>
+                                </div>                           
                             </div>
 
                             <!-- Left and right controls -->
@@ -946,55 +1087,20 @@ function successful()
 
             <div class="row">
                 <div class="col-lg-2 col-md-6 mask">
-                    <img class="img-rounded img-responsive" src="img/saint_lawrence1.jpg" alt="Generic placeholder image" width="140" height="140">
+                    <img class="img-rounded img-responsive" src="img/max_kolbe.jpg" alt="Generic placeholder image" width="140" height="140">
+                    <h5><strong>Maximilian Kolbe - (1894-1941)</strong></h5>
                 </div>
                 <div class="col-lg-10 col-md-6">
-                    <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#saint_week">
-                        Saint Lawrence - August 10&nbsp; &nbsp;<span class="glyphicon glyphicon-chevron-down"></span>
-                    </button>
-                    <div id="saint_week" class="collapse">
-  
-                    <p>The esteem in which the Church holds Lawrence is seen in the fact that today’s celebration ranks 
-                    as a feast. We know very little about his life. He is one of those whose martyrdom made a deep and 
-                    lasting impression on the early Church. Celebration of his feast day spread rapidly.</p>
+                    <p>Raimund Kolbe, born in Russian Poland, was ordained a Franciscan, Maximilian Mary, in Rome. In 
+                    the 1920s, he reopened a ruined Polish friary, started a Marian press and was diagnosed with 
+                    tuberculosis. Despite his illness, he had successful Marian missions to Japan and India before 
+                    returning to Poland in 1936. After the 1939 invasion of Poland, the Franciscans’ criticism of the 
+                    occupiers prompted the arrest of Maximilian and four others, who ended up in the Nazi death camp 
+                    Auschwitz. Maximilian volunteered for martyrdom, taking the place of a married man being executed 
+                    by starvation. This man was present at the saint’s 1982 canonization. Maximilian is the patron of 
+                    prisoners, journalists and others.</p>
 
-                    <p>He was a Roman deacon under Pope Saint Sixtus II. Four days after this pope was put to death, 
-                    Lawrence and four clerics suffered martyrdom, probably during the persecution of the Emperor 
-                    Valerian.</p>
-
-                    <p>Legendary details of Lawrence’s death were known to Damasus, Prudentius, Ambrose, and Augustine. 
-                    The church built over his tomb became one of the seven principal churches in Rome and a favorite 
-                    place for Roman pilgrimages.</p>
-
-                    <p>A well-known legend has persisted from earliest times. As deacon in Rome, Lawrence was charged 
-                    with the responsibility for the material goods of the Church, and the distribution of alms to the 
-                    poor. When Lawrence knew he would be arrested like the pope, he sought out the poor, widows, and 
-                    orphans of Rome and gave them all the money he had on hand, selling even the sacred vessels of the 
-                    altar to increase the sum. When the prefect of Rome heard of this, he imagined that the Christians 
-                    must have considerable treasure. He sent for Lawrence and said, <i><strong>“You Christians say we are cruel to 
-                    you, but that is not what I have in mind. I am told that your priests offer in gold, that the sacred
-                     blood is received in silver cups, that you have golden candlesticks at your evening services. 
-                     Now, your doctrine says you must render to Caesar what is his. Bring these treasures—the emperor 
-                     needs them to maintain his forces. God does not cause money to be counted: He brought none of it 
-                     into the world with him—only words. Give me the money, therefore, and be rich in words.”</strong></i></p>
-
-                    <p>Lawrence replied that the Church was indeed rich. <i><strong>“I will show you a valuable part. But give me 
-                    time to set everything in order and make an inventory.”</strong></i> After three days he gathered a great number 
-                    of blind, lame, maimed, leprous, orphaned, and widowed persons and put them in rows. When the
-                     prefect arrived, Lawrence simply said, “These are the treasure of the Church.”</p>
-
-                    <p>The prefect was so angry he told Lawrence that he would indeed have his wish to die—but it would
-                     be by inches. He had a great gridiron prepared with coals beneath it, and had Lawrence’s body placed
-                      on it. After the martyr had suffered the pain for a long time, the legend concludes, he made his 
-                      famous cheerful remark, “<i><strong>It is well done. Turn me over!”</strong></i></p>
-                      
-                       <p><h3><strong>Reflection</strong></h3></p>
-                       <p><i><strong>Once again we have a saint about whom almost nothing is known, yet one who has received 
-                       extraordinary honor in the Church since the fourth century. Almost nothing—yet the greatest fact 
-                       of his life is certain: He died for Christ. We who are hungry for details about the lives of the 
-                       saints are again reminded that their holiness was after all, a total response to Christ, 
-                       expressed perfectly by a death like this.</strong></i></p>
-                       <p class="text-muted">&copy; Franciscan Media - Saint Lawrence</p></div>
+                       <p class="text-muted">&copy; Catholic News Services - Maximilian Kolbe</p>
                 </div>
             </div>
         </div><!-- /.End of Administrative container -->
@@ -1026,10 +1132,10 @@ function successful()
                                 <!-- <dd>6pm</dd>-->                                
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
-                                    <strong>1st: </strong>Daniel 7: 9-10, 13-14<br>
-                                    <strong>Psalm: </strong>Psalms 97: 1-2, 5-6, 9<br>
-                                    <strong>2nd: </strong>Peter 1: 16-19<br>
-                                    <strong>Gospel: </strong>Mark 9: 2b-10
+                                    <strong>1st: </strong>Ezekiel 1: 2-5, 24-28<br>
+                                    <strong>Psalm: </strong>Psalms 148: 1-2, 11-14<br>
+                                    <!--<strong>2nd: </strong>Peter 1: 16-19<br>-->
+                                    <strong>Gospel: </strong>Matthew 17: 22-27
                                 </dd>
                             </dl>
                         </div>
@@ -1049,10 +1155,10 @@ function successful()
                                 <!--<dd>6pm</dd>-->                                
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
-                                    <strong>1st: </strong>Jeremiah 30: 1-2, 12-15, 18-22<br>
-                                    <strong>Psalm: </strong>Psalms 102: 16-18, 19-21, 29, 22-23<br>
+                                    <strong>1st: </strong>Ezekiel 2: 8-3:4<br>
+                                    <strong>Psalm: </strong>Psalms 119: 14, 24, 72, 103, 111, 131<br>
                                     <!--<strong>2nd: </strong>Romans 9: 1-5<br>-->
-                                    <strong>Gospel: </strong>Matthew 14: 22-36
+                                    <strong>Gospel: </strong>Matthew 18: 1-5, 10, 12-14
                                 </dd>
                             </dl>
                         </div>
@@ -1072,10 +1178,10 @@ function successful()
                                 <dd>6pm <br><i>(Healing Mass)</i></dd>                               
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
-                                    <strong>1st: </strong>Jeremiah 31: 1-7<br>
-                                    <strong>Psalm: </strong>Jeremiah 31: 10-13<br>
-                                    <!--<strong>2nd: </strong>Romans 9: 1-5<br>-->
-                                    <strong>Gospel: </strong>Matthew 15: 21-28
+                                    <strong>1st: </strong>Apocalypse 11: 19; 12: 1-6, 10<br>
+                                    <strong>Psalm: </strong>Psalm 45: 10-12, 16<br>
+                                    <strong>2nd: </strong>1st Corinthians 15: 20-26<br>
+                                    <strong>Gospel: </strong>Luke 1: 39-56
                                 </dd>
                             </dl>
                         </div>
@@ -1095,10 +1201,10 @@ function successful()
                                 <!--<dd>6pm</dd>-->                                
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
-                                    <strong>1st: </strong>Jeremiah 31: 31-34<br>
-                                    <strong>Psalm: </strong>Psalms 51: 12-19 <br>
+                                    <strong>1st: </strong>Ezekiel 12: 1-12<br>
+                                    <strong>Psalm: </strong>Psalms 78: 56-59, 61<br>
                                     <!--<strong>2nd: </strong>Romans 9: 1-5<br>-->
-                                    <strong>Gospel: </strong>Matthew 16: 13-23
+                                    <strong>Gospel: </strong>Matthew 18: 21-19: 1
                                 </dd>
                             </dl>
                         </div>
@@ -1118,10 +1224,10 @@ function successful()
                                 <!--<dd>6pm</dd>-->                                
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
-                                    <strong>1st: </strong>2nd Corinthians 9: 6-10<br>
-                                    <strong>Psalm: </strong>Psalms 112: 1-9<br>
+                                    <strong>1st: </strong>Ezekiel 16: 1-15, 60, 63<br>
+                                    <strong>Psalm: </strong>Isaiah 12: 2-6<br>
                                     <!--<strong>2nd: </strong>Romans 9: 1-5<br>-->
-                                    <strong>Gospel: </strong>John 12: 24-26
+                                    <strong>Gospel: </strong>Matthew 19: 3-12
                                 </dd>
                             </dl>
                         </div>
@@ -1143,10 +1249,10 @@ function successful()
                                 <dd>1 hour before Mass during Adoration<br></dd>
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
-                                    <strong>1st: </strong>Habakkuk 1: 12-24<br>
-                                    <strong>Psalm: </strong>Psalms 9: 8-13<br>
+                                    <strong>1st: </strong>Ezekiel 18: 1-10, 13, 30-32<br>
+                                    <strong>Psalm: </strong>Psalms 51: 12-15, 18-19<br>
                                     <!--<strong>2nd: </strong>Romans 9: 1-5<br>-->
-                                    <strong>Gospel: </strong>Matthew 17: 14-20
+                                    <strong>Gospel: </strong>Matthew 19: 13-15
                                 </dd>
                             </dl>
                         </div>
@@ -1166,10 +1272,10 @@ function successful()
                                 <dd>6pm</dd>                                
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
-                                    <strong>1st: </strong>1st Kings 19: 4-8<br>
-                                    <strong>Psalm: </strong>Psalms 34: 2-7<br>
-                                    <strong>2nd: </strong>Ephesians 4: 30-5:2<br>
-                                    <strong>Gospel: </strong>John 6: 41-51
+                                    <strong>1st: </strong>Proverbs 9: 1-6<br>
+                                    <strong>Psalm: </strong>Psalms 34: 1-14<br>
+                                    <strong>2nd: </strong>Ephesians 5: 15-20<br>
+                                    <strong>Gospel: </strong>John 6: 51-58
                                 </dd>
                             </dl>
                         </div>
