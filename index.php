@@ -121,45 +121,47 @@ function successful()
                 <div class="modal-header modal-about" style="background-color: black; color: white;">
                     <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                     <h4 class="modal-title modal-about text-center">Daily Mediation </h4>
-                    <h6 class="modal-title modal-about text-center"><i>(Matthew 17:27)</i></h6>
+                    <h6 class="modal-title modal-about text-center"><i>(Luke 1:48)</i></h6>
                 </div>
                 <div class="modal-body modal-about">
-                    <p><h3>Saints Pontian, Pope, and Hippolytus, Priest, Martyrs (Optional Memorial)</h3></p>
-                    <p><strong>Take the first fish that comes up. Open its mouth and you will find a coin. (Matthew 17:27) </strong></p><br>
+                    <p><h3>The Assumption of the Blessed Virgin Mary (Solemnity)</h3></p>
+                    <p><strong>He has looked with favor on his lowly servant. (Luke 1:48) </strong></p><br>
                     
-                   <p>Wouldn’t we all like to find the money for our taxes in the mouth of a fish! Jesus certainly 
-                   surprised Peter with this unconventional tax plan. How easy it would be if Jesus stood beside us all 
-                   day, visibly present and explaining how to meet every challenge that came along. How to appease the 
-                   tax collector would be just the start!</p>
+                   <p>What is humility? When we think of a humble person, we might picture a quiet, unassuming person. 
+                   Maybe we think of a “shrinking violet,” someone who doesn’t take risks because he or she lacks 
+                   confidence. We may think of someone who, when complimented, protests that they are no good. But is 
+                   this true humility?</p>
 
-                   <p>The truth is, Jesus loves to share his thoughts. He is always speaking to us. Or to put it in a 
-                   more immediate personal way, he is always speaking to you.</p>
+                   <p>Let’s look at Mary, whose feast we celebrate today. It’s true that when the spotlight was on her, 
+                   she pointed to God. It’s also true that she knew all blessings come from God. But none of this made 
+                   her shrink into the shadows!</p>
 
-                   <p>Sometimes Jesus speaks matter-of-factly about practical needs. He offered Peter a simple concrete 
-                   (unusual) way to solve a problem. He can do that for you too. Try to lean into his presence and 
-                   listen at different points during your day. Perhaps an idea will pop into your thoughts as you ask 
-                   about an issue or need. Or maybe a friend will give you a suggestion that seems just right. Jesus 
-                   might be speaking to you through him or her!</p>
+                   <p>Imagine a young woman, early in her pregnancy, making a trip by herself—most likely on foot and 
+                   definitely without any of the conveniences of modern-day travel—to visit her cousin in the rugged 
+                   hill country of Judah. That’s pretty gutsy!</p>
 
-                   <p>Other times, Jesus speaks in more mystical ways, as he spoke to Ezekiel in today’s first reading. 
-                   Ezekiel recognized that God was speaking to him in the violent winds, the flashing fire, the flapping 
-                   wings, and the roaring waters—even if he wasn’t exactly sure of what the message was. It’s like that 
-                   sometimes, almost like learning a foreign language. God occasionally does speak through dreams, 
-                   visions, and even talking donkeys (Numbers 22:22-35)!</p>
+                   <p>The gospels are full of examples of Mary’s active humility: saying yes to becoming pregnant even 
+                   before she and Joseph had come together as husband and wife; traveling as an older widow to Jerusalem 
+                   to be with Jesus during his ministry and at his crucifixion; risking arrest by associating with the 
+                   other disciples after Jesus had ascended into heaven.</p>
                    
-                   <p>More often than not, God speaks in more commonplace ways. He may make a line from Scripture strike 
-                   a chord in your heart. A homily at Mass may seem to have been written exactly to help you. Or a 
-                   conversation gives you direction, encouragement, or wisdom when you need it most and expect it 
-                   least.</p>
+                   <p>Mary was decisive, active, and bold, but this didn’t mean she was proud! She simply chose to do 
+                   what God called her to do. She knew her strength wasn’t enough to carry out God’s plan, but that 
+                   didn’t stop her. She didn’t try to back out because she was too weak or lowly. Rather than 
+                   disqualifying herself out of a false sense of modesty, she forged ahead and staked her life on 
+                   God’s faithfulness.</p>
                    
-                   <p>God can use anything. He is speaking always, everywhere. Little by little you can learn to hear 
-                   his voice. Then, with practice, you will grow in understanding what God is saying and how he wants 
-                   you to respond.</p>
+                   <p>God is calling you to help build his kingdom, and he is asking you to do it in humility. A humble 
+                   person doesn’t shrink in fear but takes action with faith and trust in God. As we celebrate Mary’s 
+                   assumption today, let’s see her entrance into heaven as the crowning jewel of her humility. Yes, God 
+                   truly has “lifted up the lowly” (Luke 1:52). She who stepped forward in faith is now exalted as queen 
+                   of heaven and earth!</p>
                    
                    <!--<p>So take and eat today, knowing that Jesus is with you through even your most troubling 
                    times. He will give you his energy for the long haul.</p>-->
 
-                    <p><strong><i>“Father, you know my needs and desires. Open my ears today to hear what you are saying to me!”</i></strong></p>
+                    <p><strong><i>“Jesus, you raised up your Mother to sit with you in heaven because of her humble yet 
+                    decisive yes. Help me to live that same humility.”</i></strong></p>
                     <p class="text-muted">&copy; Word Among Us - Mediation</p>
                 </div>
             </div>
@@ -1178,7 +1180,7 @@ function successful()
                                 <dd>6pm <br><i>(Healing Mass)</i></dd>                               
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
-                                    <strong>1st: </strong>Apocalypse 11: 19; 12: 1-6, 10<br>
+                                    <strong>1st: </strong>Revelation 11:19; 12:1-6, 10<br>
                                     <strong>Psalm: </strong>Psalm 45: 10-12, 16<br>
                                     <strong>2nd: </strong>1st Corinthians 15: 20-26<br>
                                     <strong>Gospel: </strong>Luke 1: 39-56
