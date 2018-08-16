@@ -121,47 +121,46 @@ function successful()
                 <div class="modal-header modal-about" style="background-color: black; color: white;">
                     <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                     <h4 class="modal-title modal-about text-center">Daily Mediation </h4>
-                    <h6 class="modal-title modal-about text-center"><i>(Luke 1:48)</i></h6>
+                    <h6 class="modal-title modal-about text-center"><i>Matthew 18:21)</i></h6>
                 </div>
                 <div class="modal-body modal-about">
-                    <p><h3>The Assumption of the Blessed Virgin Mary (Solemnity)</h3></p>
-                    <p><strong>He has looked with favor on his lowly servant. (Luke 1:48) </strong></p><br>
+                    <p><h3>Saint Stephen of Hungary (Optional Memorial)</h3></p>
+                    <p><strong>If my brother sins against me, how often must I forgive him? (Matthew 18:21) </strong></p><br>
                     
-                   <p>What is humility? When we think of a humble person, we might picture a quiet, unassuming person. 
-                   Maybe we think of a “shrinking violet,” someone who doesn’t take risks because he or she lacks 
-                   confidence. We may think of someone who, when complimented, protests that they are no good. But is 
-                   this true humility?</p>
+                   <p>Peter probably didn’t ask this question out of idle curiosity. Something Jesus said or some 
+                   incident provoked Peter to ask about the boundaries of forgiveness.</p>
 
-                   <p>Let’s look at Mary, whose feast we celebrate today. It’s true that when the spotlight was on her, 
-                   she pointed to God. It’s also true that she knew all blessings come from God. But none of this made 
-                   her shrink into the shadows!</p>
+                   <p>It’s amazing how many angry or resentful thoughts against people are able to bounce around in our 
+                   heads. It’s not that we like having these negative thoughts. But we may not know how to get free of 
+                   them, or we may not be ready to forgive.</p>
 
-                   <p>Imagine a young woman, early in her pregnancy, making a trip by herself—most likely on foot and 
-                   definitely without any of the conveniences of modern-day travel—to visit her cousin in the rugged 
-                   hill country of Judah. That’s pretty gutsy!</p>
+                   <p>When Peter asked Jesus, “How many times must I forgive?” Jesus basically said, “Every time.” He 
+                   said that we have to be like our Father, who never stops offering us his mercy.</p>
 
-                   <p>The gospels are full of examples of Mary’s active humility: saying yes to becoming pregnant even 
-                   before she and Joseph had come together as husband and wife; traveling as an older widow to Jerusalem 
-                   to be with Jesus during his ministry and at his crucifixion; risking arrest by associating with the 
-                   other disciples after Jesus had ascended into heaven.</p>
+                   <p>To illustrate this point, Jesus told a parable about an unforgiving servant. This man, who was 
+                   forgiven a large debt, was unwilling to forgive a very small debt from his fellow servant. That’s why 
+                   the master asked him, “Should you not have had pity on your fellow servant, as I had pity on you?” 
+                   (Matthew 18:33).</p>
                    
-                   <p>Mary was decisive, active, and bold, but this didn’t mean she was proud! She simply chose to do 
-                   what God called her to do. She knew her strength wasn’t enough to carry out God’s plan, but that 
-                   didn’t stop her. She didn’t try to back out because she was too weak or lowly. Rather than 
-                   disqualifying herself out of a false sense of modesty, she forged ahead and staked her life on 
-                   God’s faithfulness.</p>
+                   <p>According to the logic of love, forgiveness ought to breed forgiveness, and mercy ought to breed 
+                   mercy. But this unforgiving servant followed his own self-centered logic. He believed that mercy 
+                   received had nothing to do with mercy given.</p>
                    
-                   <p>God is calling you to help build his kingdom, and he is asking you to do it in humility. A humble 
-                   person doesn’t shrink in fear but takes action with faith and trust in God. As we celebrate Mary’s 
-                   assumption today, let’s see her entrance into heaven as the crowning jewel of her humility. Yes, God 
-                   truly has “lifted up the lowly” (Luke 1:52). She who stepped forward in faith is now exalted as queen 
-                   of heaven and earth!</p>
+                   <p>God is asking us to be merciful to each other. That’s easy to say, but it can be hard to do. We 
+                   should be able to let go, at least of the smaller hurts of life. Let’s not let petty pride get the 
+                   better of us. Let’s forgive instead.</p>
                    
-                   <!--<p>So take and eat today, knowing that Jesus is with you through even your most troubling 
-                   times. He will give you his energy for the long haul.</p>-->
+                   <p>When it comes to larger hurts, it can be difficult if not impossible to forgive completely. But 
+                   here are four simple steps we can take that may help us: first, thank Jesus for being so merciful to 
+                   you. Second, tell Jesus that you want to forgive the one who hurt you, but that it hurts too much to 
+                   forgive just now. Third, know that Jesus is with you. He knows how much you are hurting. He 
+                   understands. He still loves you. Finally, ask Jesus for the grace to forgive over time.</p>
+                   
+                   <p>Sometimes the deep hurts of life can take months or years to be healed. Jesus knows this, and he 
+                   understands. He is infinitely patient, just as he is infinitely generous with his own grace and 
+                   mercy.</p>
 
-                    <p><strong><i>“Jesus, you raised up your Mother to sit with you in heaven because of her humble yet 
-                    decisive yes. Help me to live that same humility.”</i></strong></p>
+                    <p><strong><i>“Lord, help me to forgive everyone.”</i></strong></p>
                     <p class="text-muted">&copy; Word Among Us - Mediation</p>
                 </div>
             </div>
