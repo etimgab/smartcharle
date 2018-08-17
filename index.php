@@ -748,7 +748,7 @@ function successful()
 
                         <div class="item-owl">
                             <div class="test-review">
-                                <img src="img/charles9.jpg" class="img-responsive" alt="CWO President">
+                                <img src="img/cwo.jpg" class="img-responsive" alt="CWO President">
                                 <h5>CWO President (+2348033452833)</h5>
                             </div>
                         </div>
