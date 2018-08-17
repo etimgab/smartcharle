@@ -37,6 +37,9 @@ function successful()
     <meta name="description" content="Saint+Charles">
     <meta name="description" content="Catholic+Church+Cross+River+State">
     <meta name="description" content="Charles+Lwanga+Parish">
+    <meta name="description" content="St. Charles+L'wanga+Parish">
+    <meta name="description" content="St.&Charles&L'wanga&Parish">
+    <meta name="description" content="St. Charles L'wanga Parish">
     <meta name="author" content="Gabriel Etim">
 
 
@@ -121,46 +124,40 @@ function successful()
                 <div class="modal-header modal-about" style="background-color: black; color: white;">
                     <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                     <h4 class="modal-title modal-about text-center">Daily Mediation </h4>
-                    <h6 class="modal-title modal-about text-center"><i>Matthew 18:21)</i></h6>
+                    <h6 class="modal-title modal-about text-center"><i>(Matthew 19:3)</i></h6>
                 </div>
                 <div class="modal-body modal-about">
-                    <p><h3>Saint Stephen of Hungary (Optional Memorial)</h3></p>
-                    <p><strong>If my brother sins against me, how often must I forgive him? (Matthew 18:21) </strong></p><br>
+                    <p><h3>19th Week in Ordinary Time</h3></p>
+                    <p><strong>Is it lawful for a man to divorce his wife for any cause whatever? (Matthew 19:3) </strong></p><br>
                     
-                   <p>Peter probably didn’t ask this question out of idle curiosity. Something Jesus said or some 
-                   incident provoked Peter to ask about the boundaries of forgiveness.</p>
+                   <p>Doesn’t it seem like the story of our lives? There’s an ideal that we all want to reach toward, 
+                   but it’s so hard to attain. We feel inspired to aim high; yet we often fall short.</p>
 
-                   <p>It’s amazing how many angry or resentful thoughts against people are able to bounce around in our 
-                   heads. It’s not that we like having these negative thoughts. But we may not know how to get free of 
-                   them, or we may not be ready to forgive.</p>
+                   <p>When Jesus spoke to the Pharisees about divorce, he upheld the ideal: “From the beginning it was 
+                   not so” (Matthew 19:8). God made man and woman to become one flesh in an unbreakable bond. But Moses’ 
+                   provision for a “writ of divorce” acknowledged the messy and painful reality that some relationships 
+                   become too damaged to continue.</p>
 
-                   <p>When Peter asked Jesus, “How many times must I forgive?” Jesus basically said, “Every time.” He 
-                   said that we have to be like our Father, who never stops offering us his mercy.</p>
+                   <p>Of course, Jesus wants every marriage to succeed. He wants us to be faithful in every aspect of 
+                   our lives. But he knows we are weak and wounded. He knows that we aren’t completely faithful to other 
+                   commands against lying or cheating or gossip. He knows how we struggle to love one another, and how 
+                   often we give into our fallen desires. He knows how it feels to be betrayed by our husband or wife. 
+                   If the ideal can seem so far out of our reach in our day-to-day relationships, how much more poignant 
+                   and painful it can become in a relationship as intimate as marriage.</p>
 
-                   <p>To illustrate this point, Jesus told a parable about an unforgiving servant. This man, who was 
-                   forgiven a large debt, was unwilling to forgive a very small debt from his fellow servant. That’s why 
-                   the master asked him, “Should you not have had pity on your fellow servant, as I had pity on you?” 
-                   (Matthew 18:33).</p>
+                   <p>But that’s why Jesus became man in the first place! He came to meet us in our messiness, to walk 
+                   with us in our struggles, and to show us the way through them. He offers us his mercy, his healing, 
+                   and his compassion all along the way. It’s not simple. It’s not easy. We won’t always succeed. But 
+                   he’s with us.</p>
                    
-                   <p>According to the logic of love, forgiveness ought to breed forgiveness, and mercy ought to breed 
-                   mercy. But this unforgiving servant followed his own self-centered logic. He believed that mercy 
-                   received had nothing to do with mercy given.</p>
+                   <p>So if you’re married and things are going well, bless and thank the Lord. And ask him to keep you 
+                   and your spouse together in his love. If you’re married and things are rough, know that Jesus is with 
+                   you to strengthen you and that his grace is there to help you weather the storms. And if you’ve gone 
+                   through the pain of a divorce, know that Jesus is still with you. He sees your pain. He sees all the 
+                   factors that caused the division. And still he loves you and he offers you his mercy, his healing, 
+                   and his companionship.</p>
                    
-                   <p>God is asking us to be merciful to each other. That’s easy to say, but it can be hard to do. We 
-                   should be able to let go, at least of the smaller hurts of life. Let’s not let petty pride get the 
-                   better of us. Let’s forgive instead.</p>
-                   
-                   <p>When it comes to larger hurts, it can be difficult if not impossible to forgive completely. But 
-                   here are four simple steps we can take that may help us: first, thank Jesus for being so merciful to 
-                   you. Second, tell Jesus that you want to forgive the one who hurt you, but that it hurts too much to 
-                   forgive just now. Third, know that Jesus is with you. He knows how much you are hurting. He 
-                   understands. He still loves you. Finally, ask Jesus for the grace to forgive over time.</p>
-                   
-                   <p>Sometimes the deep hurts of life can take months or years to be healed. Jesus knows this, and he 
-                   understands. He is infinitely patient, just as he is infinitely generous with his own grace and 
-                   mercy.</p>
-
-                    <p><strong><i>“Lord, help me to forgive everyone.”</i></strong></p>
+                   <p><strong><i>“Jesus, help me keep pressing on toward the ideal of love that you have shown me!”</i></strong></p>
                     <p class="text-muted">&copy; Word Among Us - Mediation</p>
                 </div>
             </div>
