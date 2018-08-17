@@ -39,6 +39,7 @@ function successful()
     <meta name="description" content="Charles+Lwanga+Parish">
     <meta name="description" content="St. Charles+L'wanga+Parish">
     <meta name="description" content="St.&Charles&L'wanga&Parish">
+    
     <meta name="description" content="St. Charles L'wanga Parish">
     <meta name="author" content="Gabriel Etim">
 
