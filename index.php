@@ -125,40 +125,46 @@ function successful()
                 <div class="modal-header modal-about" style="background-color: black; color: white;">
                     <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                     <h4 class="modal-title modal-about text-center">Daily Mediation </h4>
-                    <h6 class="modal-title modal-about text-center"><i>(Matthew 19:3)</i></h6>
+                    <h6 class="modal-title modal-about text-center"><i>(Matthew 19:14)</i></h6>
                 </div>
                 <div class="modal-body modal-about">
-                    <p><h3>19th Week in Ordinary Time</h3></p>
-                    <p><strong>Is it lawful for a man to divorce his wife for any cause whatever? (Matthew 19:3) </strong></p><br>
+                    <p><h3>Common of the Blessed Virgin Mary</h3></p>
+                    <p><strong>Let the children come to me. (Matthew 19:14)</strong></p><br>
                     
-                   <p>Doesn’t it seem like the story of our lives? There’s an ideal that we all want to reach toward, 
-                   but it’s so hard to attain. We feel inspired to aim high; yet we often fall short.</p>
+                   <p>In Jesus’ day, as in our own, some people were valued far more than others. Religious leaders and 
+                   people from wealthy families were highly respected. Far lower down came laborers like fishermen, 
+                   lower still women of any class, and, at the very bottom, children. So it’s not surprising that Jesus’ 
+                   disciples shooed away the children who approached him.</p>
 
-                   <p>When Jesus spoke to the Pharisees about divorce, he upheld the ideal: “From the beginning it was 
-                   not so” (Matthew 19:8). God made man and woman to become one flesh in an unbreakable bond. But Moses’ 
-                   provision for a “writ of divorce” acknowledged the messy and painful reality that some relationships 
-                   become too damaged to continue.</p>
+                   <p>But Jesus would have none of this. He valued the children and made it clear to the disciples that 
+                   the kingdom of heaven belonged “to such as these” (Matthew 19:14).</p>
 
-                   <p>Of course, Jesus wants every marriage to succeed. He wants us to be faithful in every aspect of 
-                   our lives. But he knows we are weak and wounded. He knows that we aren’t completely faithful to other 
-                   commands against lying or cheating or gossip. He knows how we struggle to love one another, and how 
-                   often we give into our fallen desires. He knows how it feels to be betrayed by our husband or wife. 
-                   If the ideal can seem so far out of our reach in our day-to-day relationships, how much more poignant 
-                   and painful it can become in a relationship as intimate as marriage.</p>
+                   <p>Today children may be more highly valued, but there are two glaring exceptions: children who are 
+                   yet to be born and children with disabilities. They belong in the same low status as people near the 
+                   end of their lives, people suffering with dementia, people regarded as foreigners, and people who 
+                   lack homes, skills, or resources.</p>
 
-                   <p>But that’s why Jesus became man in the first place! He came to meet us in our messiness, to walk 
-                   with us in our struggles, and to show us the way through them. He offers us his mercy, his healing, 
-                   and his compassion all along the way. It’s not simple. It’s not easy. We won’t always succeed. But 
-                   he’s with us.</p>
+                   <p>This devaluing goes right against the way of Jesus. He values every individual he creates. He 
+                   treasures them and always has time for them. He did this during his ministry when he touched lepers, 
+                   broke bread with prostitutes, and spoke tenderly to a woman accused of infidelity.</p>
                    
-                   <p>So if you’re married and things are going well, bless and thank the Lord. And ask him to keep you 
-                   and your spouse together in his love. If you’re married and things are rough, know that Jesus is with 
-                   you to strengthen you and that his grace is there to help you weather the storms. And if you’ve gone 
-                   through the pain of a divorce, know that Jesus is still with you. He sees your pain. He sees all the 
-                   factors that caused the division. And still he loves you and he offers you his mercy, his healing, 
-                   and his companionship.</p>
+                   <p>Jesus didn’t stop showing care for the needy when he ascended into heaven. He continues to do it 
+                   every day through his people. Through missionaries to poor nations, through religious brothers and 
+                   sisters who live among the inner-city poor, and through every person who ventures into a nursing home 
+                   or inside prison walls—through all these ways and more, he continues to shower his love on the poor 
+                   and the outcast.</p>
                    
-                   <p><strong><i>“Jesus, help me keep pressing on toward the ideal of love that you have shown me!”</i></strong></p>
+                   <p>What do your gestures reveal? Are you more like the welcoming Jesus, or more like the 
+                   class-conscious disciples? The next time you encounter a person who is different than you, don’t just 
+                   pass him or her by. Say hello. Take time to learn that person’s name. Look that person in the eye, 
+                   and wait patiently to allow him to tell his story. Who knows? Perhaps there is a way you can lend a 
+                   hand.</p>
+                   
+                   <p>Jesus treasures each person. As he let the children come near to him, you can let people come 
+                   close to you.</p>
+                   
+                   <p><strong><i>“Jesus, show me how highly you value the ‘least of these.’ Teach me so that my words 
+                   and actions toward them mirror yours.”</i></strong></p>
                     <p class="text-muted">&copy; Word Among Us - Mediation</p>
                 </div>
             </div>
