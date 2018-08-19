@@ -125,46 +125,41 @@ function successful()
                 <div class="modal-header modal-about" style="background-color: black; color: white;">
                     <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                     <h4 class="modal-title modal-about text-center">Daily Mediation </h4>
-                    <h6 class="modal-title modal-about text-center"><i>(Matthew 19:14)</i></h6>
+                    <h6 class="modal-title modal-about text-center"><i>(Ephesians 5:18)</i></h6>
                 </div>
                 <div class="modal-body modal-about">
-                    <p><h3>Common of the Blessed Virgin Mary</h3></p>
-                    <p><strong>Let the children come to me. (Matthew 19:14)</strong></p><br>
+                    <p><h3>20th Sunday in Ordinary Time</h3></p>
+                    <p><strong>Be filled with the Spirit. (Ephesians 5:18)</strong></p><br>
                     
-                   <p>In Jesus’ day, as in our own, some people were valued far more than others. Religious leaders and 
-                   people from wealthy families were highly respected. Far lower down came laborers like fishermen, 
-                   lower still women of any class, and, at the very bottom, children. So it’s not surprising that Jesus’ 
-                   disciples shooed away the children who approached him.</p>
+                   <p>Today is exam day. And to make it a little easier, we have reprinted today’s second reading:
+                   <br><br><h5>15Watch carefully how you live, not as foolish persons but as wise, 16making the most of 
+                   the opportunity, because the days are evil. 17Therefore, do not continue in ignorance, but try to 
+                   understand what is the will of the Lord. 18And do not get drunk on wine, in which lies debauchery, 
+                   but be filled with the Spirit, 19addressing one another in psalms and hymns and spiritual songs, 
+                   singing and playing to the Lord in your hearts, 20giving thanks always and for everything in the name 
+                   of our Lord Jesus Christ to God the Father.</h5></p>
 
-                   <p>But Jesus would have none of this. He valued the children and made it clear to the disciples that 
-                   the kingdom of heaven belonged “to such as these” (Matthew 19:14).</p>
+                   <p>Fill in the blank—identify five important transitions in this passage:</p>
 
-                   <p>Today children may be more highly valued, but there are two glaring exceptions: children who are 
-                   yet to be born and children with disabilities. They belong in the same low status as people near the 
-                   end of their lives, people suffering with dementia, people regarded as foreigners, and people who 
-                   lack homes, skills, or resources.</p>
+                   <p>&nbsp;&nbsp;<strong>1. From foolish to w _ _ _ (verse 15)</strong></p>
 
-                   <p>This devaluing goes right against the way of Jesus. He values every individual he creates. He 
-                   treasures them and always has time for them. He did this during his ministry when he touched lepers, 
-                   broke bread with prostitutes, and spoke tenderly to a woman accused of infidelity.</p>
+                   <p>&nbsp;&nbsp;<strong>2. From ignorant to understanding the w _ _ _ of the Lord (verse 17)</strong></p>
                    
-                   <p>Jesus didn’t stop showing care for the needy when he ascended into heaven. He continues to do it 
-                   every day through his people. Through missionaries to poor nations, through religious brothers and 
-                   sisters who live among the inner-city poor, and through every person who ventures into a nursing home 
-                   or inside prison walls—through all these ways and more, he continues to shower his love on the poor 
-                   and the outcast.</p>
+                   <p>&nbsp;&nbsp;<strong>3. From drunk on wine to being f _ _ _ _ _ with the Spirit (verse 18)</strong></p>
                    
-                   <p>What do your gestures reveal? Are you more like the welcoming Jesus, or more like the 
-                   class-conscious disciples? The next time you encounter a person who is different than you, don’t just 
-                   pass him or her by. Say hello. Take time to learn that person’s name. Look that person in the eye, 
-                   and wait patiently to allow him to tell his story. Who knows? Perhaps there is a way you can lend a 
-                   hand.</p>
+                   <p>&nbsp;&nbsp;<strong>4. Addressing one another in p _ _ _ _ _, h _ _ _ _, and spiritual s _ _ _ _ (verse 19)</strong></p>
                    
-                   <p>Jesus treasures each person. As he let the children come near to him, you can let people come 
-                   close to you.</p>
+                   <p>&nbsp;&nbsp;<strong>5. Giving t _ _ _ _ _ always for everything (verse 20)</strong></p>
                    
-                   <p><strong><i>“Jesus, show me how highly you value the ‘least of these.’ Teach me so that my words 
-                   and actions toward them mirror yours.”</i></strong></p>
+                   <p>Paul said, “Be filled with the Spirit,” and he told us how. So in your prayer today, do three things:<p/>
+                   
+                   <p>&nbsp;&nbsp;<strong>1. Read one psalm and ask the Holy Spirit to fill you with God’s grace and wisdom. Try to sense what he is saying to you: perhaps a new insight, perhaps a sense of encouragement, perhaps guidance on how to act at work today.</strong></p>
+                   
+                   <p>&nbsp;&nbsp;<strong>2. Thank Jesus for all of your blessings.</strong></p>
+                   
+                   <p>&nbsp;&nbsp;<strong>3. Address every person you meet today with kindness and love, generosity and patience. Make this your spiritual song to them.</strong></p>
+                   
+                   <p><strong><i>“Lord, come and fill me with your love.”</i></strong></p>
                     <p class="text-muted">&copy; Word Among Us - Mediation</p>
                 </div>
             </div>
