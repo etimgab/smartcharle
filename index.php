@@ -807,12 +807,49 @@ function successful()
                                 <li data-target="#myCarousel" data-slide-to="28"></li>
                                 <li data-target="#myCarousel" data-slide-to="29"></li>
                                 <li data-target="#myCarousel" data-slide-to="30"></li>
-                                <li data-target="#myCarousel" data-slide-to="31"></li>                                
+                                <li data-target="#myCarousel" data-slide-to="31"></li>
+                                <li data-target="#myCarousel" data-slide-to="32"></li>
+                                <li data-target="#myCarousel" data-slide-to="33"></li>
+                                <li data-target="#myCarousel" data-slide-to="34"></li>
+                                <li data-target="#myCarousel" data-slide-to="35"></li>                                
                             </ol>
 
                             <!-- Wrapper for slides -->
                             <div class="carousel-inner">
                                 <div class="item active">
+                                    <img src="img/mala.jpg" alt="Parish Priest Birthday Celebration">
+                                    <div class="carousel-caption">
+                                        <h3>57th Birthday</h3>
+                                        <p>Celebration with Children in the Parish</p>
+                                    </div>
+                                </div>
+                                
+                                <div class="item">
+                                    <img src="img/mala1.jpg" alt="Parish Priest Birthday Celebration">
+                                    <div class="carousel-caption">
+                                        <h3>57th Birthday</h3>
+                                        <p>Celebration with Children in the Parish</p>
+                                    </div>
+                                </div>
+                                
+                                <div class="item">
+                                    <img src="img/mala2.jpg" alt="Parish Priest Birthday Celebration">
+                                    <div class="carousel-caption">
+                                        <h3>57th Birthday</h3>
+                                        <p>Celebration with Children in the Parish</p>
+                                    </div>
+                                </div>
+                                
+                                <div class="item">
+                                    <img src="img/mala3.jpg" alt="Parish Priest Birthday Celebration">
+                                    <div class="carousel-caption">
+                                        <h3>57th Birthday</h3>
+                                        <p>Celebration with Children in the Parish</p>
+                                    </div>
+                                </div>
+                                
+                                
+                                <div class="item">
                                     <img src="img/mary_league.jpg" alt="Mary League Girls">
                                     <div class="carousel-caption">
                                         <h3>20th Anniversary</h3>
