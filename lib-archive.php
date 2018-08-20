@@ -6,6 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Charles L'wanga Parish, Catholic Church">
     <meta name="author" content="Gabriel Etim">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
     <title>Parish:: Online Library::Archives</title>
 
@@ -121,32 +124,33 @@
                     <h2 class="sub-header text-center">List of Materials</h2>
                     <section id="archive-content">
                         <div class="table-responsive">
-                            <div class="col-lg-6 col-md-6">
-                                <form action="#" method="post" class="form-list form-group">
-                                    <label>Sort By:</label>
-                                    <select name="list-material" id="list-material">
-                                        <option value="title">Title</option>
-                                        <option value="genre">Genre</option>
-                                        <option value="score">Score</option>
-                                    </select>
-                                    <input type="submit" value="Go">
-                                </form>
-                            </div>
+<!--                            <div class="col-lg-6 col-md-6">-->
+<!--                                <form action="#" method="post" class="form-list form-group">-->
+<!--                                    <label>Sort By:</label>-->
+<!--                                    <select name="list-material" id="list-material">-->
+<!--                                        <option value="title">Title</option>-->
+<!--                                        <option value="genre">Genre</option>-->
+<!--                                        <option value="score">Score</option>-->
+<!--                                    </select>-->
+<!--                                    <input type="submit" value="Go">-->
+<!--                                </form>-->
+<!--                            </div>-->
+<!---->
+<!--                            <div class="col-lg-6 col-md-6">-->
+<!--                                <form action="#" method="post" class="form-list form-group">-->
+<!--                                    <label>Search By:</label>-->
+<!--                                    <select name="list-material" id="list-material1">-->
+<!--                                        <option value="title">Title</option>-->
+<!--                                        <option value="genre">Genre</option>-->
+<!--                                        <option value="score">Score</option>-->
+<!--                                    </select>-->
+<!--                                    <input type="search" id="search" name="search" class="search" placeholder="Search" autofocus>-->
+<!--                                    <input type="submit" value="Go">-->
+<!--                                </form>-->
+<!--                            </div>-->
+                            <input class="form-control" id="myInput" type="text" placeholder="Search.."><br>
 
-                            <div class="col-lg-6 col-md-6">
-                                <form action="#" method="post" class="form-list form-group">
-                                    <label>Search By:</label>
-                                    <select name="list-material" id="list-material1">
-                                        <option value="title">Title</option>
-                                        <option value="genre">Genre</option>
-                                        <option value="score">Score</option>
-                                    </select>
-                                    <input type="search" id="search" name="search" class="search" placeholder="Search" autofocus>
-                                    <input type="submit" value="Go">
-                                </form>
-                            </div>
-
-                            <table class="table table-striped">
+                            <table class="table table-striped table-bordered">
                                 <thead>
                                 <tr>
                                     <th>S/N</th>
@@ -157,7 +161,7 @@
                                     <th>Rights</th>
                                 </tr>
                                 </thead>
-                                <tbody>
+                                <tbody id="myTable">
                                 <tr>
                                     <td>001</td>
                                     <td style="text-align: left" title="History of St. Charles L'wanga">St. Charles L'wanga & Companions</td>
@@ -165,8 +169,8 @@
                                     <td>Audio</td>
                                     <td>September 2017</td>
                                     <td>
-                                        <a href="audio/Saint%20Charles%20Lwanga%20and%20Companions%20–%20Franciscan%20Media.MP3" download="History of St. Charles L'wanga"><button class="btn btn-primary btn-xs">Download</button></a>
-                                        <a href="audio/Saint%20Charles%20Lwanga%20and%20Companions%20–%20Franciscan%20Media.MP3" readonly="History of St. Charles L'wanga"><button class="btn btn-default btn-xs">Read-online</button></a>
+<!--                                        <a href="audio/Saint%20Charles%20Lwanga%20and%20Companions%20–%20Franciscan%20Media.MP3" download="History of St. Charles L'wanga"><button class="btn btn-primary btn-xs">Download</button></a>-->
+                                        <a href="audio/Saint%20Charles%20Lwanga%20and%20Companions%20–%20Franciscan%20Media.MP3" readonly="History of St. Charles L'wanga"><button class="btn btn-primary btn-xs">Read-online</button></a>
                                     </td>
                                 </tr>
                                 <tr>
@@ -176,8 +180,8 @@
                                     <td>Document</td>
                                     <td>September 2017</td>
                                     <td>
-                                        <a href="docs/HEAVEN%20-%20Purgatory.pdf" download="Heaven"><button class="btn btn-primary btn-xs">Download</button></a>
-                                        <a href="docs/HEAVEN%20-%20Purgatory.pdf" readonly="Heaven"><button class="btn btn-default btn-xs">Read-online</button></a>
+<!--                                        <a href="docs/HEAVEN%20-%20Purgatory.pdf" download="Heaven"><button class="btn btn-primary btn-xs">Download</button></a>-->
+                                        <a href="docs/HEAVEN%20-%20Purgatory.pdf" readonly="Heaven"><button class="btn btn-primary btn-xs">Read-online</button></a>
                                     </td>
                                 </tr>
                                 <tr>
@@ -187,8 +191,8 @@
                                     <td>Document</td>
                                     <td>September 2017</td>
                                     <td>
-                                        <a href="docs/WHY%20BECOME%20A%20PURGATORIAN.pdf" download="Why become a purgatorian"><button class="btn btn-primary btn-xs">Download</button></a>
-                                        <a href="docs/WHY%20BECOME%20A%20PURGATORIAN.pdf" readonly="Why become a purgatorian"><button class="btn btn-default btn-xs">Read-online</button></a>
+<!--                                        <a href="docs/WHY%20BECOME%20A%20PURGATORIAN.pdf" download="Why become a purgatorian"><button class="btn btn-primary btn-xs">Download</button></a>-->
+                                        <a href="docs/WHY%20BECOME%20A%20PURGATORIAN.pdf" readonly="Why become a purgatorian"><button class="btn btn-primary btn-xs">Read-online</button></a>
                                     </td>
                                 </tr>
                                 <tr>
@@ -198,12 +202,111 @@
                                     <td>Document</td>
                                     <td>September 2017</td>
                                     <td>
-                                        <a href="docs/Saint%20Charles%20Lwanga%20and%20Companion1.pdf" download="Saint Charles and Companions"><button class="btn btn-primary btn-xs">Download</button></a>
-                                        <a href="docs/Saint%20Charles%20Lwanga%20and%20Companion1.pdf" readonly="Saint Charles and Companions"><button class="btn btn-default btn-xs">Read-online</button></a>
+<!--                                        <a href="docs/Saint%20Charles%20Lwanga%20and%20Companion1.pdf" download="Saint Charles and Companions"><button class="btn btn-primary btn-xs">Download</button></a>-->
+                                        <a href="docs/Saint%20Charles%20Lwanga%20and%20Companion1.pdf" readonly="Saint Charles and Companions"><button class="btn btn-primary btn-xs">Read-online</button></a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>005</td>
+                                    <td style="text-align: left" title="Altars, Dedications and Relics">Altars, Dedications and Relics</td>
+                                    <td>Catholic Faith</td>
+                                    <td>Document</td>
+                                    <td>August 2018</td>
+                                    <td>
+                                        <!--                                        <a href="docs/Saint%20Charles%20Lwanga%20and%20Companion1.pdf" download="Saint Charles and Companions"><button class="btn btn-primary btn-xs">Download</button></a>-->
+                                        <a href="docs/Altars.pdf" readonly="Saint Charles and Companions"><button class="btn btn-primary btn-xs">Read-online</button></a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>006</td>
+                                    <td style="text-align: left" title="Deacon's Role at Incensing">Deacon's Role at Incensing</td>
+                                    <td>Catholic Faith</td>
+                                    <td>Document</td>
+                                    <td>August 2018</td>
+                                    <td>
+                                        <!--                                        <a href="docs/Saint%20Charles%20Lwanga%20and%20Companion1.pdf" download="Saint Charles and Companions"><button class="btn btn-primary btn-xs">Download</button></a>-->
+                                        <a href="docs/Deacon's%20Role%20at%20Incensing.pdf" readonly="Saint Charles and Companions"><button class="btn btn-primary btn-xs">Read-online</button></a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>007</td>
+                                    <td style="text-align: left" title="Human Ecology Fraternity and Communion">Human Ecology Fraternity and Communion</td>
+                                    <td>Catholic Faith</td>
+                                    <td>Document</td>
+                                    <td>July 2018</td>
+                                    <td>
+                                        <!--                                        <a href="docs/Saint%20Charles%20Lwanga%20and%20Companion1.pdf" download="Saint Charles and Companions"><button class="btn btn-primary btn-xs">Download</button></a>-->
+                                        <a href="docs/Human%20Ecology%20Fraternity%20and%20Communion.pdf" readonly="Saint Charles and Companions"><button class="btn btn-primary btn-xs">Read-online</button></a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>008</td>
+                                    <td style="text-align: left" title="Interrupting a Mass for Confessions">Interrupting a Mass for Confessions</td>
+                                    <td>Catholic Faith</td>
+                                    <td>Document</td>
+                                    <td>July 2018</td>
+                                    <td>
+                                        <!--                                        <a href="docs/Saint%20Charles%20Lwanga%20and%20Companion1.pdf" download="Saint Charles and Companions"><button class="btn btn-primary btn-xs">Download</button></a>-->
+                                        <a href="docs/Interrupting%20a%20Mass%20for%20Confessions.pdf" readonly="Saint Charles and Companions"><button class="btn btn-primary btn-xs">Read-online</button></a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>009</td>
+                                    <td style="text-align: left" title="On the Death Penalty">On the Death Penalty</td>
+                                    <td>Catholic Faith</td>
+                                    <td>Document</td>
+                                    <td>August 2018</td>
+                                    <td>
+                                        <!--                                        <a href="docs/Saint%20Charles%20Lwanga%20and%20Companion1.pdf" download="Saint Charles and Companions"><button class="btn btn-primary btn-xs">Download</button></a>-->
+                                        <a href="docs/On%20the%20Death%20Penalty.pdf" readonly="Saint Charles and Companions"><button class="btn btn-primary btn-xs">Read-online</button></a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>010</td>
+                                    <td style="text-align: left" title="The Glittering Deceit of Idols">The Glittering Deceit of Idols</td>
+                                    <td>Catholic Faith</td>
+                                    <td>Document</td>
+                                    <td>August 2018</td>
+                                    <td>
+                                        <!--                                        <a href="docs/Saint%20Charles%20Lwanga%20and%20Companion1.pdf" download="Saint Charles and Companions"><button class="btn btn-primary btn-xs">Download</button></a>-->
+                                        <a href="docs/The%20Glittering%20Deceit%20of%20Idols.pdf" readonly="Saint Charles and Companions"><button class="btn btn-primary btn-xs">Read-online</button></a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>011</td>
+                                    <td style="text-align: left" title="The Supermarket of Idols">The Supermarket of Idols</td>
+                                    <td>Catholic Faith</td>
+                                    <td>Document</td>
+                                    <td>August 2018</td>
+                                    <td>
+                                        <!--                                        <a href="docs/Saint%20Charles%20Lwanga%20and%20Companion1.pdf" download="Saint Charles and Companions"><button class="btn btn-primary btn-xs">Download</button></a>-->
+                                        <a href="docs/The%20Supermarket%20of%20Idols.pdf" readonly="Saint Charles and Companions"><button class="btn btn-primary btn-xs">Read-online</button></a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>012</td>
+                                    <td style="text-align: left" title="Treatment of Partially Consumed Hosts">Treatment of Partially Consumed Hosts</td>
+                                    <td>Catholic Faith</td>
+                                    <td>Document</td>
+                                    <td>July 2018</td>
+                                    <td>
+                                        <!--                                        <a href="docs/Saint%20Charles%20Lwanga%20and%20Companion1.pdf" download="Saint Charles and Companions"><button class="btn btn-primary btn-xs">Download</button></a>-->
+                                        <a href="docs/Treatment%20of%20Partially%20Consumed%20Hosts.pdf" readonly="Saint Charles and Companions"><button class="btn btn-primary btn-xs">Read-online</button></a>
                                     </td>
                                 </tr>
                                 </tbody>
                             </table>
+							<script>
+							
+							$(document).ready(function(){
+								$("#myInput").on("keyup", function() {
+									var value = $(this).val().toLowerCase();
+									$("#myTable tr").filter(function() {
+										$(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+										});
+									});
+								});
+							</script>
                         </div>
                     </section>
                 </div>
@@ -215,6 +318,10 @@
         $('#myModal').modal('');
     </script>
 </div><!--\.Modal -->
+
+
+
+
 
 <footer id="archive-footer">
     <p>&copy; Powered by <a href="index.php">St. Charles L'wanga Parish</a> | Designed by <a href="mailto:admin@stcharleslwanga.com.ng">Web Mgt Team</a> </p>

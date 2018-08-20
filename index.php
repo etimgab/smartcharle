@@ -1090,18 +1090,16 @@ function successful()
 
             <div class="row">
                 <div class="col-lg-2 col-md-6 mask">
-                    <img class="img-rounded img-responsive" src="img/max_kolbe.jpg" alt="Generic placeholder image" width="140" height="140">
-                    <h5><strong>Maximilian Kolbe - (1894-1941)</strong></h5>
+                    <img class="img-rounded img-responsive" src="img/victoria.jpg" alt="Generic placeholder image" width="140" height="140">
+                    <h5><strong>Blessed Victoria Rasoamanarivo  - (1848-1894)</strong></h5>
                 </div>
                 <div class="col-lg-10 col-md-6">
-                    <p>Raimund Kolbe, born in Russian Poland, was ordained a Franciscan, Maximilian Mary, in Rome. In 
-                    the 1920s, he reopened a ruined Polish friary, started a Marian press and was diagnosed with 
-                    tuberculosis. Despite his illness, he had successful Marian missions to Japan and India before 
-                    returning to Poland in 1936. After the 1939 invasion of Poland, the Franciscans’ criticism of the 
-                    occupiers prompted the arrest of Maximilian and four others, who ended up in the Nazi death camp 
-                    Auschwitz. Maximilian volunteered for martyrdom, taking the place of a married man being executed 
-                    by starvation. This man was present at the saint’s 1982 canonization. Maximilian is the patron of 
-                    prisoners, journalists and others.</p>
+                    <p>Victoria was born into a leading tribal family in Madagascar at a time when Christian 
+                    missionaries had been expelled. After this persecution, she was among the first pupils at a mission 
+                    school run by nuns. In 1863, she was baptized, but it was hard to be Catholic in her circle. Though 
+                    she wanted to become a nun, she was married to the chief minister’s son, who drank heavily and was 
+                    unfaithful. When a new persecution began, she encouraged her fellow Catholics, and helped the local 
+                    church survive. She was beatified in 1989.</p>
 
                        <p class="text-muted">&copy; Catholic News Services - Maximilian Kolbe</p>
                 </div>
