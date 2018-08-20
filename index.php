@@ -125,41 +125,44 @@ function successful()
                 <div class="modal-header modal-about" style="background-color: black; color: white;">
                     <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                     <h4 class="modal-title modal-about text-center">Daily Mediation </h4>
-                    <h6 class="modal-title modal-about text-center"><i>(Ephesians 5:18)</i></h6>
+                    <h6 class="modal-title modal-about text-center"><i>(Matthew 19:21)</i></h6>
                 </div>
                 <div class="modal-body modal-about">
-                    <p><h3>20th Sunday in Ordinary Time</h3></p>
-                    <p><strong>Be filled with the Spirit. (Ephesians 5:18)</strong></p><br>
+                    <p><h3>Saint Bernard, Abbot and Doctor of the Church (Memorial)</h3></p>
+                    <p><strong>If you wish to be perfect . . . (Matthew 19:21)</strong></p><br>
                     
-                   <p>Today is exam day. And to make it a little easier, we have reprinted today’s second reading:
-                   <br><br><h5>15Watch carefully how you live, not as foolish persons but as wise, 16making the most of 
-                   the opportunity, because the days are evil. 17Therefore, do not continue in ignorance, but try to 
-                   understand what is the will of the Lord. 18And do not get drunk on wine, in which lies debauchery, 
-                   but be filled with the Spirit, 19addressing one another in psalms and hymns and spiritual songs, 
-                   singing and playing to the Lord in your hearts, 20giving thanks always and for everything in the name 
-                   of our Lord Jesus Christ to God the Father.</h5></p>
+                   <p>Many children dream of being an Olympic athlete. But that dream can’t become a reality without a 
+                   lot of hard work. Each day, the athlete has to wake up devoted to the exercise, diet, and mental 
+                   training required to reach his or her Olympic dream. It requires an incredible amount of time, effort, 
+                   and sacrifice—a single-minded dedication to do what it takes to meet the goal.</p>
 
-                   <p>Fill in the blank—identify five important transitions in this passage:</p>
+                   <p>If qualifying for the Olympics requires such a commitment, how much more do our spiritual lives? 
+                   The rich young man in today’s reading wants to know what he needs to do to make it to heaven. But 
+                   when Jesus speaks to him about single-minded devotion to God’s kingdom, he walks away dejectedly 
+                   because he feels the sacrifice is too great.</p>
 
-                   <p>&nbsp;&nbsp;<strong>1. From foolish to w _ _ _ (verse 15)</strong></p>
+                   <p>We know we can’t work our way into heaven. But we do need to be single-minded in following Jesus. 
+                   What does this mean? The dictionary defines single-minded as “having one driving purpose or resolve.” 
+                   Our purpose, our dream, is to be like Christ. And that requires resolve to focus our thoughts, words, 
+                   and actions—even our relationships and the way we spend our time—towards this ideal of becoming like 
+                   Christ.</p>
 
-                   <p>&nbsp;&nbsp;<strong>2. From ignorant to understanding the w _ _ _ of the Lord (verse 17)</strong></p>
+                   <p>Each of us has a different path to get us to our goal of becoming like Christ. That means that 
+                   each of us needs to develop our own “training program.” Of course, there are the obvious things: 
+                   exercise (prayer and reading the Scriptures) and diet (receiving the sacraments). Other things might 
+                   stem from what you know about your weaknesses or the gifts and virtues you’re trying to develop. 
+                   Maybe when people around you are gossiping, you need to remove yourself from the situation. Or maybe 
+                   you strive to set aside some of your paycheck each month to give to charity.</p>
                    
-                   <p>&nbsp;&nbsp;<strong>3. From drunk on wine to being f _ _ _ _ _ with the Spirit (verse 18)</strong></p>
+                   <p>It takes effort to deny ourselves, but the good news is that the more you do it, the easier it 
+                   becomes. The closer you are to your goal, the more enthusiasm you’ll have to do what it takes to go 
+                   even farther.</p>
                    
-                   <p>&nbsp;&nbsp;<strong>4. Addressing one another in p _ _ _ _ _, h _ _ _ _, and spiritual s _ _ _ _ (verse 19)</strong></p>
+                   <p>So resolve to be single-minded for Jesus today. You might not be an Olympic hopeful, but you can 
+                   think of today as the first day of your “training”!</p>
                    
-                   <p>&nbsp;&nbsp;<strong>5. Giving t _ _ _ _ _ always for everything (verse 20)</strong></p>
-                   
-                   <p>Paul said, “Be filled with the Spirit,” and he told us how. So in your prayer today, do three things:<p/>
-                   
-                   <p>&nbsp;&nbsp;<strong>1. Read one psalm and ask the Holy Spirit to fill you with God’s grace and wisdom. Try to sense what he is saying to you: perhaps a new insight, perhaps a sense of encouragement, perhaps guidance on how to act at work today.</strong></p>
-                   
-                   <p>&nbsp;&nbsp;<strong>2. Thank Jesus for all of your blessings.</strong></p>
-                   
-                   <p>&nbsp;&nbsp;<strong>3. Address every person you meet today with kindness and love, generosity and patience. Make this your spiritual song to them.</strong></p>
-                   
-                   <p><strong><i>“Lord, come and fill me with your love.”</i></strong></p>
+                                    
+                   <p><strong><i>“Jesus, you are the prize that I seek. Help me to be single-minded in following you.”</i></strong></p>
                     <p class="text-muted">&copy; Word Among Us - Mediation</p>
                 </div>
             </div>
@@ -1132,10 +1135,10 @@ function successful()
                                 <!-- <dd>6pm</dd>-->                                
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
-                                    <strong>1st: </strong>Ezekiel 1: 2-5, 24-28<br>
-                                    <strong>Psalm: </strong>Psalms 148: 1-2, 11-14<br>
+                                    <strong>1st: </strong>Ezekiel 24:15-24<br>
+                                    <strong>Psalm: </strong>(Psalm) Deuteronomy 32:18-21<br>
                                     <!--<strong>2nd: </strong>Peter 1: 16-19<br>-->
-                                    <strong>Gospel: </strong>Matthew 17: 22-27
+                                    <strong>Gospel: </strong>Matthew 19:16-22
                                 </dd>
                             </dl>
                         </div>
@@ -1155,10 +1158,10 @@ function successful()
                                 <!--<dd>6pm</dd>-->                                
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
-                                    <strong>1st: </strong>Ezekiel 2: 8-3:4<br>
-                                    <strong>Psalm: </strong>Psalms 119: 14, 24, 72, 103, 111, 131<br>
+                                    <strong>1st: </strong>Ezekiel 28: 1-10<br>
+                                    <strong>Psalm: </strong>(Psalm) Deuteronomy 32:26-28, 30, 35-36<br>
                                     <!--<strong>2nd: </strong>Romans 9: 1-5<br>-->
-                                    <strong>Gospel: </strong>Matthew 18: 1-5, 10, 12-14
+                                    <strong>Gospel: </strong>Matthew 19: 23-30
                                 </dd>
                             </dl>
                         </div>
@@ -1178,10 +1181,10 @@ function successful()
                                 <dd>6pm <br><i>(Healing Mass)</i></dd>                               
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
-                                    <strong>1st: </strong>Revelation 11:19; 12:1-6, 10<br>
-                                    <strong>Psalm: </strong>Psalm 45: 10-12, 16<br>
-                                    <strong>2nd: </strong>1st Corinthians 15: 20-26<br>
-                                    <strong>Gospel: </strong>Luke 1: 39-56
+                                    <strong>1st: </strong>Ezekiel 34: 1-11<br>
+                                    <strong>Psalm: </strong>Psalm 23: 1-4, 6<br>
+                                    <!--<strong>2nd: </strong>1st Corinthians 15: 20-26<br>-->
+                                    <strong>Gospel: </strong>Matthew 20: 1-16
                                 </dd>
                             </dl>
                         </div>
@@ -1201,10 +1204,10 @@ function successful()
                                 <!--<dd>6pm</dd>-->                                
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
-                                    <strong>1st: </strong>Ezekiel 12: 1-12<br>
-                                    <strong>Psalm: </strong>Psalms 78: 56-59, 61<br>
+                                    <strong>1st: </strong>Ezekiel 36: 23-28<br>
+                                    <strong>Psalm: </strong>Psalms 51: 12-15, 18-19 (Ezekiel 36:25)<br>
                                     <!--<strong>2nd: </strong>Romans 9: 1-5<br>-->
-                                    <strong>Gospel: </strong>Matthew 18: 21-19: 1
+                                    <strong>Gospel: </strong>Matthew 22: 1-14
                                 </dd>
                             </dl>
                         </div>
@@ -1224,10 +1227,10 @@ function successful()
                                 <!--<dd>6pm</dd>-->                                
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
-                                    <strong>1st: </strong>Ezekiel 16: 1-15, 60, 63<br>
-                                    <strong>Psalm: </strong>Isaiah 12: 2-6<br>
+                                    <strong>1st: </strong>Revelation 21: 9-14<br>
+                                    <strong>Psalm: </strong>Psalms 145: 10-13, 17-18<br>
                                     <!--<strong>2nd: </strong>Romans 9: 1-5<br>-->
-                                    <strong>Gospel: </strong>Matthew 19: 3-12
+                                    <strong>Gospel: </strong>John 1: 45-51
                                 </dd>
                             </dl>
                         </div>
@@ -1249,10 +1252,10 @@ function successful()
                                 <dd>1 hour before Mass during Adoration<br></dd>
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
-                                    <strong>1st: </strong>Ezekiel 18: 1-10, 13, 30-32<br>
-                                    <strong>Psalm: </strong>Psalms 51: 12-15, 18-19<br>
+                                    <strong>1st: </strong>Ezekiel 43: 1-7<br>
+                                    <strong>Psalm: </strong>Psalms 85: 9-14<br>
                                     <!--<strong>2nd: </strong>Romans 9: 1-5<br>-->
-                                    <strong>Gospel: </strong>Matthew 19: 13-15
+                                    <strong>Gospel: </strong>Matthew 23: 1-12
                                 </dd>
                             </dl>
                         </div>
@@ -1272,10 +1275,10 @@ function successful()
                                 <dd>6pm</dd>                                
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
-                                    <strong>1st: </strong>Proverbs 9: 1-6<br>
-                                    <strong>Psalm: </strong>Psalms 34: 1-14<br>
-                                    <strong>2nd: </strong>Ephesians 5: 15-20<br>
-                                    <strong>Gospel: </strong>John 6: 51-58
+                                    <strong>1st: </strong>Joshua 24: 1-2, 15-18<br>
+                                    <strong>Psalm: </strong>Psalms 34: 1-2, 15-18<br>
+                                    <strong>2nd: </strong>Ephesians 5: 21-32<br>
+                                    <strong>Gospel: </strong>John 6: 60-69
                                 </dd>
                             </dl>
                         </div>
