@@ -125,44 +125,40 @@ function successful()
                 <div class="modal-header modal-about" style="background-color: black; color: white;">
                     <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                     <h4 class="modal-title modal-about text-center">Daily Mediation </h4>
-                    <h6 class="modal-title modal-about text-center"><i>(Matthew 19:21)</i></h6>
+                    <h6 class="modal-title modal-about text-center"><i>(Matthew 19:24)</i></h6>
                 </div>
                 <div class="modal-body modal-about">
-                    <p><h3>Saint Bernard, Abbot and Doctor of the Church (Memorial)</h3></p>
-                    <p><strong>If you wish to be perfect . . . (Matthew 19:21)</strong></p><br>
+                    <p><h3>Saint Pius X, Pope (Memorial)</h3></p>
+                    <p><strong>It is easier for a camel to pass through the eye of a needle than for one who is rich to 
+                    enter the Kingdom of God. (Matthew 19:24)</strong></p><br>
                     
-                   <p>Many children dream of being an Olympic athlete. But that dream can’t become a reality without a 
-                   lot of hard work. Each day, the athlete has to wake up devoted to the exercise, diet, and mental 
-                   training required to reach his or her Olympic dream. It requires an incredible amount of time, effort, 
-                   and sacrifice—a single-minded dedication to do what it takes to meet the goal.</p>
+                   <p>Why do you think Jesus made such a strange, disquieting statement about the wealthy? Did he disdain 
+                   the prosperous and abhor their affluence? No, Jesus had wealthy friends like Joseph of Arimathea and 
+                   Nicodemus, along with a group of wealthy women who supported his ministry (Luke 8:1-3). He didn’t 
+                   think that the rich are inherently more sinful. He was warning that money and possessions can be 
+                   significant obstacles to living life in his kingdom.</p>
 
-                   <p>If qualifying for the Olympics requires such a commitment, how much more do our spiritual lives? 
-                   The rich young man in today’s reading wants to know what he needs to do to make it to heaven. But 
-                   when Jesus speaks to him about single-minded devotion to God’s kingdom, he walks away dejectedly 
-                   because he feels the sacrifice is too great.</p>
+                   <p>Jesus knew that having the wrong mind-set toward money and possessions can lead us to deny God his 
+                   rightful place in our lives. We may become self-serving and think only of our comfort and our desire 
+                   for greater and greater financial security. Or we may be easily distracted by the cares and 
+                   responsibilities that come with greater wealth. For instance, we may spend all our time and energy 
+                   worrying about our bank accounts and trying to protect all that we have. Or we can get a false sense 
+                   of security that leads to a greater sense of pride and self-sufficiency. No wonder Jesus gave such a 
+                   strong word of warning!</p>
 
-                   <p>We know we can’t work our way into heaven. But we do need to be single-minded in following Jesus. 
-                   What does this mean? The dictionary defines single-minded as “having one driving purpose or resolve.” 
-                   Our purpose, our dream, is to be like Christ. And that requires resolve to focus our thoughts, words, 
-                   and actions—even our relationships and the way we spend our time—towards this ideal of becoming like 
-                   Christ.</p>
+                   <p>If you’re well-off financially, take Jesus’ caution to heart. Do the best you can to keep money in 
+                   the proper perspective. Be grateful for all he has blessed you with, and try to be a good steward of 
+                   these blessings. Remember too that where much is given, much is expected. So use your resources wisely, 
+                   not only for your own good, but for the good of others. Be generous to the Church and the needy. Set 
+                   your heart on the Lord and seek to give him glory with everything you own.</p>
 
-                   <p>Each of us has a different path to get us to our goal of becoming like Christ. That means that 
-                   each of us needs to develop our own “training program.” Of course, there are the obvious things: 
-                   exercise (prayer and reading the Scriptures) and diet (receiving the sacraments). Other things might 
-                   stem from what you know about your weaknesses or the gifts and virtues you’re trying to develop. 
-                   Maybe when people around you are gossiping, you need to remove yourself from the situation. Or maybe 
-                   you strive to set aside some of your paycheck each month to give to charity.</p>
-                   
-                   <p>It takes effort to deny ourselves, but the good news is that the more you do it, the easier it 
-                   becomes. The closer you are to your goal, the more enthusiasm you’ll have to do what it takes to go 
-                   even farther.</p>
-                   
-                   <p>So resolve to be single-minded for Jesus today. You might not be an Olympic hopeful, but you can 
-                   think of today as the first day of your “training”!</p>
-                   
+                   <p>If you’re struggling just to make ends meet, don’t let anxiety or cares weigh you down. Keep 
+                   following the Lord! Trust his love and provision for you, even as you work to strengthen your finances. 
+                   Ask him to give you a generous heart as well, so that you can give to other people in a way that’s 
+                   in-line with your means. The Lord will shower blessings on you according to his unlimited resources!</p>
+                             
                                     
-                   <p><strong><i>“Jesus, you are the prize that I seek. Help me to be single-minded in following you.”</i></strong></p>
+                   <p><strong><i>“Jesus, give me a generous heart that is free from worldly attachments. You are my greatest treasure.”</i></strong></p>
                     <p class="text-muted">&copy; Word Among Us - Mediation</p>
                 </div>
             </div>
