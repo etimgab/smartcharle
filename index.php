@@ -125,40 +125,43 @@ function successful()
                 <div class="modal-header modal-about" style="background-color: black; color: white;">
                     <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                     <h4 class="modal-title modal-about text-center">Daily Mediation </h4>
-                    <h6 class="modal-title modal-about text-center"><i>(Matthew 19:24)</i></h6>
+                    <h6 class="modal-title modal-about text-center"><i>(Matthew 20:15)</i></h6>
                 </div>
                 <div class="modal-body modal-about">
-                    <p><h3>Saint Pius X, Pope (Memorial)</h3></p>
-                    <p><strong>It is easier for a camel to pass through the eye of a needle than for one who is rich to 
-                    enter the Kingdom of God. (Matthew 19:24)</strong></p><br>
+                    <p><h3>The Queenship of the Blessed Virgin Mary (Memorial)</h3></p>
+                    <p><strong>Am I not free to do as I wish with my own money? (Matthew 20:15)</strong></p><br>
                     
-                   <p>Why do you think Jesus made such a strange, disquieting statement about the wealthy? Did he disdain 
-                   the prosperous and abhor their affluence? No, Jesus had wealthy friends like Joseph of Arimathea and 
-                   Nicodemus, along with a group of wealthy women who supported his ministry (Luke 8:1-3). He didn’t 
-                   think that the rich are inherently more sinful. He was warning that money and possessions can be 
-                   significant obstacles to living life in his kingdom.</p>
+                   <p>Imagine the following impossible scenario: you walk into a car dealership and say, “I want to buy 
+                   one of your cars, but I only have five dollars.” Then the dealer hands you the keys to a brand-new 
+                   Mercedes- Benz and says, “It’s all yours.” You stand there in complete astonishment for a moment. 
+                   Then you ask the dealer, “Why did you do that?” And the owner says, “I’m so rich that I just felt 
+                   like giving something away today. Please take the car and enjoy it—it’s on me.”</p>
 
-                   <p>Jesus knew that having the wrong mind-set toward money and possessions can lead us to deny God his 
-                   rightful place in our lives. We may become self-serving and think only of our comfort and our desire 
-                   for greater and greater financial security. Or we may be easily distracted by the cares and 
-                   responsibilities that come with greater wealth. For instance, we may spend all our time and energy 
-                   worrying about our bank accounts and trying to protect all that we have. Or we can get a false sense 
-                   of security that leads to a greater sense of pride and self-sufficiency. No wonder Jesus gave such a 
-                   strong word of warning!</p>
+                   <p>Today’s parable presents a similar situation involving an impossibly generous landowner. It’s the 
+                   end of the day, and the landowner is paying his day laborers. He gives the laborer who worked only 
+                   one hour a full day’s pay—the same amount that he gave those who had worked since dawn. We can 
+                   imagine the laborer’s shocked response: “But I haven’t worked enough hours to deserve this!” And 
+                   perhaps the landowner replies, “The number of hours you worked doesn’t matter. I just want to be 
+                   generous, and you can’t earn someone’s generosity.”</p>
 
-                   <p>If you’re well-off financially, take Jesus’ caution to heart. Do the best you can to keep money in 
-                   the proper perspective. Be grateful for all he has blessed you with, and try to be a good steward of 
-                   these blessings. Remember too that where much is given, much is expected. So use your resources wisely, 
-                   not only for your own good, but for the good of others. Be generous to the Church and the needy. Set 
-                   your heart on the Lord and seek to give him glory with everything you own.</p>
+                   <p>We know that the landowner in this parable represents God. And we know that God cannot be 
+                   outmatched in generosity. He even gave us his only Son, and that is a gift we could never earn. 
+                   No matter what any of us do for the Lord, whether we follow him perfectly, make huge charitable 
+                   donations, or sacrifice our lives as martyrs, it still wouldn’t be enough to merit such a priceless 
+                   gift. The love behind such generosity can be hard to grasp, but that only makes it all the more 
+                   appealing.</p>
 
-                   <p>If you’re struggling just to make ends meet, don’t let anxiety or cares weigh you down. Keep 
-                   following the Lord! Trust his love and provision for you, even as you work to strengthen your finances. 
-                   Ask him to give you a generous heart as well, so that you can give to other people in a way that’s 
-                   in-line with your means. The Lord will shower blessings on you according to his unlimited resources!</p>
+                   <p>Some of us may think that this “impossible” love is too good to be true. We know that God loves us 
+                   in theory. But in the back of our minds, we’re thinking about how much work we still have to do to 
+                   clean up our bad habits and sins.</p>
+                   
+                   <p>Never forget: the riches of God’s immeasurable grace far outweigh your sins and flaws. Jesus has 
+                   carried each of your sins. He has forgiven you. He has given you his own Holy Spirit to help you live 
+                   as a child of God. So have confidence in God’s mighty power—and freely receive his mercy and 
+                   generosity!</p>
                              
                                     
-                   <p><strong><i>“Jesus, give me a generous heart that is free from worldly attachments. You are my greatest treasure.”</i></strong></p>
+                   <p><strong><i>“Lord, I receive the ‘impossible’ gift of your unending love for me!”</i></strong></p>
                     <p class="text-muted">&copy; Word Among Us - Mediation</p>
                 </div>
             </div>
