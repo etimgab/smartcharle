@@ -125,43 +125,41 @@ function successful()
                 <div class="modal-header modal-about" style="background-color: black; color: white;">
                     <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                     <h4 class="modal-title modal-about text-center">Daily Mediation </h4>
-                    <h6 class="modal-title modal-about text-center"><i>(Matthew 20:15)</i></h6>
+                    <h6 class="modal-title modal-about text-center"><i>(Matthew 22:12)</i></h6>
                 </div>
                 <div class="modal-body modal-about">
-                    <p><h3>The Queenship of the Blessed Virgin Mary (Memorial)</h3></p>
-                    <p><strong>Am I not free to do as I wish with my own money? (Matthew 20:15)</strong></p><br>
+                    <p><h3>Saint Rose of Lima, Virgin (Optional Memorial)</h3></p>
+                    <p><strong>How is it that you came in here without a wedding garment? (Matthew 22:12)</strong></p><br>
                     
-                   <p>Imagine the following impossible scenario: you walk into a car dealership and say, “I want to buy 
-                   one of your cars, but I only have five dollars.” Then the dealer hands you the keys to a brand-new 
-                   Mercedes- Benz and says, “It’s all yours.” You stand there in complete astonishment for a moment. 
-                   Then you ask the dealer, “Why did you do that?” And the owner says, “I’m so rich that I just felt 
-                   like giving something away today. Please take the car and enjoy it—it’s on me.”</p>
+                   <p>Suppose you’re invited to a good friend’s wedding. After the ceremony, you enter the reception 
+                   hall and you notice another guest, his face unshaven, wearing blue jeans and a tattered T-shirt, 
+                   greedily piling food on his plate and getting into arguments with the other guests. Feeling hurt and 
+                   insulted, the groom walks over to him and says, “How could you? Please leave!” You’re not surprised. 
+                   After all, this man showed your friend terrible disrespect. His attitude was even worse than his 
+                   clothing.</p>
 
-                   <p>Today’s parable presents a similar situation involving an impossibly generous landowner. It’s the 
-                   end of the day, and the landowner is paying his day laborers. He gives the laborer who worked only 
-                   one hour a full day’s pay—the same amount that he gave those who had worked since dawn. We can 
-                   imagine the laborer’s shocked response: “But I haven’t worked enough hours to deserve this!” And 
-                   perhaps the landowner replies, “The number of hours you worked doesn’t matter. I just want to be 
-                   generous, and you can’t earn someone’s generosity.”</p>
+                   <p>In the same way, the man at the end of Jesus’ parable was out of place. He chose not to wear the 
+                   wedding garment provided for him, snubbing the king’s generous offer to clothe him with dignity. We 
+                   can liken this to the clothing of the saints in heaven, “the righteous deeds of the holy ones” spoken 
+                   of in the Scriptures (Revelation 19:8). We may think this fellow was treated harshly, but it’s actually 
+                   what he chose for himself. For the wedding garment—the righteousness available through Jesus’ 
+                   sacrifice—was his for the taking. He just didn’t put it on.</p>
 
-                   <p>We know that the landowner in this parable represents God. And we know that God cannot be 
-                   outmatched in generosity. He even gave us his only Son, and that is a gift we could never earn. 
-                   No matter what any of us do for the Lord, whether we follow him perfectly, make huge charitable 
-                   donations, or sacrifice our lives as martyrs, it still wouldn’t be enough to merit such a priceless 
-                   gift. The love behind such generosity can be hard to grasp, but that only makes it all the more 
-                   appealing.</p>
+                   <p>You, too, have been invited to a wedding banquet, the “wedding feast of the Lamb” (Revelation 19:9). 
+                   You will never receive an invitation more important than this one. So don’t stick it in a drawer. 
+                   Instead, take the grace you have been given and respond to it. Every day, set your heart on growing 
+                   in virtue and holiness. Clothe yourself in “heartfelt compassion, kindness, humility, gentleness, 
+                   and patience” (Colossians 3:12).</p>
 
-                   <p>Some of us may think that this “impossible” love is too good to be true. We know that God loves us 
-                   in theory. But in the back of our minds, we’re thinking about how much work we still have to do to 
-                   clean up our bad habits and sins.</p>
+                   <p>Just one note of caution: beware of racking up good deeds just to impress the Lord. He is far more 
+                   interested in quality than quantity. He wants to see a change in your heart, not just your actions. 
+                   That’s why he is pleased when you put aside selfishness and let his love flow out of you. It’s why he 
+                   is excited to see you embrace opportunities to bring his encouragement or wisdom to the people who 
+                   need it. As long as you are trying to love, you need never fear ending up like this unfortunate man.</p>
                    
-                   <p>Never forget: the riches of God’s immeasurable grace far outweigh your sins and flaws. Jesus has 
-                   carried each of your sins. He has forgiven you. He has given you his own Holy Spirit to help you live 
-                   as a child of God. So have confidence in God’s mighty power—and freely receive his mercy and 
-                   generosity!</p>
-                             
-                                    
-                   <p><strong><i>“Lord, I receive the ‘impossible’ gift of your unending love for me!”</i></strong></p>
+                                      
+                   <p><strong><i>“Lord, I want to be your witness in the world today. Purify my heart, and give me the 
+                   strength to put you and your people first in my life.”</i></strong></p>
                     <p class="text-muted">&copy; Word Among Us - Mediation</p>
                 </div>
             </div>
