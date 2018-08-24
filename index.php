@@ -125,41 +125,43 @@ function successful()
                 <div class="modal-header modal-about" style="background-color: black; color: white;">
                     <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                     <h4 class="modal-title modal-about text-center">Daily Mediation </h4>
-                    <h6 class="modal-title modal-about text-center"><i>(Matthew 22:12)</i></h6>
+                    <h6 class="modal-title modal-about text-center"><i>(John 1:51)</i></h6>
                 </div>
                 <div class="modal-body modal-about">
-                    <p><h3>Saint Rose of Lima, Virgin (Optional Memorial)</h3></p>
-                    <p><strong>How is it that you came in here without a wedding garment? (Matthew 22:12)</strong></p><br>
+                    <p><h3>Saint Bartholomew, Apostle (Feast)</h3></p>
+                    <p><strong>You will see heaven opened. (John 1:51)</strong></p><br>
                     
-                   <p>Suppose you’re invited to a good friend’s wedding. After the ceremony, you enter the reception 
-                   hall and you notice another guest, his face unshaven, wearing blue jeans and a tattered T-shirt, 
-                   greedily piling food on his plate and getting into arguments with the other guests. Feeling hurt and 
-                   insulted, the groom walks over to him and says, “How could you? Please leave!” You’re not surprised. 
-                   After all, this man showed your friend terrible disrespect. His attitude was even worse than his 
-                   clothing.</p>
+                   <p>Under a fig tree. That’s where Nathanael (Bartholomew) was when Jesus “saw” him (John 1:48). What 
+                   was he doing there? Maybe eating lunch or thinking about his to-do list. Maybe daydreaming. Some have 
+                   speculated that because it was traditional to study the Scriptures under a fig tree, Nathanael may 
+                   have been meditating on God’s promises. If so, it was the perfect prelude to meeting Jesus.</p>
 
-                   <p>In the same way, the man at the end of Jesus’ parable was out of place. He chose not to wear the 
-                   wedding garment provided for him, snubbing the king’s generous offer to clothe him with dignity. We 
-                   can liken this to the clothing of the saints in heaven, “the righteous deeds of the holy ones” spoken 
-                   of in the Scriptures (Revelation 19:8). We may think this fellow was treated harshly, but it’s actually 
-                   what he chose for himself. For the wedding garment—the righteousness available through Jesus’ 
-                   sacrifice—was his for the taking. He just didn’t put it on.</p>
+                   <p>For centuries, God’s promises had sustained Israel with words of comfort, guidance, and hope. A 
+                   radiant bride, a city and temple shimmering with the glory of the Lord—images that pointed to a 
+                   peaceful future when God would live among his people and make them a light to the rest of the 
+                   world.</p>
 
-                   <p>You, too, have been invited to a wedding banquet, the “wedding feast of the Lamb” (Revelation 19:9). 
-                   You will never receive an invitation more important than this one. So don’t stick it in a drawer. 
-                   Instead, take the grace you have been given and respond to it. Every day, set your heart on growing 
-                   in virtue and holiness. Clothe yourself in “heartfelt compassion, kindness, humility, gentleness, 
-                   and patience” (Colossians 3:12).</p>
+                   <p>Nathanael must have drawn strength from reflecting on this life to come, even as he had to deal 
+                   with Roman occupation. Perhaps this gave him eyes to recognize Jesus as the “Son of God” and “King 
+                   of Israel” who would set things right (John 1:49). And Jesus replied, in essence: “Keep watching. 
+                   Have faith. You haven’t seen anything yet!”</p>
 
-                   <p>Just one note of caution: beware of racking up good deeds just to impress the Lord. He is far more 
-                   interested in quality than quantity. He wants to see a change in your heart, not just your actions. 
-                   That’s why he is pleased when you put aside selfishness and let his love flow out of you. It’s why he 
-                   is excited to see you embrace opportunities to bring his encouragement or wisdom to the people who 
-                   need it. As long as you are trying to love, you need never fear ending up like this unfortunate man.</p>
+                   <p>That’s what Jesus tells us too. Like Nathanael, we have beautiful promises of the life to come. 
+                   We even know that this life has already begun. Baptized into Christ, we have been born of water and 
+                   the Spirit; we have become children of God and citizens of heaven. Now, as St. Catherine of Siena 
+                   said: “All the way to heaven is heaven.”</p>
                    
+				   <p>Just as Nathanael sat under a fig tree contemplating God’s promises, it’s a good idea for all of 
+				   us to set aside time for quiet, hopeful contemplation. We can try to imagine what heaven will be like. 
+				   We can picture Jesus surrounded by the angels and saints. We can even think about our loved ones who 
+				   have gone before us and imagine them with Jesus, praying for us, cheering us on, and rejoicing every 
+				   time we act in faith.</p>
+				   
+				   <p>Go and sit under your “fig tree” today, wherever that may be: an armchair, your prayer corner, or 
+				   the adoration chapel. If you don’t have one, find the place wherever prayer comes easiest. Lift your 
+				   heart to the Lord and let his promises fill your mind. Then be still and listen for his voice.</p>
                                       
-                   <p><strong><i>“Lord, I want to be your witness in the world today. Purify my heart, and give me the 
-                   strength to put you and your people first in my life.”</i></strong></p>
+                   <p><strong><i>“Jesus, you have thrown heaven wide open. Lord, let me see your glory!”</i></strong></p>
                     <p class="text-muted">&copy; Word Among Us - Mediation</p>
                 </div>
             </div>
