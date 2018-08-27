@@ -125,43 +125,43 @@ function successful()
                 <div class="modal-header modal-about" style="background-color: black; color: white;">
                     <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                     <h4 class="modal-title modal-about text-center">Daily Mediation </h4>
-                    <h6 class="modal-title modal-about text-center"><i>(John 1:51)</i></h6>
+                    <h6 class="modal-title modal-about text-center"><i>(2 Thessalonians 1:3)</i></h6>
                 </div>
                 <div class="modal-body modal-about">
-                    <p><h3>Saint Bartholomew, Apostle (Feast)</h3></p>
-                    <p><strong>You will see heaven opened. (John 1:51)</strong></p><br>
+                    <p><h3>Saint Monica (Memorial)</h3></p>
+                    <p><strong>Your faith flourishes ever more. (2 Thessalonians 1:3)</strong></p><br>
                     
-                   <p>Under a fig tree. That’s where Nathanael (Bartholomew) was when Jesus “saw” him (John 1:48). What 
-                   was he doing there? Maybe eating lunch or thinking about his to-do list. Maybe daydreaming. Some have 
-                   speculated that because it was traditional to study the Scriptures under a fig tree, Nathanael may 
-                   have been meditating on God’s promises. If so, it was the perfect prelude to meeting Jesus.</p>
+                   <p>The Thessalonians were going through a rough patch. They were being persecuted 
+                   (2 Thessalonians 1:4). A false prophecy or a letter forged under Paul’s name said that the Second 
+                   Coming was imminent, and it left the community unsettled (2:1-2). Some members weren’t doing their 
+                   fair share of work (3:6-11). Yet even though they faced all these problems, Paul opened his letter by 
+                   commending them for their ever-increasing faith. Why?</p>
 
-                   <p>For centuries, God’s promises had sustained Israel with words of comfort, guidance, and hope. A 
-                   radiant bride, a city and temple shimmering with the glory of the Lord—images that pointed to a 
-                   peaceful future when God would live among his people and make them a light to the rest of the 
-                   world.</p>
+                   <p>Paul saw all the good that was happening among them. His word of encouragement probably helped 
+                   them see it for themselves as well.</p>
 
-                   <p>Nathanael must have drawn strength from reflecting on this life to come, even as he had to deal 
-                   with Roman occupation. Perhaps this gave him eyes to recognize Jesus as the “Son of God” and “King 
-                   of Israel” who would set things right (John 1:49). And Jesus replied, in essence: “Keep watching. 
-                   Have faith. You haven’t seen anything yet!”</p>
+                   <p>Sometimes in the face of obstacles, all we need is a kind word to keep us moving forward. When 
+                   someone comments on how hard we are working, it energizes us and gives us hope. One simple word of 
+                   encouragement can change the tone of an environment and bring peace to a situation on the verge of 
+                   discord. Even a humble “Thank you for all you do” can brighten someone’s day.</p>
 
-                   <p>That’s what Jesus tells us too. Like Nathanael, we have beautiful promises of the life to come. 
-                   We even know that this life has already begun. Baptized into Christ, we have been born of water and 
-                   the Spirit; we have become children of God and citizens of heaven. Now, as St. Catherine of Siena 
-                   said: “All the way to heaven is heaven.”</p>
+                   <p>Encouragement can start right in our own families. It can be so easy to focus on what we think 
+                   needs correcting in family members. But how about pointing out all the things they are doing well 
+                   instead? When we say to a teenager, “I saw how kind you were to your little brother today,” it makes 
+                   her feel good about herself and will lead her to be kind to her brother in the future. When we tell 
+                   our spouse, “I really appreciate how hard you are working to provide for us,” it makes him or her 
+                   feel valued and appreciated.</p>
                    
-				   <p>Just as Nathanael sat under a fig tree contemplating God’s promises, it’s a good idea for all of 
-				   us to set aside time for quiet, hopeful contemplation. We can try to imagine what heaven will be like. 
-				   We can picture Jesus surrounded by the angels and saints. We can even think about our loved ones who 
-				   have gone before us and imagine them with Jesus, praying for us, cheering us on, and rejoicing every 
-				   time we act in faith.</p>
+				   <p>Don’t stop with your family. Maybe at Mass you could turn to a family with small children and tell 
+				   them how happy you are that they are there—even if the kids were a handful that morning. Or you could 
+				   tell a coworker struggling with a tough assignment that you have confidence in her and are sure she 
+				   has the gifts and ability to complete it.</p>
 				   
-				   <p>Go and sit under your “fig tree” today, wherever that may be: an armchair, your prayer corner, or 
-				   the adoration chapel. If you don’t have one, find the place wherever prayer comes easiest. Lift your 
-				   heart to the Lord and let his promises fill your mind. Then be still and listen for his voice.</p>
+				   <p>Just as Paul chose to recognize the growing faith of the Thessalonians, so we can choose to see 
+				   the good in people and let them know about it. Don’t ever underestimate the value of an encouraging 
+				   word. You never know the good it can do!</p>
                                       
-                   <p><strong><i>“Jesus, you have thrown heaven wide open. Lord, let me see your glory!”</i></strong></p>
+                   <p><strong><i>“Jesus, help me not to miss opportunities to encourage my brothers and sisters.”</i></strong></p>
                     <p class="text-muted">&copy; Word Among Us - Mediation</p>
                 </div>
             </div>
@@ -1126,16 +1126,17 @@ function successful()
 
             <div class="row">
                 <div class="col-lg-2 col-md-6 mask">
-                    <img class="img-rounded img-responsive" src="img/victoria.jpg" alt="Generic placeholder image" width="140" height="140">
-                    <h5><strong>Blessed Victoria Rasoamanarivo  - (1848-1894)</strong></h5>
+                    <img class="img-rounded img-responsive" src="img/Genuflecting-27.jpg" alt="Margaret Ward" width="140" height="140">
+                    <h5><strong>Margaret Ward  - (died 1588)</strong></h5>
                 </div>
                 <div class="col-lg-10 col-md-6">
-                    <p>Victoria was born into a leading tribal family in Madagascar at a time when Christian 
-                    missionaries had been expelled. After this persecution, she was among the first pupils at a mission 
-                    school run by nuns. In 1863, she was baptized, but it was hard to be Catholic in her circle. Though 
-                    she wanted to become a nun, she was married to the chief minister’s son, who drank heavily and was 
-                    unfaithful. When a new persecution began, she encouraged her fellow Catholics, and helped the local 
-                    church survive. She was beatified in 1989.</p>
+                    <p>Among the Forty Martyrs of England and Wales canonized in 1970, Margaret Ward was a gentlewoman 
+                    from Cheshire living in London who tried to help a secular priest imprisoned during the persecution 
+                    of Catholics. Father Richard Watson had been tortured and starved, released for banishment, 
+                    imprisoned again, and brutalized until he became a nervous wreck. Margaret visited him, bringing 
+                    food. She and John Roche, an Irishman, were arrested for helping the priest escape by dropping into 
+                    the Thames in the middle of the night. When they refused to reveal his whereabouts, apologize to 
+                    Queen Elizabeth I or attend the state church, they were hanged at Tyburn.</p>
 
                        <p class="text-muted">&copy; Catholic News Services - Maximilian Kolbe</p>
                 </div>
