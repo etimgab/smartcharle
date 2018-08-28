@@ -567,3 +567,6 @@ footer h3{
 .pb-3{
     padding-bottom:1rem!important
 }
+.marquee{
+    width: 100%;
+}

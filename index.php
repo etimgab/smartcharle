@@ -61,7 +61,13 @@ function successful()
 
 </head>
 <body data-spy="scroll" id="index-top">
-
+<style>
+marquee{
+    width: 100%;
+    background-color:black;
+    color: white;
+    }
+</style>
 <!-- Section for navigation bar -->
 <nav id="churchNav" class="navbar navbar-inverse navbar-fixed-top" style="background-color: #122b40">
     <div class="container-fluid">
@@ -125,43 +131,44 @@ function successful()
                 <div class="modal-header modal-about" style="background-color: black; color: white;">
                     <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                     <h4 class="modal-title modal-about text-center">Daily Mediation </h4>
-                    <h6 class="modal-title modal-about text-center"><i>(2 Thessalonians 1:3)</i></h6>
+                    <h6 class="modal-title modal-about text-center"><i>(Matthew 23:26)</i></h6>
                 </div>
                 <div class="modal-body modal-about">
-                    <p><h3>Saint Monica (Memorial)</h3></p>
-                    <p><strong>Your faith flourishes ever more. (2 Thessalonians 1:3)</strong></p><br>
+                    <p><h3>Saint Augustine, Bishop and Doctor of the Church (Memorial)</h3></p>
+                    <p><strong>Cleanse first the inside of the cup. (Matthew 23:26)</strong></p><br>
                     
-                   <p>The Thessalonians were going through a rough patch. They were being persecuted 
-                   (2 Thessalonians 1:4). A false prophecy or a letter forged under Paul’s name said that the Second 
-                   Coming was imminent, and it left the community unsettled (2:1-2). Some members weren’t doing their 
-                   fair share of work (3:6-11). Yet even though they faced all these problems, Paul opened his letter by 
-                   commending them for their ever-increasing faith. Why?</p>
+                   <p>Ice cream sundaes, quickly consumed, can leave a lovely fluted dish splotched with leftover cherry 
+                   pits, chocolate sprinkles, and nuts. The dish looks pretty on the outside, but the inside is a sticky 
+                   mess. That’s like the image Jesus used to get these Pharisees’ attention. We know some Pharisees, 
+                   like Nicodemus and Joseph of Arimathea, believed in Jesus and became his disciples. But these 
+                   Pharisees despised him.</p>
 
-                   <p>Paul saw all the good that was happening among them. His word of encouragement probably helped 
-                   them see it for themselves as well.</p>
+                   <p>Jesus’ rebuke might sound harsh; it might even make you squirm inside. After all, most of us know 
+                   his words could just as easily apply to us. But Jesus isn’t trying to shame the Pharisees (or us) 
+                   into change. He is trying to draw our gaze to the truth: only Jesus can cleanse the “inside of the 
+                   cup,” our hearts (Matthew 23:26).</p>
 
-                   <p>Sometimes in the face of obstacles, all we need is a kind word to keep us moving forward. When 
-                   someone comments on how hard we are working, it energizes us and gives us hope. One simple word of 
-                   encouragement can change the tone of an environment and bring peace to a situation on the verge of 
-                   discord. Even a humble “Thank you for all you do” can brighten someone’s day.</p>
+                   <p>No matter how forcefully Jesus’ words strike you, be assured of this: God is not mad at you. He 
+                   loves you intensely, and he is trying to open your eyes to the leftover mess in your heart. His 
+                   rebuke is meant as an invitation to turn back to him.</p>
 
-                   <p>Encouragement can start right in our own families. It can be so easy to focus on what we think 
-                   needs correcting in family members. But how about pointing out all the things they are doing well 
-                   instead? When we say to a teenager, “I saw how kind you were to your little brother today,” it makes 
-                   her feel good about herself and will lead her to be kind to her brother in the future. When we tell 
-                   our spouse, “I really appreciate how hard you are working to provide for us,” it makes him or her 
-                   feel valued and appreciated.</p>
+                   <p>St. Augustine, whose memorial we celebrate today, once told God, “You made me see that there was 
+                   something to see.” Augustine saw Jesus and his holiness, and that shed light on his own need for God 
+                   and his potential to be like Jesus. “You called and shouted,” he acknowledged, “and broke through my 
+                   deafness.”</p>
                    
-				   <p>Don’t stop with your family. Maybe at Mass you could turn to a family with small children and tell 
-				   them how happy you are that they are there—even if the kids were a handful that morning. Or you could 
-				   tell a coworker struggling with a tough assignment that you have confidence in her and are sure she 
-				   has the gifts and ability to complete it.</p>
+				   <p>Jesus was shouting to break through the Pharisees’ deafness. God, who is good and gentle, is also 
+				   powerful and wise. Don’t be frightened by the power of his voice. He isn’t screaming at you, 
+				   “Hey you, your cup is filthy!” He’s inviting you closer so that you can hear him calling out, 
+				   “Here I am! Let me help you.”</p>
 				   
-				   <p>Just as Paul chose to recognize the growing faith of the Thessalonians, so we can choose to see 
-				   the good in people and let them know about it. Don’t ever underestimate the value of an encouraging 
-				   word. You never know the good it can do!</p>
+				   <p>Jesus wants to help you. He wants you to be holy just as he is holy. He wants to hold your hand 
+				   and guide you as you deal with whatever separates you from him. Perhaps he will lead you to look at 
+				   what is gumming up your sundae dish. Perhaps it will lead to the confessional for a thorough 
+				   scrubbing. Once everything is cleared away, the Spirit will deepen your faith in Jesus—and give you 
+				   a deeper experience of his love.</p>
                                       
-                   <p><strong><i>“Jesus, help me not to miss opportunities to encourage my brothers and sisters.”</i></strong></p>
+                   <p><strong><i>“Jesus, cleanse me from the inside out.”</i></strong></p>
                     <p class="text-muted">&copy; Word Among Us - Mediation</p>
                 </div>
             </div>
@@ -772,6 +779,7 @@ function successful()
                 <div class="col-lg-12">
                     <div class="text-center">
                         <h3 class="well well-sm">Recent Events</h3>
+                        <marquee direction="scroll"><h5>We solicit for your support (Email: parish.priest@stcharleslwanga.com.ng)</h5></marquee>
                         <div id="myCarousel" class="carousel slide" data-ride="carousel">
                             <!-- Indicators -->
                             <ol class="carousel-indicators">
@@ -795,308 +803,172 @@ function successful()
                                 <li data-target="#myCarousel" data-slide-to="17"></li>
                                 <li data-target="#myCarousel" data-slide-to="18"></li>
                                 <li data-target="#myCarousel" data-slide-to="19"></li>
-                                <li data-target="#myCarousel" data-slide-to="20"></li>
-                                <li data-target="#myCarousel" data-slide-to="21"></li>
-                                <li data-target="#myCarousel" data-slide-to="22"></li>
-                                <li data-target="#myCarousel" data-slide-to="23"></li>
-                                <li data-target="#myCarousel" data-slide-to="24"></li>
-                                <li data-target="#myCarousel" data-slide-to="25"></li>
-                                <li data-target="#myCarousel" data-slide-to="26"></li>
-                                <li data-target="#myCarousel" data-slide-to="27"></li>
-                                <li data-target="#myCarousel" data-slide-to="28"></li>
-                                <li data-target="#myCarousel" data-slide-to="29"></li>
-                                <li data-target="#myCarousel" data-slide-to="30"></li>
-                                <li data-target="#myCarousel" data-slide-to="31"></li>
-                                <li data-target="#myCarousel" data-slide-to="32"></li>
-                                <li data-target="#myCarousel" data-slide-to="33"></li>
-                                <li data-target="#myCarousel" data-slide-to="34"></li>
-                                <li data-target="#myCarousel" data-slide-to="35"></li>                                
+                                <li data-target="#myCarousel" data-slide-to="20"></li>                                
                             </ol>
 
                             <!-- Wrapper for slides -->
                             <div class="carousel-inner">
                                 <div class="item active">
-                                    <img src="img/mala.jpg" alt="Parish Priest Birthday Celebration">
+                                    <img src="img/project.jpg" alt="Parish Project 2018">
                                     <div class="carousel-caption">
-                                        <h3>57th Birthday</h3>
-                                        <p>Celebration with Children in the Parish</p>
+                                        <h3>Parish Project 2018</h3>
+                                        <!--<p>Celebration with Children in the Parish</p>-->
                                     </div>
                                 </div>
                                 
                                 <div class="item">
-                                    <img src="img/mala1.jpg" alt="Parish Priest Birthday Celebration">
+                                    <img src="img/project1.jpg" alt="Parish Project 2018">
                                     <div class="carousel-caption">
-                                        <h3>57th Birthday</h3>
-                                        <p>Celebration with Children in the Parish</p>
+                                        <h3>Parish Project 2018</h3>
+                                        <!--<p>Celebration with Children in the Parish</p>-->
                                     </div>
                                 </div>
                                 
                                 <div class="item">
-                                    <img src="img/mala2.jpg" alt="Parish Priest Birthday Celebration">
+                                    <img src="img/project2.jpg" alt="Parish Project 2018">
                                     <div class="carousel-caption">
-                                        <h3>57th Birthday</h3>
-                                        <p>Celebration with Children in the Parish</p>
+                                        <h3>Parish Project 2018</h3>
+                                        <!--<p>Celebration with Children in the Parish</p>-->
                                     </div>
                                 </div>
                                 
                                 <div class="item">
-                                    <img src="img/mala3.jpg" alt="Parish Priest Birthday Celebration">
+                                    <img src="img/project3.jpg" alt="Parish Project 2018">
                                     <div class="carousel-caption">
-                                        <h3>57th Birthday</h3>
-                                        <p>Celebration with Children in the Parish</p>
+                                        <h3>Parish Project 2018</h3>
+                                        <!--<p>Celebration with Children in the Parish</p>-->
                                     </div>
                                 </div>
                                 
                                 
                                 <div class="item">
-                                    <img src="img/mary_league.jpg" alt="Mary League Girls">
+                                    <img src="img/project4.jpg" alt="Parish Project 2018">
                                     <div class="carousel-caption">
-                                        <h3>20th Anniversary</h3>
-                                        <p>Mary League Girls</p>
-                                    </div>
-                                </div>
-
-                                <div class="item">
-                                    <img src="img/mary_league1.jpg" alt="Mary League Girls">
-                                    <div class="carousel-caption">
-                                        <h3>20th Anniversary</h3>
-                                        <p>Mary League Girls</p>
+                                        <h3>Parish Project 2018</h3>
+                                        <!--<p>Mary League Girls</p>-->
                                     </div>
                                 </div>
 
                                 <div class="item">
-                                    <img src="img/mary_league2.jpg" alt="Mary League Girls">
+                                    <img src="img/project5.jpg" alt="Parish Project 2018">
                                     <div class="carousel-caption">
-                                        <h3>20th Anniversary</h3>
-                                        <p>Mary League Girls</p>
+                                        <h3>Parish Project 2018</h3>
+                                        <!--<p>Mary League Girls</p>-->
                                     </div>
                                 </div>
 
                                 <div class="item">
-                                    <img src="img/mary_league3.jpg" alt="Mary League Girls">
+                                    <img src="img/project6.jpg" alt="Parish Project 2018">
                                     <div class="carousel-caption">
-                                        <h3>20th Anniversary</h3>
-                                        <p>Mary League Girls</p>
+                                        <h3>Parish Project 2018</h3>
+                                        <!--<p>Mary League Girls</p>-->
                                     </div>
                                 </div>
 
                                 <div class="item">
-                                    <img src="img/NYD_2018.jpg" alt="National Youth Day">
+                                    <img src="img/project8.jpg" alt="Parish Project 2018">
                                     <div class="carousel-caption">
-                                        <h3>National Youth Day</h3>
-                                        <p>National Youth Day 2018</p>
+                                        <h3>Parish Project 2018</h3>
+                                        <!--<p>Mary League Girls</p>-->
+                                    </div>
+                                </div>
+
+                                <div class="item">
+                                    <img src="img/project7.jpg" alt="Parish Project 2018">
+                                    <div class="carousel-caption">
+                                        <h3>Parish Project 2018</h3>
+                                        <!--<p>National Youth Day 2018</p>-->
                                     </div>
                                 </div>
                                 
                                 <div class="item">
-                                    <img src="img/NYD_2018_0.jpg" alt="National Youth Day">
+                                    <img src="img/new_chapel.jpg" alt="New Chapel Project">
                                     <div class="carousel-caption">
-                                        <h3>National Youth Day</h3>
-                                        <p>National Youth Day 2018</p>
-                                    </div>
-                                </div>
-                                
-                                
-                                <div class="item">
-                                    <img src="img/youth_Mass.jpg" alt="National Youth Day">
-                                    <div class="carousel-caption">
-                                        <h3>Mass Celebration</h3>
-                                        <p>National Youth Day 2018</p>
-                                    </div>
-                                </div>
-                                
-                                <div class="item">
-                                    <img src="img/youth_Mass1.jpg" alt="National Youth Day">
-                                    <div class="carousel-caption">
-                                        <h3>Mass Celebration</h3>
-                                        <p>National Youth Day 2018</p>
-                                    </div>
-                                </div>
-                                
-                                <div class="item">
-                                    <img src="img/youth_Mass2.jpg" alt="National Youth Day">
-                                    <div class="carousel-caption">
-                                        <h3>Mass Celebration</h3>
-                                        <p>National Youth Day 2018</p>
-                                    </div>
-                                </div>
-                                
-                                <div class="item">
-                                    <img src="img/youth_Mass3.jpg" alt="National Youth Day">
-                                    <div class="carousel-caption">
-                                        <h3>Mass Celebration</h3>
-                                        <p>National Youth Day 2018</p>
-                                    </div>
-                                </div>
-                                
-                                <div class="item">
-                                    <img src="img/youth_Mass4.jpg" alt="National Youth Day">
-                                    <div class="carousel-caption">
-                                        <h3>Mass Celebration</h3>
-                                        <p>National Youth Day 2018</p>
-                                    </div>
-                                </div>
-                                
-                                <div class="item">
-                                    <img src="img/youth_Mass5.jpg" alt="National Youth Day">
-                                    <div class="carousel-caption">
-                                        <h3>Mass Celebration</h3>
-                                        <p>National Youth Day 2018</p>
-                                    </div>
-                                </div>
-                                
-                                <div class="item">
-                                    <img src="img/youth_talk.jpg" alt="National Youth Day">
-                                    <div class="carousel-caption">
-                                        <h3>NYD Talk</h3>
-                                        <p>National Youth Day 2018</p>
-                                    </div>
-                                </div>
-                                
-                                <div class="item">
-                                    <img src="img/youth_talk1.jpg" alt="National Youth Day">
-                                    <div class="carousel-caption">
-                                        <h3>NYD Talk</h3>
-                                        <p>National Youth Day 2018</p>
-                                    </div>
-                                </div>
-                                
-                                <div class="item">
-                                    <img src="img/youth_talk2.jpg" alt="National Youth Day">
-                                    <div class="carousel-caption">
-                                        <h3>NYD Talk</h3>
-                                        <p>National Youth Day 2018</p>
-                                    </div>
-                                </div>
-                                
-                                <div class="item">
-                                    <img src="img/NYD_2018_1.jpg" alt="National Youth Day">
-                                    <div class="carousel-caption">
-                                        <h3>National Youth Day</h3>
-                                        <p>National Youth Day 2018</p>
-                                    </div>
-                                </div>
-                                
-                                <div class="item">
-                                    <img src="img/NYD_2018_2.jpg" alt="National Youth Day">
-                                    <div class="carousel-caption">
-                                        <h3>National Youth Day</h3>
-                                        <p>National Youth Day 2018</p>
-                                    </div>
-                                </div>
-                                
-                                <div class="item">
-                                    <img src="img/NYD_2018_3.jpg" alt="National Youth Day">
-                                    <div class="carousel-caption">
-                                        <h3>National Youth Day</h3>
-                                        <p>National Youth Day 2018</p>
-                                    </div>
-                                </div> 
-                                
-                                <div class="item">
-                                    <img src="img/NYD_2018_4.jpg" alt="National Youth Day">
-                                    <div class="carousel-caption">
-                                        <h3>National Youth Day</h3>
-                                        <p>National Youth Day 2018</p>
-                                    </div>
-                                </div>
-                                
-                                <div class="item">
-                                    <img src="img/NYD.jpg" alt="National Youth Day">
-                                    <div class="carousel-caption">
-                                        <h3>St. Charles CYON President & Visiting Bishop</h3>
-                                        <p>National Youth Day 2018</p>
-                                    </div>
-                                </div>    
-                                
-                                <div class="item">
-                                    <img src="img/NYD1.jpg" alt="National Youth Day">
-                                    <div class="carousel-caption">
-                                        <h3>National Youth Day</h3>
-                                        <p>National Youth Day 2018</p>
-                                    </div>
-                                </div>
-                                
-                                <div class="item">
-                                    <img src="img/Abakaliki1.jpg" alt="National Youth Day">
-                                    <div class="carousel-caption">
-                                        <h3>CYON Abakaliki</h3>
-                                        <p>National Youth Day 2018</p>
-                                    </div>
-                                </div>
-                                
-                                <div class="item">
-                                    <img src="img/Enugu.jpg" alt="National Youth Day">
-                                    <div class="carousel-caption">
-                                        <h3>CYON Enugu</h3>
-                                        <p>National Youth Day 2018</p>
-                                    </div>
-                                </div>
-                                
-                                <div class="item">
-                                    <img src="img/Orlu.jpg" alt="National Youth Day">
-                                    <div class="carousel-caption">
-                                        <h3>CYON Orlu</h3>
-                                        <p>National Youth Day 2018</p>
-                                    </div>
-                                </div>
-                                
-                                <div class="item">
-                                    <img src="img/Shandem.jpg" alt="National Youth Day">
-                                    <div class="carousel-caption">
-                                        <h3>CYON Shandem</h3>
-                                        <p>National Youth Day 2018</p>
-                                    </div>
-                                </div>
-                                
-                                <div class="item">
-                                    <img src="img/Umuiaha.jpg" alt="National Youth Day">
-                                    <div class="carousel-caption">
-                                        <h3>CYON Umuiaha</h3>
-                                        <p>National Youth Day 2018</p>
+                                        <h3>New Chapel Project</h3>
+                                        <!--<p>National Youth Day 2018</p>-->
                                     </div>
                                 </div>
                                 
                                 
                                 <div class="item">
-                                    <img src="img/Kontagora.jpg" alt="National Youth Day">
+                                    <img src="img/new_chapel1.jpg" alt="New Chapel Project">
                                     <div class="carousel-caption">
-                                        <h3>CYON Kontagora</h3>
-                                        <p>National Youth Day 2018</p>
+                                        <h3>New Chapel Project</h3>
+                                        <!--<p>National Youth Day 2018</p>-->
                                     </div>
                                 </div>
                                 
                                 <div class="item">
-                                    <img src="img/visiting_bishop_secuirty.jpg" alt="National Youth Day">
+                                    <img src="img/new_chapel2.jpg" alt="New Chapel Project">
                                     <div class="carousel-caption">
-                                        <h3>Visiting Bishop & Security Team</h3>
-                                        <p>National Youth Day 2018</p>
+                                        <h3>New Chapel Project</h3>
+                                        <!--<p>National Youth Day 2018</p>-->
                                     </div>
                                 </div>
                                 
                                 <div class="item">
-                                    <img src="img/Volunteers.jpg" alt="National Youth Day">
+                                    <img src="img/new_chapel3.jpg" alt="New Chapel Project">
                                     <div class="carousel-caption">
-                                        <h3>National Youth Day</h3>
-                                        <p>National Youth Day 2018</p>
-                                    </div>
-                                </div>
-                                                                
-                                <div class="item">
-                                    <img src="img/Interaction.jpg" alt="National Youth Day">
-                                    <div class="carousel-caption">
-                                        <h3>NYD Interaction Session</h3>
-                                        <p>National Youth Day 2018</p>
+                                        <h3>New Chapel Project</h3>
+                                        <!--<p>National Youth Day 2018</p>-->
                                     </div>
                                 </div>
                                 
                                 <div class="item">
-                                    <img src="img/Interaction1.jpg" alt="National Youth Day">
+                                    <img src="img/new_chapel4.jpg" alt="New Chapel Project">
                                     <div class="carousel-caption">
-                                        <h3>NYD Interaction Session</h3>
-                                        <p>National Youth Day 2018</p>
+                                        <h3>New Chapel Project</h3>
+                                        <!--<p>National Youth Day 2018</p>-->
                                     </div>
-                                </div>                           
+                                </div>
+                                
+                                <div class="item">
+                                    <img src="img/new_chapel5.jpg" alt="New Chapel Project">
+                                    <div class="carousel-caption">
+                                        <h3>New Chapel Project</h3>
+                                        <!--<p>National Youth Day 2018</p>-->
+                                    </div>
+                                </div>
+                                
+                                <div class="item">
+                                    <img src="img/new_chapel6.jpg" alt="New Chapel Project">
+                                    <div class="carousel-caption">
+                                        <h3>New Chapel Project</h3>
+                                        <!--<p>National Youth Day 2018</p>-->
+                                    </div>
+                                </div>
+                                
+                                <div class="item">
+                                    <img src="img/new_chapel7.jpg" alt="New Chapel Project">
+                                    <div class="carousel-caption">
+                                        <h3>New Chapel Project</h3>
+                                        <!--<p>National Youth Day 2018</p>-->
+                                    </div>
+                                </div>
+                                
+                                <div class="item">
+                                    <img src="img/new_chapel8.jpg" alt="New Chapel Project">
+                                    <div class="carousel-caption">
+                                        <h3>New Chapel Project</h3>
+                                        <!--<p>National Youth Day 2018</p>-->
+                                    </div>
+                                </div>
+                                
+                                <div class="item">
+                                    <img src="img/new_chapel10.jpg" alt="New Chapel Project">
+                                    <div class="carousel-caption">
+                                        <h3>New Chapel Project</h3>
+                                        <!--<p>National Youth Day 2018</p>-->
+                                    </div>
+                                </div>
+                                
+                                <div class="item">
+                                    <img src="img/new_chapel9.jpg" alt="New Chapel Project">
+                                    <div class="carousel-caption">
+                                        <h3>New Chapel Project</h3>
+                                        <!--<p>National Youth Day 2018</p>-->
+                                    </div>
+                                </div>                
                             </div>
 
                             <!-- Left and right controls -->
