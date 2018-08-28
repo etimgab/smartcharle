@@ -1065,10 +1065,10 @@ marquee{
                                 <!--<dd>6pm</dd>-->                                
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
-                                    <strong>1st: </strong>Ezekiel 28: 1-10<br>
-                                    <strong>Psalm: </strong>(Psalm) Deuteronomy 32:26-28, 30, 35-36<br>
+                                    <strong>1st: </strong>2 Thessalonians 2: 1-3, 14-17<br>
+                                    <strong>Psalm: </strong>(Psalm) Psalm 96: 10-13<br>
                                     <!--<strong>2nd: </strong>Romans 9: 1-5<br>-->
-                                    <strong>Gospel: </strong>Matthew 19: 23-30
+                                    <strong>Gospel: </strong>Matthew 23: 23-26
                                 </dd>
                             </dl>
                         </div>
@@ -1088,10 +1088,10 @@ marquee{
                                 <dd>6pm <br><i>(Healing Mass)</i></dd>                               
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
-                                    <strong>1st: </strong>Ezekiel 34: 1-11<br>
-                                    <strong>Psalm: </strong>Psalm 23: 1-4, 6<br>
+                                    <strong>1st: </strong>Jeremiah 1: 17-19<br>
+                                    <strong>Psalm: </strong>Psalm 71: 1-6, 15, 17<br>
                                     <!--<strong>2nd: </strong>1st Corinthians 15: 20-26<br>-->
-                                    <strong>Gospel: </strong>Matthew 20: 1-16
+                                    <strong>Gospel: </strong>Mark 6: 17-29
                                 </dd>
                             </dl>
                         </div>
@@ -1111,10 +1111,10 @@ marquee{
                                 <!--<dd>6pm</dd>-->                                
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
-                                    <strong>1st: </strong>Ezekiel 36: 23-28<br>
-                                    <strong>Psalm: </strong>Psalms 51: 12-15, 18-19 (Ezekiel 36:25)<br>
+                                    <strong>1st: </strong>1 Corinthians 1: 1-9<br>
+                                    <strong>Psalm: </strong>Psalms 145: 2-7<br>
                                     <!--<strong>2nd: </strong>Romans 9: 1-5<br>-->
-                                    <strong>Gospel: </strong>Matthew 22: 1-14
+                                    <strong>Gospel: </strong>Matthew 24: 42-51
                                 </dd>
                             </dl>
                         </div>
@@ -1134,10 +1134,10 @@ marquee{
                                 <!--<dd>6pm</dd>-->                                
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
-                                    <strong>1st: </strong>Revelation 21: 9-14<br>
-                                    <strong>Psalm: </strong>Psalms 145: 10-13, 17-18<br>
+                                    <strong>1st: </strong>1 Corinthians 1: 17-25<br>
+                                    <strong>Psalm: </strong>Psalms 33: 1-2, 4-5, 10-11<br>
                                     <!--<strong>2nd: </strong>Romans 9: 1-5<br>-->
-                                    <strong>Gospel: </strong>John 1: 45-51
+                                    <strong>Gospel: </strong>Matthew 25: 1-13
                                 </dd>
                             </dl>
                         </div>
@@ -1159,10 +1159,10 @@ marquee{
                                 <dd>1 hour before Mass during Adoration<br></dd>
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
-                                    <strong>1st: </strong>Ezekiel 43: 1-7<br>
-                                    <strong>Psalm: </strong>Psalms 85: 9-14<br>
+                                    <strong>1st: </strong>1 Corinthians 1: 26-31<br>
+                                    <strong>Psalm: </strong>Psalms 33: 12-13, 18-21<br>
                                     <!--<strong>2nd: </strong>Romans 9: 1-5<br>-->
-                                    <strong>Gospel: </strong>Matthew 23: 1-12
+                                    <strong>Gospel: </strong>Matthew 25: 14-30
                                 </dd>
                             </dl>
                         </div>
@@ -1182,10 +1182,10 @@ marquee{
                                 <dd>6pm</dd>                                
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
-                                    <strong>1st: </strong>Joshua 24: 1-2, 15-18<br>
-                                    <strong>Psalm: </strong>Psalms 34: 1-2, 15-18<br>
-                                    <strong>2nd: </strong>Ephesians 5: 21-32<br>
-                                    <strong>Gospel: </strong>John 6: 60-69
+                                    <strong>1st: </strong>Deuteronomy 4: 1-2, 6-8<br>
+                                    <strong>Psalm: </strong>Psalms 15: 2-5<br>
+                                    <strong>2nd: </strong>James 1: 17-18, 21-22, 27<br>
+                                    <strong>Gospel: </strong>Mark 7: 1-8, 14-15, 21-23
                                 </dd>
                             </dl>
                         </div>
