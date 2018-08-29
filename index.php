@@ -131,44 +131,43 @@ marquee{
                 <div class="modal-header modal-about" style="background-color: black; color: white;">
                     <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                     <h4 class="modal-title modal-about text-center">Daily Mediation </h4>
-                    <h6 class="modal-title modal-about text-center"><i>(Matthew 23:26)</i></h6>
+                    <h6 class="modal-title modal-about text-center"><i>(Mark 6:25)</i></h6>
                 </div>
                 <div class="modal-body modal-about">
-                    <p><h3>Saint Augustine, Bishop and Doctor of the Church (Memorial)</h3></p>
-                    <p><strong>Cleanse first the inside of the cup. (Matthew 23:26)</strong></p><br>
+                    <p><h3>The Passion of Saint John the Baptist (Memorial)</h3></p>
+                    <p><strong>Give me at once on a platter the head of John the Baptist. (Mark 6:25)</strong></p><br>
                     
-                   <p>Ice cream sundaes, quickly consumed, can leave a lovely fluted dish splotched with leftover cherry 
-                   pits, chocolate sprinkles, and nuts. The dish looks pretty on the outside, but the inside is a sticky 
-                   mess. That’s like the image Jesus used to get these Pharisees’ attention. We know some Pharisees, 
-                   like Nicodemus and Joseph of Arimathea, believed in Jesus and became his disciples. But these 
-                   Pharisees despised him.</p>
+                   <p>We are all familiar with today’s Gospel: the sad and brutal execution of the “righteous and holy 
+                   man,” St. John the Baptist (Mark 6:20). But let’s take a moment to review some of the background for 
+                   this familiar story.</p>
 
-                   <p>Jesus’ rebuke might sound harsh; it might even make you squirm inside. After all, most of us know 
-                   his words could just as easily apply to us. But Jesus isn’t trying to shame the Pharisees (or us) 
-                   into change. He is trying to draw our gaze to the truth: only Jesus can cleanse the “inside of the 
-                   cup,” our hearts (Matthew 23:26).</p>
+                   <p>John was a descendant from the priestly clans of Israel—a group that had, by and large, 
+                   collaborated with King Herod’s corrupt rule. Rather than associating with this group, John withdrew 
+                   to the desert and began preaching a message of repentance aimed at all of Israel, including Herod and 
+                   his priests. Angered by John’s confrontational words, Herod had John imprisoned.</p>
 
-                   <p>No matter how forcefully Jesus’ words strike you, be assured of this: God is not mad at you. He 
-                   loves you intensely, and he is trying to open your eyes to the leftover mess in your heart. His 
-                   rebuke is meant as an invitation to turn back to him.</p>
+                   <p>Now comes the scene in today’s Gospel, in which Herod’s stepdaughter was used in the most perverse 
+                   way. She was sent to seduce him with her dancing and trick him into agreeing to John’s execution. 
+                   Many movies and plays have portrayed this girl as a wicked temptress who was complicit in the plot. 
+                   But it’s more likely that she was just a pawn in the hands of her manipulative mother.</p>
 
-                   <p>St. Augustine, whose memorial we celebrate today, once told God, “You made me see that there was 
-                   something to see.” Augustine saw Jesus and his holiness, and that shed light on his own need for God 
-                   and his potential to be like Jesus. “You called and shouted,” he acknowledged, “and broke through my 
-                   deafness.”</p>
+                   <p>We don’t have to search far for similar injustices happening today. News outlets are filled with 
+                   stories of children subject to similar kinds of abuse. We hear also of poverty and racial tensions, 
+                   human trafficking and abortion. The list goes on and on.</p>
                    
-				   <p>Jesus was shouting to break through the Pharisees’ deafness. God, who is good and gentle, is also 
-				   powerful and wise. Don’t be frightened by the power of his voice. He isn’t screaming at you, 
-				   “Hey you, your cup is filthy!” He’s inviting you closer so that you can hear him calling out, 
-				   “Here I am! Let me help you.”</p>
+				   <p>All of this can lead us to feel overwhelmed. How can I make a difference on such global-scale 
+				   issues? I’m only one person. Besides, I don’t have the time, the money, or the resources to help 
+				   out.</p>
 				   
-				   <p>Jesus wants to help you. He wants you to be holy just as he is holy. He wants to hold your hand 
-				   and guide you as you deal with whatever separates you from him. Perhaps he will lead you to look at 
-				   what is gumming up your sundae dish. Perhaps it will lead to the confessional for a thorough 
-				   scrubbing. Once everything is cleared away, the Spirit will deepen your faith in Jesus—and give you 
-				   a deeper experience of his love.</p>
+				   <p>But nobody is really helpless when it comes to overcoming injustice. You certainly can reach 
+				   beyond the walls of your home. Whether it’s through financial support or by volunteering at a local 
+				   agency or by committing every day to pray against these evils, you can make a difference. You don’t 
+				   have to follow the path of John the Baptist and become a martyr in the cause of social justice. You 
+				   just have to take one small but courageous step, and you’ll help bring God’s salvation and justice 
+				   to the people who are hurting today.</p>
                                       
-                   <p><strong><i>“Jesus, cleanse me from the inside out.”</i></strong></p>
+                   <p><strong><i>“Jesus, open my heart to the cries of the poor and abused. Show me how I can help them 
+                   today.”</i></strong></p>
                     <p class="text-muted">&copy; Word Among Us - Mediation</p>
                 </div>
             </div>
@@ -779,7 +778,8 @@ marquee{
                 <div class="col-lg-12">
                     <div class="text-center">
                         <h3 class="well well-sm">Recent Events</h3>
-                        <marquee direction="scroll"><h5>We solicit for your support (Email: parish.priest@stcharleslwanga.com.ng)</h5></marquee>
+                        <marquee direction="scroll"><h5>We solicit for your support. Reach us using the Parish's email 
+                        at Parish Contact below</h5></marquee>
                         <div id="myCarousel" class="carousel slide" data-ride="carousel">
                             <!-- Indicators -->
                             <ol class="carousel-indicators">
