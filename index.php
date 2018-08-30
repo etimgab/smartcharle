@@ -131,43 +131,48 @@ marquee{
                 <div class="modal-header modal-about" style="background-color: black; color: white;">
                     <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                     <h4 class="modal-title modal-about text-center">Daily Mediation </h4>
-                    <h6 class="modal-title modal-about text-center"><i>(Mark 6:25)</i></h6>
+                    <h6 class="modal-title modal-about text-center"><i>(1 Corinthians 1:2)</i></h6>
                 </div>
                 <div class="modal-body modal-about">
-                    <p><h3>The Passion of Saint John the Baptist (Memorial)</h3></p>
-                    <p><strong>Give me at once on a platter the head of John the Baptist. (Mark 6:25)</strong></p><br>
+                    <p><h3>21st Week in Ordinary Time</h3></p>
+                    <p><strong>To you who have been sanctified in Christ Jesus. (1 Corinthians 1:2)</strong></p><br>
                     
-                   <p>We are all familiar with today’s Gospel: the sad and brutal execution of the “righteous and holy 
-                   man,” St. John the Baptist (Mark 6:20). But let’s take a moment to review some of the background for 
-                   this familiar story.</p>
+                   <p>How about exploring today’s first reading in a somewhat different way? Let’s pay special 
+                   attention to a class of little words called “prepositions.” For example: Of. In. Upon. It’s easy to 
+                   skip right over them, but these words can make a world of difference—especially in the Scriptures.
+                   </p>
 
-                   <p>John was a descendant from the priestly clans of Israel—a group that had, by and large, 
-                   collaborated with King Herod’s corrupt rule. Rather than associating with this group, John withdrew 
-                   to the desert and began preaching a message of repentance aimed at all of Israel, including Herod and 
-                   his priests. Angered by John’s confrontational words, Herod had John imprisoned.</p>
+                   <p>Prepositions express relationships. Sometimes they describe how things relate physically: Where 
+                   is the hiker? On the mountain. Other times, they relate something to its source: she is from 
+                   Argentina. Still others point to a destination: we’re walking toward the canyon.</p>
 
-                   <p>Now comes the scene in today’s Gospel, in which Herod’s stepdaughter was used in the most perverse 
-                   way. She was sent to seduce him with her dancing and trick him into agreeing to John’s execution. 
-                   Many movies and plays have portrayed this girl as a wicked temptress who was complicit in the plot. 
-                   But it’s more likely that she was just a pawn in the hands of her manipulative mother.</p>
+                   <p>Paul used prepositions again and again—like an adventurer relying on a trusty tool—to describe 
+                   how we relate to Christ. Look at just a few of the ways that Paul expresses our relationship with the 
+                   Lord in today’s reading alone. According to him, we are
+				   <ul>
+				        <li><i>In Christ (1:2)</i></li>
+                        <li><i>• Upon Christ (1:2)</i></li>
+                        <li><i>• To Christ (1:6)</i></li>
+                        <li><i>• With Christ (1:9)</i></li>
+				   </ul>
+				   Each of these little phrases tells us something new about our relationship with the Lord.</p>
 
-                   <p>We don’t have to search far for similar injustices happening today. News outlets are filled with 
-                   stories of children subject to similar kinds of abuse. We hear also of poverty and racial tensions, 
-                   human trafficking and abortion. The list goes on and on.</p>
+                   <p>Consider “in Christ,” for example. You could say that it means your life has been completely taken 
+                   up into Christ’s life. In Christ your old self died. In Christ you were raised up and made into a 
+                   new creation. In Christ you are loved as a son or daughter of God.</p>
                    
-				   <p>All of this can lead us to feel overwhelmed. How can I make a difference on such global-scale 
-				   issues? I’m only one person. Besides, I don’t have the time, the money, or the resources to help 
-				   out.</p>
+				   <p>That’s not all. Because Christ lives in you, he is with you always. Wherever you go, you bring 
+				   Christ with you. Like Mary, you bear him to the world.</p>
 				   
-				   <p>But nobody is really helpless when it comes to overcoming injustice. You certainly can reach 
-				   beyond the walls of your home. Whether it’s through financial support or by volunteering at a local 
-				   agency or by committing every day to pray against these evils, you can make a difference. You don’t 
-				   have to follow the path of John the Baptist and become a martyr in the cause of social justice. You 
-				   just have to take one small but courageous step, and you’ll help bring God’s salvation and justice 
-				   to the people who are hurting today.</p>
+				   <p>And think of this: you will be in Christ forever—into eternity. There will never be a time when 
+				   you are not in Christ.</p>
+				   
+				   <p>What a difference one little word can make! So today spend some time reflecting on how this 
+				   phrase, or one of the others, describes your relationship with Jesus. What seems special or pertinent 
+				   to you right now? Ask the Holy Spirit to help you. You never know—those prepositions might have more 
+				   to say to you than you think!</p>
                                       
-                   <p><strong><i>“Jesus, open my heart to the cries of the poor and abused. Show me how I can help them 
-                   today.”</i></strong></p>
+                   <p><strong><i>“Lord, thank you for this wonderful truth: I am found in you.”</i></strong></p>
                     <p class="text-muted">&copy; Word Among Us - Mediation</p>
                 </div>
             </div>
@@ -1010,7 +1015,7 @@ marquee{
                     the Thames in the middle of the night. When they refused to reveal his whereabouts, apologize to 
                     Queen Elizabeth I or attend the state church, they were hanged at Tyburn.</p>
 
-                       <p class="text-muted">&copy; Catholic News Services - Maximilian Kolbe</p>
+                       <p class="text-muted">&copy; Catholic News Services - Margaret Ward</p>
                 </div>
             </div>
         </div><!-- /.End of Administrative container -->
