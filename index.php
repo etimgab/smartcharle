@@ -131,39 +131,40 @@ marquee{
                 <div class="modal-header modal-about" style="background-color: black; color: white;">
                     <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                     <h4 class="modal-title modal-about text-center">Daily Mediation </h4>
-                    <h6 class="modal-title modal-about text-center"><i>(Matthew 25:6)</i></h6>
+                    <h6 class="modal-title modal-about text-center"><i>(Matthew 25:25)</i></h6>
                 </div>
                 <div class="modal-body modal-about">
-                    <p><h3>21st Week in Ordinary Time</h3></p>
-                    <p><strong>Behold, the bridegroom! (Matthew 25:6)</strong></p><br>
+                    <p><h3>Common of the Blessed Virgin Mary</h3></p>
+                    <p><strong>Out of fear . . . (Matthew 25:25)</strong></p><br>
                     
-                   <pThis parable of the ten bridesmaids might seem gloomy to us, even frightening, with its locked door 
-                   and grim “I do not know you” (Matthew 25:12). We might shy away from it for fear we might be found 
-                   among the foolish. But even if his strong language makes you nervous, remember that Jesus wants us 
-                   to be ready to greet him when he returns. So let’s turn to Jesus, our bridegroom, and pray:</p>
+                   <p>Can you guess which command appears the most frequently in the Bible? It’s Do not fear. Those 
+                   words show up 74 times, and the variation “Do not be afraid” appears 48 times. That’s a total of 122 
+                   times! We didn’t even count all the various other ways that God tells his people not to let fear 
+                   rule them.</p>
 
-                   <p>“Lord, you know how hard it can be for me to wait. I know I should be watching for your return, 
-                   but it seems so far off. People that I love are suffering, and I am still waiting for an answer to 
-                   my prayers. People that I love have died, and I miss them—I want to see them again. And there is so 
-                   much that I don’t understand about the world. I know that, one day, you will heal every wound and 
-                   wipe away every tear. I know that there will be no more sickness, no more suffering. But while I 
-                   wait for that day, I need to know your closeness. Will you wait with me, Lord? Fill me, Lord, with 
-                   your hope and patience.</p>
+                   <p>It’s a shame the fellow in today’s parable didn’t take these words seriously. It was fear that 
+                   drove him to bury the talent his master had given to him. It was fear that made him think his master 
+                   was a harsh man with unreasonable expectations. And it was his fear that cast him, penniless, into 
+                   the outer darkness.</p>
 
-                   <p>“Jesus, sometimes I fall asleep—but you already know that. I intend to come to you in prayer, but 
-                   I get too busy. I want to read your word, but it’s much easier to watch television or surf the 
-                   Internet. I know you would gladly fill my lamp, but I’m so drowsy that I can’t even tell when my oil 
-                   supply is running low. But none of this surprises you. You always keep watch over me, even when I 
-                   sleep. You have plenty of oil for me: plenty of grace and strength to help me stay awake. Fill me, 
-                   Lord, with vigilance.</p>
+                   <p>Of course, fear is not a sin in itself. Sometimes it’s exactly the right response to a dangerous 
+                   situation. Fear can trigger a fight-or-flight reaction as a way of protecting ourselves. It’s only 
+                   when we let fear overwhelm us that we get in trouble. For instance, if we’re not careful, we might 
+                   try to steer clear of God—especially in Confession—because we’re afraid he might be angry with us. 
+                   Or we might bury our gifts rather than use them to build God’s kingdom because we’re afraid we’ll 
+                   fail.</p>
 
-                   <p>Lord, when I think about your return, I start to feel nervous, not joyful. I wonder whether I am 
-                   a wise or foolish disciple. Will I be ready? But you are the bridegroom, and you are completely 
-                   committed to me. You came once to die and rise for me, and you will come again to bring me home. 
-                   Just thinking about your love casts out my fear. I can just imagine the joy in your eyes as we both 
-                   look forward to that reunion. Fill me, Lord, with your joy.</p>
+                   <p>Don’t let this happen! When you feel fear rising up, remember that God is your Father, not your 
+                   executioner. Remember that he is “merciful and gracious . . . , slow to anger, abounding in mercy” 
+                   (Psalm 103:8). Then use whatever courage you have to take the next step forward. God will supply 
+                   whatever strength you need.</p>
+                   
+                   <p>God loves when we push through our fear out of love for him. He loves it when we trust in his 
+                   goodness and step out in faith. Even if we aren’t as successful as we’d like to be, he still says, 
+                   “Well done, my good and faithful servant” (Matthew 25:21). He sees our faith, however weak we may 
+                   think it is. He sees our courage, however small we may think it is. And he rewards us for it.</p>
                                                          
-                   <p><strong><i>“Jesus, my bridegroom, fill my lamp today.”</i></strong></p>
+                   <p><strong><i>“Jesus, help me to overcome my fears.”</i></strong></p>
                     <p class="text-muted">&copy; Word Among Us - Mediation</p>
                 </div>
             </div>
