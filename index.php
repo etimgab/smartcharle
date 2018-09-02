@@ -131,40 +131,39 @@ marquee{
                 <div class="modal-header modal-about" style="background-color: black; color: white;">
                     <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                     <h4 class="modal-title modal-about text-center">Daily Mediation </h4>
-                    <h6 class="modal-title modal-about text-center"><i>(Matthew 25:25)</i></h6>
+                    <h6 class="modal-title modal-about text-center"><i>(James 1:22)</i></h6>
                 </div>
                 <div class="modal-body modal-about">
-                    <p><h3>Common of the Blessed Virgin Mary</h3></p>
-                    <p><strong>Out of fear . . . (Matthew 25:25)</strong></p><br>
+                    <p><h3>22nd Sunday in Ordinary Time</h3></p>
+                    <p><strong>Be doers of the word. (James 1:22)</strong></p><br>
                     
-                   <p>Can you guess which command appears the most frequently in the Bible? It’s Do not fear. Those 
-                   words show up 74 times, and the variation “Do not be afraid” appears 48 times. That’s a total of 122 
-                   times! We didn’t even count all the various other ways that God tells his people not to let fear 
-                   rule them.</p>
+                   <p>In today’s second reading, James compares the Scriptures to a mirror. When we read the word of 
+                   God, or when we hear it proclaimed at Mass, we often see ourselves in the stories and teachings it 
+                   contains. Scripture helps us “discern reflections and thoughts of the heart,” both the good thoughts 
+                   and the not so good ones (Hebrews 4:12). Scripture can expose our pride, confront our resentments, 
+                   or uncover our deception, greed, or lust. But at the same time, Scripture assures us that God made 
+                   us in his image. It convinces us that God loves us and that his grace is more than enough to change 
+                   our lives.</p>
 
-                   <p>It’s a shame the fellow in today’s parable didn’t take these words seriously. It was fear that 
-                   drove him to bury the talent his master had given to him. It was fear that made him think his master 
-                   was a harsh man with unreasonable expectations. And it was his fear that cast him, penniless, into 
-                   the outer darkness.</p>
+                   <p>But no matter how much grace God has for us, James tells us that it’s not enough just to hear the 
+                   word of God—not if we want to see any significant changes in the sinful areas of our lives. 
+                   Similarly, just hearing the word of God won’t result in a growth in our gifts and virtues. We have 
+                   to be “doers of the word” as well as “hearers” (James 1:22).</p>
 
-                   <p>Of course, fear is not a sin in itself. Sometimes it’s exactly the right response to a dangerous 
-                   situation. Fear can trigger a fight-or-flight reaction as a way of protecting ourselves. It’s only 
-                   when we let fear overwhelm us that we get in trouble. For instance, if we’re not careful, we might 
-                   try to steer clear of God—especially in Confession—because we’re afraid he might be angry with us. 
-                   Or we might bury our gifts rather than use them to build God’s kingdom because we’re afraid we’ll 
-                   fail.</p>
+                   <p>James gives us a wonderful image to help make this point: someone who hears the word but doesn’t 
+                   put it into action “is like a man who looks at his own face in a mirror. He sees himself, then goes 
+                   off and promptly forgets what he looked like” (James 1:23-24).</p>
 
-                   <p>Don’t let this happen! When you feel fear rising up, remember that God is your Father, not your 
-                   executioner. Remember that he is “merciful and gracious . . . , slow to anger, abounding in mercy” 
-                   (Psalm 103:8). Then use whatever courage you have to take the next step forward. God will supply 
-                   whatever strength you need.</p>
+                   <p>James isn’t speaking about a poor memory here. He’s speaking about poor priorities. People 
+                   “forget” Scripture because they have placed other priorities ahead of following the Lord.</p>
                    
-                   <p>God loves when we push through our fear out of love for him. He loves it when we trust in his 
-                   goodness and step out in faith. Even if we aren’t as successful as we’d like to be, he still says, 
-                   “Well done, my good and faithful servant” (Matthew 25:21). He sees our faith, however weak we may 
-                   think it is. He sees our courage, however small we may think it is. And he rewards us for it.</p>
+                   <p>The word of God does have the power to help us—but only to the degree that we cooperate with it. 
+                   So be sure to read Scripture each day. But also be sure to write down one action step you can take 
+                   based on what you have read. Then, dedicate your day to taking that one step at every opportunity. 
+                   Let it help you say no to sin and yes to God today. If you do, you will be “blessed” beyond your 
+                   expectations (James 1:25)!</p>
                                                          
-                   <p><strong><i>“Jesus, help me to overcome my fears.”</i></strong></p>
+                   <p><strong><i>“Lord, I welcome your word.”</i></strong></p>
                     <p class="text-muted">&copy; Word Among Us - Mediation</p>
                 </div>
             </div>
