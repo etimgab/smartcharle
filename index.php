@@ -131,39 +131,41 @@ marquee{
                 <div class="modal-header modal-about" style="background-color: black; color: white;">
                     <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                     <h4 class="modal-title modal-about text-center">Daily Mediation </h4>
-                    <h6 class="modal-title modal-about text-center"><i>(James 1:22)</i></h6>
+                    <h6 class="modal-title modal-about text-center"><i>(1 Corinthians 2:3)</i></h6>
                 </div>
                 <div class="modal-body modal-about">
-                    <p><h3>22nd Sunday in Ordinary Time</h3></p>
-                    <p><strong>Be doers of the word. (James 1:22)</strong></p><br>
+                    <p><h3>Saint Gregory the Great, Pope and Doctor of the Church (Memorial); Labor Day, USA</h3></p>
+                    <p><strong>I came to you in weakness. (1 Corinthians 2:3)</strong></p><br>
                     
-                   <p>In today’s second reading, James compares the Scriptures to a mirror. When we read the word of 
-                   God, or when we hear it proclaimed at Mass, we often see ourselves in the stories and teachings it 
-                   contains. Scripture helps us “discern reflections and thoughts of the heart,” both the good thoughts 
-                   and the not so good ones (Hebrews 4:12). Scripture can expose our pride, confront our resentments, 
-                   or uncover our deception, greed, or lust. But at the same time, Scripture assures us that God made 
-                   us in his image. It convinces us that God loves us and that his grace is more than enough to change 
-                   our lives.</p>
+                   <p>Strong, successful, smart—clearly, these are admirable qualities, and for good reason. They are 
+                   gifts coming from the hand of a loving God. But as admirable and helpful as these gifts are, there 
+                   are a few things they cannot do. First, and most important, they don’t make us more valuable in 
+                   God’s eyes. What’s more, they don’t make us better witnesses to the gospel. Of course, God is 
+                   pleased when we use our gifts to build his Church, but that doesn’t mean he loves us any more than 
+                   before. Intelligence, strength, and other abilities are simply attributes God expects us to develop 
+                   and put to good use.</p>
 
-                   <p>But no matter how much grace God has for us, James tells us that it’s not enough just to hear the 
-                   word of God—not if we want to see any significant changes in the sinful areas of our lives. 
-                   Similarly, just hearing the word of God won’t result in a growth in our gifts and virtues. We have 
-                   to be “doers of the word” as well as “hearers” (James 1:22).</p>
+                   <p>St. Paul makes this point in today’s first reading. Pointing to his own story, he tells the 
+                   Corinthians that he came to them aware of his weaknesses so that the “power of God” might be 
+                   revealed (1 Corinthians 2:5). Now, Paul had many gifts: he himself was strong, intelligent, 
+                   persuasive, and steadfast. But he also had his fair share of negative qualities. He had a short 
+                   temper, he sometimes didn’t get along with the other disciples, and his zeal for the gospel could 
+                   sometimes get the better of him. But despite his weaknesses—and despite his strengths—what really 
+                   mattered when he came to Corinth was his reliance on the “power of God,” on the Holy Spirit 
+                   (1 Corinthians 2:5).</p>
 
-                   <p>James gives us a wonderful image to help make this point: someone who hears the word but doesn’t 
-                   put it into action “is like a man who looks at his own face in a mirror. He sees himself, then goes 
-                   off and promptly forgets what he looked like” (James 1:23-24).</p>
+                   <p>Like Paul, you too have gifts and abilities, and like him, you have weaknesses as well. But again 
+                   like Paul, you reveal God to other people, by virtue of the simple fact that God made you and filled 
+                   you with his Holy Spirit. He shines out from you just as you are, even as he continues to mold you 
+                   and strengthen you.</p>
 
-                   <p>James isn’t speaking about a poor memory here. He’s speaking about poor priorities. People 
-                   “forget” Scripture because they have placed other priorities ahead of following the Lord.</p>
-                   
-                   <p>The word of God does have the power to help us—but only to the degree that we cooperate with it. 
-                   So be sure to read Scripture each day. But also be sure to write down one action step you can take 
-                   based on what you have read. Then, dedicate your day to taking that one step at every opportunity. 
-                   Let it help you say no to sin and yes to God today. If you do, you will be “blessed” beyond your 
-                   expectations (James 1:25)!</p>
-                                                         
-                   <p><strong><i>“Lord, I welcome your word.”</i></strong></p>
+                   <p>Paul’s faults didn’t disqualify him from serving God, and neither do yours. As St. John Paul II 
+                   once said, “We are not the sum of our weaknesses and failures; we are the sum of the Father’s love 
+                   for us and our real capacity to become the image of his Son” 
+                   (World Youth Day Homily, 5, July 28, 2002). You don’t have to be perfect for God to use you. Just 
+                   tell God you want to try, and ask him to help you reduce your faults and increase your talents.</p>
+                                                                            
+                   <p><strong><i>“Holy Spirit, shine through me, even as you mold me.”</i></strong></p>
                     <p class="text-muted">&copy; Word Among Us - Mediation</p>
                 </div>
             </div>
@@ -994,19 +996,19 @@ marquee{
 
             <div class="row">
                 <div class="col-lg-2 col-md-6 mask">
-                    <img class="img-rounded img-responsive" src="img/Genuflecting-27.jpg" alt="Margaret Ward" width="140" height="140">
-                    <h5><strong>Margaret Ward  - (died 1588)</strong></h5>
+                    <img class="img-rounded img-responsive" src="img/9_3_pope-saint-gregory-the-great _ favorite.jpg" alt="Gregory the Great" width="140" height="140">
+                    <h5><strong>c. 540 - 604</strong></h5>
                 </div>
                 <div class="col-lg-10 col-md-6">
-                    <p>Among the Forty Martyrs of England and Wales canonized in 1970, Margaret Ward was a gentlewoman 
-                    from Cheshire living in London who tried to help a secular priest imprisoned during the persecution 
-                    of Catholics. Father Richard Watson had been tortured and starved, released for banishment, 
-                    imprisoned again, and brutalized until he became a nervous wreck. Margaret visited him, bringing 
-                    food. She and John Roche, an Irishman, were arrested for helping the priest escape by dropping into 
-                    the Thames in the middle of the night. When they refused to reveal his whereabouts, apologize to 
-                    Queen Elizabeth I or attend the state church, they were hanged at Tyburn.</p>
+                    <p>This patrician prefect of Rome is counted among the doctors and Fathers of the Church. After his 
+                    father’s death, he gave family estates to the church, founding seven monasteries, including the one 
+                    he joined in his family home in Rome. Following ordination, he served as papal nuncio in 
+                    Constantinople, 579-586, then was an abbot in Rome until 590, when he became the first monk 
+                    elected pope. Gregory I reformed the clergy, sent missionaries to England, promoted monasticism and 
+                    chant, wrote prolifically, and assumed civic duties in Rome in the face of natural disasters and the 
+                    warring Lombards. He is a patron saint of choirboys, musicians, singers and England.</p>
 
-                       <p class="text-muted">&copy; Catholic News Services - Margaret Ward</p>
+                       <p class="text-muted">&copy; Catholic News Services - Gregory the Great</p>
                 </div>
             </div>
         </div><!-- /.End of Administrative container -->
@@ -1038,10 +1040,10 @@ marquee{
                                 <!-- <dd>6pm</dd>-->                                
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
-                                    <strong>1st: </strong>Ezekiel 24:15-24<br>
-                                    <strong>Psalm: </strong>(Psalm) Deuteronomy 32:18-21<br>
+                                    <strong>1st: </strong>1 Corinthians 2: 1-5<br>
+                                    <strong>Psalm: </strong>Psalm 119: 97-102<br>
                                     <!--<strong>2nd: </strong>Peter 1: 16-19<br>-->
-                                    <strong>Gospel: </strong>Matthew 19:16-22
+                                    <strong>Gospel: </strong>Luke 4: 16-30
                                 </dd>
                             </dl>
                         </div>
@@ -1061,10 +1063,10 @@ marquee{
                                 <!--<dd>6pm</dd>-->                                
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
-                                    <strong>1st: </strong>2 Thessalonians 2: 1-3, 14-17<br>
-                                    <strong>Psalm: </strong>(Psalm) Psalm 96: 10-13<br>
+                                    <strong>1st: </strong>1 Corinthians 2: 10-16<br>
+                                    <strong>Psalm: </strong>Psalm 145: 8-14<br>
                                     <!--<strong>2nd: </strong>Romans 9: 1-5<br>-->
-                                    <strong>Gospel: </strong>Matthew 23: 23-26
+                                    <strong>Gospel: </strong>Luke 4: 31-37
                                 </dd>
                             </dl>
                         </div>
@@ -1084,10 +1086,10 @@ marquee{
                                 <dd>6pm <br><i>(Healing Mass)</i></dd>                               
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
-                                    <strong>1st: </strong>Jeremiah 1: 17-19<br>
-                                    <strong>Psalm: </strong>Psalm 71: 1-6, 15, 17<br>
+                                    <strong>1st: </strong>1 Corinthians 3: 1-9<br>
+                                    <strong>Psalm: </strong>Psalm 33: 12-15, 20-21<br>
                                     <!--<strong>2nd: </strong>1st Corinthians 15: 20-26<br>-->
-                                    <strong>Gospel: </strong>Mark 6: 17-29
+                                    <strong>Gospel: </strong>Luke 4: 38-44
                                 </dd>
                             </dl>
                         </div>
@@ -1107,10 +1109,10 @@ marquee{
                                 <!--<dd>6pm</dd>-->                                
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
-                                    <strong>1st: </strong>1 Corinthians 1: 1-9<br>
-                                    <strong>Psalm: </strong>Psalms 145: 2-7<br>
+                                    <strong>1st: </strong>1 Corinthians 3: 18-23<br>
+                                    <strong>Psalm: </strong>Psalms 24: 1-6<br>
                                     <!--<strong>2nd: </strong>Romans 9: 1-5<br>-->
-                                    <strong>Gospel: </strong>Matthew 24: 42-51
+                                    <strong>Gospel: </strong>Luke 5: 1-11
                                 </dd>
                             </dl>
                         </div>
@@ -1130,10 +1132,10 @@ marquee{
                                 <!--<dd>6pm</dd>-->                                
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
-                                    <strong>1st: </strong>1 Corinthians 1: 17-25<br>
-                                    <strong>Psalm: </strong>Psalms 33: 1-2, 4-5, 10-11<br>
+                                    <strong>1st: </strong>1 Corinthians 4: 1-5<br>
+                                    <strong>Psalm: </strong>Psalms 37: 3-6, 27-28, 39-40<br>
                                     <!--<strong>2nd: </strong>Romans 9: 1-5<br>-->
-                                    <strong>Gospel: </strong>Matthew 25: 1-13
+                                    <strong>Gospel: </strong>Luke 5: 33-39
                                 </dd>
                             </dl>
                         </div>
@@ -1155,10 +1157,10 @@ marquee{
                                 <dd>1 hour before Mass during Adoration<br></dd>
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
-                                    <strong>1st: </strong>1 Corinthians 1: 26-31<br>
-                                    <strong>Psalm: </strong>Psalms 33: 12-13, 18-21<br>
+                                    <strong>1st: </strong>Micah 5: 2-5 <strong>OR</strong> Romans 8: 28-30<br>
+                                    <strong>Psalm: </strong>Psalms 13: 5-6<br>
                                     <!--<strong>2nd: </strong>Romans 9: 1-5<br>-->
-                                    <strong>Gospel: </strong>Matthew 25: 14-30
+                                    <strong>Gospel: </strong>Matthew 1: 1-16, 18-23
                                 </dd>
                             </dl>
                         </div>
@@ -1178,10 +1180,10 @@ marquee{
                                 <dd>6pm</dd>                                
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
-                                    <strong>1st: </strong>Deuteronomy 4: 1-2, 6-8<br>
-                                    <strong>Psalm: </strong>Psalms 15: 2-5<br>
-                                    <strong>2nd: </strong>James 1: 17-18, 21-22, 27<br>
-                                    <strong>Gospel: </strong>Mark 7: 1-8, 14-15, 21-23
+                                    <strong>1st: </strong>Isaiah 35: 4-7<br>
+                                    <strong>Psalm: </strong>Psalms 146: 6-10<br>
+                                    <strong>2nd: </strong>James 2: 1-5<br>
+                                    <strong>Gospel: </strong>Matthew 7: 31-37
                                 </dd>
                             </dl>
                         </div>
