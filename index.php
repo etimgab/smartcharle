@@ -998,19 +998,18 @@ marquee{
 
             <div class="row">
                 <div class="col-lg-2 col-md-6 mask">
-                    <img class="img-rounded img-responsive" src="img/9_3_pope-saint-gregory-the-great _ favorite.jpg" alt="Gregory the Great" width="140" height="140">
-                    <h5><strong>c. 540 - 604</strong></h5>
+                    <img class="img-rounded img-responsive" src="img/regina.jpg" alt="Regina" width="140" height="140">
+                    <h5><strong>Second Century</strong></h5>
                 </div>
                 <div class="col-lg-10 col-md-6">
-                    <p>This patrician prefect of Rome is counted among the doctors and Fathers of the Church. After his 
-                    father’s death, he gave family estates to the church, founding seven monasteries, including the one 
-                    he joined in his family home in Rome. Following ordination, he served as papal nuncio in 
-                    Constantinople, 579-586, then was an abbot in Rome until 590, when he became the first monk 
-                    elected pope. Gregory I reformed the clergy, sent missionaries to England, promoted monasticism and 
-                    chant, wrote prolifically, and assumed civic duties in Rome in the face of natural disasters and the 
-                    warring Lombards. He is a patron saint of choirboys, musicians, singers and England.</p>
+                    <p>Almost nothing is known for fact of this virgin and martyr. The Roman Martyrology says only that 
+                    she died for her faith. According to legend, she was the daughter of a pagan man, and her mother 
+                    died in childbirth. She was cared for by a woman who introduced her to Christianity. After 
+                    discovering this, her father rejected his child but later attempted to have her marry a local 
+                    prefect. When she refused, she was imprisoned and tortured. The night before she was killed, 
+                    Regina was consoled by a vision that told her that her suffering would soon end.</p>
 
-                       <p class="text-muted">&copy; Catholic News Services - Gregory the Great</p>
+                       <p class="text-muted">&copy; Catholic News Services - Regina</p>
                 </div>
             </div>
         </div><!-- /.End of Administrative container -->
