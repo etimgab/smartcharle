@@ -1007,7 +1007,8 @@ marquee{
                     died in childbirth. She was cared for by a woman who introduced her to Christianity. After 
                     discovering this, her father rejected his child but later attempted to have her marry a local 
                     prefect. When she refused, she was imprisoned and tortured. The night before she was killed, 
-                    Regina was consoled by a vision that told her that her suffering would soon end.</p>
+                    Regina was consoled by a vision that told her that her suffering would soon end.
+                    </p>
 
                        <p class="text-muted">&copy; Catholic News Services - Regina</p>
                 </div>
