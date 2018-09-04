@@ -131,41 +131,42 @@ marquee{
                 <div class="modal-header modal-about" style="background-color: black; color: white;">
                     <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                     <h4 class="modal-title modal-about text-center">Daily Mediation </h4>
-                    <h6 class="modal-title modal-about text-center"><i>(1 Corinthians 2:3)</i></h6>
+                    <h6 class="modal-title modal-about text-center"><i>(Luke 4:36)</i></h6>
                 </div>
                 <div class="modal-body modal-about">
-                    <p><h3>Saint Gregory the Great, Pope and Doctor of the Church (Memorial); Labor Day, USA</h3></p>
-                    <p><strong>I came to you in weakness. (1 Corinthians 2:3)</strong></p><br>
+                    <p><h3>22nd Week in Ordinary Time</h3></p>
+                    <p><strong>What is there about his word? (Luke 4:36)</strong></p><br>
                     
-                   <p>Strong, successful, smart—clearly, these are admirable qualities, and for good reason. They are 
-                   gifts coming from the hand of a loving God. But as admirable and helpful as these gifts are, there 
-                   are a few things they cannot do. First, and most important, they don’t make us more valuable in 
-                   God’s eyes. What’s more, they don’t make us better witnesses to the gospel. Of course, God is 
-                   pleased when we use our gifts to build his Church, but that doesn’t mean he loves us any more than 
-                   before. Intelligence, strength, and other abilities are simply attributes God expects us to develop 
-                   and put to good use.</p>
+                   <p>That’s a great question! Whether it was his teaching that astonished them, or his authoritative 
+                   command to an unclean spirit, something about the words of Jesus made people sit up and listen. When 
+                   Bible scholars try to describe God’s word, they say that it acts in two different ways: it is light, 
+                   and it is power. Today’s Gospel gives us a clear example of both of these ways.</p>
 
-                   <p>St. Paul makes this point in today’s first reading. Pointing to his own story, he tells the 
-                   Corinthians that he came to them aware of his weaknesses so that the “power of God” might be 
-                   revealed (1 Corinthians 2:5). Now, Paul had many gifts: he himself was strong, intelligent, 
-                   persuasive, and steadfast. But he also had his fair share of negative qualities. He had a short 
-                   temper, he sometimes didn’t get along with the other disciples, and his zeal for the gospel could 
-                   sometimes get the better of him. But despite his weaknesses—and despite his strengths—what really 
-                   mattered when he came to Corinth was his reliance on the “power of God,” on the Holy Spirit 
-                   (1 Corinthians 2:5).</p>
+                   <p>First, God’s word is light. It reveals the meaning of things; it illuminates when something is in 
+                   darkness. As an example, think about what happened when Jesus taught in the synagogue in Capernaum. 
+                   The people were astonished and recognized his authority, yes. But something even more striking 
+                   happened right afterward: a man started shouting at Jesus. This man didn’t burst into the synagogue; 
+                   he had been there all along. But something about Jesus’ words exposed the bondage he was 
+                   experiencing. He might not have even been aware of it, but Jesus’ word brought it to light, and it 
+                   caused the man to act out.</p>
 
-                   <p>Like Paul, you too have gifts and abilities, and like him, you have weaknesses as well. But again 
-                   like Paul, you reveal God to other people, by virtue of the simple fact that God made you and filled 
-                   you with his Holy Spirit. He shines out from you just as you are, even as he continues to mold you 
-                   and strengthen you.</p>
+                   <p>Second, God’s word is power. It brings things into existence according to God’s will. In the same 
+                   synagogue, it wasn’t enough for Jesus just to expose the man’s oppression. He wanted to do something 
+                   about it too. So he spoke directly to the demon and commanded it to be quiet and come out of the man. 
+                   And that’s exactly what happened—without harming the man. Imagine how wonderful that fellow must 
+                   have felt! Jesus’ mere words completely turned his life around.</p>
 
-                   <p>Paul’s faults didn’t disqualify him from serving God, and neither do yours. As St. John Paul II 
-                   once said, “We are not the sum of our weaknesses and failures; we are the sum of the Father’s love 
-                   for us and our real capacity to become the image of his Son” 
-                   (World Youth Day Homily, 5, July 28, 2002). You don’t have to be perfect for God to use you. Just 
-                   tell God you want to try, and ask him to help you reduce your faults and increase your talents.</p>
+                   <p>Maybe God’s word will uncover something uncomfortable in you too as you ponder today’s readings. 
+                   But you don’t have to be afraid! Jesus wants to bring his light into your life. If his word uncovers 
+                   something unexpected in you, know that he won’t leave you there. His word is always there to set you 
+                   free and make you whole.</p>
+                   
+                   <p>God’s word is not just a theoretical principle. It’s a promise. It brings light and power. When 
+                   you read today’s Gospel and see the man go from bondage to freedom, that is exactly what Jesus can 
+                   do for you. So take his word into your heart. Sit with it and ponder it. Let God speak directly to 
+                   you.</p>
                                                                             
-                   <p><strong><i>“Holy Spirit, shine through me, even as you mold me.”</i></strong></p>
+                   <p><strong><i>“Lord, open my ears to hear your powerful word.”</i></strong></p>
                     <p class="text-muted">&copy; Word Among Us - Mediation</p>
                 </div>
             </div>
