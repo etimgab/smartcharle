@@ -148,7 +148,8 @@ marquee{
                    happened right afterward: a man started shouting at Jesus. This man didn’t burst into the synagogue; 
                    he had been there all along. But something about Jesus’ words exposed the bondage he was 
                    experiencing. He might not have even been aware of it, but Jesus’ word brought it to light, and it 
-                   caused the man to act out.</p>
+                   caused the man to act out.
+                   </p>
 
                    <p>Second, God’s word is power. It brings things into existence according to God’s will. In the same 
                    synagogue, it wasn’t enough for Jesus just to expose the man’s oppression. He wanted to do something 
