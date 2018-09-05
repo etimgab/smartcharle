@@ -796,15 +796,7 @@ marquee{
                                 <li data-target="#myCarousel" data-slide-to="9"></li> 
                                 <li data-target="#myCarousel" data-slide-to="10"></li>
                                 <li data-target="#myCarousel" data-slide-to="11"></li>
-                                <li data-target="#myCarousel" data-slide-to="12"></li>
-                                <li data-target="#myCarousel" data-slide-to="13"></li>
-                                <li data-target="#myCarousel" data-slide-to="14"></li>
-                                <li data-target="#myCarousel" data-slide-to="15"></li>
-                                <li data-target="#myCarousel" data-slide-to="16"></li>
-                                <li data-target="#myCarousel" data-slide-to="17"></li>
-                                <li data-target="#myCarousel" data-slide-to="18"></li>
-                                <li data-target="#myCarousel" data-slide-to="19"></li>
-                                <li data-target="#myCarousel" data-slide-to="20"></li>                                
+                                <li data-target="#myCarousel" data-slide-to="12"></li>                             
                             </ol>
 
                             <!-- Wrapper for slides -->
@@ -945,7 +937,7 @@ marquee{
             <div class="row">
                 <div class="col-lg-2 col-md-6 mask">
                     <img class="img-rounded img-responsive" src="img/regina.jpg" alt="Regina" width="140" height="140">
-                    <h5><strong>Second Century</strong></h5>
+                    <h5><strong>Saint Regina - Second Century</strong></h5>
                 </div>
                 <div class="col-lg-10 col-md-6">
                     <p>Almost nothing is known for fact of this virgin and martyr. The Roman Martyrology says only that 
