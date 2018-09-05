@@ -131,43 +131,44 @@ marquee{
                 <div class="modal-header modal-about" style="background-color: black; color: white;">
                     <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                     <h4 class="modal-title modal-about text-center">Daily Mediation </h4>
-                    <h6 class="modal-title modal-about text-center"><i>(Luke 4:36)</i></h6>
+                    <h6 class="modal-title modal-about text-center"><i>(1 Corinthians 3:9)</i></h6>
                 </div>
                 <div class="modal-body modal-about">
                     <p><h3>22nd Week in Ordinary Time</h3></p>
-                    <p><strong>What is there about his word? (Luke 4:36)</strong></p><br>
+                    <p><strong>We are God’s co-workers. (1 Corinthians 3:9)</strong></p><br>
                     
-                   <p>That’s a great question! Whether it was his teaching that astonished them, or his authoritative 
-                   command to an unclean spirit, something about the words of Jesus made people sit up and listen. When 
-                   Bible scholars try to describe God’s word, they say that it acts in two different ways: it is light, 
-                   and it is power. Today’s Gospel gives us a clear example of both of these ways.</p>
+                   <p>When you look at a great cathedral, it’s natural to feel inspired and lifted up to God. Imagine 
+                   the decades, even centuries, of hard work and the hundreds of artisans, builders, and laborers who 
+                   gave their talents to create this beautiful place of worship. Think of all the different strengths 
+                   and abilities that came together to craft this structure, from those who quarried and carted the 
+                   stones to those who prepared food for the laborers. Much of their work was hidden, yet each one had 
+                   an essential role to play.</p>
 
-                   <p>First, God’s word is light. It reveals the meaning of things; it illuminates when something is in 
-                   darkness. As an example, think about what happened when Jesus taught in the synagogue in Capernaum. 
-                   The people were astonished and recognized his authority, yes. But something even more striking 
-                   happened right afterward: a man started shouting at Jesus. This man didn’t burst into the synagogue; 
-                   he had been there all along. But something about Jesus’ words exposed the bondage he was 
-                   experiencing. He might not have even been aware of it, but Jesus’ word brought it to light, and it 
-                   caused the man to act out.
-                   </p>
-
-                   <p>Second, God’s word is power. It brings things into existence according to God’s will. In the same 
-                   synagogue, it wasn’t enough for Jesus just to expose the man’s oppression. He wanted to do something 
-                   about it too. So he spoke directly to the demon and commanded it to be quiet and come out of the man. 
-                   And that’s exactly what happened—without harming the man. Imagine how wonderful that fellow must 
-                   have felt! Jesus’ mere words completely turned his life around.</p>
-
-                   <p>Maybe God’s word will uncover something uncomfortable in you too as you ponder today’s readings. 
-                   But you don’t have to be afraid! Jesus wants to bring his light into your life. If his word uncovers 
-                   something unexpected in you, know that he won’t leave you there. His word is always there to set you 
-                   free and make you whole.</p>
-                   
-                   <p>God’s word is not just a theoretical principle. It’s a promise. It brings light and power. When 
-                   you read today’s Gospel and see the man go from bondage to freedom, that is exactly what Jesus can 
-                   do for you. So take his word into your heart. Sit with it and ponder it. Let God speak directly to 
+                   <p>The kingdom that Jesus is building on earth is far more glorious than the most magnificent 
+                   cathedral—and he has invited each one of us to work on this project with him. He has invited 
                    you.</p>
+
+                   <p>You may be tempted to think that the more prominent members of the Church—ordained ministers, 
+                   gifted singers, and trained catechists—are more important, but that’s not how God sees it. In his 
+                   mind, every Christian plays an essential role in his vast intricate plan.</p>
+
+                   <pOver the centuries, the Church has been built upon the work of beloved saints, but also upon the 
+                   efforts of countless unsung heroes. It’s built by a prison inmate inviting his cell mate to a Bible 
+                   study. It’s built by a widow praying her Rosary alone in a nursing home. It’s built by a mother and 
+                   father raising their children in the faith. It’s built by you! You play a vital role.</p>
+                   
+                   <p>Your work can seem inconsequential, but St. Paul has an answer to that: “Neither the one who 
+                   plants nor the one who waters is anything, but only God, who causes the growth” (1 Corinthians 3:7). 
+                   Even when you are doing “mundane” work, God is at work with you. He is behind the scenes, pouring 
+                   out his grace and blessing. He is blessing you for your faithfulness, and he is blessing the people 
+                   you are caring for. It’s not all about what you do; it’s also about what God does, hidden, in the 
+                   hearts of the people around you.</p>
+                   
+                   <p>So keep on building! Whether your role is big or small, hidden or noticeable, it’s essential to 
+                   the construction. You are no less than a co-worker with Christ himself.</p>
                                                                             
-                   <p><strong><i>“Lord, open my ears to hear your powerful word.”</i></strong></p>
+                   <p><strong><i>“Lord, I want to build your kingdom alongside you. Help me to discern your presence 
+                   and your blessing in every situation I face today.”</i></strong></p>
                     <p class="text-muted">&copy; Word Among Us - Mediation</p>
                 </div>
             </div>
@@ -809,33 +810,33 @@ marquee{
                             <!-- Wrapper for slides -->
                             <div class="carousel-inner">
                                 <div class="item active">
-                                    <img src="img/project.jpg" alt="Parish Project 2018">
+                                    <img src="img/cur.jpg" alt="Chapel Project 2018">
                                     <div class="carousel-caption">
-                                        <h3>Parish Project 2018</h3>
+                                        <h3>Chapel Project 2018</h3>
                                         <!--<p>Celebration with Children in the Parish</p>-->
                                     </div>
                                 </div>
                                 
                                 <div class="item">
-                                    <img src="img/project1.jpg" alt="Parish Project 2018">
+                                    <img src="img/cur1.jpg" alt="Chapel Project 2018">
                                     <div class="carousel-caption">
-                                        <h3>Parish Project 2018</h3>
+                                        <h3>Chapel Project 2018</h3>
                                         <!--<p>Celebration with Children in the Parish</p>-->
                                     </div>
                                 </div>
                                 
                                 <div class="item">
-                                    <img src="img/project2.jpg" alt="Parish Project 2018">
+                                    <img src="img/cur2.jpg" alt="Chapel Project 2018">
                                     <div class="carousel-caption">
-                                        <h3>Parish Project 2018</h3>
+                                        <h3>Chapel Project 2018</h3>
                                         <!--<p>Celebration with Children in the Parish</p>-->
                                     </div>
                                 </div>
                                 
                                 <div class="item">
-                                    <img src="img/project3.jpg" alt="Parish Project 2018">
+                                    <img src="img/cur3.jpg" alt="Chapel Project 2018">
                                     <div class="carousel-caption">
-                                        <h3>Parish Project 2018</h3>
+                                        <h3>Chapel Project 2018</h3>
                                         <!--<p>Celebration with Children in the Parish</p>-->
                                     </div>
                                 </div>
@@ -882,93 +883,38 @@ marquee{
                                 </div>
                                 
                                 <div class="item">
-                                    <img src="img/new_chapel.jpg" alt="New Chapel Project">
+                                    <img src="img/project.jpg" alt="Parish Project 2018">
                                     <div class="carousel-caption">
-                                        <h3>New Chapel Project</h3>
+                                        <h3>Parish Project 2018</h3>
                                         <!--<p>National Youth Day 2018</p>-->
                                     </div>
                                 </div>
                                 
                                 
                                 <div class="item">
-                                    <img src="img/new_chapel1.jpg" alt="New Chapel Project">
+                                    <img src="img/project1.jpg" alt="Parish Project 2018">
                                     <div class="carousel-caption">
-                                        <h3>New Chapel Project</h3>
+                                        <h3>Parish Project 2018</h3>
                                         <!--<p>National Youth Day 2018</p>-->
                                     </div>
                                 </div>
                                 
                                 <div class="item">
-                                    <img src="img/new_chapel2.jpg" alt="New Chapel Project">
+                                    <img src="img/project2.jpg" alt="Parish Project 2018">
                                     <div class="carousel-caption">
-                                        <h3>New Chapel Project</h3>
+                                        <h3>Parish Project 2018</h3>
                                         <!--<p>National Youth Day 2018</p>-->
                                     </div>
                                 </div>
                                 
                                 <div class="item">
-                                    <img src="img/new_chapel3.jpg" alt="New Chapel Project">
+                                    <img src="img/project3.jpg" alt="Parish Project 2018">
                                     <div class="carousel-caption">
-                                        <h3>New Chapel Project</h3>
+                                        <h3>Parish Project 2018</h3>
                                         <!--<p>National Youth Day 2018</p>-->
                                     </div>
                                 </div>
-                                
-                                <div class="item">
-                                    <img src="img/new_chapel4.jpg" alt="New Chapel Project">
-                                    <div class="carousel-caption">
-                                        <h3>New Chapel Project</h3>
-                                        <!--<p>National Youth Day 2018</p>-->
-                                    </div>
-                                </div>
-                                
-                                <div class="item">
-                                    <img src="img/new_chapel5.jpg" alt="New Chapel Project">
-                                    <div class="carousel-caption">
-                                        <h3>New Chapel Project</h3>
-                                        <!--<p>National Youth Day 2018</p>-->
-                                    </div>
-                                </div>
-                                
-                                <div class="item">
-                                    <img src="img/new_chapel6.jpg" alt="New Chapel Project">
-                                    <div class="carousel-caption">
-                                        <h3>New Chapel Project</h3>
-                                        <!--<p>National Youth Day 2018</p>-->
-                                    </div>
-                                </div>
-                                
-                                <div class="item">
-                                    <img src="img/new_chapel7.jpg" alt="New Chapel Project">
-                                    <div class="carousel-caption">
-                                        <h3>New Chapel Project</h3>
-                                        <!--<p>National Youth Day 2018</p>-->
-                                    </div>
-                                </div>
-                                
-                                <div class="item">
-                                    <img src="img/new_chapel8.jpg" alt="New Chapel Project">
-                                    <div class="carousel-caption">
-                                        <h3>New Chapel Project</h3>
-                                        <!--<p>National Youth Day 2018</p>-->
-                                    </div>
-                                </div>
-                                
-                                <div class="item">
-                                    <img src="img/new_chapel10.jpg" alt="New Chapel Project">
-                                    <div class="carousel-caption">
-                                        <h3>New Chapel Project</h3>
-                                        <!--<p>National Youth Day 2018</p>-->
-                                    </div>
-                                </div>
-                                
-                                <div class="item">
-                                    <img src="img/new_chapel9.jpg" alt="New Chapel Project">
-                                    <div class="carousel-caption">
-                                        <h3>New Chapel Project</h3>
-                                        <!--<p>National Youth Day 2018</p>-->
-                                    </div>
-                                </div>                
+                                                                   
                             </div>
 
                             <!-- Left and right controls -->
