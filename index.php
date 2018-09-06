@@ -131,44 +131,39 @@ marquee{
                 <div class="modal-header modal-about" style="background-color: black; color: white;">
                     <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                     <h4 class="modal-title modal-about text-center">Daily Mediation </h4>
-                    <h6 class="modal-title modal-about text-center"><i>(1 Corinthians 3:9)</i></h6>
+                    <h6 class="modal-title modal-about text-center"><i>(1Luke 5:10)</i></h6>
                 </div>
                 <div class="modal-body modal-about">
                     <p><h3>22nd Week in Ordinary Time</h3></p>
-                    <p><strong>We are God’s co-workers. (1 Corinthians 3:9)</strong></p><br>
+                    <p><strong>From now on you will be catching men. (Luke 5:10)</strong></p><br>
                     
-                   <p>When you look at a great cathedral, it’s natural to feel inspired and lifted up to God. Imagine 
-                   the decades, even centuries, of hard work and the hundreds of artisans, builders, and laborers who 
-                   gave their talents to create this beautiful place of worship. Think of all the different strengths 
-                   and abilities that came together to craft this structure, from those who quarried and carted the 
-                   stones to those who prepared food for the laborers. Much of their work was hidden, yet each one had 
-                   an essential role to play.</p>
+                   <p>It seems pretty clear from Jesus’ words what he is getting at here. Peter and the other disciples 
+                   are going to be doing a different kind of fishing now. No more boats, no more nets. Instead, they 
+                   will be going out and catching people and carrying them to Jesus Christ and his gospel.</p>
 
-                   <p>The kingdom that Jesus is building on earth is far more glorious than the most magnificent 
-                   cathedral—and he has invited each one of us to work on this project with him. He has invited 
-                   you.</p>
+                   <p>But in this familiar story, there’s a connection between the miracle of Peter’s great catch of 
+                   fish and Jesus’ call to evangelize that we can easily miss: it wasn’t Peter’s great catch! Without 
+                   Jesus, Peter wouldn’t have caught one single fish that morning. But with Jesus, he caught so many 
+                   fish that his nets were in danger of breaking. Sure, Peter still had to put his nets out so that he 
+                   could haul the fish in. But this great haul did not depend only on Peter’s natural ability. It was 
+                   only after he basically said, “I will listen to you and not just my own logic” that he found where 
+                   the fish were.</p>
 
-                   <p>You may be tempted to think that the more prominent members of the Church—ordained ministers, 
-                   gifted singers, and trained catechists—are more important, but that’s not how God sees it. In his 
-                   mind, every Christian plays an essential role in his vast intricate plan.</p>
+                   <p>That’s an important lesson for us to learn as well. The Lord has some specific callings for each 
+                   of us in this life, things that only we can do. So how do we answer that call? Of course, God wants 
+                   us to use our natural abilities. But he also wants us to acknowledge our need for help—and not just 
+                   when we work really hard and come up empty! He wants us to call on him in whatever we are doing. And 
+                   just as Peter was astonished by the great haul of fish, so might we be when we see how God can 
+                   enhance and multiply our own efforts.</p>
 
-                   <pOver the centuries, the Church has been built upon the work of beloved saints, but also upon the 
-                   efforts of countless unsung heroes. It’s built by a prison inmate inviting his cell mate to a Bible 
-                   study. It’s built by a widow praying her Rosary alone in a nursing home. It’s built by a mother and 
-                   father raising their children in the faith. It’s built by you! You play a vital role.</p>
-                   
-                   <p>Your work can seem inconsequential, but St. Paul has an answer to that: “Neither the one who 
-                   plants nor the one who waters is anything, but only God, who causes the growth” (1 Corinthians 3:7). 
-                   Even when you are doing “mundane” work, God is at work with you. He is behind the scenes, pouring 
-                   out his grace and blessing. He is blessing you for your faithfulness, and he is blessing the people 
-                   you are caring for. It’s not all about what you do; it’s also about what God does, hidden, in the 
-                   hearts of the people around you.</p>
-                   
-                   <p>So keep on building! Whether your role is big or small, hidden or noticeable, it’s essential to 
-                   the construction. You are no less than a co-worker with Christ himself.</p>
-                                                                            
-                   <p><strong><i>“Lord, I want to build your kingdom alongside you. Help me to discern your presence 
-                   and your blessing in every situation I face today.”</i></strong></p>
+                   <p>Today, take the time to focus on what you can do with God. He is already with you—but take some 
+                   time to consciously bring him into your activities. If you’re at home and the children are acting up, 
+                   ask him for strength, grace, and patience. If you’re facing a challenging issue at work, ask him to 
+                   inspire you and give you wisdom. You’re not just throwing empty words at the sky—God is a father, 
+                   and he wants you to call on him. So trust that, indeed, “all things are possible” when you rely on 
+                   him (Matthew 19:26)!</p>
+                                                                                               
+                   <p><strong><i>“Lord, I believe that when I give my problems to you, miracles can happen!”</i></strong></p>
                     <p class="text-muted">&copy; Word Among Us - Mediation</p>
                 </div>
             </div>
