@@ -131,39 +131,39 @@ marquee{
                 <div class="modal-header modal-about" style="background-color: black; color: white;">
                     <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                     <h4 class="modal-title modal-about text-center">Daily Mediation </h4>
-                    <h6 class="modal-title modal-about text-center"><i>(1Luke 5:10)</i></h6>
+                    <h6 class="modal-title modal-about text-center"><i>(Matthew 1:23)</i></h6>
                 </div>
                 <div class="modal-body modal-about">
-                    <p><h3>22nd Week in Ordinary Time</h3></p>
-                    <p><strong>From now on you will be catching men. (Luke 5:10)</strong></p><br>
+                    <p><h3>The Nativity of the Blessed Virgin Mary (Feast)</h3></p>
+                    <p><strong>God is with us. (Matthew 1:23)</strong></p><br>
                     
-                   <p>It seems pretty clear from Jesus’ words what he is getting at here. Peter and the other disciples 
-                   are going to be doing a different kind of fishing now. No more boats, no more nets. Instead, they 
-                   will be going out and catching people and carrying them to Jesus Christ and his gospel.</p>
+                   <p>We call them the Holy Family. We hold them up as a model to emulate in our own households. “What 
+                   would Jesus, Mary, and Joseph do?” Today as we celebrate Mary’s birthday, let’s take a look at what 
+                   makes her family so special.</p>
 
-                   <p>But in this familiar story, there’s a connection between the miracle of Peter’s great catch of 
-                   fish and Jesus’ call to evangelize that we can easily miss: it wasn’t Peter’s great catch! Without 
-                   Jesus, Peter wouldn’t have caught one single fish that morning. But with Jesus, he caught so many 
-                   fish that his nets were in danger of breaking. Sure, Peter still had to put his nets out so that he 
-                   could haul the fish in. But this great haul did not depend only on Peter’s natural ability. It was 
-                   only after he basically said, “I will listen to you and not just my own logic” that he found where 
-                   the fish were.</p>
+                   <p>Mary was born of the line of David into a devout Jewish home. God prepared her to be the bearer of 
+                   his Son by keeping her free from original sin. But Mary’s claim to fame isn’t her credentials. It’s 
+                   the fact that she said yes. She welcomed the Son of God into her womb. She gave him a home in this 
+                   world. She nurtured and nourished him both physically and spiritually. This is why every generation 
+                   has called her blessed—it’s why we celebrate her today.</p>
 
-                   <p>That’s an important lesson for us to learn as well. The Lord has some specific callings for each 
-                   of us in this life, things that only we can do. So how do we answer that call? Of course, God wants 
-                   us to use our natural abilities. But he also wants us to acknowledge our need for help—and not just 
-                   when we work really hard and come up empty! He wants us to call on him in whatever we are doing. And 
-                   just as Peter was astonished by the great haul of fish, so might we be when we see how God can 
-                   enhance and multiply our own efforts.</p>
+                   <p>Joseph was a righteous man. He was engaged to a remarkable woman. Angels spoke to him in dreams. 
+                   But that’s not what makes him special. It’s that he took Mary and her unborn child into his life. 
+                   Despite the rumors surrounding her pregnancy, Joseph built a family with her. Together they welcomed 
+                   Jesus into their home. Joseph let this child redefine his entire life. And that’s why we honor him as 
+                   the patron of the universal Church and of the “domestic church” that is the family.</p>
 
-                   <p>Today, take the time to focus on what you can do with God. He is already with you—but take some 
-                   time to consciously bring him into your activities. If you’re at home and the children are acting up, 
-                   ask him for strength, grace, and patience. If you’re facing a challenging issue at work, ask him to 
-                   inspire you and give you wisdom. You’re not just throwing empty words at the sky—God is a father, 
-                   and he wants you to call on him. So trust that, indeed, “all things are possible” when you rely on 
-                   him (Matthew 19:26)!</p>
+                   <p>The Holy Family continues to lead the way for us. We can model our lives on Mary and Joseph by 
+                   inviting Jesus into our homes and families more fully. And as we do, we are also inviting him into 
+                   the world. We don’t make changes ourselves; it’s his presence that changes our lives. What started 
+                   with Mary and Joseph is still true: “God is with us” (Matthew 1:23)!</p>
+				   
+				   <p>Jesus promises that everyone who invites him into their homes will receive an invitation from 
+				   him—into his eternal home. He wants to be with us for more than just a single lifetime, and so he 
+				   invites us, as he did Mary and Joseph, to be a part of his eternal plan. What’s more, he invites us 
+				   into his own holy family. Who would ever want to turn down such a kind invitation?</p>
                                                                                                
-                   <p><strong><i>“Lord, I believe that when I give my problems to you, miracles can happen!”</i></strong></p>
+                   <p><strong><i>“Jesus, thank you for inviting me to join Mary and Joseph as a member of your family!”</i></strong></p>
                     <p class="text-muted">&copy; Word Among Us - Mediation</p>
                 </div>
             </div>
