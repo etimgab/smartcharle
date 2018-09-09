@@ -131,39 +131,39 @@ marquee{
                 <div class="modal-header modal-about" style="background-color: black; color: white;">
                     <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                     <h4 class="modal-title modal-about text-center">Daily Mediation </h4>
-                    <h6 class="modal-title modal-about text-center"><i>(Matthew 1:23)</i></h6>
+                    <h6 class="modal-title modal-about text-center"><i>(Isaiah 35:7)</i></h6>
                 </div>
                 <div class="modal-body modal-about">
-                    <p><h3>The Nativity of the Blessed Virgin Mary (Feast)</h3></p>
-                    <p><strong>God is with us. (Matthew 1:23)</strong></p><br>
+                    <p><h3>23rd Sunday in Ordinary Time</h3></p>
+                    <p><strong>The burning sands will become pools. (Isaiah 35:7)</strong></p><br>
                     
-                   <p>We call them the Holy Family. We hold them up as a model to emulate in our own households. “What 
-                   would Jesus, Mary, and Joseph do?” Today as we celebrate Mary’s birthday, let’s take a look at what 
-                   makes her family so special.</p>
+                   <p>Isaiah’s promises seem extravagant, don’t they? If we look at them literally, they are quite 
+                   marvelous. God will permanently alter the Holy Land itself. If we read these verses spiritually, the 
+                   promises become even more inspiring: God is promising to alter us at the very center of our hearts. 
+                   This is exactly what he has done too. He has made us a new creation! But for all the generosity he 
+                   has shown us, God still asks us to come and receive his grace. He still asks us to settle ourselves 
+                   in his presence so that he can fill us up.</p>
 
-                   <p>Mary was born of the line of David into a devout Jewish home. God prepared her to be the bearer of 
-                   his Son by keeping her free from original sin. But Mary’s claim to fame isn’t her credentials. It’s 
-                   the fact that she said yes. She welcomed the Son of God into her womb. She gave him a home in this 
-                   world. She nurtured and nourished him both physically and spiritually. This is why every generation 
-                   has called her blessed—it’s why we celebrate her today.</p>
+                   <p>St. Bernard of Clairvaux, a twelfth-century monk from France, explained it this way:<br>
+                   <h6><i><strong>The man who is wise . . . will see his life as more like a reservoir than a canal. The canal 
+                   simultaneously pours out what it receives; the reservoir retains the water until it is filled, then 
+                   discharges the overflow without loss to itself. . . . You too must learn to await this fullness 
+                   before pouring out your gifts. Do not try to be more generous than God.</strong></i></h6></p>
 
-                   <p>Joseph was a righteous man. He was engaged to a remarkable woman. Angels spoke to him in dreams. 
-                   But that’s not what makes him special. It’s that he took Mary and her unborn child into his life. 
-                   Despite the rumors surrounding her pregnancy, Joseph built a family with her. Together they welcomed 
-                   Jesus into their home. Joseph let this child redefine his entire life. And that’s why we honor him as 
-                   the patron of the universal Church and of the “domestic church” that is the family.</p>
+                   <p>God never intended us to be a “canal,” always giving away whatever we receive, never holding onto 
+                   anything for ourselves. No, he wants to take care of us—day after day after day. He knows that if we 
+                   can learn to be like “reservoirs,” not only will we become more joyful and peaceful, but we will also 
+                   become more effective in caring for the people around us.</p>
 
-                   <p>The Holy Family continues to lead the way for us. We can model our lives on Mary and Joseph by 
-                   inviting Jesus into our homes and families more fully. And as we do, we are also inviting him into 
-                   the world. We don’t make changes ourselves; it’s his presence that changes our lives. What started 
-                   with Mary and Joseph is still true: “God is with us” (Matthew 1:23)!</p>
+                   <p>We pour ourselves out every day: for our children, for our aging parents, for our coworkers, and 
+                   for our neighbors. But if we spend all of our time taking care of everyone else, we’ll end up 
+                   physically exhausted and spiritually depleted.</p>
 				   
-				   <p>Jesus promises that everyone who invites him into their homes will receive an invitation from 
-				   him—into his eternal home. He wants to be with us for more than just a single lifetime, and so he 
-				   invites us, as he did Mary and Joseph, to be a part of his eternal plan. What’s more, he invites us 
-				   into his own holy family. Who would ever want to turn down such a kind invitation?</p>
+				   <p>There’s nothing wrong with taking five or ten minutes each day to soak up the love and mercy of 
+				   God. There’s nothing wrong with becoming a reservoir instead of a canal. God’s extravagant promises 
+				   are for you just as much as they are for everyone else.</p>
                                                                                                
-                   <p><strong><i>“Jesus, thank you for inviting me to join Mary and Joseph as a member of your family!”</i></strong></p>
+                   <p><strong><i>“Here I am, Lord. Come and fill me up!”</i></strong></p>
                     <p class="text-muted">&copy; Word Among Us - Mediation</p>
                 </div>
             </div>
@@ -931,19 +931,19 @@ marquee{
 
             <div class="row">
                 <div class="col-lg-2 col-md-6 mask">
-                    <img class="img-rounded img-responsive" src="img/regina.jpg" alt="Regina" width="140" height="140">
-                    <h5><strong>Saint Regina - Second Century</strong></h5>
+                    <img class="img-rounded img-responsive" src="img/nicolas.jpg" alt="Nicholas of Tolentino" width="140" height="140">
+                    <h5><strong>Nicholas of Tolentino - 1245 - 1305</strong></h5>
                 </div>
                 <div class="col-lg-10 col-md-6">
-                    <p>Almost nothing is known for fact of this virgin and martyr. The Roman Martyrology says only that 
-                    she died for her faith. According to legend, she was the daughter of a pagan man, and her mother 
-                    died in childbirth. She was cared for by a woman who introduced her to Christianity. After 
-                    discovering this, her father rejected his child but later attempted to have her marry a local 
-                    prefect. When she refused, she was imprisoned and tortured. The night before she was killed, 
-                    Regina was consoled by a vision that told her that her suffering would soon end.
-                    </p>
+                    <p>Born in Italy and named for St. Nicholas of Bari, the saint to whom his childless parents had 
+                    prayed, Nicholas made his Augustinian vows while still a teen. An early job was distributing food to 
+                    the poor at the friary gate. At his ordination in 1269, he already was reputed to be a healer and 
+                    miracle-worker. About 1274, after several assignments, he was sent to Tolentino, where he spent the 
+                    rest of his life. A successful street preacher, he often spent entire days hearing confessions. 
+                    Nicholas truly befriended the poor and sick. During his sainthood process, the Vatican accepted 
+                    about 30 miracles attributed to his intercession. He is the patron of poor souls and mariners.</p>
 
-                       <p class="text-muted">&copy; Catholic News Services - Regina</p>
+                       <p class="text-muted">&copy; Catholic News Services - Nicholas of Tolentino</p>
                 </div>
             </div>
         </div><!-- /.End of Administrative container -->
@@ -975,10 +975,10 @@ marquee{
                                 <!-- <dd>6pm</dd>-->                                
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
-                                    <strong>1st: </strong>1 Corinthians 2: 1-5<br>
-                                    <strong>Psalm: </strong>Psalm 119: 97-102<br>
+                                    <strong>1st: </strong>1 Corinthians 5: 1-8<br>
+                                    <strong>Psalm: </strong>Psalm 5: 5-7, 12<br>
                                     <!--<strong>2nd: </strong>Peter 1: 16-19<br>-->
-                                    <strong>Gospel: </strong>Luke 4: 16-30
+                                    <strong>Gospel: </strong>Luke 6: 6-11
                                 </dd>
                             </dl>
                         </div>
@@ -998,10 +998,10 @@ marquee{
                                 <!--<dd>6pm</dd>-->                                
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
-                                    <strong>1st: </strong>1 Corinthians 2: 10-16<br>
-                                    <strong>Psalm: </strong>Psalm 145: 8-14<br>
+                                    <strong>1st: </strong>1 Corinthians 6: 1-11<br>
+                                    <strong>Psalm: </strong>Psalm 149: 1-6, 9<br>
                                     <!--<strong>2nd: </strong>Romans 9: 1-5<br>-->
-                                    <strong>Gospel: </strong>Luke 4: 31-37
+                                    <strong>Gospel: </strong>Luke 6: 12-19
                                 </dd>
                             </dl>
                         </div>
@@ -1021,10 +1021,10 @@ marquee{
                                 <dd>6pm <br><i>(Healing Mass)</i></dd>                               
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
-                                    <strong>1st: </strong>1 Corinthians 3: 1-9<br>
-                                    <strong>Psalm: </strong>Psalm 33: 12-15, 20-21<br>
+                                    <strong>1st: </strong>1 Corinthians 7: 25-31<br>
+                                    <strong>Psalm: </strong>Psalm 45: 11-12, 14-17<br>
                                     <!--<strong>2nd: </strong>1st Corinthians 15: 20-26<br>-->
-                                    <strong>Gospel: </strong>Luke 4: 38-44
+                                    <strong>Gospel: </strong>Luke 6: 20-26
                                 </dd>
                             </dl>
                         </div>
@@ -1044,10 +1044,10 @@ marquee{
                                 <!--<dd>6pm</dd>-->                                
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
-                                    <strong>1st: </strong>1 Corinthians 3: 18-23<br>
-                                    <strong>Psalm: </strong>Psalms 24: 1-6<br>
+                                    <strong>1st: </strong>1 Corinthians 8: 1-7, 11-13<br>
+                                    <strong>Psalm: </strong>Psalms 139: 1-3, 13-14, 23-24<br>
                                     <!--<strong>2nd: </strong>Romans 9: 1-5<br>-->
-                                    <strong>Gospel: </strong>Luke 5: 1-11
+                                    <strong>Gospel: </strong>Luke 6: 27-38
                                 </dd>
                             </dl>
                         </div>
@@ -1067,10 +1067,10 @@ marquee{
                                 <!--<dd>6pm</dd>-->                                
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
-                                    <strong>1st: </strong>1 Corinthians 4: 1-5<br>
-                                    <strong>Psalm: </strong>Psalms 37: 3-6, 27-28, 39-40<br>
+                                    <strong>1st: </strong>Num 21: 4-9<br>
+                                    <strong>Psalm: </strong>Psalms 78: 1-2, 34-38<br>
                                     <!--<strong>2nd: </strong>Romans 9: 1-5<br>-->
-                                    <strong>Gospel: </strong>Luke 5: 33-39
+                                    <strong>Gospel: </strong>John 3: 13-17
                                 </dd>
                             </dl>
                         </div>
@@ -1092,10 +1092,10 @@ marquee{
                                 <dd>1 hour before Mass during Adoration<br></dd>
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
-                                    <strong>1st: </strong>Micah 5: 2-5 <strong>OR</strong> Romans 8: 28-30<br>
-                                    <strong>Psalm: </strong>Psalms 13: 5-6<br>
+                                    <strong>1st: </strong>Hebrew 5: 7-9 <strong>OR</strong> 1 Corinthians 10: 14-22<br>
+                                    <strong>Psalm: </strong>Psalms 31: 1-5, 14-15, 19 <strong>Psalms 116: 12-13, 17-18</strong><br>
                                     <!--<strong>2nd: </strong>Romans 9: 1-5<br>-->
-                                    <strong>Gospel: </strong>Matthew 1: 1-16, 18-23
+                                    <strong>Gospel: </strong>John 19: 25-27 <strong>OR</strong> Luke 2: 33-35
                                 </dd>
                             </dl>
                         </div>
@@ -1115,10 +1115,10 @@ marquee{
                                 <dd>6pm</dd>                                
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
-                                    <strong>1st: </strong>Isaiah 35: 4-7<br>
-                                    <strong>Psalm: </strong>Psalms 146: 6-10<br>
-                                    <strong>2nd: </strong>James 2: 1-5<br>
-                                    <strong>Gospel: </strong>Matthew 7: 31-37
+                                    <strong>1st: </strong>Isaiah 50: 5-9<br>
+                                    <strong>Psalm: </strong>Psalms 116: 1-9<br>
+                                    <strong>2nd: </strong>James 2: 14-18<br>
+                                    <strong>Gospel: </strong>Matthew 8: 27-35
                                 </dd>
                             </dl>
                         </div>
