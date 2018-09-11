@@ -131,40 +131,44 @@ marquee{
                 <div class="modal-header modal-about" style="background-color: black; color: white;">
                     <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                     <h4 class="modal-title modal-about text-center">Daily Mediation </h4>
-                    <h6 class="modal-title modal-about text-center"><i>(Luke 6:10)</i></h6>
+                    <h6 class="modal-title modal-about text-center"><i>(Luke 6:12)</i></h6>
                 </div>
                 <div class="modal-body modal-about">
                     <p><h3>23rd Week in Ordinary Time</h3></p>
-                    <p><strong>Stretch out your hand. (Luke 6:10)</strong></p><br>
+                    <p><strong>Jesus departed to the mountain to pray, and he spent the night in prayer to God. (Luke 6:12)</strong></p><br>
                     
-                   <p>Critics play an important role in the music world. They help the public to evaluate what is good, 
-                   and by doing so, they set standards for music. But critics can also be closed to anything new or 
-                   different. For example, one of Bach’s students called his music “turgid and confused.” A contemporary 
-                   of Mozart called his music “overloaded and overstuffed.” One critic said of Beethoven’s Ninth 
-                   Symphony: “It was hard to figure out what all the noise was about.”</p>
+                   <p>Wouldn’t you love to retreat to a quiet place and spend hours in prayerful adoration of the 
+                   Lord—even if it meant staying up all night? But we know how hard it can be to stay awake: our eyelids 
+                   might begin to droop, our minds might begin to wander, and our bed might start looking softer and 
+                   softer.</p>
 
-                   <p>You could say that some Pharisees of Jesus’ day had become like those critics. In their zeal to 
-                   preserve the Law, they had attached their own limited expectations to it. One of those limitations 
-                   was that they taught that curing the sick was forbidden on the Sabbath—unless the sick person was in 
-                   danger of death. The man whom Jesus healed in the synagogue had only a withered hand, so that clearly 
-                   didn’t qualify. These Pharisees weren’t willing to admit that God could go beyond their assumptions 
-                   of what the Law was all about.</p>
+                   <p>Don’t feel too bad. Even the apostles had a hard time staying awake with Jesus in the Garden of 
+                   Gethsemane.</p>
 
-                   <p>This attitude can affect us as well. We can view our own assumptions about God as being the only 
-                   thing that matters, and end up limiting him as a result. But our heavenly Father wants to take us 
-                   beyond our expectations, both of who he is and of who we can become. He is not interested in healing 
-                   you just enough so that you can squeak your way into heaven. He is a generous Father. He wants to 
-                   fill you with so much grace that you dance through his gates joyfully, bringing countless people 
-                   behind you whose lives you have touched!</p>
+                   <p>But don’t give up either. God is the One who gave you the desire to pray. So when you find 
+                   yourself struggling with sleepiness or distractions in prayer, remember one thing: your effort in 
+                   itself is pleasing to God. Every time you decide to turn to God, every effort you make to come into 
+                   his presence, makes him happy, regardless of the outcome.</p>
 
-                   <p>Do you think it’s possible that you can know the Lord even more deeply than you do right now? Do 
-                   you think it’s possible that you might be able to pray with someone and see them healed? Don’t be 
-                   like those music critics with their limited expectations! God has great plans for you. So go ahead 
-                   and stretch out your hand in faith and see how God fills you with his life, his love, and his 
-                   power.</p>
-				                                                                                                  
-                   <p><strong><i>“Lord, open my eyes. Help me to see how much you have blessed me in the past, so that 
-                   I can be open to receive your grace in the future.”</i></strong></p>
+                   <p>In his book Time for God, Fr. Jacques Philippe develops this idea. He says that if you try hard 
+                   but are still unable to pray well, you should not be sad. He explains that if “we are incapable of 
+                   praying well, or producing any good sentiments or beautiful reflections, that should not make us sad. 
+                   We should offer our poverty to the action of God. Then we will be making a prayer much more valuable 
+                   than the kind that would leave us feeling self-satisfied.”</p>
+				   
+				   <p>If you don’t feel satisfied with your prayer, you can be confident that God is supporting you in 
+				   your struggle. When you are aware of your weakness and your need, you are much more open to receiving 
+				   the grace that God wants to give you.</p>
+				   
+				   <p>Consider these stories: Pope Francis has admitted to falling asleep in prayer on occasion. St. 
+				   Jane de Chantal has said, “Neither should we be troubled when we sleep at prayer, provided we resist 
+				   it. Let us . . . keep ourselves before God as a statue to receive all he sends.” And St. Therese of 
+				   Lisieux, who would also fall asleep in prayer, assures us that like all parents, God loves his 
+				   children best when they are asleep.</p>
+				   
+				   <p>So don’t give up; you’re in good company!</p>
+				                                                                                                
+                   <p><strong><i>“Lord, thank you for accepting even my meager efforts in prayer. Lord, help me to stay awake with you.””</i></strong></p>
                     <p class="text-muted">&copy; Word Among Us - Mediation</p>
                 </div>
             </div>
