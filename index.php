@@ -131,44 +131,44 @@ marquee{
                 <div class="modal-header modal-about" style="background-color: black; color: white;">
                     <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                     <h4 class="modal-title modal-about text-center">Daily Mediation </h4>
-                    <h6 class="modal-title modal-about text-center"><i>(Luke 6:12)</i></h6>
+                    <h6 class="modal-title modal-about text-center"><i>(1 Corinthians 7:29)</i></h6>
                 </div>
                 <div class="modal-body modal-about">
-                    <p><h3>23rd Week in Ordinary Time</h3></p>
-                    <p><strong>Jesus departed to the mountain to pray, and he spent the night in prayer to God. (Luke 6:12)</strong></p><br>
+                    <p><h3>The Most Holy Name of Mary (Optional Memorial)</h3></p>
+                    <p><strong>The time is running out. (1 Corinthians 7:29)</strong></p><br>
                     
-                   <p>Wouldn’t you love to retreat to a quiet place and spend hours in prayerful adoration of the 
-                   Lord—even if it meant staying up all night? But we know how hard it can be to stay awake: our eyelids 
-                   might begin to droop, our minds might begin to wander, and our bed might start looking softer and 
-                   softer.</p>
+                   <p>Because he believed that the Second Coming of Jesus was imminent, St. Paul lived with a sense of 
+                   urgency. He was convinced that “time is running out” (1 Corinthians 7:29). But Paul’s urgency was not 
+                   directed only to that unknown time we call Judgment Day. He also directed it to the way we spend our 
+                   time each day.</p>
 
-                   <p>Don’t feel too bad. Even the apostles had a hard time staying awake with Jesus in the Garden of 
-                   Gethsemane.</p>
+                   <p>Like today, most people in Paul’s day were married. Paul knew that married couples spend the 
+                   majority of their time on their families. He was fully aware of this when he asked people to stay 
+                   single so that they had more time to live for the Lord (1 Corinthians 7:27). He was also fully aware 
+                   of the demands of marriage when he said, “Let those having wives act as not having them” (7:29).</p>
 
-                   <p>But don’t give up either. God is the One who gave you the desire to pray. So when you find 
-                   yourself struggling with sleepiness or distractions in prayer, remember one thing: your effort in 
-                   itself is pleasing to God. Every time you decide to turn to God, every effort you make to come into 
-                   his presence, makes him happy, regardless of the outcome.</p>
+                   <p>It’s helpful to know that Paul was not against marriage. He was interested in everyone going to 
+                   heaven; that’s where he focused his attention. And so he urged everyone, whether married or single, 
+                   to always be ready to meet Jesus. As Jesus had taught, he wanted to make sure that no one was caught 
+                   “by surprise” because they were caught up in the concerns of the world (Luke 21:34).</p>
 
-                   <p>In his book Time for God, Fr. Jacques Philippe develops this idea. He says that if you try hard 
-                   but are still unable to pray well, you should not be sad. He explains that if “we are incapable of 
-                   praying well, or producing any good sentiments or beautiful reflections, that should not make us sad. 
-                   We should offer our poverty to the action of God. Then we will be making a prayer much more valuable 
-                   than the kind that would leave us feeling self-satisfied.”</p>
+                   <p>We know that Paul was absolutely wrong about his prediction. The world didn’t end during his 
+                   lifetime. But at the same time, Paul was absolutely right. We should all strive to live carefully. 
+                   We should all ask ourselves, If Jesus were to come today, would I be ready to meet him?</p>
 				   
-				   <p>If you don’t feel satisfied with your prayer, you can be confident that God is supporting you in 
-				   your struggle. When you are aware of your weakness and your need, you are much more open to receiving 
-				   the grace that God wants to give you.</p>
+				   <p>Legend has it that when St. Francis of Assisi was asked this very question, he replied that he 
+				   would just keep working in his garden. Francis felt that he was ready for Jesus; there was no need 
+				   to panic.</p>
 				   
-				   <p>Consider these stories: Pope Francis has admitted to falling asleep in prayer on occasion. St. 
-				   Jane de Chantal has said, “Neither should we be troubled when we sleep at prayer, provided we resist 
-				   it. Let us . . . keep ourselves before God as a statue to receive all he sends.” And St. Therese of 
-				   Lisieux, who would also fall asleep in prayer, assures us that like all parents, God loves his 
-				   children best when they are asleep.</p>
+				   <p>What would you do if you knew Jesus were to come today? Would you go on with your current plans? 
+				   Or would you rush to Confession or try to resolve a broken relationship or try to get in some 
+				   eleventh-hour prayer?</p>
 				   
-				   <p>So don’t give up; you’re in good company!</p>
+				   <p>In another letter, Paul called the Second Coming a “blessed hope” (Titus 2:13). May we all come to 
+				   a similar view. May we all adopt Paul’s sense of urgent excitement as we wait in joyful hope for the 
+				   coming of our Savior, Jesus Christ!</p>
 				                                                                                                
-                   <p><strong><i>“Lord, thank you for accepting even my meager efforts in prayer. Lord, help me to stay awake with you.””</i></strong></p>
+                   <p><strong><i>“Amen! Come, Lord Jesus!”</i></strong></p>
                     <p class="text-muted">&copy; Word Among Us - Mediation</p>
                 </div>
             </div>
@@ -936,19 +936,18 @@ marquee{
 
             <div class="row">
                 <div class="col-lg-2 col-md-6 mask">
-                    <img class="img-rounded img-responsive" src="img/nicolas.jpg" alt="Nicholas of Tolentino" width="140" height="140">
-                    <h5><strong>Nicholas of Tolentino - 1245 - 1305</strong></h5>
+                    <img class="img-rounded img-responsive" src="img/john.jpg" alt="John Chrysostom" width="140" height="140">
+                    <h5><strong>John Chrysostom - circa 350-407</strong></h5>
                 </div>
                 <div class="col-lg-10 col-md-6">
-                    <p>Born in Italy and named for St. Nicholas of Bari, the saint to whom his childless parents had 
-                    prayed, Nicholas made his Augustinian vows while still a teen. An early job was distributing food to 
-                    the poor at the friary gate. At his ordination in 1269, he already was reputed to be a healer and 
-                    miracle-worker. About 1274, after several assignments, he was sent to Tolentino, where he spent the 
-                    rest of his life. A successful street preacher, he often spent entire days hearing confessions. 
-                    Nicholas truly befriended the poor and sick. During his sainthood process, the Vatican accepted 
-                    about 30 miracles attributed to his intercession. He is the patron of poor souls and mariners.</p>
+                    <p>One of four Greek doctors of the church and an eloquent preacher 
+                    (chrysostomos means "golden tongue"), John was born in Antioch. After some years as a mountain 
+                    ascetic, he joined the clergy in Antioch in 381 and became a noted biblical commentator. Elected 
+                    patriarch of Constantinople in 398, John was outspoken. His broad reforms drew fire from secular 
+                    elites and the patriarch of Alexandria. He was deposed by gathering of bishops in 403 and exiled by 
+                    the emperor. He died during a forced move in exile.</p>
 
-                       <p class="text-muted">&copy; Catholic News Services - Nicholas of Tolentino</p>
+                       <p class="text-muted">&copy; Catholic News Services - John Chrysostom</p>
                 </div>
             </div>
         </div><!-- /.End of Administrative container -->
@@ -1687,7 +1686,7 @@ marquee{
                     </div>
                     <div class="footer-me-leftr">
                         <h4>Quote of the week</h4>
-                        <p>For the sake of his sorrowful passion, have mercy on us and on the whole world.</p>
+                        <p>"Charity is no substitute for Justice withheld" - Saint Augustine</p>
                     </div>
                     <div class="clearfix"></div>
                 </div>
