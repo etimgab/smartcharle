@@ -131,44 +131,44 @@ marquee{
                 <div class="modal-header modal-about" style="background-color: black; color: white;">
                     <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                     <h4 class="modal-title modal-about text-center">Daily Mediation </h4>
-                    <h6 class="modal-title modal-about text-center"><i>(1 Corinthians 7:29)</i></h6>
+                    <h6 class="modal-title modal-about text-center"><i>(Luke 6:36)</i></h6>
                 </div>
                 <div class="modal-body modal-about">
-                    <p><h3>The Most Holy Name of Mary (Optional Memorial)</h3></p>
-                    <p><strong>The time is running out. (1 Corinthians 7:29)</strong></p><br>
+                    <p><h3>Saint John Chrysostom, Bishop and Doctor of the Church (Memorial)</h3></p>
+                    <p><strong>Be merciful, just as also your Father is merciful. (Luke 6:36)</strong></p><br>
                     
-                   <p>Because he believed that the Second Coming of Jesus was imminent, St. Paul lived with a sense of 
-                   urgency. He was convinced that “time is running out” (1 Corinthians 7:29). But Paul’s urgency was not 
-                   directed only to that unknown time we call Judgment Day. He also directed it to the way we spend our 
-                   time each day.</p>
+                   <p>One of the reasons Jesus’ teaching on mercy is so challenging is that we face many opportunities 
+                   to practice it each day. Like many other challenges, our best defense is a good offense. We are 
+                   better able to rise to these challenges if we prepare ourselves for them in advance. So what can we 
+                   do? What attitudes come before mercy?</p>
 
-                   <p>Like today, most people in Paul’s day were married. Paul knew that married couples spend the 
-                   majority of their time on their families. He was fully aware of this when he asked people to stay 
-                   single so that they had more time to live for the Lord (1 Corinthians 7:27). He was also fully aware 
-                   of the demands of marriage when he said, “Let those having wives act as not having them” (7:29).</p>
+                   <p>First there’s love. When Jesus commands us to be merciful, he is essentially telling us to follow 
+                   the way of love. Love doesn’t seek retribution or “brood over injury”</p>
 
-                   <p>It’s helpful to know that Paul was not against marriage. He was interested in everyone going to 
-                   heaven; that’s where he focused his attention. And so he urged everyone, whether married or single, 
-                   to always be ready to meet Jesus. As Jesus had taught, he wanted to make sure that no one was caught 
-                   “by surprise” because they were caught up in the concerns of the world (Luke 21:34).</p>
+                   <p>(1 Corinthians 13:5). That’s why Jesus tells his followers to “bless those who curse you” and 
+                   “pray for those who mistreat you” (Luke 6:28). So out of love, when a family member says something 
+                   hurtful, try to hold your tongue instead of lashing out. When someone cuts you off while you’re 
+                   driving, pray for that person instead of reacting with anger.</p>
 
-                   <p>We know that Paul was absolutely wrong about his prediction. The world didn’t end during his 
-                   lifetime. But at the same time, Paul was absolutely right. We should all strive to live carefully. 
-                   We should all ask ourselves, If Jesus were to come today, would I be ready to meet him?</p>
+                   <p>There’s also understanding. Pope Francis has said that we are all “a complex mixture of light and 
+                   shadows” (The Joy of Love, 113). So before you take offense or respond in a negative way, ask 
+                   yourself, “What might be causing this person to act in this way?” If you step back and take the time 
+                   to understand a person and the complicated factors that might lead people to do what they do, you may 
+                   find it easier to be compassionate and thus merciful.</p>
 				   
-				   <p>Legend has it that when St. Francis of Assisi was asked this very question, he replied that he 
-				   would just keep working in his garden. Francis felt that he was ready for Jesus; there was no need 
-				   to panic.</p>
+				   <p>Third, there’s self-awareness. You too are a mixture of “light and shadows.” Yet it’s so very easy 
+				   to see the plank in a brother’s or sister’s eye but fail to see the beam in your own (Matthew 7:3). 
+				   When you regularly examine your heart, you are constantly reminded of your own weaknesses. As you 
+				   become more alert to your own need for God’s compassion and forbearance, it becomes easier to forgive 
+				   other people and show them mercy.</p>
 				   
-				   <p>What would you do if you knew Jesus were to come today? Would you go on with your current plans? 
-				   Or would you rush to Confession or try to resolve a broken relationship or try to get in some 
-				   eleventh-hour prayer?</p>
-				   
-				   <p>In another letter, Paul called the Second Coming a “blessed hope” (Titus 2:13). May we all come to 
-				   a similar view. May we all adopt Paul’s sense of urgent excitement as we wait in joyful hope for the 
-				   coming of our Savior, Jesus Christ!</p>
-				                                                                                                
-                   <p><strong><i>“Amen! Come, Lord Jesus!”</i></strong></p>
+				   <p>Because we are a work in progress, we will probably always struggle with the call to be merciful. 
+				   But how blessed we are that God is merciful to us! As we do our part to prepare our hearts, he will 
+				   pour out his grace upon us day by day. May we become his face of mercy to all we encounter each day!
+				   </p>
+				   				                                                                                                
+                   <p><strong><i>“Jesus, grant me the grace this day to show mercy, just as your Father has shown me 
+                   mercy.”</i></strong></p>
                     <p class="text-muted">&copy; Word Among Us - Mediation</p>
                 </div>
             </div>
