@@ -131,44 +131,42 @@ marquee{
                 <div class="modal-header modal-about" style="background-color: black; color: white;">
                     <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                     <h4 class="modal-title modal-about text-center">Daily Mediation </h4>
-                    <h6 class="modal-title modal-about text-center"><i>(John 3:14)</i></h6>
+                    <h6 class="modal-title modal-about text-center"><i>(Mark 8:33)</i></h6>
                 </div>
                 <div class="modal-body modal-about">
-                    <p><h3>The Exaltation of the Holy Cross (Feast)</h3></p>
-                    <p><strong>Just as Moses lifted up the serpent in the desert, so must the Son of Man be lifted up. (John 3:14)</strong></p><br>
+                    <p><h3>24th Sunday in Ordinary Time</h3></p>
+                    <p><strong>Get behind me, Satan. (Mark 8:33)</strong></p><br>
                     
-                   <p>There is a glorious, divine irony in today’s feast: a cruel instrument of suffering and death has 
-                   been transformed into a grace-filled instrument of healing and resurrection.</p>
+                   <p>Try to imagine the look on Peter’s face when Jesus rebuked him. He must have gone from a beaming 
+                   smile to a forlorn frown in a split second.</p>
 
-                   <p>We see the irony in today’s first reading. The Israelites had begun complaining and accusing God 
-                   of abandoning them during their journey toward the Promised Land. Ultimately, all the venom in their 
-                   words and hearts manifested itself in the form of poisonous serpents that attacked them. Their own 
-                   sin fell back upon them and trapped them in death and destruction. That’s one irony: the people’s 
-                   complaining made their situation worse.</p>
+                   <p>Did Peter love Jesus when he said, “You are the Christ” (Mark 8:29)? Yes! Did he love Jesus when 
+                   he urged him to avoid the cross? Yes! Peter loved Jesus with his whole heart on both occasions, even 
+                   though the first response came from God, and the second one didn’t.</p>
 
-                   <p>Then, when the people begged God to save them, he told them to gaze on an image of a serpent. 
-                   They had to fix their eyes on a symbol of their own sin and unbelief if they wanted to be set free 
-                   from the consequences of their sin. That’s another irony: looking at their sin brought them 
-                   salvation.</p>
+                   <p>If it was hard for the great St. Peter to recognize the difference between godly truth and ungodly 
+                   temptation, what hope could there possibly be for us? Sure, there are times when it’s not hard to 
+                   spot the influence of the devil. But what about those times when we feel we are being sincere and 
+                   honest, but we’re still wrong?</p>
 
-                   <p>In the Gospel, Jesus promises Nicodemus that the Son of Man must be “lifted up” so that everyone 
-                   who believes in him might have eternal life (John 3:14). He promises salvation to everyone who comes 
-                   face-to-face with the consequences of their own sin. Yes, I helped crucify him. It was my own 
-                   violence, my own hatred, my own self-centeredness and fallen desires that put him up there.</p>
+                   <p>What about those times when we say something out of a good motivation, but it ends up being the 
+                   wrong thing at the wrong time?</p>
 				   
-				   <p>This is the final glorious irony. When we exalt the cross—when we lift it up and gaze on it—we 
-				   experience God’s love and his healing. We see that it wasn’t just our sin that put Jesus there; it 
-				   was also his love. It wasn’t just our enmity; it was his friendship. It wasn’t just our selfishness; 
-				   it was his selflessness. We thought we were casting him out of our lives, when really he was giving 
-				   himself to us in the fullest way possible.</p>
+				   <p>The first thing we need to do is admit that we don’t always get it right. We’re going to make 
+				   mistakes and hurt people, even when we have good intentions. There will even be times, humbling 
+				   though they may be, when our good intentions end up serving devilish purposes. Praise God for his 
+				   mercy and patience!</p>
 				   
-				   <p>Jesus could have stopped his death at any point, but he didn’t. He let us lift him up in death so 
-				   that he could raise us up to eternal life.</p>
+				   <p>Second, we need to know that the Holy Spirit wants to teach us how to live. St. Paul tells us that 
+				   no matter how inscrutable the wisdom of God may be, “we have the mind of the Lord” 
+				   (1 Corinthians 2:16). This means we really can learn how to discern spiritual things.</p>
 				   
-				   <p>Let’s all exalt the cross in our hearts today.</p>
+				   <p>Over time, Peter learned how to discern God’s voice. He learned how to sort through his intentions 
+				   and be a clearer instrument of God’s grace. We can too. Just keep telling yourself, “I have the mind 
+				   of Christ. I believe that the Holy Spirit is my guide.” With this little statement of faith, you can 
+				   develop the gift of discernment.</p>
 				   				                                                                                                
-                   <p><strong><i>“We adore you, O Christ, and we bless you, because by your cross you have redeemed the 
-                   world.” (St. Francis of Assisi)”</i></strong></p>
+                   <p><strong><i>“Lord, show me your ways so that I may discern your will.”</i></strong></p>
                     <p class="text-muted">&copy; Word Among Us - Mediation</p>
                 </div>
             </div>
