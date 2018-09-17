@@ -131,42 +131,44 @@ marquee{
                 <div class="modal-header modal-about" style="background-color: black; color: white;">
                     <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                     <h4 class="modal-title modal-about text-center">Daily Mediation </h4>
-                    <h6 class="modal-title modal-about text-center"><i>(Mark 8:33)</i></h6>
+                    <h6 class="modal-title modal-about text-center"><i>(Luke 7:4)</i></h6>
                 </div>
                 <div class="modal-body modal-about">
-                    <p><h3>24th Sunday in Ordinary Time</h3></p>
-                    <p><strong>Get behind me, Satan. (Mark 8:33)</strong></p><br>
+                    <p><h3>Saint Robert Bellarmine, Bishop and Doctor of the Church (Optional Memorial)</h3></p>
+                    <p><strong>They approached Jesus and strongly urged him to come. (Luke 7:4)</strong></p><br>
                     
-                   <p>Try to imagine the look on Peter’s face when Jesus rebuked him. He must have gone from a beaming 
-                   smile to a forlorn frown in a split second.</p>
+                   <p>Today’s Gospel recounts one of Scripture’s best-known stories about the power of intercessory 
+                   prayer: Jesus heals an unseen servant with only the power of his word. It’s an inspiring story, but 
+                   take a look at how it all began. People came to Jesus and urged him, begged him, to come. They 
+                   weren’t asking on behalf of a family member or a friend or even another Jew. They were asking him to 
+                   come heal a pagan soldier’s slave. An unlikely believer, the Roman centurion recognized that Jesus, 
+                   like Caesar, possessed supreme authority. So he sent envoys to convey his request, and Jesus 
+                   responded!</p>
 
-                   <p>Did Peter love Jesus when he said, “You are the Christ” (Mark 8:29)? Yes! Did he love Jesus when 
-                   he urged him to avoid the cross? Yes! Peter loved Jesus with his whole heart on both occasions, even 
-                   though the first response came from God, and the second one didn’t.</p>
+                   <p>Many miracles in Scripture occurred because someone went to Jesus on another person’s behalf. 
+                   Often it was a parent pleading for a child or a friend begging Jesus to intervene. And over and over, 
+                   Jesus answered their request.</p>
 
-                   <p>If it was hard for the great St. Peter to recognize the difference between godly truth and ungodly 
-                   temptation, what hope could there possibly be for us? Sure, there are times when it’s not hard to 
-                   spot the influence of the devil. But what about those times when we feel we are being sincere and 
-                   honest, but we’re still wrong?</p>
+                   <p>Intercession like this isn’t limited to biblical times. We can all be intercessors. We don’t need 
+                   a special title or training. In fact, you probably already intercede for your family and friends. But 
+                   maybe now is an opportunity to learn to pray a little more effectively. How? Like the centurion, try 
+                   making a plan and pushing yourself to stick with it.</p>
 
-                   <p>What about those times when we say something out of a good motivation, but it ends up being the 
-                   wrong thing at the wrong time?</p>
+                   <p>First, find a piece of paper and write down the people, places, and situations that you want to 
+                   pray for. Maybe it’s people in your own home or parish. Maybe it’s a bitter conflict in a distant 
+                   country. Don’t let the size of the request deter you.</p>
 				   
-				   <p>The first thing we need to do is admit that we don’t always get it right. We’re going to make 
-				   mistakes and hurt people, even when we have good intentions. There will even be times, humbling 
-				   though they may be, when our good intentions end up serving devilish purposes. Praise God for his 
-				   mercy and patience!</p>
+				   <p>Next, find a visible place in your home where you can post your list. You might put it on the 
+				   refrigerator, on your mirror, or beside your Bible. Every time you see the list, picture yourself 
+				   bringing these petitions to Jesus, just as the centurion did. Ask him to intervene in these 
+				   situations to bring healing or reconciliation or whatever else is needed.</p>
 				   
-				   <p>Second, we need to know that the Holy Spirit wants to teach us how to live. St. Paul tells us that 
-				   no matter how inscrutable the wisdom of God may be, “we have the mind of the Lord” 
-				   (1 Corinthians 2:16). This means we really can learn how to discern spiritual things.</p>
-				   
-				   <p>Over time, Peter learned how to discern God’s voice. He learned how to sort through his intentions 
-				   and be a clearer instrument of God’s grace. We can too. Just keep telling yourself, “I have the mind 
-				   of Christ. I believe that the Holy Spirit is my guide.” With this little statement of faith, you can 
-				   develop the gift of discernment.</p>
-				   				                                                                                                
-                   <p><strong><i>“Lord, show me your ways so that I may discern your will.”</i></strong></p>
+				   <p>As time goes by, you may discover that God has answered some of your prayers. Put a check mark 
+				   next to these. This will remind you that God is listening, even though other prayers seem to go 
+				   unanswered. In moments of doubt, you can look back on these answered prayers and remember that God 
+				   knows and hears the requests of his people.</p>
+				   				   				                                                                                                
+                   <p><strong><i>“Lord, I am not worthy, but please come and heal.”</i></strong></p>
                     <p class="text-muted">&copy; Word Among Us - Mediation</p>
                 </div>
             </div>
@@ -620,6 +622,7 @@ marquee{
 
                         <!--Modal -->
                         <button class="btn btn-primary underline-from-left modal-about" data-toggle="modal" data-target="#myModal">ABOUT THE PARISH<span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span> </button>
+                        
 
                         <div class="tooltip-content">
                             <div class="modal fade features-modal modal-about" id="myModal" tabindex="-1" role="dialog" aria-hidden="true">
@@ -934,18 +937,18 @@ marquee{
 
             <div class="row">
                 <div class="col-lg-2 col-md-6 mask">
-                    <img class="img-rounded img-responsive" src="img/john.jpg" alt="John Chrysostom" width="140" height="140">
-                    <h5><strong>John Chrysostom - circa 350-407</strong></h5>
+                    <img class="img-rounded img-responsive" src="img/Matthew.jpg" alt="Matthew" width="140" height="140">
+                    <h5><strong>Matthew - First Century</strong></h5>
                 </div>
                 <div class="col-lg-10 col-md-6">
-                    <p>One of four Greek doctors of the church and an eloquent preacher 
-                    (chrysostomos means "golden tongue"), John was born in Antioch. After some years as a mountain 
-                    ascetic, he joined the clergy in Antioch in 381 and became a noted biblical commentator. Elected 
-                    patriarch of Constantinople in 398, John was outspoken. His broad reforms drew fire from secular 
-                    elites and the patriarch of Alexandria. He was deposed by gathering of bishops in 403 and exiled by 
-                    the emperor. He died during a forced move in exile.</p>
+                    <p>One of the Twelve Apostles, this tax collector is called Matthew in one Gospel (Mt 9:9) and Levi 
+                    in two others (Mk 2:14 and Lk 5:27). Scripture scholars believe they are the same man because the 
+                    call and shared meal with Jesus are similar in all three accounts. He sometimes is credited with 
+                    writing the Gospel of Matthew, but most scholars think this unlikely. And there is no evidence for 
+                    early church traditions that Matthew evangelized in Judea, Parthia or Ethiopia, or that he was 
+                    martyred in Persia.</p>
 
-                       <p class="text-muted">&copy; Catholic News Services - John Chrysostom</p>
+                       <p class="text-muted">&copy; Catholic News Services - Matthew</p>
                 </div>
             </div>
         </div><!-- /.End of Administrative container -->
@@ -977,10 +980,12 @@ marquee{
                                 <!-- <dd>6pm</dd>-->                                
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
-                                    <strong>1st: </strong>1 Corinthians 11: 17-26, 33<br>
-                                    <strong>Psalm: </strong>Psalm 40: 7-10, 17<br>
-                                    <!--<strong>2nd: </strong>Peter 1: 16-19<br>-->
-                                    <strong>Gospel: </strong>Luke 7: 1-10
+                                <!--Modal -->
+                                    <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#monday_1st_reading">1st Reading &raquo;</a> </p>
+                                    <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#monday_res_psalm">Responsorial Psalm &raquo;</a> </p>
+                                    <!--<p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#monday_2nd_reading">2nd Reading &raquo;</a> </p>-->
+                                    <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#monday_gospel_reading">Gospel Reading &raquo;</a> </p>
+                                    <strong><center>Click above for your readings</center></strong>
                                 </dd>
                             </dl>
                         </div>
@@ -1000,10 +1005,11 @@ marquee{
                                 <!--<dd>6pm</dd>-->                                
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
-                                    <strong>1st: </strong>1 Corinthians 12: 12-14, 27-31<br>
-                                    <strong>Psalm: </strong>Psalm 100: 1-5<br>
-                                    <!--<strong>2nd: </strong>Romans 9: 1-5<br>-->
-                                    <strong>Gospel: </strong>Luke 7: 11-17
+                                    <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#tuesday_1st_reading">1st Reading &raquo;</a> </p>
+                                    <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#tuesday_res_psalm">Responsorial Psalm &raquo;</a> </p>
+                                    <!--<p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#tuesday_2nd_reading">2nd Reading &raquo;</a> </p>-->
+                                    <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#tuesday_gospel_reading">Gospel Reading &raquo;</a> </p>
+                                    <strong><center>Click above for your readings</center></strong>
                                 </dd>
                             </dl>
                         </div>
@@ -1023,10 +1029,11 @@ marquee{
                                 <dd>6pm <br><i>(Healing Mass)</i></dd>                               
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
-                                    <strong>1st: </strong>1 Corinthians 12: 31-13:13<br>
-                                    <strong>Psalm: </strong>Psalm 33: 2-5, 12, 22<br>
-                                    <!--<strong>2nd: </strong>1st Corinthians 15: 20-26<br>-->
-                                    <strong>Gospel: </strong>Luke 7: 31-35
+                                    <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#wednesday_1st_reading">1st Reading &raquo;</a> </p>
+                                    <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#wednesday_res_psalm">Responsorial Psalm &raquo;</a> </p>
+                                    <!--<p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#wednesday_2nd_reading">2nd Reading &raquo;</a> </p>-->
+                                    <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#wednesday_gospel_reading">Gospel Reading &raquo;</a> </p>
+                                    <strong><center>Click above for your readings</center></strong>
                                 </dd>
                             </dl>
                         </div>
@@ -1046,10 +1053,11 @@ marquee{
                                 <!--<dd>6pm</dd>-->                                
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
-                                    <strong>1st: </strong>1 Corinthians 15: 1-11<br>
-                                    <strong>Psalm: </strong>Psalms 118: 1-2, 15-17, 28<br>
-                                    <!--<strong>2nd: </strong>Romans 9: 1-5<br>-->
-                                    <strong>Gospel: </strong>Luke 7: 36-50
+                                    <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#thursday_1st_reading">1st Reading &raquo;</a> </p>
+                                    <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#thursday_res_psalm">Responsorial Psalm &raquo;</a> </p>
+                                    <!--<p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#thursday_2nd_reading">2nd Reading &raquo;</a> </p>-->
+                                    <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#thursday_gospel_reading">Gospel Reading &raquo;</a> </p>
+                                    <strong><center>Click above for your readings</center></strong>
                                 </dd>
                             </dl>
                         </div>
@@ -1069,10 +1077,11 @@ marquee{
                                 <!--<dd>6pm</dd>-->                                
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
-                                    <strong>1st: </strong>Ephesians 4: 1-7, 11-13<br>
-                                    <strong>Psalm: </strong>Psalms 19: 2-5<br>
-                                    <!--<strong>2nd: </strong>Romans 9: 1-5<br>-->
-                                    <strong>Gospel: </strong>Matthew 9: 9-13
+                                    <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#friday_1st_reading">1st Reading &raquo;</a> </p>
+                                    <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#friday_res_psalm">Responsorial Psalm &raquo;</a> </p>
+                                    <!--<p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#friday_2nd_reading">2nd Reading &raquo;</a> </p>-->
+                                    <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#friday_gospel_reading">Gospel Reading &raquo;</a> </p>
+                                    <strong><center>Click above for your readings</center></strong>
                                 </dd>
                             </dl>
                         </div>
@@ -1094,10 +1103,11 @@ marquee{
                                 <dd>1 hour before Mass during Adoration<br></dd>
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
-                                    <strong>1st: </strong>1 Corinthians 15: 35-37, 42-49<br>
-                                    <strong>Psalm: </strong>Psalms 56: 10-14<br>
-                                    <!--<strong>2nd: </strong>Romans 9: 1-5<br>-->
-                                    <strong>Gospel: </strong>Luke 8: 4-15
+                                    <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#saturday_1st_reading">1st Reading &raquo;</a> </p>
+                                    <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#saturday_res_psalm">Responsorial Psalm &raquo;</a> </p>
+                                    <!--<p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#saturday_2nd_reading">2nd Reading &raquo;</a> </p>-->
+                                    <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#saturday_gospel_reading">Gospel Reading &raquo;</a> </p>
+                                    <strong><center>Click above for your readings</center></strong>
                                 </dd>
                             </dl>
                         </div>
@@ -1117,10 +1127,11 @@ marquee{
                                 <dd>6pm</dd>                                
                                 <dt>Today's reading</dt>
                                 <dd class="text-left">
-                                    <strong>1st: </strong>Wisdom 2: 12, 17-20<br>
-                                    <strong>Psalm: </strong>Psalms 54: 3-6, 8<br>
-                                    <strong>2nd: </strong>James 3: 16-4: 3<br>
-                                    <strong>Gospel: </strong>Matthew 9: 30-37
+                                    <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#sunday_1st_reading">1st Reading &raquo;</a> </p>
+                                    <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#sunday_res_psalm">Responsorial Psalm &raquo;</a> </p>
+                                    <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#sunday_2nd_reading">2nd Reading &raquo;</a> </p>
+                                    <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#sunday_gospel_reading">Gospel Reading &raquo;</a> </p>
+                                    <strong><center>Click above for your readings</center></strong>
                                 </dd>
                             </dl>
                         </div>
@@ -1128,6 +1139,1045 @@ marquee{
                 </div>
             </div><!-- /.End of Mass plans -->
         </div>
+        
+        
+        <div class="tooltip-content">
+            <div class="modal fade features-modal modal-about" id="monday_1st_reading" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-dialog modal-md modal-about">
+                    <div class="modal-content modal-about">
+                        <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
+                            <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
+                            <h4 class="modal-title modal-about text-center">1st Reading - Monday<br>
+                            <h6 class="modal-title modal-about text-center">1 Corinthians 11:17-26, 33</h6>
+                            </h4>
+                        </div>
+                        <div class="modal-body modal-about">
+                            <p>Brothers and sisters:<br>
+                                In giving this instruction, I do not praise the fact that your meetings are doing more 
+                                harm than good. First of all, I hear that when you meet as a Church there are divisions 
+                                among you, and to a degree I believe it; there have to be factions among you in order 
+                                that also those who are approved among you may become known. When you meet in one place, 
+                                then, it is not to eat the Lord's supper, for in eating, each one goes ahead with his 
+                                own supper, and one goes hungry while another gets drunk. Do you not have houses in 
+                                which you can eat and drink? Or do you show contempt for the Church of God and make 
+                                those who have nothing feel ashamed? What can I say to you? Shall I praise you? In this 
+                                matter I do not praise you.
+                            </p>
+                            <p>
+                                 For I received from the Lord what I also handed on to you, that the Lord Jesus, on the 
+                                 night he was handed over, took bread and, after he had given thanks, broke it and said, 
+                                 "This is my Body that is for you. Do this in remembrance of me." In the same way also 
+                                 the cup, after supper, saying, "This cup is the new covenant in my Blood. Do this, as 
+                                 often as you drink it, in remembrance of me." For as often as you eat this bread and 
+                                 drink the cup, you proclaim the death of the Lord until he comes.
+                            </p>
+                            <p>
+                                Therefore, my brothers and sisters, when you come together to eat, wait for one another.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <script>
+                $('#myModal').modal('');
+            </script>
+        </div><!--\.Modal -->
+        
+        <div class="tooltip-content">
+            <div class="modal fade features-modal modal-about" id="monday_res_psalm" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-dialog modal-md modal-about">
+                    <div class="modal-content modal-about">
+                        <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
+                            <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
+                            <h4 class="modal-title modal-about text-center">Responsorial Psalm - Monday<br>
+                            <h6 class="modal-title modal-about text-center">Psalm 40:7-10, 17</h6>
+                            </h4>
+                        </div>
+                        <div class="modal-body modal-about">
+                            <p>
+                                <strong><i>R. Proclaim the death of the Lord until he comes again.</i></strong><br>
+                                Sacrifice or oblation you wished not,<br>
+                                but ears open to obedience you gave me.<br>
+                                Burnt offerings or sin offerings you sought not;<br>
+                                then said I, "Behold I come."<br>
+                                <strong><i>R. Proclaim the death of the Lord until he comes again.</i></strong>
+                            </p>
+                            <p>
+                                "In the written scroll it is prescribed for me,<br>
+                                To do your will, O my God, is my delight,<br>
+                                and your law is within my heart!"<br>
+                                <strong><i>R. Proclaim the death of the Lord until he comes again.</i></strong>
+                            </p>
+                            <p>
+                                I announced your justice in the vast assembly;<br>
+                                I did not restrain my lips, as you, O LORD, know.<br>
+                                <strong><i>R. Proclaim the death of the Lord until he comes again.</i></strong>
+                            </p>
+                            <p>
+                                May all who seek you<br>
+                                exult and be glad in you<br>
+                                And may those who love your salvation<br>
+                                say ever, "The LORD be glorified."<br>
+                                <strong><i>R. Proclaim the death of the Lord until he comes again.</i></strong>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <script>
+                $('#myModal').modal('');
+            </script>
+        </div><!--\.Modal -->
+        
+        <div class="tooltip-content">
+            <div class="modal fade features-modal modal-about" id="monday_2nd_reading" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-dialog modal-sm modal-about">
+                    <div class="modal-content modal-about">
+                        <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
+                            <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
+                            <h4 class="modal-title modal-about text-center">2nd Reading - Monday</h4>
+                        </div>
+                        <div class="modal-body modal-about">
+                            <p>Marriage in Catholic Church is referred to as Matrimony. This is the covenant by which a 
+                            man and a woman establish themselves a partnership of the whole of life and which is ordered 
+                            by its nature to the good of the spouses and the procreation and the education of offspring, 
+                            and which has been raised by Christ the Lord to the dignity of a Sacrament between the 
+                            baptised.</p>
+                            <p class="text-center"><strong>Meet with catechist</strong>&nbsp;&nbsp;<a href="mailto:catechist@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x tooltip-viewport-bottom" title="Email Catechist"></i></a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <script>
+                $('#myModal').modal('');
+            </script>
+        </div><!--\.Modal -->
+        
+        <div class="tooltip-content">
+            <div class="modal fade features-modal modal-about" id="monday_gospel_reading" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-dialog modal-md modal-about">
+                    <div class="modal-content modal-about">
+                        <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
+                            <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
+                            <h4 class="modal-title modal-about text-center">Gospel Reading - Monday
+                            <h6 class="modal-title modal-about text-center">Luke 7:1-10</h6>
+                            </h4>
+                        </div>
+                        <div class="modal-body modal-about">
+                            <p>
+                                When Jesus had finished all his words to the people, he entered Capernaum. A centurion 
+                                there had a slave who was ill and about to die, and he was valuable to him. When he 
+                                heard about Jesus, he sent elders of the Jews to him, asking him to come and save the 
+                                life of his slave. They approached Jesus and strongly urged him to come, saying, "He 
+                                deserves to have you do this for him, for he loves our nation and he built the synagogue 
+                                for us."
+                            </p>
+                            <p>
+                                 And Jesus went with them, but when he was only a short distance from the house,
+                                the centurion sent friends to tell him, "Lord, do not trouble yourself, for I am not 
+                                worthy to have you enter under my roof. Therefore, I did not consider myself worthy to 
+                                come to you; but say the word and let my servant be healed. For I too am a person 
+                                subject to authority, with soldiers subject to me. And I say to one, 'Go,' and he goes;
+                                and to another, 'Come here,' and he comes; and to my slave, 'Do this,' and he does it."
+                            </p>
+                            <p>
+                                When Jesus heard this he was amazed at him and, turning, said to the crowd following him,
+                                "I tell you, not even in Israel have I found such faith." When the messengers returned 
+                                to the house, they found the slave in good health.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <script>
+                $('#myModal').modal('');
+            </script>
+        </div><!--\.Modal -->
+        
+        <div class="tooltip-content">
+            <div class="modal fade features-modal modal-about" id="tuesday_1st_reading" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-dialog modal-md modal-about">
+                    <div class="modal-content modal-about">
+                        <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
+                            <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
+                            <h4 class="modal-title modal-about text-center">1st Reading - Tuesday
+                            <h6 class="modal-title modal-about text-center">1 Corinthians 12:12-14, 27-31A</h6>
+                            </h4>
+                        </div>
+                        <div class="modal-body modal-about">
+                            <p>
+                                Brothers and sisters:<br>
+                                As a body is one though it has many parts, and all the parts of the body, though many, 
+                                are one body, so also Christ. For in one Spirit we were all baptized into one Body, 
+                                whether Jews or Greeks, slaves or free persons, and we were all given to drink of one 
+                                Spirit.
+                            </p>
+                            <p>
+                                Now the body is not a single part, but many.
+                            </p>
+                            <p>
+                                Now you are Christ's Body, and individually parts of it. Some people God has designated 
+                                in the Church to be, first, Apostles; second, prophets; third, teachers; then, mighty 
+                                deeds; then gifts of healing, assistance, administration, and varieties of tongues. Are 
+                                all Apostles? Are all prophets? Are all teachers? Do all work mighty deeds? Do all have 
+                                gifts of healing? Do all speak in tongues? Do all interpret? Strive eagerly for the 
+                                greatest spiritual gifts.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <script>
+                $('#myModal').modal('');
+            </script>
+        </div><!--\.Modal -->
+        
+        <div class="tooltip-content">
+            <div class="modal fade features-modal modal-about" id="tuesday_res_psalm" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-dialog modal-md modal-about">
+                    <div class="modal-content modal-about">
+                        <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
+                            <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
+                            <h4 class="modal-title modal-about text-center">Responsorial Psalm - Tuesday
+                            <h6 class="modal-title modal-about text-center">Psalm 100:1B-5</h6>
+                            </h4>
+                        </div>
+                        <div class="modal-body modal-about">
+                            <p>
+                                <strong><i>R. We are his people: the sheep of his flock.</i></strong><br>
+                                Sing joyfully to the LORD, all you lands;<br>
+                                serve the LORD with gladness;<br>
+                                come before him with joyful song.<br>
+                                <strong><i>R. We are his people: the sheep of his flock.</i></strong>
+                            </p>
+                            <p>
+                                Know that the LORD is God;<br>
+                                he made us, his we are;<br>
+                                his people, the flock he tends.<br>
+                                <strong><i>R. We are his people: the sheep of his flock.</i></strong>
+                            </p>
+                            <p>
+                                Enter his gates with thanksgiving,<br>
+                                his courts with praise;<br>
+                                Give thanks to him; bless his name.<br>
+                                <strong><i>R. We are his people: the sheep of his flock.</i></strong>
+                            </p>
+                            <p>
+                                For he is good, the LORD,<br>
+                                whose kindness endures forever,<br>
+                                and his faithfulness, to all generations.<br>
+                                <strong><i>R. We are his people: the sheep of his flock.</i></strong>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <script>
+                $('#myModal').modal('');
+            </script>
+        </div><!--\.Modal -->
+        
+        <div class="tooltip-content">
+            <div class="modal fade features-modal modal-about" id="tuesday_2nd_reading" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-dialog modal-sm modal-about">
+                    <div class="modal-content modal-about">
+                        <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
+                            <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
+                            <h4 class="modal-title modal-about text-center">2nd Reading - Tuesday</h4>
+                        </div>
+                        <div class="modal-body modal-about">
+                            <p>Marriage in Catholic Church is referred to as Matrimony. This is the covenant by which a 
+                            man and a woman establish themselves a partnership of the whole of life and which is ordered 
+                            by its nature to the good of the spouses and the procreation and the education of offspring, 
+                            and which has been raised by Christ the Lord to the dignity of a Sacrament between the 
+                            baptised.</p>
+                            <p class="text-center"><strong>Meet with catechist</strong>&nbsp;&nbsp;<a href="mailto:catechist@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x tooltip-viewport-bottom" title="Email Catechist"></i></a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <script>
+                $('#myModal').modal('');
+            </script>
+        </div><!--\.Modal -->
+        
+        <div class="tooltip-content">
+            <div class="modal fade features-modal modal-about" id="tuesday_gospel_reading" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-dialog modal-md modal-about">
+                    <div class="modal-content modal-about">
+                        <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
+                            <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
+                            <h4 class="modal-title modal-about text-center">Gospel Reading - Tuesday
+                            <h6 class="modal-title modal-about text-center">Luke 7:11-17</h6>
+                            </h4>
+                        </div>
+                        <div class="modal-body modal-about">
+                            <p>
+                                Jesus journeyed to a city called Nain, and his disciples and a large crowd accompanied 
+                                him. As he drew near to the gate of the city, a man who had died was being carried out, 
+                                the only son of his mother, and she was a widow. A large crowd from the city was with 
+                                her. When the Lord saw her, he was moved with pity for her and said to her, "Do not weep." 
+                            </p>
+                            <p>
+                                He stepped forward and touched the coffin; at this the bearers halted, 
+                                and he said, "Young man, I tell you, arise!" The dead man sat up and began to speak, 
+                                and Jesus gave him to his mother. Fear seized them all, and they glorified God, 
+                                exclaiming, "A great prophet has arisen in our midst," and "God has visited his people."
+                                This report about him spread through the whole of Judea and in all the surrounding region.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <script>
+                $('#myModal').modal('');
+            </script>
+        </div><!--\.Modal -->
+        
+        <div class="tooltip-content">
+            <div class="modal fade features-modal modal-about" id="wednesday_1st_reading" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-dialog modal-md modal-about">
+                    <div class="modal-content modal-about">
+                        <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
+                            <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
+                            <h4 class="modal-title modal-about text-center">1st Reading - Wednesday
+                            <h6 class="modal-title modal-about text-center">1 Corinthians 12:31-13:13</h6>
+                            </h4>
+                        </div>
+                        <div class="modal-body modal-about">
+                            <p>
+                                Brothers and sisters:<br>
+                                Strive eagerly for the greatest spiritual gifts.<br>
+                                But I shall show you a still more excellent way.<br>
+                                If I speak in human and angelic tongues but do not have love, I am a resounding gong or 
+                                a clashing cymbal. And if I have the gift of prophecy and comprehend all mysteries and 
+                                all knowledge; if I have all faith so as to move mountains, but do not have love, I am 
+                                nothing. If I give away everything I own, and if I hand my body over so that I may boast 
+                                but do not have love, I gain nothing.
+                            </p>
+                            <p>
+                                Love is patient, love is kind. It is not jealous, love is not pompous, it is not 
+                                inflated, it is not rude, it does not seek its own interests, it is not quick-tempered, 
+                                it does not brood over injury, it does not rejoice over wrongdoing but rejoices with the 
+                                truth. It bears all things, believes all things, hopes all things, endures all things.
+                            </p>
+                            <p>
+                                Love never fails.<br>
+                                If there are prophecies, they will be brought to nothing; if tongues, they will cease; 
+                                if knowledge, it will be brought to nothing. For we know partially and we prophesy 
+                                partially, but when the perfect comes, the partial will pass away. When I was a child, 
+                                I used to talk as a child, think as a child, reason as a child; when I became a man, I 
+                                put aside childish things. At present we see indistinctly, as in a mirror, but then face 
+                                to face. At present I know partially; then I shall know fully, as I am fully known. So 
+                                faith, hope, love remain, these three; but the greatest of these is love.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <script>
+                $('#myModal').modal('');
+            </script>
+        </div><!--\.Modal -->
+        
+        <div class="tooltip-content">
+            <div class="modal fade features-modal modal-about" id="wednesday_res_psalm" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-dialog modal-md modal-about">
+                    <div class="modal-content modal-about">
+                        <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
+                            <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
+                            <h4 class="modal-title modal-about text-center">Responsorial Psalm - Wednesday
+                            <h6 class="modal-title modal-about text-center">Psalm 33:2-5, 12, 22</h6>
+                            </h4>
+                        </div>
+                        <div class="modal-body modal-about">
+                            <p>
+                                <strong><i>R. Blessed the people the Lord has chosen to be his own.</i></strong><br>
+                                Give thanks to the LORD on the harp;<br>
+                                with the ten stringed lyre chant his praises.<br>
+                                Sing to him a new song;<br>
+                                pluck the strings skillfully, with shouts of gladness.<br>
+                                <strong><i>R. Blessed the people the Lord has chosen to be his own.</i></strong>
+                            </p>
+                            <p>
+                                For upright is the word of the LORD,<br>
+                                and all his works are trustworthy.<br>
+                                He loves justice and right;<br>
+                                of the kindness of the LORD the earth is full.<br>
+                                <strong><i>R. Blessed the people the Lord has chosen to be his own.</i></strong>
+                            </p>
+                            <p>
+                                Blessed the nation whose God is the LORD,<br>
+                                the people he has chosen for his own inheritance.<br>
+                                May your kindness, O LORD, be upon us<br>
+                                who have put our hope in you.<br>
+                                <strong><i>R. Blessed the people the Lord has chosen to be his own.</i></strong>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <script>
+                $('#myModal').modal('');
+            </script>
+        </div><!--\.Modal -->
+        
+        <div class="tooltip-content">
+            <div class="modal fade features-modal modal-about" id="wednesday_2nd_reading" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-dialog modal-sm modal-about">
+                    <div class="modal-content modal-about">
+                        <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
+                            <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
+                            <h4 class="modal-title modal-about text-center">2nd Reading - Wednesday</h4>
+                        </div>
+                        <div class="modal-body modal-about">
+                            <p>Marriage in Catholic Church is referred to as Matrimony. This is the covenant by which a 
+                            man and a woman establish themselves a partnership of the whole of life and which is ordered 
+                            by its nature to the good of the spouses and the procreation and the education of offspring, 
+                            and which has been raised by Christ the Lord to the dignity of a Sacrament between the 
+                            baptised.</p>
+                            <p class="text-center"><strong>Meet with catechist</strong>&nbsp;&nbsp;<a href="mailto:catechist@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x tooltip-viewport-bottom" title="Email Catechist"></i></a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <script>
+                $('#myModal').modal('');
+            </script>
+        </div><!--\.Modal -->
+        
+        <div class="tooltip-content">
+            <div class="modal fade features-modal modal-about" id="wednesday_gospel_reading" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-dialog modal-md modal-about">
+                    <div class="modal-content modal-about">
+                        <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
+                            <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
+                            <h4 class="modal-title modal-about text-center">Gospel Reading - Wednesday
+                            <h6 class="modal-title modal-about text-center">Luke 7:31-35</h6>
+                            </h4>
+                        </div>
+                        <div class="modal-body modal-about">
+                            <p>
+                                Jesus said to the crowds:<br>
+                                “To what shall I compare the people of this generation?<br>
+                                What are they like?<br>
+                                They are like children who sit in the marketplace and call to one another,
+                            </p>
+                            <p>
+                                ‘We played the flute for you, but you did not dance.<br>
+                                We sang a dirge, but you did not weep.’
+                            </p>
+                            <p>
+                                For John the Baptist came neither eating food nor drinking wine, and you said, ‘He is 
+                                possessed by a demon.’ The Son of Man came eating and drinking and you said, ‘Look, he 
+                                is a glutton and a drunkard, a friend of tax collectors and sinners.’ But wisdom is 
+                                vindicated by all her children.”
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <script>
+                $('#myModal').modal('');
+            </script>
+        </div><!--\.Modal -->
+        
+        <div class="tooltip-content">
+            <div class="modal fade features-modal modal-about" id="thursday_1st_reading" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-dialog modal-md modal-about">
+                    <div class="modal-content modal-about">
+                        <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
+                            <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
+                            <h4 class="modal-title modal-about text-center">1st Reading - Thursday
+                            <h6 class="modal-title modal-about text-center">1 Corinthians 15:1-11</h6>
+                            </h4>
+                        </div>
+                        <div class="modal-body modal-about">
+                            <p>
+                                I am reminding you, brothers and sisters, of the Gospel I preached to you, which you 
+                                indeed received and in which you also stand. Through it you are also being saved, if you 
+                                hold fast to the word I preached to you, unless you believed in vain. For I handed on to 
+                                you as of first importance what I also received: that Christ died for our sins in 
+                                accordance with the Scriptures; that he was buried; that he was raised on the third day 
+                                in accordance with the Scriptures; that he appeared to Cephas, then to the Twelve. After 
+                                that, he appeared to more than five hundred brothers at once, most of whom are still 
+                                living, though some have fallen asleep. 
+                            </p>
+                            <p>
+                                After that he appeared to James, then to all the Apostles. Last of all, as to one born 
+                                abnormally, he appeared to me. For I am the least of the Apostles, not fit to be called 
+                                an Apostle, because I persecuted the Church of God. But by the grace of God I am what I 
+                                am, and his grace to me has not been ineffective. Indeed, I have toiled harder than all 
+                                of them; not I, however, but the grace of God that is with me. Therefore, whether it be 
+                                I or they, so we preach and so you believed. 
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <script>
+                $('#myModal').modal('');
+            </script>
+        </div><!--\.Modal -->
+        
+        <div class="tooltip-content">
+            <div class="modal fade features-modal modal-about" id="thursday_res_psalm" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-dialog modal-md modal-about">
+                    <div class="modal-content modal-about">
+                        <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
+                            <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
+                            <h4 class="modal-title modal-about text-center">Responsorial Psalm - Thursday
+                            <h6 class="modal-title modal-about text-center">Psalm PS 118:1B-2, 16AB-17, 28</h6>
+                            </h4>
+                        </div>
+                        <div class="modal-body modal-about">
+                            <p>
+                                <strong><i>R. Give thanks to the Lord, for he is good.</i></strong><br>
+                                Give thanks to the LORD, for he is good,<br>
+                                for his mercy endures forever.<br>
+                                Let the house of Israel say,<br>
+                                "His mercy endures forever."<br>
+                                <strong><i>R. Give thanks to the Lord, for he is good.</i></strong>
+                            </p>
+                            <p>
+                                "The right hand of the LORD is exalted;<br>
+                                the right hand of the LORD has struck with power."<br>
+                                I shall not die, but live,<br>
+                                and declare the works of the LORD.<br>
+                                <strong><i>R. Give thanks to the Lord, for he is good.</i></strong>
+                            </p>
+                            <p>
+                                You are my God, and I give thanks to you;<br>
+                                O my God, I extol you.<br>
+                                <strong><i>R. Give thanks to the Lord, for he is good.</i></strong>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <script>
+                $('#myModal').modal('');
+            </script>
+        </div><!--\.Modal -->
+        
+        <div class="tooltip-content">
+            <div class="modal fade features-modal modal-about" id="thursday_2nd_reading" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-dialog modal-sm modal-about">
+                    <div class="modal-content modal-about">
+                        <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
+                            <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
+                            <h4 class="modal-title modal-about text-center">2nd Reading - Thursday</h4>
+                        </div>
+                        <div class="modal-body modal-about">
+                            <p>Marriage in Catholic Church is referred to as Matrimony. This is the covenant by which a 
+                            man and a woman establish themselves a partnership of the whole of life and which is ordered 
+                            by its nature to the good of the spouses and the procreation and the education of offspring, 
+                            and which has been raised by Christ the Lord to the dignity of a Sacrament between the 
+                            baptised.</p>
+                            <p class="text-center"><strong>Meet with catechist</strong>&nbsp;&nbsp;<a href="mailto:catechist@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x tooltip-viewport-bottom" title="Email Catechist"></i></a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <script>
+                $('#myModal').modal('');
+            </script>
+        </div><!--\.Modal -->
+        
+        <div class="tooltip-content">
+            <div class="modal fade features-modal modal-about" id="thursday_gospel_reading" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-dialog modal-md modal-about">
+                    <div class="modal-content modal-about">
+                        <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
+                            <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
+                            <h4 class="modal-title modal-about text-center">Gospel Reading - Thursday
+                            <h6 class="modal-title modal-about text-center">Luke 7:36-50</h6>
+                            </h4>
+                        </div>
+                        <div class="modal-body modal-about">
+                            <p>
+                                A certain Pharisee invited Jesus to dine with him, and he entered the Pharisee's house 
+                                and reclined at table. Now there was a sinful woman in the city who learned that he was 
+                                at table in the house of the Pharisee. Bringing an alabaster flask of ointment, she 
+                                stood behind him at his feet weeping and began to bathe his feet with her tears. Then 
+                                she wiped them with her hair, kissed them, and anointed them with the ointment. 
+                            </p>
+                            <p>
+                                When the Pharisee who had invited him saw this he said to himself, "If this man were a 
+                                prophet, he would know who and what sort of woman this is who is touching him, that she 
+                                is a sinner." Jesus said to him in reply, "Simon, I have something to say to you." "Tell 
+                                me, teacher," he said. "Two people were in debt to a certain creditor; one owed 
+                                five hundred days' wages and the other owed fifty. Since they were unable to repay the 
+                                debt, he forgave it for both.
+                            </p>
+                            <p>
+                                Which of them will love him more?" Simon said in reply, "The one, I suppose, whose 
+                                larger debt was forgiven." He said to him, "You have judged rightly." Then he turned to 
+                                the woman and said to Simon, "Do you see this woman? When I entered your house, you did 
+                                not give me water for my feet, but she has bathed them with her tears and wiped them 
+                                with her hair. You did not give me a kiss, but she has not ceased kissing my feet since 
+                                the time I entered. You did not anoint my head with oil, but she anointed my feet with 
+                                ointment. So I tell you, her many sins have been forgiven; hence, she has shown great 
+                                love. But the one to whom little is forgiven, loves little." He said to her, 
+                                "Your sins are forgiven." The others at table said to themselves, "Who is this who even 
+                                forgives sins?" But he said to the woman, "Your faith has saved you; go in peace."
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <script>
+                $('#myModal').modal('');
+            </script>
+        </div><!--\.Modal -->
+        
+        <div class="tooltip-content">
+            <div class="modal fade features-modal modal-about" id="friday_1st_reading" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-dialog modal-md modal-about">
+                    <div class="modal-content modal-about">
+                        <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
+                            <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
+                            <h4 class="modal-title modal-about text-center">1st Reading - Friday
+                            <h6 class="modal-title modal-about text-center">Ephesians 4:1-7, 11-13</h6>
+                            </h4>
+                        </div>
+                        <div class="modal-body modal-about">
+                            <p>
+                                Brothers and sisters:<br>
+                                I, a prisoner for the Lord, urge you to live in a manner worthy of the call you have 
+                                received, with all humility and gentleness, with patience, bearing with one another 
+                                through love, striving to preserve the unity of the Spirit through the bond of peace: 
+                                one Body and one Spirit, as you were also called to the one hope of your call; one Lord, 
+                                one faith, one baptism; one God and Father of all, who is over all and through all and 
+                                in all.
+                            </p>
+                            <p>
+                                But grace was given to each of us according to the measure of Christ's gift.
+                            </p>
+                            <p>
+                                And he gave some as Apostles, others as prophets, others as evangelists, others as 
+                                pastors and teachers, to equip the holy ones for the work of ministry, for building up 
+                                the Body of Christ, until we all attain to the unity of faith and knowledge of the Son 
+                                of God, to mature manhood, to the extent of the full stature of Christ. 
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <script>
+                $('#myModal').modal('');
+            </script>
+        </div><!--\.Modal -->
+        
+        <div class="tooltip-content">
+            <div class="modal fade features-modal modal-about" id="friday_res_psalm" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-dialog modal-md modal-about">
+                    <div class="modal-content modal-about">
+                        <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
+                            <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
+                            <h4 class="modal-title modal-about text-center">Responsorial Psalm - Friday
+                            <h6 class="modal-title modal-about text-center">Psalm PS 19:2-5</h6>
+                            </h4>
+                        </div>
+                        <div class="modal-body modal-about">
+                            <p>
+                                <strong><i>R. Their message goes out through all the earth.</i></strong><br>
+                                The heavens declare the glory of God;<br>
+                                and the firmament proclaims his handiwork.<br>
+                                Day pours out the word to day,<br>
+                                and night to night imparts knowledge.<br>
+                                <strong><i>R. Their message goes out through all the earth.</i></strong>
+                            </p>
+                            <p>
+                                Not a word nor a discourse<br>
+                                whose voice is not heard;<br>
+                                Through all the earth their voice resounds,<br>
+                                and to the ends of the world, their message.<br>
+                                <strong><i>R. Their message goes out through all the earth.</i></strong>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <script>
+                $('#myModal').modal('');
+            </script>
+        </div><!--\.Modal -->
+        
+        <div class="tooltip-content">
+            <div class="modal fade features-modal modal-about" id="friday_2nd_reading" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-dialog modal-sm modal-about">
+                    <div class="modal-content modal-about">
+                        <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
+                            <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
+                            <h4 class="modal-title modal-about text-center">2nd Reading - Friday</h4>
+                        </div>
+                        <div class="modal-body modal-about">
+                            <p>Marriage in Catholic Church is referred to as Matrimony. This is the covenant by which a 
+                            man and a woman establish themselves a partnership of the whole of life and which is ordered 
+                            by its nature to the good of the spouses and the procreation and the education of offspring, 
+                            and which has been raised by Christ the Lord to the dignity of a Sacrament between the 
+                            baptised.</p>
+                            <p class="text-center"><strong>Meet with catechist</strong>&nbsp;&nbsp;<a href="mailto:catechist@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x tooltip-viewport-bottom" title="Email Catechist"></i></a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <script>
+                $('#myModal').modal('');
+            </script>
+        </div><!--\.Modal -->
+        
+        <div class="tooltip-content">
+            <div class="modal fade features-modal modal-about" id="friday_gospel_reading" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-dialog modal-md modal-about">
+                    <div class="modal-content modal-about">
+                        <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
+                            <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
+                            <h4 class="modal-title modal-about text-center">Gospel Reading - Friday
+                            <h6 class="modal-title modal-about text-center">Matthew 9:9-13</h6>
+                            </h4>
+                        </div>
+                        <div class="modal-body modal-about">
+                            <p>
+                                As Jesus passed by, he saw a man named Matthew sitting at the customs post. He said to 
+                                him, "Follow me." And he got up and followed him. While he was at table in his house, 
+                                many tax collectors and sinners came and sat with Jesus and his disciples. The Pharisees 
+                                saw this and said to his disciples, "Why does your teacher eat with tax collectors and 
+                                sinners?"
+                            </p>
+                            <p>
+                                He heard this and said, "Those who are well do not need a physician, but the sick do. Go 
+                                and learn the meaning of the words, I desire mercy, not sacrifice. I did not come to 
+                                call the righteous but sinners."
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <script>
+                $('#myModal').modal('');
+            </script>
+        </div><!--\.Modal -->
+        
+        <div class="tooltip-content">
+            <div class="modal fade features-modal modal-about" id="saturday_1st_reading" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-dialog modal-md modal-about">
+                    <div class="modal-content modal-about">
+                        <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
+                            <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
+                            <h4 class="modal-title modal-about text-center">1st Reading - Saturday
+                            <h6 class="modal-title modal-about text-center">1 Corinthians 15:35-37, 42-49</h6>
+                            </h4>
+                        </div>
+                        <div class="modal-body modal-about">
+                            <p>
+                                Brothers and sisters:<br>
+                                Someone may say, "How are the dead raised? With what kind of body will they come back?"
+                            </p>
+                            <p>
+                                You fool!<br>
+                                What you sow is not brought to life unless it dies. And what you sow is not the body 
+                                that is to be but a bare kernel of wheat, perhaps, or of some other kind.
+                            </p>
+                            <p>
+                                So also is the resurrection of the dead. It is sown corruptible; it is raised 
+                                incorruptible. It is sown dishonorable; it is raised glorious. It is sown weak; it is 
+                                raised powerful. It is sown a natural body; it is raised a spiritual body. If there is a 
+                                natural body, there is also a spiritual one.
+                            </p>
+                            <p>
+                                So, too, it is written, "The first man, Adam, became a living being," the last Adam a 
+                                life-giving spirit. But the spiritual was not first; rather the natural and then the 
+                                spiritual. The first man was from the earth, earthly; the second man, from heaven. As 
+                                was the earthly one, so also are the earthly, and as is the heavenly one, so also are 
+                                the heavenly. Just as we have borne the image of the earthly one, we shall also bear the 
+                                image of the heavenly one.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <script>
+                $('#myModal').modal('');
+            </script>
+        </div><!--\.Modal -->
+        
+        <div class="tooltip-content">
+            <div class="modal fade features-modal modal-about" id="saturday_res_psalm" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-dialog modal-md modal-about">
+                    <div class="modal-content modal-about">
+                        <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
+                            <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
+                            <h4 class="modal-title modal-about text-center">Responsorial Psalm - Saturday
+                            <h6 class="modal-title modal-about text-center">Psalm 56:10-14</h6>
+                            </h4>
+                        </div>
+                        <div class="modal-body modal-about">
+                            <p>
+                                <strong><i>R. I will walk in the presence of God, in the light of the living.</i></strong><br>
+                                Now I know that God is with me.<br>
+                                In God, in whose promise I glory,<br>
+                                in God I trust without fear;<br>
+                                what can flesh do against me?<br>
+                                <strong><i>R. I will walk in the presence of God, in the light of the living.</i></strong>
+                            </p>
+                            <p>
+                                I am bound, O God, by vows to you;<br>
+                                your thank offerings I will fulfill.<br>
+                                For you have rescued me from death,<br>
+                                my feet, too, from stumbling;<br>
+                                that I may walk before God in the light of the living.<br>
+                                <strong><i>R. I will walk in the presence of God, in the light of the living.</i></strong>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <script>
+                $('#myModal').modal('');
+            </script>
+        </div><!--\.Modal -->
+        
+        <div class="tooltip-content">
+            <div class="modal fade features-modal modal-about" id="saturday_2nd_reading" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-dialog modal-sm modal-about">
+                    <div class="modal-content modal-about">
+                        <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
+                            <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
+                            <h4 class="modal-title modal-about text-center">2nd Reading - Saturday</h4>
+                        </div>
+                        <div class="modal-body modal-about">
+                            <p>Marriage in Catholic Church is referred to as Matrimony. This is the covenant by which a 
+                            man and a woman establish themselves a partnership of the whole of life and which is ordered 
+                            by its nature to the good of the spouses and the procreation and the education of offspring, 
+                            and which has been raised by Christ the Lord to the dignity of a Sacrament between the 
+                            baptised.</p>
+                            <p class="text-center"><strong>Meet with catechist</strong>&nbsp;&nbsp;<a href="mailto:catechist@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x tooltip-viewport-bottom" title="Email Catechist"></i></a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <script>
+                $('#myModal').modal('');
+            </script>
+        </div><!--\.Modal -->
+        
+        <div class="tooltip-content">
+            <div class="modal fade features-modal modal-about" id="saturday_gospel_reading" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-dialog modal-md modal-about">
+                    <div class="modal-content modal-about">
+                        <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
+                            <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
+                            <h4 class="modal-title modal-about text-center">Gospel Reading - Saturday
+                            <h6 class="modal-title modal-about text-center">Luke 8:4-15</h6>
+                            </h4>
+                        </div>
+                        <div class="modal-body modal-about">
+                            <p>
+                                When a large crowd gathered, with people from one town after another journeying to 
+                                Jesus, he spoke in a parable. "A sower went out to sow his seed. And as he sowed, some 
+                                seed fell on the path and was trampled, and the birds of the sky ate it up. Some seed 
+                                fell on rocky ground, and when it grew, it withered for lack of moisture. Some seed fell 
+                                among thorns, and the thorns grew with it and choked it. And some seed fell on good 
+                                soil, and when it grew, it produced fruit a hundredfold." After saying this, he called 
+                                out, "Whoever has ears to hear ought to hear."
+                            </p>
+                            <p>
+                                Then his disciples asked him what the meaning of this parable might be. He answered, 
+                                "Knowledge of the mysteries of the Kingdom of God has been granted to you; but to the 
+                                rest, they are made known through parables so that they may look but not see, and hear 
+                                but not understand.
+                            </p>
+                            <p>
+                                "This is the meaning of the parable. The seed is the word of God. Those on the path are 
+                                the ones who have heard, but the Devil comes and takes away the word from their hearts 
+                                that they may not believe and be saved. Those on rocky ground are the ones who, when 
+                                they hear, receive the word with joy, but they have no root; they believe only for a 
+                                time and fall away in time of temptation. As for the seed that fell among thorns, they 
+                                are the ones who have heard, but as they go along, they are choked by the anxieties and 
+                                riches and pleasures of life, and they fail to produce mature fruit. But as for the seed 
+                                that fell on rich soil, they are the ones who, when they have heard the word, embrace it 
+                                with a generous and good heart, and bear fruit through perseverance."
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <script>
+                $('#myModal').modal('');
+            </script>
+        </div><!--\.Modal -->
+        
+        <div class="tooltip-content">
+            <div class="modal fade features-modal modal-about" id="sunday_1st_reading" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-dialog modal-md modal-about">
+                    <div class="modal-content modal-about">
+                        <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
+                            <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
+                            <h4 class="modal-title modal-about text-center">1st Reading - Sunday
+                            <h6 class="modal-title modal-about text-center">Wisdom 2:12, 17-20</h6>
+                            </h4>
+                        </div>
+                        <div class="modal-body modal-about">
+                            <p>
+                                The wicked say:<br>
+                                Let us beset the just one, because he is obnoxious to us; he sets himself against our 
+                                doings, reproaches us for transgressions of the law and charges us with violations of 
+                                our training. Let us see whether his words be true; let us find out what will happen to 
+                                him. For if the just one be the son of God, God will defend him and deliver him from the 
+                                hand of his foes. With revilement and torture let us put the just one to the test that 
+                                we may have proof of his gentleness and try his patience. Let us condemn him to a 
+                                shameful death; for according to his own words, God will take care of him.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <script>
+                $('#myModal').modal('');
+            </script>
+        </div><!--\.Modal -->
+        
+        <div class="tooltip-content">
+            <div class="modal fade features-modal modal-about" id="sunday_res_psalm" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-dialog modal-md modal-about">
+                    <div class="modal-content modal-about">
+                        <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
+                            <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
+                            <h4 class="modal-title modal-about text-center">Responsorial Psalm - Sunday
+                            <h6 class="modal-title modal-about text-center">Psalm PS 54:3-6, 8</h6>
+                            </h4>
+                        </div>
+                        <div class="modal-body modal-about">
+                            <p>
+                                <strong><i>R. The Lord upholds my life.</i></strong><br>
+                                O God, by your name save me,<br>
+                                and by your might defend my cause.<br>
+                                O God, hear my prayer;<br>
+                                hearken to the words of my mouth.<br>
+                                <strong><i>R. The Lord upholds my life.</i></strong>
+                            </p>
+                            <p>
+                                For the haughty men have risen up against me,<br>
+                                the ruthless seek my life;<br>
+                                they set not God before their eyes.<br>
+                                <strong><i>R. The Lord upholds my life.</i></strong>
+                            </p>
+                            <p>
+                                Behold, God is my helper;<br>
+                                the Lord sustains my life.<br>
+                                Freely will I offer you sacrifice;<br>
+                                I will praise your name, O LORD, for its goodness.<br>
+                                <strong><i>R. The Lord upholds my life.</i></strong>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <script>
+                $('#myModal').modal('');
+            </script>
+        </div><!--\.Modal -->
+        
+        <div class="tooltip-content">
+            <div class="modal fade features-modal modal-about" id="sunday_2nd_reading" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-dialog modal-md modal-about">
+                    <div class="modal-content modal-about">
+                        <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
+                            <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
+                            <h4 class="modal-title modal-about text-center">2nd Reading - Sunday
+                            <h6 class="modal-title modal-about text-center">James 3:16—4:3</h6>
+                            </h4>
+                        </div>
+                        <div class="modal-body modal-about">
+                            <p>
+                                Beloved:<br>
+                                Where jealousy and selfish ambition exist, there is disorder and every foul practice. 
+                                But the wisdom from above is first of all pure, then peaceable, gentle, compliant, full 
+                                of mercy and good fruits, without inconstancy or insincerity. And the fruit of 
+                                righteousness is sown in peace for those who cultivate peace.
+                            </p>
+                            <p>
+                                Where do the wars and where do the conflicts among you come from? Is it not from your 
+                                passions that make war within your members? You covet but do not possess. You kill and 
+                                envy but you cannot obtain; you fight and wage war. You do not possess because you do 
+                                not ask. You ask but do not receive, because you ask wrongly, to spend it on your 
+                                passions.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <script>
+                $('#myModal').modal('');
+            </script>
+        </div><!--\.Modal -->
+        
+        <div class="tooltip-content">
+            <div class="modal fade features-modal modal-about" id="sunday_gospel_reading" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-dialog modal-md modal-about">
+                    <div class="modal-content modal-about">
+                        <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
+                            <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
+                            <h4 class="modal-title modal-about text-center">Gospel Reading - Sunday
+                            <h6 class="modal-title modal-about text-center">Mark 9:30-37</h6>
+                            </h4>
+                        </div>
+                        <div class="modal-body modal-about">
+                            <p>
+                                Jesus and his disciples left from there and began a journey through Galilee, but he did 
+                                not wish anyone to know about it. He was teaching his disciples and telling them, “The 
+                                Son of Man is to be handed over to men and they will kill him, and three days after his 
+                                death the Son of Man will rise.” But they did not understand the saying, and they were 
+                                afraid to question him.
+                            </p>
+                            <p>
+                                They came to Capernaum and, once inside the house, he began to ask them, “What were you 
+                                arguing about on the way?” But they remained silent. They had been discussing among 
+                                themselves on the way who was the greatest. Then he sat down, called the Twelve, and 
+                                said to them, “If anyone wishes to be first, he shall be the last of all and the servant 
+                                of all.” Taking a child, he placed it in their midst, and putting his arms around it, he 
+                                said to them, “Whoever receives one child such as this in my name, receives me; and 
+                                whoever receives me, receives not me but the One who sent me.”
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <script>
+                $('#myModal').modal('');
+            </script>
+        </div><!--\.Modal -->
+        
 
         <div class="row">
             <div class="col-lg-12 col-md-6">
