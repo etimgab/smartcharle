@@ -131,44 +131,43 @@ marquee{
                 <div class="modal-header modal-about" style="background-color: black; color: white;">
                     <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                     <h4 class="modal-title modal-about text-center">Daily Mediation </h4>
-                    <h6 class="modal-title modal-about text-center"><i>(Luke 7:4)</i></h6>
+                    <h6 class="modal-title modal-about text-center"><i>(Psalm 100:1-2)</i></h6>
                 </div>
                 <div class="modal-body modal-about">
-                    <p><h3>Saint Robert Bellarmine, Bishop and Doctor of the Church (Optional Memorial)</h3></p>
-                    <p><strong>They approached Jesus and strongly urged him to come. (Luke 7:4)</strong></p><br>
+                    <p><h3>24th Week in Ordinary Time</h3></p>
+                    <p><strong>Sing joyfully to the Lord, all you lands; serve the Lord with gladness; come before him 
+                    with joyful song. (Psalm 100:1-2)</strong></p><br>
                     
-                   <p>Today’s Gospel recounts one of Scripture’s best-known stories about the power of intercessory 
-                   prayer: Jesus heals an unseen servant with only the power of his word. It’s an inspiring story, but 
-                   take a look at how it all began. People came to Jesus and urged him, begged him, to come. They 
-                   weren’t asking on behalf of a family member or a friend or even another Jew. They were asking him to 
-                   come heal a pagan soldier’s slave. An unlikely believer, the Roman centurion recognized that Jesus, 
-                   like Caesar, possessed supreme authority. So he sent envoys to convey his request, and Jesus 
-                   responded!</p>
+                   <p>Every weekend, hundreds of millions of Catholics around the world gather to celebrate Mass. They 
+                   come from different backgrounds and ages, and they bring countless gifts, burdens, hopes, and needs 
+                   with them. Together they form the body of Christ that Paul describes in the first reading. And 
+                   together they embrace the call to worship contained in today’s psalm.</p>
 
-                   <p>Many miracles in Scripture occurred because someone went to Jesus on another person’s behalf. 
-                   Often it was a parent pleading for a child or a friend begging Jesus to intervene. And over and over, 
-                   Jesus answered their request.</p>
+                   <p>Sing joyfully to the Lord. The psalm starts out as the people gather in joy and gladness. Everyone 
+                   is invited to sing and celebrate. When you’re at Mass, and you see the cross coming down the aisle, 
+                   be sure to sing that opening hymn! Imagine yourself joining brothers and sisters of every race in 
+                   praising and glorifying the Lord.</p>
 
-                   <p>Intercession like this isn’t limited to biblical times. We can all be intercessors. We don’t need 
-                   a special title or training. In fact, you probably already intercede for your family and friends. But 
-                   maybe now is an opportunity to learn to pray a little more effectively. How? Like the centurion, try 
-                   making a plan and pushing yourself to stick with it.</p>
+                   <p>Know that the Lord is God. What better way to know the Lord is God than through the Liturgy of the 
+                   Word? Listen as God reveals himself through the Old and New Testaments. Imagine that Jesus is saying 
+                   these words to you, and let the message of his goodness and faithfulness lift your heart up to 
+                   heaven.</p>
 
-                   <p>First, find a piece of paper and write down the people, places, and situations that you want to 
-                   pray for. Maybe it’s people in your own home or parish. Maybe it’s a bitter conflict in a distant 
-                   country. Don’t let the size of the request deter you.</p>
+                   <p>Give thanks to him; bless his name. You aren’t entering the Temple in Jerusalem, but you are 
+                   entering the courts of heaven itself. From the offertory procession through the Eucharistic prayer, 
+                   imagine that the angels are coming down to accept your gifts and prayers and to give you God’s 
+                   choicest blessings in return.</p>
 				   
-				   <p>Next, find a visible place in your home where you can post your list. You might put it on the 
-				   refrigerator, on your mirror, or beside your Bible. Every time you see the list, picture yourself 
-				   bringing these petitions to Jesus, just as the centurion did. Ask him to intervene in these 
-				   situations to bring healing or reconciliation or whatever else is needed.</p>
+				   <p>For he is good. The psalm ends by proclaiming how good, faithful, and kind God is. It’s this 
+				   goodness that you are receiving in Communion, and it’s this goodness that you can now take with you 
+				   as you leave church. Hold onto that goodness. Savor it, and let it change your heart.</p>
 				   
-				   <p>As time goes by, you may discover that God has answered some of your prayers. Put a check mark 
-				   next to these. This will remind you that God is listening, even though other prayers seem to go 
-				   unanswered. In moments of doubt, you can look back on these answered prayers and remember that God 
-				   knows and hears the requests of his people.</p>
+				   <p>Mass is never meant to be routine. How can it be when the body of Christ gathers and the angels 
+				   and saints join in worship? With a little bit of imagination and a lively faith, you can be caught 
+				   up in this beautiful prayer. You can be caught up to heaven, where Jesus, your great high priest, is 
+				   offering himself to you.</p>
 				   				   				                                                                                                
-                   <p><strong><i>“Lord, I am not worthy, but please come and heal.”</i></strong></p>
+                   <p><strong><i>“Thank you, Lord, for drawing us together as one body to worship you!”</i></strong></p>
                     <p class="text-muted">&copy; Word Among Us - Mediation</p>
                 </div>
             </div>
