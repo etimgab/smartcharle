@@ -131,43 +131,45 @@ marquee{
                 <div class="modal-header modal-about" style="background-color: black; color: white;">
                     <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                     <h4 class="modal-title modal-about text-center">Daily Mediation </h4>
-                    <h6 class="modal-title modal-about text-center"><i>(Psalm 100:1-2)</i></h6>
+                    <h6 class="modal-title modal-about text-center"><i>(1 Corinthians 13:8)</i></h6>
                 </div>
                 <div class="modal-body modal-about">
-                    <p><h3>24th Week in Ordinary Time</h3></p>
-                    <p><strong>Sing joyfully to the Lord, all you lands; serve the Lord with gladness; come before him 
-                    with joyful song. (Psalm 100:1-2)</strong></p><br>
+                    <p><h3>Saint Januarius, Bishop and Martyr (Optional Memorial)</h3></p>
+                    <p><strong>Love never fails. (1 Corinthians 13:8)</strong></p><br>
                     
-                   <p>Every weekend, hundreds of millions of Catholics around the world gather to celebrate Mass. They 
-                   come from different backgrounds and ages, and they bring countless gifts, burdens, hopes, and needs 
-                   with them. Together they form the body of Christ that Paul describes in the first reading. And 
-                   together they embrace the call to worship contained in today’s psalm.</p>
+                   <p>Paul’s beautiful hymn of charity, as this passage is often called, paints the picture of a mature 
+                   love filled with spiritual vitality. It’s not the textbook definition of love that we find in a 
+                   dictionary, but a soaring hymn that expresses what Christian love looks like as it is lived out day 
+                   by day. This love is patient and kind rather than irritable; it serves the needs of others and does 
+                   not insist on its own way; it is not quick-tempered; and it doesn’t brood over injuries 
+                   (1 Corinthians 13:4, 5).</p>
 
-                   <p>Sing joyfully to the Lord. The psalm starts out as the people gather in joy and gladness. Everyone 
-                   is invited to sing and celebrate. When you’re at Mass, and you see the cross coming down the aisle, 
-                   be sure to sing that opening hymn! Imagine yourself joining brothers and sisters of every race in 
-                   praising and glorifying the Lord.</p>
+                   <p>Paul wrote this vigorous call to love to the Corinthians, a community that had been touched by the 
+                   Lord in a powerful way, but that was also plagued by division, competition, and immorality. And so he 
+                   urged them to let the love of Christ that they had experienced so powerfully at their conversion 
+                   overcome their faults and heal their divisions. By appealing to love, Paul wanted to help the 
+                   Corinthians recognize their own deepest desires. He knew that this was the one sure way to help them 
+                   overcome their sins and grow in holiness.</p>
 
-                   <p>Know that the Lord is God. What better way to know the Lord is God than through the Liturgy of the 
-                   Word? Listen as God reveals himself through the Old and New Testaments. Imagine that Jesus is saying 
-                   these words to you, and let the message of his goodness and faithfulness lift your heart up to 
-                   heaven.</p>
+                   <p>As he wrote about growing from childish ways into mature faith, Paul surely had his own life in 
+                   mind as well as the Corinthians’ lives. Paul had started out as a zealous young Pharisee who 
+                   persecuted Christians. It took some time, even after his conversion, for him to calm down. But over 
+                   time, he grew in his love for Jesus and became a more effective force for reconciliation and unity.
+                   </p>
 
-                   <p>Give thanks to him; bless his name. You aren’t entering the Temple in Jerusalem, but you are 
-                   entering the courts of heaven itself. From the offertory procession through the Eucharistic prayer, 
-                   imagine that the angels are coming down to accept your gifts and prayers and to give you God’s 
-                   choicest blessings in return.</p>
+                   <p>So make it a goal to grow in love. If you find yourself getting impatient, ask the Lord for the 
+                   grace to be patient. If you find yourself getting consumed by anger, try to put on gentleness. If you 
+                   find yourself getting puffed up by pride, ask the Spirit to give you a greater share in the gift of 
+                   humility.</p>
 				   
-				   <p>For he is good. The psalm ends by proclaiming how good, faithful, and kind God is. It’s this 
-				   goodness that you are receiving in Communion, and it’s this goodness that you can now take with you 
-				   as you leave church. Hold onto that goodness. Savor it, and let it change your heart.</p>
+				   <p>As we yield to God’s love in these ways, we can grow in our love for the Lord and for one another. 
+				   Our love will mature, and we will naturally seek ways to live not only for ourselves, but also for 
+				   everyone around us.</p>
 				   
-				   <p>Mass is never meant to be routine. How can it be when the body of Christ gathers and the angels 
-				   and saints join in worship? With a little bit of imagination and a lively faith, you can be caught 
-				   up in this beautiful prayer. You can be caught up to heaven, where Jesus, your great high priest, is 
-				   offering himself to you.</p>
+				   <p>You can walk in Christian charity—if you keep walking with Jesus.</p>
 				   				   				                                                                                                
-                   <p><strong><i>“Thank you, Lord, for drawing us together as one body to worship you!”</i></strong></p>
+                   <p><strong><i>“Jesus, light the fire of your love in my heart, so that I can love you and love others 
+                   with your own love aflame in me.”</i></strong></p>
                     <p class="text-muted">&copy; Word Among Us - Mediation</p>
                 </div>
             </div>
