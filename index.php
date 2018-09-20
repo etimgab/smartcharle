@@ -131,45 +131,43 @@ marquee{
                 <div class="modal-header modal-about" style="background-color: black; color: white;">
                     <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                     <h4 class="modal-title modal-about text-center">Daily Mediation </h4>
-                    <h6 class="modal-title modal-about text-center"><i>(1 Corinthians 13:8)</i></h6>
+                    <h6 class="modal-title modal-about text-center"><i>(1 Corinthians 15:10)</i></h6>
                 </div>
                 <div class="modal-body modal-about">
-                    <p><h3>Saint Januarius, Bishop and Martyr (Optional Memorial)</h3></p>
-                    <p><strong>Love never fails. (1 Corinthians 13:8)</strong></p><br>
+                    <p><h3>Saints Andrew Kim Tae-gon, Priest, Paul Chong Ha-sang, and Companions, Martyrs (Memorial)</h3></p>
+                    <p><strong>But by the grace of God I am what I am, and his grace to me has not been ineffective. 
+                    (1 Corinthians 15:10)</strong></p><br>
                     
-                   <p>Paul’s beautiful hymn of charity, as this passage is often called, paints the picture of a mature 
-                   love filled with spiritual vitality. It’s not the textbook definition of love that we find in a 
-                   dictionary, but a soaring hymn that expresses what Christian love looks like as it is lived out day 
-                   by day. This love is patient and kind rather than irritable; it serves the needs of others and does 
-                   not insist on its own way; it is not quick-tempered; and it doesn’t brood over injuries 
-                   (1 Corinthians 13:4, 5).</p>
+                   <p>Like a river, God’s grace is constantly flowing. It flows from heaven into our hearts, and smooths 
+                   out the sharp edges over time. It’s the same grace that flowed into Paul’s heart when he saw the Lord 
+                   on the road to Damascus. Paul responded to this grace, and he discovered that it was not “ineffective” 
+                   (1 Corinthians 15:10). Once a persecutor of Christians, he became a believer who traveled the world 
+                   building up the very Church he once tried to destroy.</p>
 
-                   <p>Paul wrote this vigorous call to love to the Corinthians, a community that had been touched by the 
-                   Lord in a powerful way, but that was also plagued by division, competition, and immorality. And so he 
-                   urged them to let the love of Christ that they had experienced so powerfully at their conversion 
-                   overcome their faults and heal their divisions. By appealing to love, Paul wanted to help the 
-                   Corinthians recognize their own deepest desires. He knew that this was the one sure way to help them 
-                   overcome their sins and grow in holiness.</p>
+                   <p>Our story may not be exactly as dramatic as St. Paul’s, but in many ways it is no different. We 
+                   too have received God’s grace, and this grace has not been ineffective: we have believed and decided 
+                   to follow Jesus.</p>
 
-                   <p>As he wrote about growing from childish ways into mature faith, Paul surely had his own life in 
-                   mind as well as the Corinthians’ lives. Paul had started out as a zealous young Pharisee who 
-                   persecuted Christians. It took some time, even after his conversion, for him to calm down. But over 
-                   time, he grew in his love for Jesus and became a more effective force for reconciliation and unity.
-                   </p>
+                   <p>So how do we respond to this constant flow of God’s grace? In his classic book The Cost of 
+                   Discipleship, German theologian Dietrich Bonhoeffer talked about the difference between “cheap grace” 
+                   and “costly grace.” Cheap grace, he said, “is grace without discipleship, grace without the cross, 
+                   grace without Jesus Christ.” Costly grace, on the other hand, “confronts us as a gracious call to 
+                   follow Jesus.”</p>
 
-                   <p>So make it a goal to grow in love. If you find yourself getting impatient, ask the Lord for the 
-                   grace to be patient. If you find yourself getting consumed by anger, try to put on gentleness. If you 
-                   find yourself getting puffed up by pride, ask the Spirit to give you a greater share in the gift of 
-                   humility.</p>
+                   <p>We can “cheapen” our experience of grace by failing to respond to its flow in our lives. Every day 
+                   we face numerous situations in which we can call on God’s grace or try to move on without it. For 
+                   example, you may be tempted to nurture resentment or bitterness over something someone said or did. 
+                   You can ask God for the grace to forgive. You may want to lose patience with one of your children 
+                   who is acting out of line. You can stop for a moment, and call on God’s grace so that you can deal 
+                   with the issue calmly.</p>
 				   
-				   <p>As we yield to God’s love in these ways, we can grow in our love for the Lord and for one another. 
-				   Our love will mature, and we will naturally seek ways to live not only for ourselves, but also for 
-				   everyone around us.</p>
-				   
-				   <p>You can walk in Christian charity—if you keep walking with Jesus.</p>
-				   				   				                                                                                                
-                   <p><strong><i>“Jesus, light the fire of your love in my heart, so that I can love you and love others 
-                   with your own love aflame in me.”</i></strong></p>
+				   <p>No matter how difficult your situation may be, God’s grace is always available to you. It is 
+				   continually flowing, like a rushing, refreshing river. Step into that river today. Let its waters 
+				   flow over you and in you and through you. This grace is not ineffective in the least—not if you 
+				   embrace it and treasure it.</p>
+				   			   				                                                                                                
+                   <p><strong><i>““Father, mold me by your grace. Let me echo the words of Paul: ‘by the grace of God I 
+                   am what I am’” (1 Corinthians 15:10)</i></strong></p>
                     <p class="text-muted">&copy; Word Among Us - Mediation</p>
                 </div>
             </div>
