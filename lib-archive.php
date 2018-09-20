@@ -214,7 +214,7 @@
                                     <td>August 2018</td>
                                     <td>
                                         <!--                                        <a href="docs/Saint%20Charles%20Lwanga%20and%20Companion1.pdf" download="Saint Charles and Companions"><button class="btn btn-primary btn-xs">Download</button></a>-->
-                                        <a href="docs/Altars.pdf" readonly="Saint Charles and Companions"><button class="btn btn-primary btn-xs">Read-online</button></a>
+                                        <a href="docs/Altars.pdf" readonly="Altars, Dedications and Relics"><button class="btn btn-primary btn-xs">Read-online</button></a>
                                     </td>
                                 </tr>
                                 <tr>
@@ -225,7 +225,7 @@
                                     <td>August 2018</td>
                                     <td>
                                         <!--                                        <a href="docs/Saint%20Charles%20Lwanga%20and%20Companion1.pdf" download="Saint Charles and Companions"><button class="btn btn-primary btn-xs">Download</button></a>-->
-                                        <a href="docs/Deacon's%20Role%20at%20Incensing.pdf" readonly="Saint Charles and Companions"><button class="btn btn-primary btn-xs">Read-online</button></a>
+                                        <a href="docs/Deacon's%20Role%20at%20Incensing.pdf" readonly="Deacon's Role at Incensing"><button class="btn btn-primary btn-xs">Read-online</button></a>
                                     </td>
                                 </tr>
                                 <tr>
@@ -236,7 +236,7 @@
                                     <td>July 2018</td>
                                     <td>
                                         <!--                                        <a href="docs/Saint%20Charles%20Lwanga%20and%20Companion1.pdf" download="Saint Charles and Companions"><button class="btn btn-primary btn-xs">Download</button></a>-->
-                                        <a href="docs/Human%20Ecology%20Fraternity%20and%20Communion.pdf" readonly="Saint Charles and Companions"><button class="btn btn-primary btn-xs">Read-online</button></a>
+                                        <a href="docs/Human%20Ecology%20Fraternity%20and%20Communion.pdf" readonly="Human Ecology Fraternity and Communion"><button class="btn btn-primary btn-xs">Read-online</button></a>
                                     </td>
                                 </tr>
                                 <tr>
@@ -247,7 +247,7 @@
                                     <td>July 2018</td>
                                     <td>
                                         <!--                                        <a href="docs/Saint%20Charles%20Lwanga%20and%20Companion1.pdf" download="Saint Charles and Companions"><button class="btn btn-primary btn-xs">Download</button></a>-->
-                                        <a href="docs/Interrupting%20a%20Mass%20for%20Confessions.pdf" readonly="Saint Charles and Companions"><button class="btn btn-primary btn-xs">Read-online</button></a>
+                                        <a href="docs/Interrupting%20a%20Mass%20for%20Confessions.pdf" readonly="Interrupting a Mass for Confessions"><button class="btn btn-primary btn-xs">Read-online</button></a>
                                     </td>
                                 </tr>
                                 <tr>
@@ -258,7 +258,7 @@
                                     <td>August 2018</td>
                                     <td>
                                         <!--                                        <a href="docs/Saint%20Charles%20Lwanga%20and%20Companion1.pdf" download="Saint Charles and Companions"><button class="btn btn-primary btn-xs">Download</button></a>-->
-                                        <a href="docs/On%20the%20Death%20Penalty.pdf" readonly="Saint Charles and Companions"><button class="btn btn-primary btn-xs">Read-online</button></a>
+                                        <a href="docs/On%20the%20Death%20Penalty.pdf" readonly="On the Death Penalty"><button class="btn btn-primary btn-xs">Read-online</button></a>
                                     </td>
                                 </tr>
                                 <tr>
@@ -269,7 +269,7 @@
                                     <td>August 2018</td>
                                     <td>
                                         <!--                                        <a href="docs/Saint%20Charles%20Lwanga%20and%20Companion1.pdf" download="Saint Charles and Companions"><button class="btn btn-primary btn-xs">Download</button></a>-->
-                                        <a href="docs/The%20Glittering%20Deceit%20of%20Idols.pdf" readonly="Saint Charles and Companions"><button class="btn btn-primary btn-xs">Read-online</button></a>
+                                        <a href="docs/The%20Glittering%20Deceit%20of%20Idols.pdf" readonly="The Glittering Deceit of Idols"><button class="btn btn-primary btn-xs">Read-online</button></a>
                                     </td>
                                 </tr>
                                 <tr>
@@ -280,7 +280,7 @@
                                     <td>August 2018</td>
                                     <td>
                                         <!--                                        <a href="docs/Saint%20Charles%20Lwanga%20and%20Companion1.pdf" download="Saint Charles and Companions"><button class="btn btn-primary btn-xs">Download</button></a>-->
-                                        <a href="docs/The%20Supermarket%20of%20Idols.pdf" readonly="Saint Charles and Companions"><button class="btn btn-primary btn-xs">Read-online</button></a>
+                                        <a href="docs/The%20Supermarket%20of%20Idols.pdf" readonly="The Supermarket of Idols"><button class="btn btn-primary btn-xs">Read-online</button></a>
                                     </td>
                                 </tr>
                                 <tr>
@@ -291,7 +291,40 @@
                                     <td>July 2018</td>
                                     <td>
                                         <!--                                        <a href="docs/Saint%20Charles%20Lwanga%20and%20Companion1.pdf" download="Saint Charles and Companions"><button class="btn btn-primary btn-xs">Download</button></a>-->
-                                        <a href="docs/Treatment%20of%20Partially%20Consumed%20Hosts.pdf" readonly="Saint Charles and Companions"><button class="btn btn-primary btn-xs">Read-online</button></a>
+                                        <a href="docs/Treatment%20of%20Partially%20Consumed%20Hosts.pdf" readonly="Treatment of Partially Consumed Hosts"><button class="btn btn-primary btn-xs">Read-online</button></a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>013</td>
+                                    <td style="text-align: left" title="Blessings and Affiliations">Blessings and Affiliations</td>
+                                    <td>Catholic Faith</td>
+                                    <td>Document</td>
+                                    <td>September 2018</td>
+                                    <td>
+                                        <!--                                        <a href="docs/Saint%20Charles%20Lwanga%20and%20Companion1.pdf" download="Saint Charles and Companions"><button class="btn btn-primary btn-xs">Download</button></a>-->
+                                        <a href="docs/Blessings%20and%20Affiliations.pdf" readonly="Blessings and Affiliations"><button class="btn btn-primary btn-xs">Read-online</button></a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>014</td>
+                                    <td style="text-align: left" title="Letter from the Pope">Letter from the Pope</td>
+                                    <td>Catholic Faith</td>
+                                    <td>Document</td>
+                                    <td>August 2018</td>
+                                    <td>
+                                        <!--                                        <a href="docs/Saint%20Charles%20Lwanga%20and%20Companion1.pdf" download="Saint Charles and Companions"><button class="btn btn-primary btn-xs">Download</button></a>-->
+                                        <a href="docs/Letter%20from%20the%20Pope.pdf" readonly="Letter from the Pope"><button class="btn btn-primary btn-xs">Read-online</button></a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>015</td>
+                                    <td style="text-align: left" title="Sign of the Cross">Sign of the Cross</td>
+                                    <td>Catholic Faith</td>
+                                    <td>Document</td>
+                                    <td>August 2018</td>
+                                    <td>
+                                        <!--                                        <a href="docs/Saint%20Charles%20Lwanga%20and%20Companion1.pdf" download="Saint Charles and Companions"><button class="btn btn-primary btn-xs">Download</button></a>-->
+                                        <a href="docs/sign%20of%20the%20cross.pdf" readonly="Sign of the Cross"><button class="btn btn-primary btn-xs">Read-online</button></a>
                                     </td>
                                 </tr>
                                 </tbody>

@@ -166,7 +166,7 @@ marquee{
 				   flow over you and in you and through you. This grace is not ineffective in the least—not if you 
 				   embrace it and treasure it.</p>
 				   			   				                                                                                                
-                   <p><strong><i>““Father, mold me by your grace. Let me echo the words of Paul: ‘by the grace of God I 
+                   <p><strong><i>“Father, mold me by your grace. Let me echo the words of Paul: ‘by the grace of God I 
                    am what I am’” (1 Corinthians 15:10)</i></strong></p>
                     <p class="text-muted">&copy; Word Among Us - Mediation</p>
                 </div>
