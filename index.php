@@ -131,43 +131,40 @@ marquee{
                 <div class="modal-header modal-about" style="background-color: black; color: white;">
                     <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                     <h4 class="modal-title modal-about text-center">Daily Mediation </h4>
-                    <h6 class="modal-title modal-about text-center"><i>(1 Corinthians 15:10)</i></h6>
+                    <h6 class="modal-title modal-about text-center"><i>(Matthew 9:13)</i></h6>
                 </div>
                 <div class="modal-body modal-about">
-                    <p><h3>Saints Andrew Kim Tae-gon, Priest, Paul Chong Ha-sang, and Companions, Martyrs (Memorial)</h3></p>
-                    <p><strong>But by the grace of God I am what I am, and his grace to me has not been ineffective. 
-                    (1 Corinthians 15:10)</strong></p><br>
+                    <p><h3>Saint Matthew, Apostle and Evangelist (Feast)</h3></p>
+                    <p><strong>I did not come to call the righteous but sinners. (Matthew 9:13)</strong></p><br>
                     
-                   <p>Like a river, God’s grace is constantly flowing. It flows from heaven into our hearts, and smooths 
-                   out the sharp edges over time. It’s the same grace that flowed into Paul’s heart when he saw the Lord 
-                   on the road to Damascus. Paul responded to this grace, and he discovered that it was not “ineffective” 
-                   (1 Corinthians 15:10). Once a persecutor of Christians, he became a believer who traveled the world 
-                   building up the very Church he once tried to destroy.</p>
+                   <p>Despised as a collaborator with the Romans, Matthew knew that his job as a tax collector was 
+                   nothing to be proud of. Or at least he shouldn’t have been proud to be a tax collector. His 
+                   hard-earned wealth only brought him contempt and rejection from his own people. He probably endured 
+                   snide remarks from his townspeople, and it’s possible that he had begun to believe them. Whatever he 
+                   thought, when he heard Jesus call him, Matthew did not hesitate. All his sinful ways, all the ways he 
+                   had mistreated people, and all the unworthiness that must have accompanied such behavior dissipated. 
+                   There was something special about Jesus, and Matthew was not about to let any obstacle—real or 
+                   perceived—stand in his way.</p>
 
-                   <p>Our story may not be exactly as dramatic as St. Paul’s, but in many ways it is no different. We 
-                   too have received God’s grace, and this grace has not been ineffective: we have believed and decided 
-                   to follow Jesus.</p>
+                   <p>It can be easy to buy into the lie that you are unworthy to answer Jesus’ call. Don’t believe it! 
+                   Don’t imagine that your sins or weaknesses have convinced Jesus to pass you by in favor of a more 
+                   worthy candidate. Remember what he said to the people who objected to his calling of Matthew: “I did 
+                   not come to call the righteous but sinners” (Matthew 9:13). We are all sinners, and still, Jesus 
+                   calls all of us: “Follow me” (9:9). He wants you to be with him.</p>
 
-                   <p>So how do we respond to this constant flow of God’s grace? In his classic book The Cost of 
-                   Discipleship, German theologian Dietrich Bonhoeffer talked about the difference between “cheap grace” 
-                   and “costly grace.” Cheap grace, he said, “is grace without discipleship, grace without the cross, 
-                   grace without Jesus Christ.” Costly grace, on the other hand, “confronts us as a gracious call to 
-                   follow Jesus.”</p>
+                   <p>So don’t let your sins and failings hinder your yes to the Lord. Quite the opposite—they are the 
+                   perfect opportunity to show the world how merciful he is. Tradition tells us that Matthew went on to 
+                   evangelize the very Jews he had once scandalized. The evidence of his change of heart must have made 
+                   a deep impression on many of them.</p>
 
-                   <p>We can “cheapen” our experience of grace by failing to respond to its flow in our lives. Every day 
-                   we face numerous situations in which we can call on God’s grace or try to move on without it. For 
-                   example, you may be tempted to nurture resentment or bitterness over something someone said or did. 
-                   You can ask God for the grace to forgive. You may want to lose patience with one of your children 
-                   who is acting out of line. You can stop for a moment, and call on God’s grace so that you can deal 
-                   with the issue calmly.</p>
-				   
-				   <p>No matter how difficult your situation may be, God’s grace is always available to you. It is 
-				   continually flowing, like a rushing, refreshing river. Step into that river today. Let its waters 
-				   flow over you and in you and through you. This grace is not ineffective in the least—not if you 
-				   embrace it and treasure it.</p>
-				   			   				                                                                                                
-                   <p><strong><i>“Father, mold me by your grace. Let me echo the words of Paul: ‘by the grace of God I 
-                   am what I am’” (1 Corinthians 15:10)</i></strong></p>
+                   <p>Today, if you are feeling unworthy, remember Matthew. Remember God’s kindness and mercy toward 
+                   him. Remember the freedom and joy he felt when he left his old life behind and accepted Jesus’ 
+                   invitation. God has called you and chosen you because he loves you just as much as he loved Matthew. 
+                   He wants to silence that voice of unworthiness. Whether Jesus is calling you to leave behind a 
+                   pattern of sin, to grow closer to him in prayer, to serve your community in a new way, or some 
+                   combination of all three, say yes. Jump at his invitation, and let him change your life.</p>
+				                                                                                              
+                   <p><strong><i>“Jesus, thank you for the invitation to follow you. Help me to say yes to your call!"</i></strong></p>
                     <p class="text-muted">&copy; Word Among Us - Mediation</p>
                 </div>
             </div>
@@ -2561,7 +2558,7 @@ marquee{
                         <div id="fatima" class="panel-collapse collapse">
                             <dl>
                                 <dt>Date</dt>
-                                <dd>Wednesdays</dd>
+                                <dd>Mondays & Wednesdays</dd>
                                 <dt>Time</dt>
                                 <dd>6am - 12 noon</dd>
                                 <dt>Contact</dt>
