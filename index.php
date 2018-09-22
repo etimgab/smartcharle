@@ -131,40 +131,46 @@ marquee{
                 <div class="modal-header modal-about" style="background-color: black; color: white;">
                     <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                     <h4 class="modal-title modal-about text-center">Daily Mediation </h4>
-                    <h6 class="modal-title modal-about text-center"><i>(Matthew 9:13)</i></h6>
+                    <h6 class="modal-title modal-about text-center"><i>(Luke 8:14)</i></h6>
                 </div>
                 <div class="modal-body modal-about">
-                    <p><h3>Saint Matthew, Apostle and Evangelist (Feast)</h3></p>
-                    <p><strong>I did not come to call the righteous but sinners. (Matthew 9:13)</strong></p><br>
+                    <p><h3>Common of the Blessed Virgin Mary</h3></p>
+                    <p><strong>The anxieties and riches and pleasures of life. (Luke 8:14)</strong></p><br>
                     
-                   <p>Despised as a collaborator with the Romans, Matthew knew that his job as a tax collector was 
-                   nothing to be proud of. Or at least he shouldn’t have been proud to be a tax collector. His 
-                   hard-earned wealth only brought him contempt and rejection from his own people. He probably endured 
-                   snide remarks from his townspeople, and it’s possible that he had begun to believe them. Whatever he 
-                   thought, when he heard Jesus call him, Matthew did not hesitate. All his sinful ways, all the ways he 
-                   had mistreated people, and all the unworthiness that must have accompanied such behavior dissipated. 
-                   There was something special about Jesus, and Matthew was not about to let any obstacle—real or 
-                   perceived—stand in his way.</p>
+                   <p>“Riches and pleasures”—it’s easy to see how these can choke off our experience of God’s grace. 
+                   But what about anxiety? Anxiety seems like a bit of an odd man out. Riches and pleasures are 
+                   attractive and can tempt us away from the Lord, but anxiety works in a different way: too many bills 
+                   to pay and not enough money to pay them. A stressful job with too many expectations. Health concerns. 
+                   Tension within families.</p>
 
-                   <p>It can be easy to buy into the lie that you are unworthy to answer Jesus’ call. Don’t believe it! 
-                   Don’t imagine that your sins or weaknesses have convinced Jesus to pass you by in favor of a more 
-                   worthy candidate. Remember what he said to the people who objected to his calling of Matthew: “I did 
-                   not come to call the righteous but sinners” (Matthew 9:13). We are all sinners, and still, Jesus 
-                   calls all of us: “Follow me” (9:9). He wants you to be with him.</p>
+                   <p>Anxiety is a part of everyday life. But then there’s extreme anxiety, which can dominate our 
+                   minds. Professional studies have told us that this kind of anxiety can cause us to become physically 
+                   sick—it can feel as if it’s choking us to death.</p>
 
-                   <p>So don’t let your sins and failings hinder your yes to the Lord. Quite the opposite—they are the 
-                   perfect opportunity to show the world how merciful he is. Tradition tells us that Matthew went on to 
-                   evangelize the very Jews he had once scandalized. The evidence of his change of heart must have made 
-                   a deep impression on many of them.</p>
+                   <p>Jesus dealt with everyday anxieties his whole life. He never lost his peace, but he was always 
+                   being confronted with issues, questions, and problems that he had to address. Think about all the 
+                   times Jesus was confronted with his apostles’ worldly thinking. Or what about having to contend with 
+                   the Pharisees and scribes who opposed him? Surely Jesus became anxious as he faced the days leading 
+                   up to his crucifixion.</p>
 
-                   <p>Today, if you are feeling unworthy, remember Matthew. Remember God’s kindness and mercy toward 
-                   him. Remember the freedom and joy he felt when he left his old life behind and accepted Jesus’ 
-                   invitation. God has called you and chosen you because he loves you just as much as he loved Matthew. 
-                   He wants to silence that voice of unworthiness. Whether Jesus is calling you to leave behind a 
-                   pattern of sin, to grow closer to him in prayer, to serve your community in a new way, or some 
-                   combination of all three, say yes. Jump at his invitation, and let him change your life.</p>
+                   <p>Jesus wants to help us deal with the anxieties of life. He wants to help us keep them in the 
+                   proper perspective. One of the best ways he helps is by giving us the word of God. Scripture can 
+                   comfort us. It can tell us that God is with us and that he knows what we are facing—because Jesus 
+                   himself faced it as well (Hebrews 4:14-15).</p>
+				   
+				   <p>Here are just a few words from Scripture that will help you keep anxiety in the right perspective. 
+				   As you read them ask Jesus to help you deal with your anxiety.
+				   <ul>
+				   <li>“I am your God. I will strengthen you, I will help you, I will uphold you with my victorious 
+				   right hand” (Isaiah 41:10).</li>
+				   <li>“The Lord is my light and my salvation; whom should I fear? The Lord is my life’s refuge; of 
+				   whom should I be afraid?” (Psalm 27:1).</li>
+				   </ul></p>
+				   
+				   <p>Will these passages make your anxieties vanish completely? Not necessarily. But holding on to them 
+				   can help keep you from being overwhelmed by the anxieties of life.</p>
 				                                                                                              
-                   <p><strong><i>“Jesus, thank you for the invitation to follow you. Help me to say yes to your call!"</i></strong></p>
+                   <p><strong><i>“Lord, help me hold onto your word when I am feeling choked by anxiety."</i></strong></p>
                     <p class="text-muted">&copy; Word Among Us - Mediation</p>
                 </div>
             </div>
