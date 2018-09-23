@@ -921,17 +921,18 @@ marquee{
 
             <div class="row">
                 <div class="col-lg-2 col-md-6 mask">
-                    <img class="img-rounded img-responsive" src="img/Archangels.jpg" alt="Archangels" width="140" height="140">
-                    <h5><strong>Archangels</strong></h5>
+                    <img class="img-rounded img-responsive" src="img/vincent.jpg" alt="Vincent de Paul" width="140" height="140">
+                    <h5><strong>Vincent de Paul - (1581-1660)</strong></h5>
                 </div>
                 <div class="col-lg-10 col-md-6">
-                    <p>The chief angels of the high order are Michael, Gabriel and Raphael. Michael is viewed as a guide 
-                    to heaven, protector of God's chosen people, foe of Satan and guardian of the church. Gabriel, 
-                    revealer of the Incarnation, announced the births of John the Baptist and Christ. Tradition honors 
-                    Raphael, an angel of healing, as head of guardian angels, those who hear prayers and bring them to 
-                    God. In artwork these messengers of God are depicted as winged beings, a possible reference to the 
-                    appearance of Gabriel "in rapid flight" to the prophet Daniel.</p>
-                       <p class="text-muted">&copy; Catholic News Services - Archangels</p>
+                    <p>Born in southwestern France, Vincent began priestly studies in 1595 and was ordained in 1600. In 
+                    1605, he was taken off a ship attacked by pirates. After two years as a slave in Tunisia, he escaped 
+                    and returned to France, taking up parish work outside Paris. From about 1615, he dedicated his life 
+                    to serving the poor. To that end, he founded the Confraternity of Charity, the Congregation of the 
+                    Mission (Vincentians) and, with St. Louise de Marillac, the Daughters of Charity. In 1885 Pope Leo 
+                    XIII named him the patron of all works of charity.</p>
+                    
+                    <p class="text-muted">&copy; Catholic News Services - Vincent de Paul</p>
                 </div>
             </div>
         </div><!-- /.End of Administrative container -->
