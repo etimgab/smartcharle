@@ -932,18 +932,17 @@ marquee{
 
             <div class="row">
                 <div class="col-lg-2 col-md-6 mask">
-                    <img class="img-rounded img-responsive" src="img/Matthew.jpg" alt="Matthew" width="140" height="140">
-                    <h5><strong>Matthew - First Century</strong></h5>
+                    <img class="img-rounded img-responsive" src="img/Archangels.jpg" alt="Archangels" width="140" height="140">
+                    <h5><strong>Archangels</strong></h5>
                 </div>
                 <div class="col-lg-10 col-md-6">
-                    <p>One of the Twelve Apostles, this tax collector is called Matthew in one Gospel (Mt 9:9) and Levi 
-                    in two others (Mk 2:14 and Lk 5:27). Scripture scholars believe they are the same man because the 
-                    call and shared meal with Jesus are similar in all three accounts. He sometimes is credited with 
-                    writing the Gospel of Matthew, but most scholars think this unlikely. And there is no evidence for 
-                    early church traditions that Matthew evangelized in Judea, Parthia or Ethiopia, or that he was 
-                    martyred in Persia.</p>
-
-                       <p class="text-muted">&copy; Catholic News Services - Matthew</p>
+                    <p>The chief angels of the high order are Michael, Gabriel and Raphael. Michael is viewed as a guide 
+                    to heaven, protector of God's chosen people, foe of Satan and guardian of the church. Gabriel, 
+                    revealer of the Incarnation, announced the births of John the Baptist and Christ. Tradition honors 
+                    Raphael, an angel of healing, as head of guardian angels, those who hear prayers and bring them to 
+                    God. In artwork these messengers of God are depicted as winged beings, a possible reference to the 
+                    appearance of Gabriel "in rapid flight" to the prophet Daniel.</p>
+                       <p class="text-muted">&copy; Catholic News Services - Archangels</p>
                 </div>
             </div>
         </div><!-- /.End of Administrative container -->
@@ -1143,31 +1142,25 @@ marquee{
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">1st Reading - Monday<br>
-                            <h6 class="modal-title modal-about text-center">1 Corinthians 11:17-26, 33</h6>
+                            <h6 class="modal-title modal-about text-center">Proverbs 3:27-34</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
-                            <p>Brothers and sisters:<br>
-                                In giving this instruction, I do not praise the fact that your meetings are doing more 
-                                harm than good. First of all, I hear that when you meet as a Church there are divisions 
-                                among you, and to a degree I believe it; there have to be factions among you in order 
-                                that also those who are approved among you may become known. When you meet in one place, 
-                                then, it is not to eat the Lord's supper, for in eating, each one goes ahead with his 
-                                own supper, and one goes hungry while another gets drunk. Do you not have houses in 
-                                which you can eat and drink? Or do you show contempt for the Church of God and make 
-                                those who have nothing feel ashamed? What can I say to you? Shall I praise you? In this 
-                                matter I do not praise you.
+                            <p>Refuse no one the good on which he has a claim when it is in your power to do it for him. 
+                            Say not to your neighbor, “Go, and come again, tomorrow I will give,” when you can give at 
+                            once.
                             </p>
                             <p>
-                                 For I received from the Lord what I also handed on to you, that the Lord Jesus, on the 
-                                 night he was handed over, took bread and, after he had given thanks, broke it and said, 
-                                 "This is my Body that is for you. Do this in remembrance of me." In the same way also 
-                                 the cup, after supper, saying, "This cup is the new covenant in my Blood. Do this, as 
-                                 often as you drink it, in remembrance of me." For as often as you eat this bread and 
-                                 drink the cup, you proclaim the death of the Lord until he comes.
+                                 Plot no evil against your neighbor, against one who lives at peace with you. Quarrel 
+                                 not with a man without cause, with one who has done you no harm.
                             </p>
                             <p>
-                                Therefore, my brothers and sisters, when you come together to eat, wait for one another.
+                                Envy not the lawless man and choose none of his ways: To the LORD the perverse one is an 
+                                abomination, but with the upright is his friendship.
+                            </p>
+                            <p>
+                            The curse of the LORD is on the house of the wicked, but the dwelling of the just he blesses; 
+                            When dealing with the arrogant, he is stern, but to the humble he shows kindness.
                             </p>
                         </div>
                     </div>
@@ -1186,36 +1179,31 @@ marquee{
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">Responsorial Psalm - Monday<br>
-                            <h6 class="modal-title modal-about text-center">Psalm 40:7-10, 17</h6>
+                            <h6 class="modal-title modal-about text-center">Psalm 15:2-5</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                                <strong><i>R. Proclaim the death of the Lord until he comes again.</i></strong><br>
-                                Sacrifice or oblation you wished not,<br>
-                                but ears open to obedience you gave me.<br>
-                                Burnt offerings or sin offerings you sought not;<br>
-                                then said I, "Behold I come."<br>
-                                <strong><i>R. Proclaim the death of the Lord until he comes again.</i></strong>
+                                <strong><i>R. The just one shall live on your holy mountain, O Lord.</i></strong><br>
+                                He who walks blamelessly and does justice;<br>
+                                who thinks the truth in his heart<br>
+                                and slanders not with his tongue.<br>                                
+                                <strong><i>R. The just one shall live on your holy mountain, O Lord.</i></strong>
                             </p>
                             <p>
-                                "In the written scroll it is prescribed for me,<br>
-                                To do your will, O my God, is my delight,<br>
-                                and your law is within my heart!"<br>
-                                <strong><i>R. Proclaim the death of the Lord until he comes again.</i></strong>
+                                Who harms not his fellow man,<br>
+                                nor takes up a reproach against his neighbor;<br>
+                                By whom the reprobate is despised,<br>
+                                while he honors those who fear the LORD.<br>
+                                <strong><i>R. The just one shall live on your holy mountain, O Lord.</i></strong>
                             </p>
                             <p>
-                                I announced your justice in the vast assembly;<br>
-                                I did not restrain my lips, as you, O LORD, know.<br>
-                                <strong><i>R. Proclaim the death of the Lord until he comes again.</i></strong>
-                            </p>
-                            <p>
-                                May all who seek you<br>
-                                exult and be glad in you<br>
-                                And may those who love your salvation<br>
-                                say ever, "The LORD be glorified."<br>
-                                <strong><i>R. Proclaim the death of the Lord until he comes again.</i></strong>
-                            </p>
+                                Who lends not his money at usury<br>
+                                and accepts no bribe against the innocent.<br>
+                                He who does these things<br>
+                                shall never be disturbed.<br>
+                                <strong><i>R. The just one shall live on your holy mountain, O Lord.</i></strong>
+                            </p>                            
                         </div>
                     </div>
                 </div>
@@ -1258,31 +1246,18 @@ marquee{
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">Gospel Reading - Monday
-                            <h6 class="modal-title modal-about text-center">Luke 7:1-10</h6>
+                            <h6 class="modal-title modal-about text-center">Luke 8:16-18</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                                When Jesus had finished all his words to the people, he entered Capernaum. A centurion 
-                                there had a slave who was ill and about to die, and he was valuable to him. When he 
-                                heard about Jesus, he sent elders of the Jews to him, asking him to come and save the 
-                                life of his slave. They approached Jesus and strongly urged him to come, saying, "He 
-                                deserves to have you do this for him, for he loves our nation and he built the synagogue 
-                                for us."
-                            </p>
-                            <p>
-                                 And Jesus went with them, but when he was only a short distance from the house,
-                                the centurion sent friends to tell him, "Lord, do not trouble yourself, for I am not 
-                                worthy to have you enter under my roof. Therefore, I did not consider myself worthy to 
-                                come to you; but say the word and let my servant be healed. For I too am a person 
-                                subject to authority, with soldiers subject to me. And I say to one, 'Go,' and he goes;
-                                and to another, 'Come here,' and he comes; and to my slave, 'Do this,' and he does it."
-                            </p>
-                            <p>
-                                When Jesus heard this he was amazed at him and, turning, said to the crowd following him,
-                                "I tell you, not even in Israel have I found such faith." When the messengers returned 
-                                to the house, they found the slave in good health.
-                            </p>
+                                Jesus said to the crowd:<br>
+                                "No one who lights a lamp conceals it with a vessel or sets it under a bed; rather, he 
+                                places it on a lampstand so that those who enter may see the light. For there is nothing 
+                                hidden that will not become visible, and nothing secret that will not be known and come 
+                                to light. Take care, then, how you hear. To anyone who has, more will be given, and from 
+                                the one who has not, even what he seems to have will be taken away." 
+                            </p>                            
                         </div>
                     </div>
                 </div>
@@ -1300,27 +1275,43 @@ marquee{
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">1st Reading - Tuesday
-                            <h6 class="modal-title modal-about text-center">1 Corinthians 12:12-14, 27-31A</h6>
+                            <h6 class="modal-title modal-about text-center">Proverbs 21:1-6, 10-13</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                                Brothers and sisters:<br>
-                                As a body is one though it has many parts, and all the parts of the body, though many, 
-                                are one body, so also Christ. For in one Spirit we were all baptized into one Body, 
-                                whether Jews or Greeks, slaves or free persons, and we were all given to drink of one 
-                                Spirit.
+                                Like a stream is the king's heart in the hand of the LORD; wherever it pleases him, he 
+                                directs it.
                             </p>
                             <p>
-                                Now the body is not a single part, but many.
+                                All the ways of a man may be right in his own eyes, but it is the LORD who proves hearts.
                             </p>
                             <p>
-                                Now you are Christ's Body, and individually parts of it. Some people God has designated 
-                                in the Church to be, first, Apostles; second, prophets; third, teachers; then, mighty 
-                                deeds; then gifts of healing, assistance, administration, and varieties of tongues. Are 
-                                all Apostles? Are all prophets? Are all teachers? Do all work mighty deeds? Do all have 
-                                gifts of healing? Do all speak in tongues? Do all interpret? Strive eagerly for the 
-                                greatest spiritual gifts.
+                                To do what is right and just is more acceptable to the LORD than sacrifice.
+                            </p>
+                            <p>
+                                Haughty eyes and a proud heart–the tillage of the wicked is sin.
+                            </p>
+                            <p>
+                                The plans of the diligent are sure of profit, but all rash haste leads certainly to 
+                                poverty.
+                            </p>
+                            <p>
+                                Whoever makes a fortune by a lying tongue is chasing a bubble over deadly snares.
+                            </p>
+                            <p>
+                                The soul of the wicked man desires evil; his neighbor finds no pity in his eyes.
+                            </p>
+                            <p>
+                                When the arrogant man is punished, the simple are the wiser; when the wise man is 
+                                instructed, he gains knowledge.
+                            </p>
+                            <p>
+                                The just man appraises the house of the wicked: there is one who brings down the wicked 
+                                to ruin.
+                            </p>
+                            <p>
+                                He who shuts his ear to the cry of the poor will himself also call and not be heard.
                             </p>
                         </div>
                     </div>
@@ -1339,34 +1330,40 @@ marquee{
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">Responsorial Psalm - Tuesday
-                            <h6 class="modal-title modal-about text-center">Psalm 100:1B-5</h6>
+                            <h6 class="modal-title modal-about text-center">Psalm 119:1, 27, 30, 34, 35, 44</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                                <strong><i>R. We are his people: the sheep of his flock.</i></strong><br>
-                                Sing joyfully to the LORD, all you lands;<br>
-                                serve the LORD with gladness;<br>
-                                come before him with joyful song.<br>
-                                <strong><i>R. We are his people: the sheep of his flock.</i></strong>
+                                <strong><i>R. Guide me, Lord, in the way of your commands.</i></strong><br>
+                                Blessed are they whose way is blameless,<br>
+                                who walk in the law of the LORD.<br>                                
+                                <strong><i>R. Guide me, Lord, in the way of your commands.</i></strong>
                             </p>
                             <p>
-                                Know that the LORD is God;<br>
-                                he made us, his we are;<br>
-                                his people, the flock he tends.<br>
-                                <strong><i>R. We are his people: the sheep of his flock.</i></strong>
+                                Make me understand the way of your precepts,<br>
+                                and I will meditate on your wondrous deeds.<br>
+                                <strong><i>R. Guide me, Lord, in the way of your commands.</i></strong>
                             </p>
                             <p>
-                                Enter his gates with thanksgiving,<br>
-                                his courts with praise;<br>
-                                Give thanks to him; bless his name.<br>
-                                <strong><i>R. We are his people: the sheep of his flock.</i></strong>
+                                The way of truth I have chosen;<br>
+                                I have set your ordinances before me.<br>
+                                <strong><i>R. Guide me, Lord, in the way of your commands.</i></strong>
                             </p>
                             <p>
-                                For he is good, the LORD,<br>
-                                whose kindness endures forever,<br>
-                                and his faithfulness, to all generations.<br>
-                                <strong><i>R. We are his people: the sheep of his flock.</i></strong>
+                                Give me discernment, that I may observe your law<br>
+                                and keep it with all my heart.<br>
+                                <strong><i>R. Guide me, Lord, in the way of your commands.</i></strong>
+                            </p>
+                            <p>
+                                Lead me in the path of your commands,<br>
+                                for in it I delight.<br>
+                                <strong><i>R. Guide me, Lord, in the way of your commands.</i></strong>
+                            </p>
+                            <p>
+                                And I will keep your law continually,<br>
+                                forever and ever.<br>
+                                <strong><i>R. Guide me, Lord, in the way of your commands.</i></strong>
                             </p>
                         </div>
                     </div>
@@ -1410,23 +1407,16 @@ marquee{
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">Gospel Reading - Tuesday
-                            <h6 class="modal-title modal-about text-center">Luke 7:11-17</h6>
+                            <h6 class="modal-title modal-about text-center">Luke 8:19-21</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                                Jesus journeyed to a city called Nain, and his disciples and a large crowd accompanied 
-                                him. As he drew near to the gate of the city, a man who had died was being carried out, 
-                                the only son of his mother, and she was a widow. A large crowd from the city was with 
-                                her. When the Lord saw her, he was moved with pity for her and said to her, "Do not weep." 
-                            </p>
-                            <p>
-                                He stepped forward and touched the coffin; at this the bearers halted, 
-                                and he said, "Young man, I tell you, arise!" The dead man sat up and began to speak, 
-                                and Jesus gave him to his mother. Fear seized them all, and they glorified God, 
-                                exclaiming, "A great prophet has arisen in our midst," and "God has visited his people."
-                                This report about him spread through the whole of Judea and in all the surrounding region.
-                            </p>
+                                The mother of Jesus and his brothers came to him but were unable to join him because of 
+                                the crowd. He was told, "Your mother and your brothers are standing outside and they 
+                                wish to see you." He said to them in reply, "My mother and my brothers are those who 
+                                hear the word of God and act on it." 
+                            </p>                            
                         </div>
                     </div>
                 </div>
@@ -1444,36 +1434,20 @@ marquee{
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">1st Reading - Wednesday
-                            <h6 class="modal-title modal-about text-center">1 Corinthians 12:31-13:13</h6>
+                            <h6 class="modal-title modal-about text-center">Proverbs 30:5-9</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                                Brothers and sisters:<br>
-                                Strive eagerly for the greatest spiritual gifts.<br>
-                                But I shall show you a still more excellent way.<br>
-                                If I speak in human and angelic tongues but do not have love, I am a resounding gong or 
-                                a clashing cymbal. And if I have the gift of prophecy and comprehend all mysteries and 
-                                all knowledge; if I have all faith so as to move mountains, but do not have love, I am 
-                                nothing. If I give away everything I own, and if I hand my body over so that I may boast 
-                                but do not have love, I gain nothing.
+                                Every word of God is tested; he is a shield to those who take refuge in him. Add nothing 
+                                to his words, lest he reprove you, and you will be exposed as a deceiver.
                             </p>
                             <p>
-                                Love is patient, love is kind. It is not jealous, love is not pompous, it is not 
-                                inflated, it is not rude, it does not seek its own interests, it is not quick-tempered, 
-                                it does not brood over injury, it does not rejoice over wrongdoing but rejoices with the 
-                                truth. It bears all things, believes all things, hopes all things, endures all things.
-                            </p>
-                            <p>
-                                Love never fails.<br>
-                                If there are prophecies, they will be brought to nothing; if tongues, they will cease; 
-                                if knowledge, it will be brought to nothing. For we know partially and we prophesy 
-                                partially, but when the perfect comes, the partial will pass away. When I was a child, 
-                                I used to talk as a child, think as a child, reason as a child; when I became a man, I 
-                                put aside childish things. At present we see indistinctly, as in a mirror, but then face 
-                                to face. At present I know partially; then I shall know fully, as I am fully known. So 
-                                faith, hope, love remain, these three; but the greatest of these is love.
-                            </p>
+                                Two things I ask of you, deny them not to me before I die: Put falsehood and lying far 
+                                from me, give me neither poverty nor riches; provide me only with the food I need; Lest, 
+                                being full, I deny you, saying, "Who is the LORD?" Or, being in want, I steal, and 
+                                profane the name of my God.
+                            </p>                            
                         </div>
                     </div>
                 </div>
@@ -1491,31 +1465,40 @@ marquee{
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">Responsorial Psalm - Wednesday
-                            <h6 class="modal-title modal-about text-center">Psalm 33:2-5, 12, 22</h6>
+                            <h6 class="modal-title modal-about text-center">Psalm 119:29, 72, 89, 101, 104, 163</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                                <strong><i>R. Blessed the people the Lord has chosen to be his own.</i></strong><br>
-                                Give thanks to the LORD on the harp;<br>
-                                with the ten stringed lyre chant his praises.<br>
-                                Sing to him a new song;<br>
-                                pluck the strings skillfully, with shouts of gladness.<br>
-                                <strong><i>R. Blessed the people the Lord has chosen to be his own.</i></strong>
+                                <strong><i>R. Your word, O Lord, is a lamp for my feet.</i></strong><br>
+                                Remove from me the way of falsehood,<br>
+                                and favor me with your law.<br>                                
+                                <strong><i>R. Your word, O Lord, is a lamp for my feet.</i></strong>
                             </p>
                             <p>
-                                For upright is the word of the LORD,<br>
-                                and all his works are trustworthy.<br>
-                                He loves justice and right;<br>
-                                of the kindness of the LORD the earth is full.<br>
-                                <strong><i>R. Blessed the people the Lord has chosen to be his own.</i></strong>
+                                The law of your mouth is to me more precious<br>
+                                than thousands of gold and silver pieces.<br>
+                                <strong><i>R. Your word, O Lord, is a lamp for my feet.</i></strong>
                             </p>
                             <p>
-                                Blessed the nation whose God is the LORD,<br>
-                                the people he has chosen for his own inheritance.<br>
-                                May your kindness, O LORD, be upon us<br>
-                                who have put our hope in you.<br>
-                                <strong><i>R. Blessed the people the Lord has chosen to be his own.</i></strong>
+                                Your word, O LORD, endures forever;<br>
+                                it is firm as the heavens.<br>
+                                <strong><i>R. Your word, O Lord, is a lamp for my feet.</i></strong>
+                            </p>
+                            <p>
+                                From every evil way I withhold my feet,<br>
+                                that I may keep your words.<br>
+                                <strong><i>R. Your word, O Lord, is a lamp for my feet.</i></strong>
+                            </p>
+                            <p>
+                                Through your precepts I gain discernment;<br>
+                                therefore I hate every false way.<br>
+                                <strong><i>R. Your word, O Lord, is a lamp for my feet.</i></strong>
+                            </p>
+                            <p>
+                                Falsehood I hate and abhor;<br>
+                                your law I love.<br>
+                                <strong><i>R. Your word, O Lord, is a lamp for my feet.</i></strong>
                             </p>
                         </div>
                     </div>
@@ -1559,26 +1542,19 @@ marquee{
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">Gospel Reading - Wednesday
-                            <h6 class="modal-title modal-about text-center">Luke 7:31-35</h6>
+                            <h6 class="modal-title modal-about text-center">Luke 9:1-6</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                                Jesus said to the crowds:<br>
-                                “To what shall I compare the people of this generation?<br>
-                                What are they like?<br>
-                                They are like children who sit in the marketplace and call to one another,
-                            </p>
-                            <p>
-                                ‘We played the flute for you, but you did not dance.<br>
-                                We sang a dirge, but you did not weep.’
-                            </p>
-                            <p>
-                                For John the Baptist came neither eating food nor drinking wine, and you said, ‘He is 
-                                possessed by a demon.’ The Son of Man came eating and drinking and you said, ‘Look, he 
-                                is a glutton and a drunkard, a friend of tax collectors and sinners.’ But wisdom is 
-                                vindicated by all her children.”
-                            </p>
+                                Jesus summoned the Twelve and gave them power and authority over all demons and to cure 
+                                diseases, and he sent them to proclaim the Kingdom of God and to heal the sick. He said 
+                                to them, "Take nothing for the journey, neither walking stick, nor sack, nor food, nor 
+                                money, and let no one take a second tunic. Whatever house you enter, stay there and 
+                                leave from there. And as for those who do not welcome you, when you leave that town, 
+                                shake the dust from your feet in testimony against them." Then they set out and went 
+                                from village to village proclaiming the Good News and curing diseases everywhere.
+                            </p>                            
                         </div>
                     </div>
                 </div>
@@ -1596,27 +1572,25 @@ marquee{
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">1st Reading - Thursday
-                            <h6 class="modal-title modal-about text-center">1 Corinthians 15:1-11</h6>
+                            <h6 class="modal-title modal-about text-center">Ecclesiastes 1:2-11</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                                I am reminding you, brothers and sisters, of the Gospel I preached to you, which you 
-                                indeed received and in which you also stand. Through it you are also being saved, if you 
-                                hold fast to the word I preached to you, unless you believed in vain. For I handed on to 
-                                you as of first importance what I also received: that Christ died for our sins in 
-                                accordance with the Scriptures; that he was buried; that he was raised on the third day 
-                                in accordance with the Scriptures; that he appeared to Cephas, then to the Twelve. After 
-                                that, he appeared to more than five hundred brothers at once, most of whom are still 
-                                living, though some have fallen asleep. 
+                                Vanity of vanities, says Qoheleth, vanity of vanities! All things are vanity! What 
+                                profit has man from all the labor which he toils at under the sun? One generation passes 
+                                and another comes, but the world forever stays. The sun rises and the sun goes down; 
+                                then it presses on to the place where it rises. Blowing now toward the south, then 
+                                toward the north, the wind turns again and again, resuming its rounds. All rivers go to 
+                                the sea, yet never does the sea become full. To the place where they go, the rivers keep 
+                                on going. All speech is labored; there is nothing one can say. The eye is not satisfied 
+                                with seeing nor is the ear satisfied with hearing. 
                             </p>
                             <p>
-                                After that he appeared to James, then to all the Apostles. Last of all, as to one born 
-                                abnormally, he appeared to me. For I am the least of the Apostles, not fit to be called 
-                                an Apostle, because I persecuted the Church of God. But by the grace of God I am what I 
-                                am, and his grace to me has not been ineffective. Indeed, I have toiled harder than all 
-                                of them; not I, however, but the grace of God that is with me. Therefore, whether it be 
-                                I or they, so we preach and so you believed. 
+                                What has been, that will be; what has been done, that will be done. Nothing is new under 
+                                the sun. Even the thing of which we say, "See, this is new!" has already existed in the 
+                                ages that preceded us. There is no remembrance of the men of old; nor of those to come 
+                                will there be any remembrance among those who come after them. 
                             </p>
                         </div>
                     </div>
@@ -1635,29 +1609,39 @@ marquee{
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">Responsorial Psalm - Thursday
-                            <h6 class="modal-title modal-about text-center">Psalm PS 118:1B-2, 16AB-17, 28</h6>
+                            <h6 class="modal-title modal-about text-center">Psalm PS 90:3-4, 5-6, 12-13, 14 AND 17BC</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                                <strong><i>R. Give thanks to the Lord, for he is good.</i></strong><br>
-                                Give thanks to the LORD, for he is good,<br>
-                                for his mercy endures forever.<br>
-                                Let the house of Israel say,<br>
-                                "His mercy endures forever."<br>
-                                <strong><i>R. Give thanks to the Lord, for he is good.</i></strong>
+                                <strong><i>R. In every age, O Lord, you have been our refuge.</i></strong><br>
+                                You turn man back to dust,<br>
+                                saying, "Return, O children of men."<br>
+                                For a thousand years in your sight<br>
+                                are as yesterday, now that it is past,<br>
+                                or as a watch of the night.<br>
+                                <strong><i>R. In every age, O Lord, you have been our refuge.</i></strong>
                             </p>
                             <p>
-                                "The right hand of the LORD is exalted;<br>
-                                the right hand of the LORD has struck with power."<br>
-                                I shall not die, but live,<br>
-                                and declare the works of the LORD.<br>
-                                <strong><i>R. Give thanks to the Lord, for he is good.</i></strong>
+                                You make an end of them in their sleep;<br>
+                                the next morning they are like the changing grass,<br>
+                                Which at dawn springs up anew,<br>
+                                but by evening wilts and fades.<br>
+                                <strong><i>R. In every age, O Lord, you have been our refuge.</i></strong>
                             </p>
                             <p>
-                                You are my God, and I give thanks to you;<br>
-                                O my God, I extol you.<br>
-                                <strong><i>R. Give thanks to the Lord, for he is good.</i></strong>
+                                Teach us to number our days aright,<br>
+                                that we may gain wisdom of heart.<br>
+                                Return, O LORD! How long?<br>
+                                Have pity on your servants!<br>
+                                <strong><i>R. In every age, O Lord, you have been our refuge.</i></strong>
+                            </p>
+                            <p>
+                                Fill us at daybreak with your kindness,<br>
+                                that we may shout for joy and gladness all our days.<br>
+                                Prosper the work of our hands for us!<br>
+                                Prosper the work of our hands!<br>
+                                <strong><i>R. In every age, O Lord, you have been our refuge.</i></strong>
                             </p>
                         </div>
                     </div>
@@ -1701,37 +1685,17 @@ marquee{
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">Gospel Reading - Thursday
-                            <h6 class="modal-title modal-about text-center">Luke 7:36-50</h6>
+                            <h6 class="modal-title modal-about text-center">Luke 9:7-9</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                                A certain Pharisee invited Jesus to dine with him, and he entered the Pharisee's house 
-                                and reclined at table. Now there was a sinful woman in the city who learned that he was 
-                                at table in the house of the Pharisee. Bringing an alabaster flask of ointment, she 
-                                stood behind him at his feet weeping and began to bathe his feet with her tears. Then 
-                                she wiped them with her hair, kissed them, and anointed them with the ointment. 
-                            </p>
-                            <p>
-                                When the Pharisee who had invited him saw this he said to himself, "If this man were a 
-                                prophet, he would know who and what sort of woman this is who is touching him, that she 
-                                is a sinner." Jesus said to him in reply, "Simon, I have something to say to you." "Tell 
-                                me, teacher," he said. "Two people were in debt to a certain creditor; one owed 
-                                five hundred days' wages and the other owed fifty. Since they were unable to repay the 
-                                debt, he forgave it for both.
-                            </p>
-                            <p>
-                                Which of them will love him more?" Simon said in reply, "The one, I suppose, whose 
-                                larger debt was forgiven." He said to him, "You have judged rightly." Then he turned to 
-                                the woman and said to Simon, "Do you see this woman? When I entered your house, you did 
-                                not give me water for my feet, but she has bathed them with her tears and wiped them 
-                                with her hair. You did not give me a kiss, but she has not ceased kissing my feet since 
-                                the time I entered. You did not anoint my head with oil, but she anointed my feet with 
-                                ointment. So I tell you, her many sins have been forgiven; hence, she has shown great 
-                                love. But the one to whom little is forgiven, loves little." He said to her, 
-                                "Your sins are forgiven." The others at table said to themselves, "Who is this who even 
-                                forgives sins?" But he said to the woman, "Your faith has saved you; go in peace."
-                            </p>
+                                Herod the tetrarch heard about all that was happening, and he was greatly perplexed 
+                                because some were saying, "John has been raised from the dead"; others were saying, 
+                                "Elijah has appeared"; still others, "One of the ancient prophets has arisen." But Herod 
+                                said, "John I beheaded. Who then is this about whom I hear such things?" And he kept 
+                                trying to see him. 
+                            </p>                            
                         </div>
                     </div>
                 </div>
@@ -1749,28 +1713,34 @@ marquee{
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">1st Reading - Friday
-                            <h6 class="modal-title modal-about text-center">Ephesians 4:1-7, 11-13</h6>
+                            <h6 class="modal-title modal-about text-center">Ecclesiastes 3:1-11</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                                Brothers and sisters:<br>
-                                I, a prisoner for the Lord, urge you to live in a manner worthy of the call you have 
-                                received, with all humility and gentleness, with patience, bearing with one another 
-                                through love, striving to preserve the unity of the Spirit through the bond of peace: 
-                                one Body and one Spirit, as you were also called to the one hope of your call; one Lord, 
-                                one faith, one baptism; one God and Father of all, who is over all and through all and 
-                                in all.
+                                There is an appointed time for everything, and a time for every thing under the heavens.<br>
+                                A time to be born, and a time to die;<br>
+                                a time to plant, and a time to uproot the plant.<br>
+                                A time to kill, and a time to heal;<br>
+                                a time to tear down, and a time to build.<br>
+                                A time to weep, and a time to laugh;<br>
+                                a time to mourn, and a time to dance.<br>
+                                A time to scatter stones, and a time to gather them;<br>
+                                a time to embrace, and a time to be far from embraces.<br>
+                                A time to seek, and a time to lose;<br>
+                                a time to keep, and a time to cast away.<br>
+                                A time to rend, and a time to sew;<br>
+                                a time to be silent, and a time to speak.<br>
+                                A time to love, and a time to hate;<br>
+                                a time of war, and a time of peace.
                             </p>
                             <p>
-                                But grace was given to each of us according to the measure of Christ's gift.
-                            </p>
-                            <p>
-                                And he gave some as Apostles, others as prophets, others as evangelists, others as 
-                                pastors and teachers, to equip the holy ones for the work of ministry, for building up 
-                                the Body of Christ, until we all attain to the unity of faith and knowledge of the Son 
-                                of God, to mature manhood, to the extent of the full stature of Christ. 
-                            </p>
+                                What advantage has the worker from his toil? I have considered the task that God has 
+                                appointed for the sons of men to be busied about. He has made everything appropriate to 
+                                its time, and has put the timeless into their hearts, without man's ever discovering, 
+                                from beginning to end, the work which God has done. But grace was given to each of us 
+                                according to the measure of Christ's gift.
+                            </p>                            
                         </div>
                     </div>
                 </div>
@@ -1788,24 +1758,24 @@ marquee{
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">Responsorial Psalm - Friday
-                            <h6 class="modal-title modal-about text-center">Psalm PS 19:2-5</h6>
+                            <h6 class="modal-title modal-about text-center">Psalm 44:1B-4</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                                <strong><i>R. Their message goes out through all the earth.</i></strong><br>
-                                The heavens declare the glory of God;<br>
-                                and the firmament proclaims his handiwork.<br>
-                                Day pours out the word to day,<br>
-                                and night to night imparts knowledge.<br>
-                                <strong><i>R. Their message goes out through all the earth.</i></strong>
+                                <strong><i>R. Blessed be the Lord, my Rock!</i></strong><br>
+                                Blessed be the LORD, my rock,<br>
+                                my mercy and my fortress,<br>
+                                my stronghold, my deliverer,<br>
+                                My shield, in whom I trust.<br>
+                                <strong><i>R. Blessed be the Lord, my Rock!</i></strong>
                             </p>
                             <p>
-                                Not a word nor a discourse<br>
-                                whose voice is not heard;<br>
-                                Through all the earth their voice resounds,<br>
-                                and to the ends of the world, their message.<br>
-                                <strong><i>R. Their message goes out through all the earth.</i></strong>
+                                LORD, what is man, that you notice him;<br>
+                                the son of man, that you take thought of him?<br>
+                                Man is like a breath;<br>
+                                his days, like a passing shadow.<br>
+                                <strong><i>R. Blessed be the Lord, my Rock!</i></strong>
                             </p>
                         </div>
                     </div>
@@ -1849,21 +1819,20 @@ marquee{
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">Gospel Reading - Friday
-                            <h6 class="modal-title modal-about text-center">Matthew 9:9-13</h6>
+                            <h6 class="modal-title modal-about text-center">Luke 9:18-22</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                                As Jesus passed by, he saw a man named Matthew sitting at the customs post. He said to 
-                                him, "Follow me." And he got up and followed him. While he was at table in his house, 
-                                many tax collectors and sinners came and sat with Jesus and his disciples. The Pharisees 
-                                saw this and said to his disciples, "Why does your teacher eat with tax collectors and 
-                                sinners?"
+                                Once when Jesus was praying in solitude, and the disciples were with him, he asked them, 
+                                "Who do the crowds say that I am?" They said in reply, "John the Baptist; others, 
+                                Elijah; still others, 'One of the ancient prophets has arisen.'" Then he said to them, 
+                                "But who do you say that I am?" Peter said in reply, "The Christ of God." He rebuked 
+                                them and directed them not to tell this to anyone.
                             </p>
                             <p>
-                                He heard this and said, "Those who are well do not need a physician, but the sick do. Go 
-                                and learn the meaning of the words, I desire mercy, not sacrifice. I did not come to 
-                                call the righteous but sinners."
+                                He said, "The Son of Man must suffer greatly and be rejected by the elders, the chief 
+                                priests, and the scribes, and be killed and on the third day be raised."
                             </p>
                         </div>
                     </div>
@@ -1882,32 +1851,54 @@ marquee{
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">1st Reading - Saturday
-                            <h6 class="modal-title modal-about text-center">1 Corinthians 15:35-37, 42-49</h6>
+                            <h6 class="modal-title modal-about text-center">Daniel 7:9-10, 13-14 OR Revelation 12:7-12AB</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                                Brothers and sisters:<br>
-                                Someone may say, "How are the dead raised? With what kind of body will they come back?"
+                                As I watched:<br>
+                                Thrones were set up
+and the Ancient One took his throne.
+His clothing was bright as snow,
+and the hair on his head as white as wool;
+His throne was flames of fire,
+with wheels of burning fire.
+A surging stream of fire
+flowed out from where he sat;
+Thousands upon thousands were ministering to him,
+and myriads upon myriads attended him.
                             </p>
                             <p>
-                                You fool!<br>
-                                What you sow is not brought to life unless it dies. And what you sow is not the body 
-                                that is to be but a bare kernel of wheat, perhaps, or of some other kind.
+                                The court was convened, and the books were opened.
+As the visions during the night continued, I saw
                             </p>
                             <p>
-                                So also is the resurrection of the dead. It is sown corruptible; it is raised 
-                                incorruptible. It is sown dishonorable; it is raised glorious. It is sown weak; it is 
-                                raised powerful. It is sown a natural body; it is raised a spiritual body. If there is a 
-                                natural body, there is also a spiritual one.
+                                One like a son of man coming,
+on the clouds of heaven;
+When he reached the Ancient One
+and was presented before him,
+He received dominion, glory, and kingship;
+nations and peoples of every language serve him.
+His dominion is an everlasting dominion
+that shall not be taken away,
+his kingship shall not be destroyed.
                             </p>
                             <p>
-                                So, too, it is written, "The first man, Adam, became a living being," the last Adam a 
-                                life-giving spirit. But the spiritual was not first; rather the natural and then the 
-                                spiritual. The first man was from the earth, earthly; the second man, from heaven. As 
-                                was the earthly one, so also are the earthly, and as is the heavenly one, so also are 
-                                the heavenly. Just as we have borne the image of the earthly one, we shall also bear the 
-                                image of the heavenly one.
+                                <h2>OR</h2>
+                            </p>
+                            <p>
+                                War broke out in heaven; Michael and his angels battled against the dragon. The dragon 
+                                and its angels fought back, but they did not prevail and there was no longer any place 
+                                for them in heaven. The huge dragon, the ancient serpent, who is called the Devil and 
+                                Satan, who deceived the whole world, was thrown down to earth, and its angels were 
+                                thrown down with it.
+                            </p>
+                            <p>
+                                Then I heard a loud voice in heaven say: "Now have salvation and power come, and the 
+                                Kingdom of our God and the authority of his Anointed. For the accuser of our brothers is 
+                                cast out, who accuses them before our God day and night. They conquered him by the 
+                                Blood of the Lamb and by the word of their testimony; love for life did not deter them 
+                                from death. Therefore, rejoice, you heavens, and you who dwell in them."
                             </p>
                         </div>
                     </div>
@@ -1926,25 +1917,33 @@ marquee{
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">Responsorial Psalm - Saturday
-                            <h6 class="modal-title modal-about text-center">Psalm 56:10-14</h6>
+                            <h6 class="modal-title modal-about text-center">Psalm 138:1-5</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                                <strong><i>R. I will walk in the presence of God, in the light of the living.</i></strong><br>
-                                Now I know that God is with me.<br>
-                                In God, in whose promise I glory,<br>
-                                in God I trust without fear;<br>
-                                what can flesh do against me?<br>
-                                <strong><i>R. I will walk in the presence of God, in the light of the living.</i></strong>
+                                <strong><i>R. In the sight of the angels I will sing your praises, Lord.</i></strong><br>
+                                I will give thanks to you, O LORD, with all my heart,<br>
+                                for you have heard the words of my mouth;<br>
+                                in the presence of the angels I will sing your praise;<br>
+                                I will worship at your holy temple<br>
+                                and give thanks to your name.<br>
+                                <strong><i>R. In the sight of the angels I will sing your praises, Lord.</i></strong>
                             </p>
                             <p>
-                                I am bound, O God, by vows to you;<br>
-                                your thank offerings I will fulfill.<br>
-                                For you have rescued me from death,<br>
-                                my feet, too, from stumbling;<br>
-                                that I may walk before God in the light of the living.<br>
-                                <strong><i>R. I will walk in the presence of God, in the light of the living.</i></strong>
+                                Because of your kindness and your truth;<br>
+                                for you have made great above all things<br>
+                                your name and your promise.<br>
+                                When I called, you answered me;<br>
+                                you built up strength within me.<br>
+                                <strong><i>R. In the sight of the angels I will sing your praises, Lord.</i></strong>
+                            </p>
+                            <p>
+                                All the kings of the earth shall give thanks to you, O LORD<br>
+                                when they hear the words of your mouth;<br>
+                                And they shall sing of the ways of the LORD<br>
+                                "Great is the glory of the LORD<br>
+                                <strong><i>R. In the sight of the angels I will sing your praises, Lord.</i></strong>
                             </p>
                         </div>
                     </div>
@@ -1988,36 +1987,20 @@ marquee{
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">Gospel Reading - Saturday
-                            <h6 class="modal-title modal-about text-center">Luke 8:4-15</h6>
+                            <h6 class="modal-title modal-about text-center">John 1:47-51</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                                When a large crowd gathered, with people from one town after another journeying to 
-                                Jesus, he spoke in a parable. "A sower went out to sow his seed. And as he sowed, some 
-                                seed fell on the path and was trampled, and the birds of the sky ate it up. Some seed 
-                                fell on rocky ground, and when it grew, it withered for lack of moisture. Some seed fell 
-                                among thorns, and the thorns grew with it and choked it. And some seed fell on good 
-                                soil, and when it grew, it produced fruit a hundredfold." After saying this, he called 
-                                out, "Whoever has ears to hear ought to hear."
-                            </p>
-                            <p>
-                                Then his disciples asked him what the meaning of this parable might be. He answered, 
-                                "Knowledge of the mysteries of the Kingdom of God has been granted to you; but to the 
-                                rest, they are made known through parables so that they may look but not see, and hear 
-                                but not understand.
-                            </p>
-                            <p>
-                                "This is the meaning of the parable. The seed is the word of God. Those on the path are 
-                                the ones who have heard, but the Devil comes and takes away the word from their hearts 
-                                that they may not believe and be saved. Those on rocky ground are the ones who, when 
-                                they hear, receive the word with joy, but they have no root; they believe only for a 
-                                time and fall away in time of temptation. As for the seed that fell among thorns, they 
-                                are the ones who have heard, but as they go along, they are choked by the anxieties and 
-                                riches and pleasures of life, and they fail to produce mature fruit. But as for the seed 
-                                that fell on rich soil, they are the ones who, when they have heard the word, embrace it 
-                                with a generous and good heart, and bear fruit through perseverance."
-                            </p>
+                                Jesus saw Nathanael coming toward him and said of him, "Here is a true child of Israel. 
+                                There is no duplicity in him." Nathanael said to him, "How do you know me?" Jesus 
+                                answered and said to him, "Before Philip called you, I saw you under the fig tree." 
+                                Nathanael answered him, "Rabbi, you are the Son of God; you are the King of Israel." 
+                                Jesus answered and said to him, "Do you believe because I told you that I saw you under 
+                                the fig tree? You will see greater things than this." And he said to him, "Amen, amen, 
+                                I say to you, you will see heaven opened and the angels of God ascending and descending 
+                                on the Son of Man."
+                            </p>                            
                         </div>
                     </div>
                 </div>
@@ -2035,19 +2018,23 @@ marquee{
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">1st Reading - Sunday
-                            <h6 class="modal-title modal-about text-center">Wisdom 2:12, 17-20</h6>
+                            <h6 class="modal-title modal-about text-center">Numbers 11:25-29</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                                The wicked say:<br>
-                                Let us beset the just one, because he is obnoxious to us; he sets himself against our 
-                                doings, reproaches us for transgressions of the law and charges us with violations of 
-                                our training. Let us see whether his words be true; let us find out what will happen to 
-                                him. For if the just one be the son of God, God will defend him and deliver him from the 
-                                hand of his foes. With revilement and torture let us put the just one to the test that 
-                                we may have proof of his gentleness and try his patience. Let us condemn him to a 
-                                shameful death; for according to his own words, God will take care of him.
+                                The LORD came down in the cloud and spoke to Moses. Taking some of the spirit that was 
+                                on Moses, the LORD bestowed it on the seventy elders; and as the spirit came to rest on 
+                                them, they prophesied.
+                            </p>
+                            <p>
+                                Now two men, one named Eldad and the other Medad, were not in the gathering but had been 
+                                left in the camp. They too had been on the list, but had not gone out to the tent; yet 
+                                the spirit came to rest on them also, and they prophesied in the camp. So, when a young 
+                                man quickly told Moses, "Eldad and Medad are prophesying in the camp," Joshua, son of 
+                                Nun, who from his youth had been Moses' aide, said, "Moses, my lord, stop them." But 
+                                Moses answered him, "Are you jealous for my sake? Would that all the people of the LORD 
+                                were prophets! Would that the LORD might bestow his spirit on them all!"
                             </p>
                         </div>
                     </div>
@@ -2066,30 +2053,38 @@ marquee{
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">Responsorial Psalm - Sunday
-                            <h6 class="modal-title modal-about text-center">Psalm PS 54:3-6, 8</h6>
+                            <h6 class="modal-title modal-about text-center">Psalm 19:8, 10, 12-13, 14</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                                <strong><i>R. The Lord upholds my life.</i></strong><br>
-                                O God, by your name save me,<br>
-                                and by your might defend my cause.<br>
-                                O God, hear my prayer;<br>
-                                hearken to the words of my mouth.<br>
-                                <strong><i>R. The Lord upholds my life.</i></strong>
+                                <strong><i>R. The precepts of the Lord give joy to the heart.</i></strong><br>
+                                The law of the LORD is perfect,<br>
+                                refreshing the soul;<br>
+                                the decree of the LORD is trustworthy,<br>
+                                giving wisdom to the simple.<br>
+                                <strong><i>R. The precepts of the Lord give joy to the heart.</i></strong>
                             </p>
                             <p>
-                                For the haughty men have risen up against me,<br>
-                                the ruthless seek my life;<br>
-                                they set not God before their eyes.<br>
-                                <strong><i>R. The Lord upholds my life.</i></strong>
+                                The fear of the LORD is pure,<br>
+                                enduring forever;<br>
+                                the ordinances of the LORD are true,<br>
+                                all of them just.<br>
+                                <strong><i>R. The precepts of the Lord give joy to the heart.</i></strong>
                             </p>
                             <p>
-                                Behold, God is my helper;<br>
-                                the Lord sustains my life.<br>
-                                Freely will I offer you sacrifice;<br>
-                                I will praise your name, O LORD, for its goodness.<br>
-                                <strong><i>R. The Lord upholds my life.</i></strong>
+                                Though your servant is careful of them,<br>
+                                very diligent in keeping them,<br>
+                                yet who can detect failings?<br>
+                                Cleanse me from my unknown faults!<br>
+                                <strong><i>R. The precepts of the Lord give joy to the heart.</i></strong>
+                            </p>
+                            <p>
+                                From wanton sin especially, restrain your servant;<br>
+                                let it not rule over me.<br>
+                                Then shall I be blameless and innocent<br>
+                                of serious sin.<br> 
+                                <strong><i>R. The precepts of the Lord give joy to the heart.</i></strong>
                             </p>
                         </div>
                     </div>
@@ -2108,24 +2103,20 @@ marquee{
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">2nd Reading - Sunday
-                            <h6 class="modal-title modal-about text-center">James 3:16—4:3</h6>
+                            <h6 class="modal-title modal-about text-center">James 5:1-6</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                                Beloved:<br>
-                                Where jealousy and selfish ambition exist, there is disorder and every foul practice. 
-                                But the wisdom from above is first of all pure, then peaceable, gentle, compliant, full 
-                                of mercy and good fruits, without inconstancy or insincerity. And the fruit of 
-                                righteousness is sown in peace for those who cultivate peace.
-                            </p>
-                            <p>
-                                Where do the wars and where do the conflicts among you come from? Is it not from your 
-                                passions that make war within your members? You covet but do not possess. You kill and 
-                                envy but you cannot obtain; you fight and wage war. You do not possess because you do 
-                                not ask. You ask but do not receive, because you ask wrongly, to spend it on your 
-                                passions.
-                            </p>
+                                Come now, you rich, weep and wail over your impending miseries. Your wealth has rotted 
+                                away, your clothes have become moth-eaten, your gold and silver have corroded, and that 
+                                corrosion will be a testimony against you; it will devour your flesh like a fire. You 
+                                have stored up treasure for the last days. Behold, the wages you withheld from the 
+                                workers who harvested your fields are crying aloud; and the cries of the harvesters have 
+                                reached the ears of the Lord of hosts. You have lived on earth in luxury and pleasure; 
+                                you have fattened your hearts for the day of slaughter. You have condemned; you have 
+                                murdered the righteous one; he offers you no resistance.
+                            </p>                            
                         </div>
                     </div>
                 </div>
@@ -2143,25 +2134,28 @@ marquee{
                         <div class="modal-header modal-about" style="background-color: #0D3349; color: white;">
                             <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                             <h4 class="modal-title modal-about text-center">Gospel Reading - Sunday
-                            <h6 class="modal-title modal-about text-center">Mark 9:30-37</h6>
+                            <h6 class="modal-title modal-about text-center"> Mark 9:38-43, 45, 47-48</h6>
                             </h4>
                         </div>
                         <div class="modal-body modal-about">
                             <p>
-                                Jesus and his disciples left from there and began a journey through Galilee, but he did 
-                                not wish anyone to know about it. He was teaching his disciples and telling them, “The 
-                                Son of Man is to be handed over to men and they will kill him, and three days after his 
-                                death the Son of Man will rise.” But they did not understand the saying, and they were 
-                                afraid to question him.
+                                At that time, John said to Jesus, "Teacher, we saw someone driving out demons in your 
+                                name, and we tried to prevent him because he does not follow us." Jesus replied, "Do not 
+                                prevent him. There is no one who performs a mighty deed in my name who can at the same 
+                                time speak ill of me. For whoever is not against us is for us. Anyone who gives you a 
+                                cup of water to drink because you belong to Christ, amen, I say to you, will surely not 
+                                lose his reward.
                             </p>
                             <p>
-                                They came to Capernaum and, once inside the house, he began to ask them, “What were you 
-                                arguing about on the way?” But they remained silent. They had been discussing among 
-                                themselves on the way who was the greatest. Then he sat down, called the Twelve, and 
-                                said to them, “If anyone wishes to be first, he shall be the last of all and the servant 
-                                of all.” Taking a child, he placed it in their midst, and putting his arms around it, he 
-                                said to them, “Whoever receives one child such as this in my name, receives me; and 
-                                whoever receives me, receives not me but the One who sent me.”
+                                "Whoever causes one of these little ones who believe in me to sin, it would be better 
+                                for him if a great millstone were put around his neck and he were thrown into the sea. 
+                                If your hand causes you to sin, cut it off. It is better for you to enter into life 
+                                maimed than with two hands to go into Gehenna, into the unquenchable fire. And if your 
+                                foot causes you to sin, cut if off. It is better for you to enter into life crippled 
+                                than with two feet to be thrown into Gehenna. And if your eye causes you to sin, pluck 
+                                it out. Better for you to enter into the kingdom of God with one eye than with two eyes 
+                                to be thrown into Gehenna, where 'their worm does not die, and the fire is not 
+                                quenched.'"
                             </p>
                         </div>
                     </div>
