@@ -791,14 +791,13 @@ marquee{
                                 <li data-target="#myCarousel" data-slide-to="8"></li> 
                                 <li data-target="#myCarousel" data-slide-to="9"></li> 
                                 <li data-target="#myCarousel" data-slide-to="10"></li>
-                                <li data-target="#myCarousel" data-slide-to="11"></li>
-                                <li data-target="#myCarousel" data-slide-to="12"></li>                             
+                                <li data-target="#myCarousel" data-slide-to="11"></li>                           
                             </ol>
 
                             <!-- Wrapper for slides -->
                             <div class="carousel-inner">
                                 <div class="item active">
-                                    <img src="img/cur.jpg" alt="Chapel Project 2018">
+                                    <img src="img/cha2.jpg" alt="Chapel Project 2018">
                                     <div class="carousel-caption">
                                         <h3>Chapel Project 2018</h3>
                                         <!--<p>Celebration with Children in the Parish</p>-->
@@ -806,7 +805,7 @@ marquee{
                                 </div>
                                 
                                 <div class="item">
-                                    <img src="img/cur1.jpg" alt="Chapel Project 2018">
+                                    <img src="img/cha1.jpg" alt="Chapel Project 2018">
                                     <div class="carousel-caption">
                                         <h3>Chapel Project 2018</h3>
                                         <!--<p>Celebration with Children in the Parish</p>-->
@@ -814,7 +813,7 @@ marquee{
                                 </div>
                                 
                                 <div class="item">
-                                    <img src="img/cur2.jpg" alt="Chapel Project 2018">
+                                    <img src="img/cha.jpg" alt="Chapel Project 2018">
                                     <div class="carousel-caption">
                                         <h3>Chapel Project 2018</h3>
                                         <!--<p>Celebration with Children in the Parish</p>-->
@@ -822,7 +821,14 @@ marquee{
                                 </div>
                                 
                                 <div class="item">
-                                    <img src="img/cur3.jpg" alt="Chapel Project 2018">
+                                    <img src="img/cha3.jpg" alt="Chapel Project 2018">
+                                    <div class="carousel-caption">
+                                        <h3>Chapel Project 2018</h3>
+                                        <!--<p>Celebration with Children in the Parish</p>-->
+                                    </div>
+                                </div>
+                                <div class="item">
+                                    <img src="img/cha4.jpg" alt="Chapel Project 2018">
                                     <div class="carousel-caption">
                                         <h3>Chapel Project 2018</h3>
                                         <!--<p>Celebration with Children in the Parish</p>-->
@@ -831,7 +837,7 @@ marquee{
                                 
                                 
                                 <div class="item">
-                                    <img src="img/project4.jpg" alt="Parish Project 2018">
+                                    <img src="img/bud.jpg" alt="Parish Project 2018">
                                     <div class="carousel-caption">
                                         <h3>Parish Project 2018</h3>
                                         <!--<p>Mary League Girls</p>-->
@@ -839,7 +845,7 @@ marquee{
                                 </div>
 
                                 <div class="item">
-                                    <img src="img/project5.jpg" alt="Parish Project 2018">
+                                    <img src="img/bud1.jpg" alt="Parish Project 2018">
                                     <div class="carousel-caption">
                                         <h3>Parish Project 2018</h3>
                                         <!--<p>Mary League Girls</p>-->
@@ -847,7 +853,7 @@ marquee{
                                 </div>
 
                                 <div class="item">
-                                    <img src="img/project6.jpg" alt="Parish Project 2018">
+                                    <img src="img/bud2.jpg" alt="Parish Project 2018">
                                     <div class="carousel-caption">
                                         <h3>Parish Project 2018</h3>
                                         <!--<p>Mary League Girls</p>-->
@@ -855,7 +861,7 @@ marquee{
                                 </div>
 
                                 <div class="item">
-                                    <img src="img/project8.jpg" alt="Parish Project 2018">
+                                    <img src="img/bud3.jpg" alt="Parish Project 2018">
                                     <div class="carousel-caption">
                                         <h3>Parish Project 2018</h3>
                                         <!--<p>Mary League Girls</p>-->
@@ -863,7 +869,7 @@ marquee{
                                 </div>
 
                                 <div class="item">
-                                    <img src="img/project7.jpg" alt="Parish Project 2018">
+                                    <img src="img/bud4.jpg" alt="Parish Project 2018">
                                     <div class="carousel-caption">
                                         <h3>Parish Project 2018</h3>
                                         <!--<p>National Youth Day 2018</p>-->
@@ -871,7 +877,7 @@ marquee{
                                 </div>
                                 
                                 <div class="item">
-                                    <img src="img/project.jpg" alt="Parish Project 2018">
+                                    <img src="img/bud5.jpg" alt="Parish Project 2018">
                                     <div class="carousel-caption">
                                         <h3>Parish Project 2018</h3>
                                         <!--<p>National Youth Day 2018</p>-->
@@ -880,29 +886,12 @@ marquee{
                                 
                                 
                                 <div class="item">
-                                    <img src="img/project1.jpg" alt="Parish Project 2018">
+                                    <img src="img/bud6.jpg" alt="Parish Project 2018">
                                     <div class="carousel-caption">
                                         <h3>Parish Project 2018</h3>
                                         <!--<p>National Youth Day 2018</p>-->
                                     </div>
-                                </div>
-                                
-                                <div class="item">
-                                    <img src="img/project2.jpg" alt="Parish Project 2018">
-                                    <div class="carousel-caption">
-                                        <h3>Parish Project 2018</h3>
-                                        <!--<p>National Youth Day 2018</p>-->
-                                    </div>
-                                </div>
-                                
-                                <div class="item">
-                                    <img src="img/project3.jpg" alt="Parish Project 2018">
-                                    <div class="carousel-caption">
-                                        <h3>Parish Project 2018</h3>
-                                        <!--<p>National Youth Day 2018</p>-->
-                                    </div>
-                                </div>
-                                                                   
+                                </div>             
                             </div>
 
                             <!-- Left and right controls -->
