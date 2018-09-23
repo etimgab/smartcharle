@@ -131,46 +131,39 @@ marquee{
                 <div class="modal-header modal-about" style="background-color: black; color: white;">
                     <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                     <h4 class="modal-title modal-about text-center">Daily Mediation </h4>
-                    <h6 class="modal-title modal-about text-center"><i>(Luke 8:14)</i></h6>
+                    <h6 class="modal-title modal-about text-center"><i>(Mark 9:31)</i></h6>
                 </div>
                 <div class="modal-body modal-about">
-                    <p><h3>Common of the Blessed Virgin Mary</h3></p>
-                    <p><strong>The anxieties and riches and pleasures of life. (Luke 8:14)</strong></p><br>
+                    <p><h3>25th Sunday in Ordinary Time</h3></p>
+                    <p><strong>The Son of Man is to be handed over to men. (Mark 9:31)</strong></p><br>
                     
-                   <p>“Riches and pleasures”—it’s easy to see how these can choke off our experience of God’s grace. 
-                   But what about anxiety? Anxiety seems like a bit of an odd man out. Riches and pleasures are 
-                   attractive and can tempt us away from the Lord, but anxiety works in a different way: too many bills 
-                   to pay and not enough money to pay them. A stressful job with too many expectations. Health concerns. 
-                   Tension within families.</p>
+                   <p>What a remarkable statement! As he begins his journey to Jerusalem, Jesus tells his disciples—and 
+                   us—that he will be handed over. He will become passive, powerless in our hands. He will leave it up 
+                   to us to decide what to do with him. It’s just as the prophet Isaiah had said, “Like a lamb led to 
+                   slaughter or a sheep silent before shearers, he did not open his mouth” (Isaiah 53:7).</p>
 
-                   <p>Anxiety is a part of everyday life. But then there’s extreme anxiety, which can dominate our 
-                   minds. Professional studies have told us that this kind of anxiety can cause us to become physically 
-                   sick—it can feel as if it’s choking us to death.</p>
+                   <p>This is a strong contrast to everything we have seen Jesus do so far. From the moment he burst 
+                   onto the scene, Jesus was at the center of attention—healing people, contending with opponents, 
+                   calming storms, and multiplying bread. He always took the lead. He always spoke with authority. He 
+                   was the one shaping the story. But at the cross, where it matters the most? Jesus remained quiet, 
+                   humble, and vulnerable.</p>
 
-                   <p>Jesus dealt with everyday anxieties his whole life. He never lost his peace, but he was always 
-                   being confronted with issues, questions, and problems that he had to address. Think about all the 
-                   times Jesus was confronted with his apostles’ worldly thinking. Or what about having to contend with 
-                   the Pharisees and scribes who opposed him? Surely Jesus became anxious as he faced the days leading 
-                   up to his crucifixion.</p>
+                   <p>The truth is, this is what Jesus intended all along. He came as God’s gift to us. A gift doesn’t 
+                   tell the recipient how to use it. He left it up to us to decide how we were going to receive him. We 
+                   didn’t have to reject him as many of his people did. We didn’t have to deny him as Peter did. We 
+                   didn’t have to kill him as the Romans did. We could have embraced him and accepted his message of 
+                   salvation. But we didn’t.</p>
 
-                   <p>Jesus wants to help us deal with the anxieties of life. He wants to help us keep them in the 
-                   proper perspective. One of the best ways he helps is by giving us the word of God. Scripture can 
-                   comfort us. It can tell us that God is with us and that he knows what we are facing—because Jesus 
-                   himself faced it as well (Hebrews 4:14-15).</p>
+                   <p>And still God handed him over. He didn’t take back his gift.</p>
 				   
-				   <p>Here are just a few words from Scripture that will help you keep anxiety in the right perspective. 
-				   As you read them ask Jesus to help you deal with your anxiety.
-				   <ul>
-				   <li>“I am your God. I will strengthen you, I will help you, I will uphold you with my victorious 
-				   right hand” (Isaiah 41:10).</li>
-				   <li>“The Lord is my light and my salvation; whom should I fear? The Lord is my life’s refuge; of 
-				   whom should I be afraid?” (Psalm 27:1).</li>
-				   </ul></p>
+				   <p>Even today, God continues to hand Jesus to us. At every Mass, on every altar, in every Communion 
+				   line, Jesus is placed in our hands as God’s gift of salvation. None of us are worthy to receive him. 
+				   None of us accept him as fully as we should. But that doesn’t stop him. He still gives himself to 
+				   sinful men and women. He still offers his salvation to us. Let’s return his gesture and hand 
+				   ourselves over to him.</p>
 				   
-				   <p>Will these passages make your anxieties vanish completely? Not necessarily. But holding on to them 
-				   can help keep you from being overwhelmed by the anxieties of life.</p>
-				                                                                                              
-                   <p><strong><i>“Lord, help me hold onto your word when I am feeling choked by anxiety."</i></strong></p>
+                   <p><strong><i>“Lord, I am not worthy to receive you. Please keep speaking your words to me so that I 
+                   may be healed."</i></strong></p>
                     <p class="text-muted">&copy; Word Among Us - Mediation</p>
                 </div>
             </div>
