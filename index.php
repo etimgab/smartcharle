@@ -1848,31 +1848,17 @@ marquee{
                         <div class="modal-body modal-about">
                             <p>
                                 As I watched:<br>
-                                Thrones were set up
-and the Ancient One took his throne.
-His clothing was bright as snow,
-and the hair on his head as white as wool;
-His throne was flames of fire,
-with wheels of burning fire.
-A surging stream of fire
-flowed out from where he sat;
-Thousands upon thousands were ministering to him,
-and myriads upon myriads attended him.
+                                Thrones were set up and the Ancient One took his throne. His clothing was bright as 
+                                snow, and the hair on his head as white as wool; His throne was flames of fire, with 
+                                wheels of burning fire. A surging stream of fire flowed out from where he sat; 
+                                Thousands upon thousands were ministering to him, and myriads upon myriads attended him.
                             </p>
                             <p>
-                                The court was convened, and the books were opened.
-As the visions during the night continued, I saw
-                            </p>
-                            <p>
-                                One like a son of man coming,
-on the clouds of heaven;
-When he reached the Ancient One
-and was presented before him,
-He received dominion, glory, and kingship;
-nations and peoples of every language serve him.
-His dominion is an everlasting dominion
-that shall not be taken away,
-his kingship shall not be destroyed.
+                                The court was convened, and the books were opened. As the visions during the night 
+                                continued, I saw One like a son of man coming, on the clouds of heaven; When he reached 
+                                the Ancient One and was presented before him, He received dominion, glory, and kingship; 
+                                nations and peoples of every language serve him. His dominion is an everlasting dominion 
+                                that shall not be taken away, his kingship shall not be destroyed.
                             </p>
                             <p>
                                 <h2>OR</h2>
@@ -2508,7 +2494,7 @@ his kingship shall not be destroyed.
                                 <dt>Date</dt>
                                 <dd>2nd Sunday of every month</dd>
                                 <dt>Time</dt>
-                                <dd>Unknown yet</dd>
+                                <dd>After 6:30am Mass</dd>
                                 <dt>Contact</dt>
                                 <dd><a href="mailto:mary.league@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
                             </dl>
