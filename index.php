@@ -131,39 +131,40 @@ marquee{
                 <div class="modal-header modal-about" style="background-color: black; color: white;">
                     <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                     <h4 class="modal-title modal-about text-center">Daily Mediation </h4>
-                    <h6 class="modal-title modal-about text-center"><i>(Mark 9:31)</i></h6>
+                    <h6 class="modal-title modal-about text-center"><i>(Luke 8:16)</i></h6>
                 </div>
                 <div class="modal-body modal-about">
-                    <p><h3>25th Sunday in Ordinary Time</h3></p>
-                    <p><strong>The Son of Man is to be handed over to men. (Mark 9:31)</strong></p><br>
+                    <p><h3>25th Week in Ordinary Time</h3></p>
+                    <p><strong>No one who lights a lamp conceals it. (Luke 8:16)</strong></p><br>
                     
-                   <p>What a remarkable statement! As he begins his journey to Jerusalem, Jesus tells his disciples—and 
-                   us—that he will be handed over. He will become passive, powerless in our hands. He will leave it up 
-                   to us to decide what to do with him. It’s just as the prophet Isaiah had said, “Like a lamb led to 
-                   slaughter or a sheep silent before shearers, he did not open his mouth” (Isaiah 53:7).</p>
+                   <p>It’s not uncommon to read this passage and see ourselves as the lamp set on a lamp stand, shining 
+                   for all to see. But what if we thought about Jesus himself being the brightly shining light? After 
+                   all, he called himself the “light of the world” (John 8:12). He is not trying to hide from us or make 
+                   us jump through all kinds of hoops before we discover him. No, Jesus wants to reveal himself to us. 
+                   What a hopeful message! Jesus is our light and our salvation (Psalm 27:1).</p>
 
-                   <p>This is a strong contrast to everything we have seen Jesus do so far. From the moment he burst 
-                   onto the scene, Jesus was at the center of attention—healing people, contending with opponents, 
-                   calming storms, and multiplying bread. He always took the lead. He always spoke with authority. He 
-                   was the one shaping the story. But at the cross, where it matters the most? Jesus remained quiet, 
-                   humble, and vulnerable.</p>
+                   <p>So what does the light of Christ help us to see? For one thing, it reveals more than an abstract 
+                   set of facts about God. It shows us God himself: his mercy, his love, and his faithfulness. And when 
+                   God reveals himself, he always touches our hearts even as he illuminates our minds. We see him a 
+                   little more clearly, and our hearts are moved to follow him a little more closely.</p>
 
-                   <p>The truth is, this is what Jesus intended all along. He came as God’s gift to us. A gift doesn’t 
-                   tell the recipient how to use it. He left it up to us to decide how we were going to receive him. We 
-                   didn’t have to reject him as many of his people did. We didn’t have to deny him as Peter did. We 
-                   didn’t have to kill him as the Romans did. We could have embraced him and accepted his message of 
-                   salvation. But we didn’t.</p>
+                   <p>For instance, as you read the parable of the prodigal son, you might imagine yourself as the young 
+                   man coming home to his father’s embrace. Or a moving experience during Confession might help you to 
+                   be more compassionate because you want to share the mercy you have received. God can use instances 
+                   like these to shine his light into your heart—and by shining his light, to scatter some of the 
+                   darkness in it.</p>
 
-                   <p>And still God handed him over. He didn’t take back his gift.</p>
+                   <p>You might not see clearly all at once. When you enter a dimly lit room, it may take time for your 
+                   eyes to become accustomed to the lighting. But the longer you are there, the more bright the light 
+                   appears, and the more clearly you can see. Similarly, the more time you spend in God’s presence, the 
+                   more you will perceive all the ways he is making himself known to you.</p>
 				   
-				   <p>Even today, God continues to hand Jesus to us. At every Mass, on every altar, in every Communion 
-				   line, Jesus is placed in our hands as God’s gift of salvation. None of us are worthy to receive him. 
-				   None of us accept him as fully as we should. But that doesn’t stop him. He still gives himself to 
-				   sinful men and women. He still offers his salvation to us. Let’s return his gesture and hand 
-				   ourselves over to him.</p>
+				   <p>God has been revealing himself since the beginning of time, and he is still doing it today! He is 
+				   continually placing his light on a “lamp stand” because he wants to be known. You can trust his light 
+				   to shine even in places you might not expect. So open your eyes to see him.</p>
 				   
-                   <p><strong><i>“Lord, I am not worthy to receive you. Please keep speaking your words to me so that I 
-                   may be healed."</i></strong></p>
+                   <p><strong><i>“Jesus, shine your light on what-ever you want me to see today. Help me to focus on you 
+                   and your revelation."</i></strong></p>
                     <p class="text-muted">&copy; Word Among Us - Mediation</p>
                 </div>
             </div>
