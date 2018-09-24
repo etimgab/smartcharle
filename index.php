@@ -2494,7 +2494,7 @@ marquee{
                                 <dt>Date</dt>
                                 <dd>2nd Sunday of every month</dd>
                                 <dt>Time</dt>
-                                <dd>After 6:30am</dd>
+                                <dd>After 6:30am Mass</dd>
                                 <dt>Contact</dt>
                                 <dd><a href="mailto:mary.league@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
                             </dl>
