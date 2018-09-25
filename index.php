@@ -131,40 +131,40 @@ marquee{
                 <div class="modal-header modal-about" style="background-color: black; color: white;">
                     <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                     <h4 class="modal-title modal-about text-center">Daily Mediation </h4>
-                    <h6 class="modal-title modal-about text-center"><i>(Luke 8:16)</i></h6>
+                    <h6 class="modal-title modal-about text-center"><i>(Psalm 119:30)</i></h6>
                 </div>
                 <div class="modal-body modal-about">
                     <p><h3>25th Week in Ordinary Time</h3></p>
-                    <p><strong>No one who lights a lamp conceals it. (Luke 8:16)</strong></p><br>
+                    <p><strong>The way of truth I have chosen. (Psalm 119:30)</strong></p><br>
                     
-                   <p>It’s not uncommon to read this passage and see ourselves as the lamp set on a lamp stand, shining 
-                   for all to see. But what if we thought about Jesus himself being the brightly shining light? After 
-                   all, he called himself the “light of the world” (John 8:12). He is not trying to hide from us or make 
-                   us jump through all kinds of hoops before we discover him. No, Jesus wants to reveal himself to us. 
-                   What a hopeful message! Jesus is our light and our salvation (Psalm 27:1).</p>
+                   <p>Today’s first reading teaches us how to live in ways that please the Lord. Then, our Responsorial 
+                   Psalm gives us a beautiful response to these teachings: “Guide me, Lord, in the way of your 
+                   commands.” So let’s make the psalmist’s prayer our own today as we set out to follow the Lord:</p>
 
-                   <p>So what does the light of Christ help us to see? For one thing, it reveals more than an abstract 
-                   set of facts about God. It shows us God himself: his mercy, his love, and his faithfulness. And when 
-                   God reveals himself, he always touches our hearts even as he illuminates our minds. We see him a 
-                   little more clearly, and our hearts are moved to follow him a little more closely.</p>
+                   <p>“I choose you today, Lord. I choose to center my thoughts on you and your goodness. My first 
+                   thought in the morning will be to thank you for giving me another day to love and serve you. I will 
+                   thank you for the health I have, even if it isn’t the best. I will thank you for the people in my 
+                   life—even the difficult ones who teach me patience and compassion, perseverance and fortitude. Thank 
+                   you that I can start afresh today and leave yesterday behind. Thank you that I can build on the grace 
+                   you gave me yesterday.</p>
 
-                   <p>For instance, as you read the parable of the prodigal son, you might imagine yourself as the young 
-                   man coming home to his father’s embrace. Or a moving experience during Confession might help you to 
-                   be more compassionate because you want to share the mercy you have received. God can use instances 
-                   like these to shine his light into your heart—and by shining his light, to scatter some of the 
-                   darkness in it.</p>
+                   <p>“I choose you today, Lord. I choose to ponder your word, which shows me the way of truth. Let me 
+                   hear your voice today. Teach me who you are, and who I am in light of your love. I will let your 
+                   words guide me and help me build a stable foundation for my thoughts and actions. Lord, I choose to 
+                   fill my mind with your teachings, especially during the quiet times, when the devil will try to turn 
+                   me to fearful, judgmental, or negative thoughts.</p>
 
-                   <p>You might not see clearly all at once. When you enter a dimly lit room, it may take time for your 
-                   eyes to become accustomed to the lighting. But the longer you are there, the more bright the light 
-                   appears, and the more clearly you can see. Similarly, the more time you spend in God’s presence, the 
-                   more you will perceive all the ways he is making himself known to you.</p>
+                   <p>“I choose you today, Lord. I choose you as the model for my life. I want to learn how to love as 
+                   you do. I want to become just as patient with other people as you have been with me. Teach me to 
+                   listen and to notice people around me who need my care: the poor and the sick, the lonely and the 
+                   forgotten, even those who would call me their enemy.</p>
 				   
-				   <p>God has been revealing himself since the beginning of time, and he is still doing it today! He is 
-				   continually placing his light on a “lamp stand” because he wants to be known. You can trust his light 
-				   to shine even in places you might not expect. So open your eyes to see him.</p>
+				   <p>“Lord, just as you did during your hidden years with Mary and Joseph, help me to do all the 
+				   everyday things with love: cooking, cleaning, mowing the lawn, paying the bills, walking the dog, 
+				   helping my kids with homework, and all the rest. Jesus, I choose to extend the kindness and 
+				   gentleness you have shown me, so that your love can shine through me.</p>
 				   
-                   <p><strong><i>“Jesus, shine your light on what-ever you want me to see today. Help me to focus on you 
-                   and your revelation."</i></strong></p>
+                   <p><strong><i>“I choose you today, Jesus. You are my way of truth."</i></strong></p>
                     <p class="text-muted">&copy; Word Among Us - Mediation</p>
                 </div>
             </div>
