@@ -131,40 +131,43 @@ marquee{
                 <div class="modal-header modal-about" style="background-color: black; color: white;">
                     <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                     <h4 class="modal-title modal-about text-center">Daily Mediation </h4>
-                    <h6 class="modal-title modal-about text-center"><i>(Psalm 119:30)</i></h6>
+                    <h6 class="modal-title modal-about text-center"><i>(Luke 9:3)</i></h6>
                 </div>
                 <div class="modal-body modal-about">
-                    <p><h3>25th Week in Ordinary Time</h3></p>
-                    <p><strong>The way of truth I have chosen. (Psalm 119:30)</strong></p><br>
+                    <p><h3>Saints Cosmas and Damian, Martyrs (Optional Memorial)</h3></p>
+                    <p><strong>Take nothing for the journey. (Luke 9:3)</strong></p><br>
                     
-                   <p>Today’s first reading teaches us how to live in ways that please the Lord. Then, our Responsorial 
-                   Psalm gives us a beautiful response to these teachings: “Guide me, Lord, in the way of your 
-                   commands.” So let’s make the psalmist’s prayer our own today as we set out to follow the Lord:</p>
+                   <p>Don’t take money on your trip. Don’t pack a suitcase. Travel insurance? Don’t bother! When you 
+                   arrive at your destination, just look around for someone who seems friendly, and stay with them.</p>
 
-                   <p>“I choose you today, Lord. I choose to center my thoughts on you and your goodness. My first 
-                   thought in the morning will be to thank you for giving me another day to love and serve you. I will 
-                   thank you for the health I have, even if it isn’t the best. I will thank you for the people in my 
-                   life—even the difficult ones who teach me patience and compassion, perseverance and fortitude. Thank 
-                   you that I can start afresh today and leave yesterday behind. Thank you that I can build on the grace 
-                   you gave me yesterday.</p>
+                   <p>If a travel agent gave you that kind of advice, you’d probably walk out of his office! But this 
+                   is pretty close to what Jesus says when he tells the Twelve to take nothing for their first 
+                   missionary journey. They were traveling from village to village—shouldn’t they plan their trip, make 
+                   arrangements, and have extra supplies? Nope. Planning and preparation are not bad things, but Jesus 
+                   didn’t want them to miss the chance to see God provide for their needs.</p>
 
-                   <p>“I choose you today, Lord. I choose to ponder your word, which shows me the way of truth. Let me 
-                   hear your voice today. Teach me who you are, and who I am in light of your love. I will let your 
-                   words guide me and help me build a stable foundation for my thoughts and actions. Lord, I choose to 
-                   fill my mind with your teachings, especially during the quiet times, when the devil will try to turn 
-                   me to fearful, judgmental, or negative thoughts.</p>
+                   <p>Jesus was sending out his disciples to heal and preach. But he was also sending them out so that 
+                   they could learn to rely on God for all their needs. He wanted them to know that it was their 
+                   heavenly Father who provided for them and gave them the words and power to work in his name. It’s a 
+                   lesson he wants to teach all of his followers.</p>
 
-                   <p>“I choose you today, Lord. I choose you as the model for my life. I want to learn how to love as 
-                   you do. I want to become just as patient with other people as you have been with me. Teach me to 
-                   listen and to notice people around me who need my care: the poor and the sick, the lonely and the 
-                   forgotten, even those who would call me their enemy.</p>
+                   <p>Church history is full of examples of saints who stepped out in faith even when they did not have 
+                   what was required for their task. And God provided for them! Think of John Bosco, who was famous all 
+                   over Turin, Italy, for feeding the masses of orphan boys with bread or chestnuts from a near-empty 
+                   basket. Or think of Mother Teresa, who often had no food for the people she cared for until she 
+                   received a last-minute donation at dinnertime.</p>
 				   
-				   <p>“Lord, just as you did during your hidden years with Mary and Joseph, help me to do all the 
-				   everyday things with love: cooking, cleaning, mowing the lawn, paying the bills, walking the dog, 
-				   helping my kids with homework, and all the rest. Jesus, I choose to extend the kindness and 
-				   gentleness you have shown me, so that your love can shine through me.</p>
+				   <p>Don’t let your lack of preparation or resources keep you from starting to serve. Things don’t 
+				   always work out perfectly, even for the saints. Even the apostles had their ups and downs. After this 
+				   successful missionary trip, they still misunderstood Jesus, abandoned him, and even denied him. Your 
+				   experience might also have ups and downs, but that’s okay. Just take one step forward and let God 
+				   provide what you are lacking.</p>
 				   
-                   <p><strong><i>“I choose you today, Jesus. You are my way of truth."</i></strong></p>
+				   <p>Go ahead and start a conversation with that child of yours who is having a hard time in school. 
+				   Let God provide the courage for you to bring up a sensitive topic like your spouse’s spending. Trust 
+				   him to give you what you need so that you can serve the people in your path.</p>
+				   
+                   <p><strong><i>“Lord, help me today to trust that you will provide for me."</i></strong></p>
                     <p class="text-muted">&copy; Word Among Us - Mediation</p>
                 </div>
             </div>
