@@ -131,43 +131,40 @@ marquee{
                 <div class="modal-header modal-about" style="background-color: black; color: white;">
                     <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                     <h4 class="modal-title modal-about text-center">Daily Mediation </h4>
-                    <h6 class="modal-title modal-about text-center"><i>(Luke 9:3)</i></h6>
+                    <h6 class="modal-title modal-about text-center"><i>(Luke 9:9)</i></h6>
                 </div>
                 <div class="modal-body modal-about">
-                    <p><h3>Saints Cosmas and Damian, Martyrs (Optional Memorial)</h3></p>
-                    <p><strong>Take nothing for the journey. (Luke 9:3)</strong></p><br>
+                    <p><h3>Saint Vincent de Paul, Priest (Memorial)</h3></p>
+                    <p><strong>He kept trying to see him. (Luke 9:9)</strong></p><br>
                     
-                   <p>Don’t take money on your trip. Don’t pack a suitcase. Travel insurance? Don’t bother! When you 
-                   arrive at your destination, just look around for someone who seems friendly, and stay with them.</p>
+                   <p>Rumors were flying. Speculation was high. Who was this Jesus of Nazareth? Where did he come from, 
+                   and what did he really want? Was he John the Baptist, back from the dead? A new incarnation of the 
+                   prophet Elijah? Or just some rabble-rouser from Galilee?</p>
 
-                   <p>If a travel agent gave you that kind of advice, you’d probably walk out of his office! But this 
-                   is pretty close to what Jesus says when he tells the Twelve to take nothing for their first 
-                   missionary journey. They were traveling from village to village—shouldn’t they plan their trip, make 
-                   arrangements, and have extra supplies? Nope. Planning and preparation are not bad things, but Jesus 
-                   didn’t want them to miss the chance to see God provide for their needs.</p>
+                   <p>For Herod, this was an especially perplexing predicament. He had already taken care of John the 
+                   Baptist. But it seemed that Jesus’ presence and his preaching pricked his conscience on the matter. 
+                   Maybe God really was trying to speak to him through John—and now through this Jesus. Still, Herod’s 
+                   vision was clouded. Aware that he was in a sinful relationship with his wife but unwilling to make 
+                   any change, he couldn’t break through the fog to come to faith.</p>
 
-                   <p>Jesus was sending out his disciples to heal and preach. But he was also sending them out so that 
-                   they could learn to rely on God for all their needs. He wanted them to know that it was their 
-                   heavenly Father who provided for them and gave them the words and power to work in his name. It’s a 
-                   lesson he wants to teach all of his followers.</p>
+                   <p>Of course, none of us are the same as Herod. But like him, we may want to see the Lord but be 
+                   hampered by blurred vision. Unforgiveness, bitterness, fear, and anxiety—all of these and more can 
+                   keep us in a fog. But nothing is more capable of holding us back than unrepented sin. John the 
+                   Baptist brought Herod’s sin to light by criticizing Herod’s marriage to Herodias, his brother’s wife. 
+                   Herod could have repented. He could have found a way out of his immoral union, but he ended up 
+                   feeling forced to silence John’s voice instead.</p>
 
-                   <p>Church history is full of examples of saints who stepped out in faith even when they did not have 
-                   what was required for their task. And God provided for them! Think of John Bosco, who was famous all 
-                   over Turin, Italy, for feeding the masses of orphan boys with bread or chestnuts from a near-empty 
-                   basket. Or think of Mother Teresa, who often had no food for the people she cared for until she 
-                   received a last-minute donation at dinnertime.</p>
+                   <p>The Holy Spirit can clear away any clouds that are obscuring your vision. Through the gift of 
+                   repentance, you can cooperate with him in this work. In fact, getting into the habit of repenting at 
+                   the end of every day is probably one of the best ways to sharpen your vision.</p>
 				   
-				   <p>Don’t let your lack of preparation or resources keep you from starting to serve. Things don’t 
-				   always work out perfectly, even for the saints. Even the apostles had their ups and downs. After this 
-				   successful missionary trip, they still misunderstood Jesus, abandoned him, and even denied him. Your 
-				   experience might also have ups and downs, but that’s okay. Just take one step forward and let God 
-				   provide what you are lacking.</p>
+				   <p>Every evening, look over your day, and ask the Spirit to help you identify anything that you may 
+				   have thought or said or done that was displeasing to the Lord. Then simply ask for forgiveness and 
+				   for the Spirit’s help to do better tomorrow. If the sin is serious enough, resolve to bring it to 
+				   Confession as soon as you can. Then end by thanking God for his mercy. Over time, your vision will 
+				   become clearer, simply because you are giving the Holy Spirit room to work in your heart.</p>
 				   
-				   <p>Go ahead and start a conversation with that child of yours who is having a hard time in school. 
-				   Let God provide the courage for you to bring up a sensitive topic like your spouse’s spending. Trust 
-				   him to give you what you need so that you can serve the people in your path.</p>
-				   
-                   <p><strong><i>“Lord, help me today to trust that you will provide for me."</i></strong></p>
+                   <p><strong><i>“Come, Holy Spirit, and remove the clouds that keep me from seeing clearly."</i></strong></p>
                     <p class="text-muted">&copy; Word Among Us - Mediation</p>
                 </div>
             </div>
