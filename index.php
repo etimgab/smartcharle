@@ -131,40 +131,42 @@ marquee{
                 <div class="modal-header modal-about" style="background-color: black; color: white;">
                     <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                     <h4 class="modal-title modal-about text-center">Daily Mediation </h4>
-                    <h6 class="modal-title modal-about text-center"><i>(Luke 9:9)</i></h6>
+                    <h6 class="modal-title modal-about text-center"><i>(Ecclesiastes 3:8)</i></h6>
                 </div>
                 <div class="modal-body modal-about">
-                    <p><h3>Saint Vincent de Paul, Priest (Memorial)</h3></p>
-                    <p><strong>He kept trying to see him. (Luke 9:9)</strong></p><br>
+                    <p><h3>Saint Wenceslaus, Martyr (Optional Memorial)</h3></p>
+                    <p><strong>A time to love, and a time to hate. (Ecclesiastes 3:8)</strong></p><br>
                     
-                   <p>Rumors were flying. Speculation was high. Who was this Jesus of Nazareth? Where did he come from, 
-                   and what did he really want? Was he John the Baptist, back from the dead? A new incarnation of the 
-                   prophet Elijah? Or just some rabble-rouser from Galilee?</p>
+                   <p>Of all the items that could be in this litany of appointed times, why would hate be included? The 
+                   Bible is clear that hatred is a sin. “Whoever hates his brother is in darkness. . . . Everyone who 
+                   hates his brother is a murderer” (1 John 2:11; 3:15). So how can there be a time to hate?</p>
 
-                   <p>For Herod, this was an especially perplexing predicament. He had already taken care of John the 
-                   Baptist. But it seemed that Jesus’ presence and his preaching pricked his conscience on the matter. 
-                   Maybe God really was trying to speak to him through John—and now through this Jesus. Still, Herod’s 
-                   vision was clouded. Aware that he was in a sinful relationship with his wife but unwilling to make 
-                   any change, he couldn’t break through the fog to come to faith.</p>
+                   <p>Actually, the writer of Ecclesiastes is reflecting on human experience as it is, not necessarily 
+                   as God wants it to be. We all know what it feels like to hate someone; we may have even have hated 
+                   ourselves at one point. It’s a part of our fallen human nature. Hatred can stem from a hurt or 
+                   injustice done to us or a loved one. It can flow from anger or envy, from self-righteousness or 
+                   shame. It might even be rooted in fear, whether fear of someone who threatens us or of someone who 
+                   is different from us.</p>
 
-                   <p>Of course, none of us are the same as Herod. But like him, we may want to see the Lord but be 
-                   hampered by blurred vision. Unforgiveness, bitterness, fear, and anxiety—all of these and more can 
-                   keep us in a fog. But nothing is more capable of holding us back than unrepented sin. John the 
-                   Baptist brought Herod’s sin to light by criticizing Herod’s marriage to Herodias, his brother’s wife. 
-                   Herod could have repented. He could have found a way out of his immoral union, but he ended up 
-                   feeling forced to silence John’s voice instead.</p>
+                   <p>So yes, unfortunately, there is a time to hate. But God asks us to take this “appointed time” to 
+                   reflect on our hate and find a way, with his grace, to turn it to love (Ecclesiastes 3:1).</p>
 
-                   <p>The Holy Spirit can clear away any clouds that are obscuring your vision. Through the gift of 
-                   repentance, you can cooperate with him in this work. In fact, getting into the habit of repenting at 
-                   the end of every day is probably one of the best ways to sharpen your vision.</p>
+                   <p>If you sense that you have negative feelings toward someone, stop and ask the Spirit to help you 
+                   understand why. Your reactions may unveil your own sense of weakness or brokenness. Then you can ask 
+                   God to help you root out this underlying cause and take another step toward love.</p>
 				   
-				   <p>Every evening, look over your day, and ask the Spirit to help you identify anything that you may 
-				   have thought or said or done that was displeasing to the Lord. Then simply ask for forgiveness and 
-				   for the Spirit’s help to do better tomorrow. If the sin is serious enough, resolve to bring it to 
-				   Confession as soon as you can. Then end by thanking God for his mercy. Over time, your vision will 
-				   become clearer, simply because you are giving the Holy Spirit room to work in your heart.</p>
+				   <p>For instance, you may hate someone because of something hurtful they have said or done to you. 
+				   Jesus wants to help you try to forgive. Perhaps you hate someone because they are embroiled in a 
+				   pattern of sin that is overflowing to other people. Let Jesus remind you that we are all sinners. 
+				   Sometimes, when a person is doing truly evil things, it is especially hard to love them. Maybe all 
+				   you can do is pray. Even this is a step out of the darkness.</p>
 				   
-                   <p><strong><i>“Come, Holy Spirit, and remove the clouds that keep me from seeing clearly."</i></strong></p>
+				   <p>Hatred doesn’t do anybody any good; it moves us to treat someone else poorly even as it keeps us 
+				   locked in bitterness and resentment. So when you sense hatred rising in your heart, stop and ask the 
+				   Spirit to help you identify its source. Then ask for grace to move out of the darkness of hate and 
+				   into the light of God’s love.</p>
+				   
+                   <p><strong><i>“Jesus, where there is hatred, let me show love."</i></strong></p>
                     <p class="text-muted">&copy; Word Among Us - Mediation</p>
                 </div>
             </div>
