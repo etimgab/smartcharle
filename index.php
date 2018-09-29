@@ -131,42 +131,45 @@ marquee{
                 <div class="modal-header modal-about" style="background-color: black; color: white;">
                     <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                     <h4 class="modal-title modal-about text-center">Daily Mediation </h4>
-                    <h6 class="modal-title modal-about text-center"><i>(Ecclesiastes 3:8)</i></h6>
+                    <h6 class="modal-title modal-about text-center"><i>(John 1:51)</i></h6>
                 </div>
                 <div class="modal-body modal-about">
-                    <p><h3>Saint Wenceslaus, Martyr (Optional Memorial)</h3></p>
-                    <p><strong>A time to love, and a time to hate. (Ecclesiastes 3:8)</strong></p><br>
+                    <p><h3>Saints Michael, Gabriel, and Raphael, Archangels (Feast)</h3></p>
+                    <p><strong>You will see heaven opened and the angels of God ascending and descending on the Son of 
+                    Man. (John 1:51)</strong></p><br>
                     
-                   <p>Of all the items that could be in this litany of appointed times, why would hate be included? The 
-                   Bible is clear that hatred is a sin. “Whoever hates his brother is in darkness. . . . Everyone who 
-                   hates his brother is a murderer” (1 John 2:11; 3:15). So how can there be a time to hate?</p>
+                   <p>When you think about the future, how do you feel? If you’re looking forward to a family wedding or 
+                   the arrival of a new baby, you might be very excited. If you’re not sure you have enough cash to 
+                   cover your bills next month or you’re awaiting the results of a high-stakes medical test, you might 
+                   be anxious. Our view of the future is often colored by what we are experiencing in the present.</p>
 
-                   <p>Actually, the writer of Ecclesiastes is reflecting on human experience as it is, not necessarily 
-                   as God wants it to be. We all know what it feels like to hate someone; we may have even have hated 
-                   ourselves at one point. It’s a part of our fallen human nature. Hatred can stem from a hurt or 
-                   injustice done to us or a loved one. It can flow from anger or envy, from self-righteousness or 
-                   shame. It might even be rooted in fear, whether fear of someone who threatens us or of someone who 
-                   is different from us.</p>
+                   <p>Our hope in the future with God in heaven is also affected by what we believe now. After 
+                   Nathanael’s declaration that Jesus was the “Son of God” and the “King of Israel,” Jesus said 
+                   Nathanael would one day see him in glory surrounded by the angels in heaven (John 1:49). That 
+                   privileged glimpse into the future was predicated on the present—Nathanael’s belief in Jesus.</p>
 
-                   <p>So yes, unfortunately, there is a time to hate. But God asks us to take this “appointed time” to 
-                   reflect on our hate and find a way, with his grace, to turn it to love (Ecclesiastes 3:1).</p>
+                   <p>Nathanael could make that statement of faith because he was so amazed that Jesus saw into his 
+                   heart, even though they had just met. In that moment, Nathanael knew he was known and loved by 
+                   God.</p>
 
-                   <p>If you sense that you have negative feelings toward someone, stop and ask the Spirit to help you 
-                   understand why. Your reactions may unveil your own sense of weakness or brokenness. Then you can ask 
-                   God to help you root out this underlying cause and take another step toward love.</p>
+                   <p>That’s why it’s important for us to continually reaffirm our faith. If we doubt that Jesus knows 
+                   us as well as he knew Nathanael, or if we wonder how he could love us, then we may not be so sure 
+                   that we will even make it to heaven. We may even think we don’t deserve to live with Jesus 
+                   forever.</p>
 				   
-				   <p>For instance, you may hate someone because of something hurtful they have said or done to you. 
-				   Jesus wants to help you try to forgive. Perhaps you hate someone because they are embroiled in a 
-				   pattern of sin that is overflowing to other people. Let Jesus remind you that we are all sinners. 
-				   Sometimes, when a person is doing truly evil things, it is especially hard to love them. Maybe all 
-				   you can do is pray. Even this is a step out of the darkness.</p>
+				   <p>So follow Nathanael’s lead and make your own declaration of faith. Every day, repeat to yourself, 
+				   “God has known me before I was born. He loves me more than anyone else could. He longs to spend 
+				   eternity with me.”</p>
 				   
-				   <p>Hatred doesn’t do anybody any good; it moves us to treat someone else poorly even as it keeps us 
-				   locked in bitterness and resentment. So when you sense hatred rising in your heart, stop and ask the 
-				   Spirit to help you identify its source. Then ask for grace to move out of the darkness of hate and 
-				   into the light of God’s love.</p>
+				   <p>Over time, as you internalize these truths, your perspective on the future will change. You’ll 
+				   begin to look forward to that day in heaven when you finally see Jesus face-to-face. Can you imagine 
+				   standing before the throne of God, with his angels and archangels “ascending and descending,” just as 
+				   Jesus promised (John 1:51)?</p>
 				   
-                   <p><strong><i>“Jesus, where there is hatred, let me show love."</i></strong></p>
+				   <p>Heaven is filled with God’s saints and angels, and God wants you to join them. For us who believe, 
+				   the future couldn’t look brighter!</p>
+				   
+                   <p><strong><i>“Lord, I want to spend eternity with you."</i></strong></p>
                     <p class="text-muted">&copy; Word Among Us - Mediation</p>
                 </div>
             </div>
