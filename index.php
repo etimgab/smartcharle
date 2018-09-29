@@ -115,7 +115,7 @@ marquee{
             </ul>
             <form class="navbar-form navbar-right" action="#" method="post" id="join-us">
                 <div class="form-group">
-                    <input type="email" placeholder="Insert your email" class="form-control" id="inputEmail" name="Input_Email" value="">
+                    <input type="email" placeholder="Newsletter Email" class="form-control" id="inputEmail" name="Input_Email" value="">
                 </div>
                 <button type="submit" class="btn btn-success" value="join us" id="saveForm" name="saveForm">Join Us</button>
             </form>
@@ -1112,7 +1112,7 @@ marquee{
                         <div id="sunday" class="panel-collapse collapse">
                             <dl>
                                 <dt>Morning Mass</dt>
-                                <dd>6am</dd>
+                                <dd>6:30am & 9:30am</dd>
                                 <dt>Evening Mass</dt>
                                 <dd>6pm</dd>                                
                                 <dt>Today's reading</dt>
