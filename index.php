@@ -131,45 +131,43 @@ marquee{
                 <div class="modal-header modal-about" style="background-color: black; color: white;">
                     <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                     <h4 class="modal-title modal-about text-center">Daily Mediation </h4>
-                    <h6 class="modal-title modal-about text-center"><i>(John 1:51)</i></h6>
+                    <h6 class="modal-title modal-about text-center"><i>(John 1:43)</i></h6>
                 </div>
                 <div class="modal-body modal-about">
-                    <p><h3>Saints Michael, Gabriel, and Raphael, Archangels (Feast)</h3></p>
-                    <p><strong>You will see heaven opened and the angels of God ascending and descending on the Son of 
-                    Man. (John 1:51)</strong></p><br>
+                    <p><h3>Saint John Neumann, Bishop (Memorial)</h3></p>
+                    <p><strong>Jesus . . . found Philip. (John 1:43)</strong></p><br>
                     
-                   <p>When you think about the future, how do you feel? If you’re looking forward to a family wedding or 
-                   the arrival of a new baby, you might be very excited. If you’re not sure you have enough cash to 
-                   cover your bills next month or you’re awaiting the results of a high-stakes medical test, you might 
-                   be anxious. Our view of the future is often colored by what we are experiencing in the present.</p>
+                   <p>Philip and Nathanael were looking for something: a mentor, a rabbi, someone to help them 
+                   understand life’s mysteries. That’s why they were following John the Baptist. Like faithful Jews 
+                   over the centuries, they were steeped in the Scriptures and loved to discuss the meaning of the 
+                   ancient prophecies. When would God establish his kingdom? How would he rescue his chosen people from 
+                   an oppressive occupying force like the Romans? It’s quite possible that Nathanael was musing on these 
+                   questions as he sat under that fig tree.</p>
 
-                   <p>Our hope in the future with God in heaven is also affected by what we believe now. After 
-                   Nathanael’s declaration that Jesus was the “Son of God” and the “King of Israel,” Jesus said 
-                   Nathanael would one day see him in glory surrounded by the angels in heaven (John 1:49). That 
-                   privileged glimpse into the future was predicated on the present—Nathanael’s belief in Jesus.</p>
+                   <p>However, the first “finding” in this passage isn’t done by Philip or Nathanael. It’s done by 
+                   Jesus. He goes to Galilee, finds Philip, and says, “Follow me” (John 1:43). He probably knows that 
+                   Philip will hurry off to share his discovery with his friend Nathanael, and so he is right on his 
+                   heels. Then Nathanael’s initial skepticism turns to amazement when Jesus shows that he already knows 
+                   this young man, and has great things in store for him. Jesus sought them out—so that they could find 
+                   him!</p>
 
-                   <p>Nathanael could make that statement of faith because he was so amazed that Jesus saw into his 
-                   heart, even though they had just met. In that moment, Nathanael knew he was known and loved by 
-                   God.</p>
+                   <p>Every one of us is a seeker in one way or another. We’re all trying to grow in our faith, to get 
+                   to know Jesus better, and to be more faithful to prayer and service. We are all seeking Jesus.</p>
 
-                   <p>That’s why it’s important for us to continually reaffirm our faith. If we doubt that Jesus knows 
-                   us as well as he knew Nathanael, or if we wonder how he could love us, then we may not be so sure 
-                   that we will even make it to heaven. We may even think we don’t deserve to live with Jesus 
-                   forever.</p>
+                   <p>How wonderful, then, to know that he isn’t hiding! He loves you, and before you ever thought to 
+                   seek him, he was seeking after you. Even now he is looking for you, inviting you to come and spend 
+                   time with him. So why not settle down under your “fig tree” for a few moments and let Jesus find you? 
+                   Maybe just focus your mind on a verse from today’s psalm or one of the readings. Maybe just repeat 
+                   Jesus’ name a few times. Don’t worry if your mind drifts a little; just try to remain open.</p>
 				   
-				   <p>So follow Nathanael’s lead and make your own declaration of faith. Every day, repeat to yourself, 
-				   “God has known me before I was born. He loves me more than anyone else could. He longs to spend 
-				   eternity with me.”</p>
+				   <p>This is the heart of the Christian life. It’s about coming out of hiding. It’s about staying still 
+				   long enough for Jesus to find us and speak his word to us. Nathanael was resting, waiting, 
+				   contemplating when Philip introduced him to Jesus—and that quiet disposition helped him open his 
+				   heart.</p>
 				   
-				   <p>Over time, as you internalize these truths, your perspective on the future will change. You’ll 
-				   begin to look forward to that day in heaven when you finally see Jesus face-to-face. Can you imagine 
-				   standing before the throne of God, with his angels and archangels “ascending and descending,” just as 
-				   Jesus promised (John 1:51)?</p>
+				   <p>Jesus is seeking you out right now. Don’t hide! Stay quiet enough to let him find you.</p>
 				   
-				   <p>Heaven is filled with God’s saints and angels, and God wants you to join them. For us who believe, 
-				   the future couldn’t look brighter!</p>
-				   
-                   <p><strong><i>“Lord, I want to spend eternity with you."</i></strong></p>
+                   <p><strong><i>“Jesus, thank you for seeking me first. Help me to recognize your voice today."</i></strong></p>
                     <p class="text-muted">&copy; Word Among Us - Mediation</p>
                 </div>
             </div>
