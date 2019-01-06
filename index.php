@@ -1103,29 +1103,7 @@ by God’s grace has to be accessed; ‘inherited’ through human co-operation.
                         </div>
                     </div>
 
-                    <div class="panel panel-primary">
-                        <div class="panel-heading">
-                            <h3 class="panel-title">
-                                <a data-toggle="collapse" data-parent="#accordion" href="#sunday">Sunday</a>
-                            </h3>
-                        </div>
-                        <div id="sunday" class="panel-collapse collapse">
-                            <dl>
-                                <dt>Morning Mass</dt>
-                                <dd>6:30am & 9:30am</dd>
-                                <dt>Evening Mass</dt>
-                                <dd>6pm</dd>                                
-                                <dt>Today's reading</dt>
-                                <dd class="text-left">
-                                    <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#sunday_1st_reading">1st Reading &raquo;</a> </p>
-                                    <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#sunday_res_psalm">Responsorial Psalm &raquo;</a> </p>
-                                    <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#sunday_2nd_reading">2nd Reading &raquo;</a> </p>
-                                    <p><a class="btn btn-default" href="#" data-toggle="modal" data-target="#sunday_gospel_reading">Gospel Reading &raquo;</a> </p>
-                                    <strong><center>Click above for your readings</center></strong>
-                                </dd>
-                            </dl>
-                        </div>
-                    </div>
+                    
 
                     <div class="panel panel-primary">
                         <div class="panel-heading">
