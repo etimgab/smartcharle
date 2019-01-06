@@ -941,7 +941,7 @@ by God’s grace has to be accessed; ‘inherited’ through human co-operation.
                     first woman saint.
                 </p>
                     
-                    <p class="text-muted">&copy; Catholic News Services - Marguerite Bourgeoys</p>
+                <p class="text-muted">&copy; Catholic News Services - Marguerite Bourgeoys</p>
                 </div>
             </div>
         </div><!-- /.End of Administrative container -->
