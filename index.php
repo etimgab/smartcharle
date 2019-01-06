@@ -927,18 +927,21 @@ by God’s grace has to be accessed; ‘inherited’ through human co-operation.
 
             <div class="row">
                 <div class="col-lg-2 col-md-6 mask">
-                    <img class="img-rounded img-responsive" src="img/basil.jpg" alt="Basil the Great" width="140" height="140">
-                    <h5><strong>Basil the Great - (329-379)</strong></h5>
+                    <img class="img-rounded img-responsive" src="img/Marguerite.jpg" alt="Marguerite Bourgeoys" width="140" height="140">
+                    <h5><strong>Marguerite Bourgeoys - (1620 - 1700)</strong></h5>
                 </div>
                 <div class="col-lg-10 col-md-6">
-                    p>Born in Caesarea, capital of Cappadocia (central Turkey), Basil studied rhetoric there and in 
-                    Constantinople and Athens. He was baptized with his friend, St. Gregory Nazianzen, about 358 and 
-                    ordained around 365. After being chosen bishop of Caesarea in 370, he championed the faith defined 
-                    at the Council of Nicaea and refuted the Arian heresy. Many of his homilies and treatises are 
-                    extant, and the monastic Rule of St. Basil is still observed in the Oriental church. He is revered 
-                    as a doctor of the church.</p>
+                    <p>Growing up in Troyes, France, Marguerite formed a special relationship with Our Lady. She was 
+                    turned away by two religious communities, but met the founder of Montreal, Canada, when he returned 
+                    to France to visit his sister. He invited Marguerite to open a school in the New World; she went, 
+                    despite misgivings, after praying to Mary. From that first school in an abandoned stable, her 
+                    ministry grew to include teaching women crafts and founding the Sisters of the Congregation of 
+                    Notre Dame. She managed to keep her sisters uncloistered, despite opposition from the bishop, and 
+                    served as superior for many years. When Pope John Paul II canonized her in 1982, she became Canada’s 
+                    first woman saint.
+                </p>
                     
-                    <p class="text-muted">&copy; Catholic News Services - Basil the Great</p>
+                    <p class="text-muted">&copy; Catholic News Services - Marguerite Bourgeoys</p>
                 </div>
             </div>
         </div><!-- /.End of Administrative container -->
