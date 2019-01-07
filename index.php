@@ -131,41 +131,43 @@ marquee{
                 <div class="modal-header modal-about" style="background-color: black; color: white;">
                     <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                     <h4 class="modal-title modal-about text-center">Daily Mediation </h4>
-                    <h6 class="modal-title modal-about text-center"><i>(Matthew 2:11)</i></h6>
+                    <h6 class="modal-title modal-about text-center"><i>(1 John 3:23)</i></h6>
                 </div>
                 <div class="modal-body modal-about">
-                    <p><h3>The Epiphany of the Lord (Solemnity)</h3></p>
-                    <p><strong>They saw the child. (Matthew 2:11)</strong></p><br>
+                    <p><h3>Saint Raymond of Penyafort, Priest (Optional Memorial</h3></p>
+                    <p><strong>We should believe in the name of his Son, Jesus Christ. (1 John 3:23)</strong></p><br>
                     
-                   <p>An epiphany is a sudden realization about the nature or meaning of something. The birth of a child 
-                   can be an epiphany that suddenly makes us understand love and responsibility in a new way. A doctor’s 
-                   warning about health issues can be an epiphany that causes us to change the way we eat. And a 
-                   Scripture passage, homily, or spiritual book can be an epiphany that helps us see Jesus in an 
-                   unexpected, new way.</p>
+                   <p>In a recent study, researchers interviewed American Christian youth, both Catholic and 
+                   non-Catholic. The data indicated that although they called themselves Christians, many of the young 
+                   people didn’t really grasp the essential truths of Christianity. They believed that God exists, but 
+                   that he is far off and removed from their daily lives. They believed that God exists mainly to help 
+                   them to become “better people.” In short, their answers revealed great confusion about their 
+                   faith—almost like a cloud over their minds.</p>
 
-                   <p>The Greek word epiphania means “manifestation.” Today, on Epiphany Sunday, we celebrate how God 
-                   manifested his glory to the Magi. First, they saw a star and chose to follow it all the way to Jesus. 
-                   Second, when they found Jesus, the Magi knelt down to worship him and pay him homage. Third, the Magi 
-                   went home changed.</p>
+                   <p>The First Letter of John was written in a time of a similar lack of clarity. Christians from many 
+                   different backgrounds held different views about the identity of Jesus. Many disputed whether he 
+                   could be both fully human and fully divine. Some wanted to place more of an emphasis on Jesus’ 
+                   spiritual nature, hoping to avoid having to change the way they lived in this physical world. The 
+                   author of 1 John wrote this letter to address these disagreements. He reminded them of the simple 
+                   heart of Christianity: to believe that Jesus, the Son of God, became man for our salvation.</p>
 
-                   <p>This pattern can be the same for your life. God visits the earth on a daily basis. You might say 
-                   he never left! Every day he stands at the door of your heart and asks, “Can I come in?” 
-                   (Revelation 3:20). The Magi didn’t have to follow the star. They chose to follow the star. You have 
-                   the same choice to open the door to God.</p>
+                   <p>Similar to the first-century Christians, young people today can find themselves adrift. They may 
+                   have gotten out of the habit of going to Sunday Mass. They may feel disillusioned and doubt that 
+                   there is a place for them in the Church. Or perhaps their pursuit of career or family crowds out 
+                   time for God. Still, God loves them, and he is always ready to welcome them and embrace them. But 
+                   who will be his ambassadors?</p>
 
-                   <p>When the Magi saw Jesus’ divinity, they worshipped him. Today, while you are at Mass, let the 
-                   divinity of Christ move you to worship. Contemplate who Jesus is and all that he has done for you. 
-                   Kneel before him—baby in a manger or Savior on a cross—and let joy and gratitude fill you, just as 
-                   the Magi experienced.</p>
+                   <pMaybe it’s you. Every one of us can help, even if it’s in just a small way. You can point your 
+                   children or grandchildren toward Jesus by the way you love and care for your family. You can help 
+                   make arrangements for your children or grandchildren to attend Vacation Bible School. Maybe there’s 
+                   a teenager you know who needs a listening ear and a guiding voice. Even if you don’t have much 
+                   interaction with young people, you can still help. Never underestimate the power of intercessory 
+                   prayer.</p>
 				   
-				   <p>Finally, the Magi were changed by what they saw. We know they changed routes to avoid Herod. But 
-				   even more, imagine how hard it was for them to go home and return to “normal.” They had seen the 
-				   glory of God, and nothing would be the same again!</p>
+				   <p>Who knows? You just may be the one whose prayers help part the clouds of confusion and encourage 
+				   someone to take a step closer to Jesus!</p>
 				   
-				   <p>Your life can be changed by this very pattern: seeing and worshipping Jesus and receiving a new 
-				   insight from the Spirit will always improve the way you think, act, and relate to other people.</p>
-				   
-                   <p><strong><i>“Lord, I ask you for an epiphany today. Jesus, help me see you anew."</i></strong></p>
+                   <p><strong><i>“Lord, pour out your grace on all young people."</i></strong></p>
                     <p class="text-muted">&copy; Word Among Us - Mediation</p>
                 </div>
             </div>
@@ -718,8 +720,8 @@ by God’s grace has to be accessed; ‘inherited’ through human co-operation.
 
                         <div class="item-owl">
                             <div class="test-review">
-                                <img src="img/charles9.jpg" class="img-responsive" alt="Asst Parish Priest">
-                                <h6><strong>Asst Parish Priest <br>(+234**********)</strong></h6>
+                                <img src="img/eney.jpg" class="img-responsive" alt="Asst Parish Priest">
+                                <h6><strong>Asst Parish Priest <br>(+2348035107953)</strong></h6>
                             </div>
                         </div>
                         
