@@ -720,7 +720,7 @@ by God’s grace has to be accessed; ‘inherited’ through human co-operation.
 
                         <div class="item-owl">
                             <div class="test-review">
-                                <img src="img/eney.jpg" class="img-responsive" alt="Asst Parish Priest">
+                                <img src="img/eneyo.jpg" class="img-responsive" alt="Asst Parish Priest">
                                 <h6><strong>Asst Parish Priest <br>(+2348035107953)</strong></h6>
                             </div>
                         </div>
