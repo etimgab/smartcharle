@@ -53,6 +53,7 @@ function successful()
 
     <!-- Custom theme -->
     <link href="CSS/style.css" rel="stylesheet">
+	<link href="CSS/owl.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
@@ -131,43 +132,318 @@ marquee{
                 <div class="modal-header modal-about" style="background-color: black; color: white;">
                     <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                     <h4 class="modal-title modal-about text-center">Daily Mediation </h4>
-                    <h6 class="modal-title modal-about text-center"><i>(1 John 3:23)</i></h6>
+                    <h6 class="modal-title modal-about text-center"><i>(John 1:29)</i></h6>
                 </div>
                 <div class="modal-body modal-about">
-                    <p><h3>Saint Raymond of Penyafort, Priest (Optional Memorial</h3></p>
-                    <p><strong>We should believe in the name of his Son, Jesus Christ. (1 John 3:23)</strong></p><br>
+                    <p><h3>The Most Holy Name of Jesus (Optional Memorial)</h3></p>
+                    <p><strong>John the Baptist saw Jesus coming toward him. (John 1:29)</strong></p><br>
                     
-                   <p>In a recent study, researchers interviewed American Christian youth, both Catholic and 
-                   non-Catholic. The data indicated that although they called themselves Christians, many of the young 
-                   people didn’t really grasp the essential truths of Christianity. They believed that God exists, but 
-                   that he is far off and removed from their daily lives. They believed that God exists mainly to help 
-                   them to become “better people.” In short, their answers revealed great confusion about their 
-                   faith—almost like a cloud over their minds.</p>
+                   <p>It’s amazing how such a small instrument like a telescope can show us something millions of miles away. For the Moon and some planets, in fact, the view becomes so clear that you’re able to describe them in detail.</p>
 
-                   <p>The First Letter of John was written in a time of a similar lack of clarity. Christians from many 
-                   different backgrounds held different views about the identity of Jesus. Many disputed whether he 
-                   could be both fully human and fully divine. Some wanted to place more of an emphasis on Jesus’ 
-                   spiritual nature, hoping to avoid having to change the way they lived in this physical world. The 
-                   author of 1 John wrote this letter to address these disagreements. He reminded them of the simple 
-                   heart of Christianity: to believe that Jesus, the Son of God, became man for our salvation.</p>
+                   <p>John the Baptist seemed to have had a spiritual kind of telescope. From his mother’s womb, he recognized Jesus present within Mary. As a prophet living in the desert, he kept his focus on his mission to testify to the coming Messiah and to call people to repentance. Jesus was so impressed with John’s keen vision that he once said that “among those born of women there has been none greater than John the Baptist” (Matthew 11:11).</p>
 
-                   <p>Similar to the first-century Christians, young people today can find themselves adrift. They may 
-                   have gotten out of the habit of going to Sunday Mass. They may feel disillusioned and doubt that 
-                   there is a place for them in the Church. Or perhaps their pursuit of career or family crowds out 
-                   time for God. Still, God loves them, and he is always ready to welcome them and embrace them. But 
-                   who will be his ambassadors?</p>
+                   <p>Now, before we go thinking that John was so holy we could never hope to become as clear as he was, we should remember that he had quite a bit of help: the Holy Spirit. John even confessed that he didn’t recognize Jesus at first; it was only after the Spirit opened his eyes that he was able to say, “Now I have seen and testified that he is the Son of God” (John 1:34).</p>
 
-                   <pMaybe it’s you. Every one of us can help, even if it’s in just a small way. You can point your 
-                   children or grandchildren toward Jesus by the way you love and care for your family. You can help 
-                   make arrangements for your children or grandchildren to attend Vacation Bible School. Maybe there’s 
-                   a teenager you know who needs a listening ear and a guiding voice. Even if you don’t have much 
-                   interaction with young people, you can still help. Never underestimate the power of intercessory 
-                   prayer.</p>
+                   <p>So what do you think it would be like if you had a spiritual telescope? What kinds of things would you see?</p>
 				   
-				   <p>Who knows? You just may be the one whose prayers help part the clouds of confusion and encourage 
-				   someone to take a step closer to Jesus!</p>
+				   <p>You might notice one of your children being generous to one of his siblings. That’s Jesus at work. You might hear about a neighbor reaching out to another neighbor who has just lost her husband. That’s Jesus at work. Or you might sense a prompting in your own heart to offer to pray with a friend who is hurting. That, too, is Jesus at work.</p>
 				   
-                   <p><strong><i>“Lord, pour out your grace on all young people."</i></strong></p>
+				   <p>God is working everywhere. Jesus is always “coming toward” us with his grace and his blessing, inviting us to share that grace with the people around us (John 1:29). So ask the Holy Spirit to open your eyes today so that you can see Jesus. You might be surprised by what he shows you. And don’t worry if you don’t see anything right away. Simply asking the Spirit for this grace is itself a sign that Jesus is at work in you.</p>
+				   
+                   <p><strong><i>“Holy Spirit, help me to see Jesus and to share him with the people around me.”</i></strong></p>
+                    <p class="text-muted">&copy; Word Among Us - Mediation</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        $('#myModal').modal('');
+    </script>
+</div><!--\.Modal -->
+
+
+<div class="tooltip-content">
+    <div class="modal fade features-modal modal-about" id="myModal90" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-lg modal-about">
+            <div class="modal-content modal-about">
+                <div class="modal-header modal-about" style="background-color: crimson; color: white;">
+                    <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
+                    <h4 class="modal-title modal-about text-center">Parish Calendar</h4>
+                </div>
+                <div class="modal-body modal-about">
+                    <h1 class="text-center">Coming up soon</h1>
+                    <!--<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%236633ff&amp;src=hbf6qr81i0s41qlst5ikkqkm6g%40group.calendar.google.com&amp;color=%235F6B02&amp;ctz=Europe%2FLondon" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>-->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        $('#myModal').modal('');
+    </script>
+</div><!--\.Modal -->
+
+<div class="tooltip-content">
+    <div class="modal fade features-modal modal-about" id="myModal1" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-lg modal-about">
+            <div class="modal-content modal-about">
+                <div class="modal-header modal-about" style="background-color: #222222; color: white;">
+                    <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
+                    <h4 class="modal-title modal-about text-center">Parish Catechists</h4>
+                </div>
+                <div class="modal-body modal-about">
+                    <ol>
+                        <li><strong>Late Sir. Celestine Essien Offiong (KSJI)</strong> - <i>Station Catechist</i></li>
+                        <li><strong>Mr. Boniface Essien</strong> - <i>(1979 - 1984)</i></li>
+                        <li><strong>Mr. Justine Udom</strong> - <i>(1985 - 2000)</i></li>
+                        <li><strong>Mr. Joseph G. Udofia</strong> - <i>(2000 - Till Date)</i></li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        $('#myModal').modal('');
+    </script>
+</div><!--\.Modal -->
+
+<div class="tooltip-content">
+    <div class="modal fade features-modal modal-about" id="myModal2" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-lg modal-about">
+            <div class="modal-content modal-about">
+                <div class="modal-header modal-about" style="background-color: #222222; color: white;">
+                    <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
+                    <h4 class="modal-title modal-about text-center">Indigenous Priests from the Parish and Ordination Dates</h4>
+                </div>
+                <div class="modal-body modal-about">
+                    <ol>
+                        <li><strong>Rev. Sister Immaculata Ukpong Offiong</strong> - <i>December 20, 1953</i></li>
+                        <li><strong>Late Rev. Sister Elizabeth Ukpong Offiong</strong> - <i>December 16, 1962</i></li>
+                        <li><strong>Late Rev. Fr. Michael Adim Ukpong Offiong (<i>First Indigenous Efik Priest</i>)</strong> - <i>August 6, 1972</i></li>
+                        <li><strong>Rev. Sister Mildred Okon Essien</strong> - <i>August 15, 1983</i></li>
+                        <li><strong>Rev. Fr. Emmanuel Okon Andinam</strong> - <i>December 10, 1977</i></li>
+                        <li><strong>Rev. Fr. Emmanuel Offiong</strong> - <i>August 16, 2003</i></li>
+                        <li><strong>Rev. Fr. Francis Adim Offiong</strong> - <i>November 27, 2010</i></li>
+                        <li><strong>Rev. Fr. Gabriel Okem Bulem</strong> - <i>December 30, 2015</i></li>
+                        <li><strong>Rev. Fr. Cyril Adim Ukpong Offiong</strong> - <i>October 1, 2016</i></li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        $('#myModal').modal('');
+    </script>
+</div><!--\.Modal -->
+
+<div class="tooltip-content">
+    <div class="modal fade features-modal modal-about" id="myModal3" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-lg modal-about">
+            <div class="modal-content modal-about">
+                <div class="modal-header modal-about" style="background-color: #222222; color: white;">
+                    <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
+                    <h4 class="modal-title modal-about text-center">Past Laity Council Presidents</h4>
+                </div>
+                <div class="modal-body modal-about">
+                    <ol>
+                        <li><strong>Late Sir. Chief Frank U. A. Offiong</strong> - <i>(Inception - 1960)</i></li>
+                        <li><strong>Late Mr. Dominic Akpan</strong> - <i>(1960 - 1963)</i></li>
+                        <li><strong>Late Mr. J. Ironbar</strong> - <i>(1963 - 1967)</i></li>
+                        <li><strong>Late Mr. Emmanuel Ekpo</strong> - <i>(1967 - 1970)</i></li>
+                        <li><strong>Late Mr. Anthony Offiong Etim</strong> - <i>(1970 - 1973)</i></li>
+                        <li><strong>Late Mr. Amos Okon Essien</strong> - <i>(1974 - 1979)</i></li>
+                        <li><strong>Late Chief E. W. Ekpong</strong> - <i>(1980 - 1985)</i></li>
+                        <li><strong>Late Sir. Celestine Offiong</strong> - <i>(1986 - 1990)</i></li>
+                        <li><strong>Col. Ferdinard Ekpo-mbang (KSJI)</strong> - <i>(1991 - 1993)</i></li>
+                        <li><strong>Sir. William A. Archibong (KSS)</strong> - <i>(1994 - 1999)</i></li>
+                        <li><strong>Eti-Ete Donatus B. Etim (KSM)</strong> - <i>(2000 - 2005)</i></li>
+                        <li><strong>Mr. Patrick Coco-Bassey</strong> - <i>(2005 - 2011)</i></li>
+                        <li><strong>Barr. Michael Cobham (KSM)</strong> - <i>(2011 - 2014)</i></li>
+                        <li><strong>Eti-Eka Grand Medalist (Mrs) Lawrencia E. Ita (JP))</strong> - <i>(2014 - 2018)</i></li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        $('#myModal').modal('');
+    </script>
+</div><!--\.Modal -->
+
+<div class="tooltip-content">
+    <div class="modal fade features-modal modal-about" id="myModal4" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-lg modal-about">
+            <div class="modal-content modal-about">
+                <div class="modal-header modal-about" style="background-color: #222222; color: white;">
+                    <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true"style="color: white;">&times;</button>
+                    <h4 class="modal-title modal-about text-center">Current Laity Council Members</h4>
+                </div>
+                <div class="modal-body modal-about">
+                    <ol>
+                        <li><strong>Barr. Paul Asu</strong> - <i>President</i></li>
+                        <li><strong>Eti-Eka (Mrs) Mercy Etim</strong> - <i>Vice President</i></li>
+                        <li><strong>Sir. Matthew Odey</strong> - <i>Secretary</i></li>
+                        <li><strong>Engr. Peter Okopi</strong> - <i>Assistant Secretary</i></li>
+                        <li><strong>Mrs. Kate Amaga</strong> - <i>Treasurer</i></li>
+                        <li><strong>Mr. Dominic Ekong</strong> - <i>Financial Secretary</i></li>
+                        <li><strong>Anthony Ekpo Bassey</strong> - <i>Publicity Secretary</i></li>
+                        <li><strong>Miss Gedoni Edu</strong> - <i>Welfare Officer I</i></li>
+                        <li><strong>Mrs Rita Ebong</strong> - <i>Welfare Officer II</i></li>
+                        <li><strong>Joseph James</strong> - <i>Provost</i></li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        $('#myModal').modal('');
+    </script>
+</div><!--\.Modal -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="x-ua-compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Catholic Church">
+    <meta name="description" content="Saint+Charles">
+    <meta name="description" content="Catholic+Church+Cross+River+State">
+    <meta name="description" content="Charles+Lwanga+Parish">
+    <meta name="description" content="St. Charles+L'wanga+Parish">
+    <meta name="description" content="St.&Charles&L'wanga&Parish">
+    
+    <meta name="description" content="St. Charles L'wanga Parish">
+    <meta name="author" content="Gabriel Etim">
+
+
+    <title>St. Charles L'wanga Parish</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="Boot/boot/css/bootstrap.min.css" rel="stylesheet">
+    <link href="Boot/boot1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+    <!-- Custom theme -->
+    <link href="CSS/style.css" rel="stylesheet">
+	<link href="CSS/owl.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+</head>
+<body data-spy="scroll" id="index-top">
+<style>
+marquee{
+    width: 100%;
+    background-color:black;
+    color: white;
+    }
+</style>
+<!-- Section for navigation bar -->
+<nav id="churchNav" class="navbar navbar-inverse navbar-fixed-top" style="background-color: #122b40">
+    <div class="container-fluid">
+        <!-- Services grouped for better mobile view -->
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#church-menu" style="background-color: #122b40">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand page-scroll" href="#index-top">St. Charles L'wanga Parish</a>
+        </div>
+
+        <!--Organise navigation links for toggling -->
+        <div class="collapse navbar-collapse" id="church-menu">
+            <ul class="nav navbar-nav navbar-right">
+                <li class="active">
+                    <a href="index.php">Home</a>
+                </li>
+                <li>
+                    <a href="#about">About Us</a>
+                </li>
+                <li>
+                    <a href="#" data-toggle="modal" data-target="#myModaldaily">Daily Meditation</a>
+                </li>
+                <li>
+                    <a href="lib-orgin.php">Online Library</a>
+                </li>
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">Parish Records<span class="caret"></span> </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="#" data-toggle="modal" data-target="#myModal1">Parish Catechists</a> </li>
+                        <li><a href="#" data-toggle="modal" data-target="#myModal2">Indigenous Priests & Religious from the Parish</a> </li>
+                        <li><a href="#" data-toggle="modal" data-target="#myModal3">Past Laity Council Presidents</a> </li>
+                        <li><a href="#" data-toggle="modal" data-target="#myModal4">Current Laity Council Members</a> </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#" data-toggle="modal" data-target="#myModal90">Calendar</a>
+                </li>
+                <li>
+                    <a href="#contact-us">Contact Us</a>
+                </li>
+            </ul>
+            <form class="navbar-form navbar-right" action="#" method="post" id="join-us">
+                <div class="form-group">
+                    <input type="email" placeholder="Newsletter Email" class="form-control" id="inputEmail" name="Input_Email" value="">
+                </div>
+                <button type="submit" class="btn btn-success" value="join us" id="saveForm" name="saveForm">Join Us</button>
+            </form>
+        </div>
+    </div>
+</nav>
+
+
+<div class="tooltip-content">
+    <div class="modal fade features-modal modal-about" id="myModaldaily" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-lg modal-about">
+            <div class="modal-content modal-about">
+                <div class="modal-header modal-about" style="background-color: black; color: white;">
+                    <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
+                    <h4 class="modal-title modal-about text-center">Daily Mediation </h4>
+                    <h6 class="modal-title modal-about text-center"><i>(Mark 6:42)</i></h6>
+                </div>
+                <div class="modal-body modal-about">
+                    <p><h3>Christmas Weekday</h3></p>
+                    <p><strong>They all ate and were satisfied. (Mark 6:42)</strong></p><br>
+                    
+                   <p>Has anyone ever surprised you with a gift of food? Maybe it was dinner that a neighbor brought 
+                   over when a family member passed away. Maybe someone at work handed you a cup of gourmet coffee when 
+                   you were laboring over a tight deadline. Or maybe someone gave you a gift card to your favorite 
+                   restaurant for your birthday.</p>
+
+                   <p>The miracle of the feeding of the five thousand was also an unexpected gift. The people who had 
+                   followed Jesus into a deserted place weren’t expecting him or his disciples to give them dinner. No 
+                   one asked him to perform this miracle. He just chose to do it out of love for these people who had 
+                   come so far to see him. Jesus fed them because he wanted to spend more time with them rather than 
+                   have them leave early to find food in the surrounding villages.</p>
+
+                   <p>What makes Jesus’ gesture even more striking is that he was grieving the execution of John the 
+                   Baptist at the time. He had initially wanted some time alone but changed his plans when he saw the 
+                   crowd of people eager to hear him teach. Mark tells us that Jesus’ “heart was moved with pity,” and 
+                   he decided to put aside his grief and care for the people (Mark 6:34).</p>
+
+                   <p>This says so much about the heart of Jesus. First, he wants to spend time with us. You could say 
+                   that he even enjoys his time with us. He will never “dismiss” us when we go to him (Mark 6:36). 
+                   Second, we can trust that Jesus will give us the gifts we need, even when we least expect it. Even 
+                   when it never occurred to us to ask, he will pour out his grace and his peace. We just have to make 
+                   time, like those in the crowd, to come and sit with him.</p>
+				   
+				   <p>Jesus’ greatest gift to us is the Bread of Life in the Eucharist. Even better, we don’t have to 
+				   travel far to receive this heavenly food. He comes to us on every altar at every Mass and feeds us. 
+				   And just like the people who ate and were satisfied, we, too, can be filled to overflowing every time 
+				   we share a meal with Jesus.</p>			   
+				   
+				   
+                    <p><strong><i>“Jesus, thank you for spending time with me and for feeding me in the Eucharist.”</i></strong></p>
                     <p class="text-muted">&copy; Word Among Us - Mediation</p>
                 </div>
             </div>
@@ -448,7 +724,8 @@ marquee{
                             <p><i>Original sin isn't a personal sin of the unborn, but a sin transmitted from 
                             generation to generation by birth. All men and women were born with original sin, and only 
                             Baptism can be regarded as a vaccine against sin.</i></p>
-                            <p class="text-center"><strong>Meet with catechist</strong>&nbsp;&nbsp;<a href="mailto:catechist@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x tooltip-viewport-bottom" title="Email Catechist"></i></a></p>
+                            <p class="text-center"><strong>Infant</strong> - 1st Saturday of every month.</p>
+                            <p class="text-center"><strong>Adult</strong> - Meet Catechist or Priest.</p>
                         </div>
                     </div>
                 </div>
@@ -657,7 +934,7 @@ by God’s grace has to be accessed; ‘inherited’ through human co-operation.
                                             <h4 class="modal-title modal-about text-center">About St. Charles L'wanga & Companions</h4>
                                         </div>
                                         <div class="modal-body modal-about">
-                                            <img src="img/saint-charles1.jpg" alt="St. Charles L'wanga Parish" class="img-circle img-responsive center-block">
+                                            <img src="img/charles.jpg" alt="St. Charles L'wanga Parish" class="img-circle img-responsive center-block">
                                             <p>One of 22 Ugandan martyrs, Charles Lwanga is the patron of youth and
                                                 Catholic action in most of tropical Africa. He protected his fellow
                                                 pages, aged 13 to 30, from the homosexual demands of the Bagandan ruler,
@@ -930,7 +1207,7 @@ by God’s grace has to be accessed; ‘inherited’ through human co-operation.
             <div class="row">
                 <div class="col-lg-2 col-md-6 mask">
                     <img class="img-rounded img-responsive" src="img/Marguerite.jpg" alt="Marguerite Bourgeoys" width="140" height="140">
-                    <h5><strong>Marguerite Bourgeoys - (1620 - 1700)</strong></h5>
+                    <h5><strong>Marguerite Bourgeoys <br> (1620 - 1700)</strong></h5>
                 </div>
                 <div class="col-lg-10 col-md-6">
                     <p>Growing up in Troyes, France, Marguerite formed a special relationship with Our Lady. She was 
@@ -952,7 +1229,7 @@ by God’s grace has to be accessed; ‘inherited’ through human co-operation.
     <!-- /.Mass schedule and Associations -->
     <div class="col-lg-3 col-md-6 content">
         <div class="row">
-            <div class="col-lg-12 col-md-6">
+                <div class="col-lg-12 col-md-6">
                 <div class="text-center">
                     <h4 class="well well-sm">Mass Schedule</h4>
                     <img src="img/eucharist1.jpg" class="img-rounded img-responsive" alt="Eucharist" width="" height="200">
@@ -1135,7 +1412,546 @@ by God’s grace has to be accessed; ‘inherited’ through human co-operation.
                     </div>
                 </div>
             </div><!-- /.End of Mass plans -->
+            
+            <div class="row">
+            <div class="col-lg-12 col-md-6">
+                <div class="text-center">
+                    <h3 class="well well-sm">Organization</h3>
+                </div>
+            </div>
+
+            <div class="col-lg-12 col-md-6 text-center">
+                <div class="panel-group" id="accordion2">
+                    <div class="panel panel-primary">
+                        <div class="panel-heading">
+                            <h3 class="panel-title">
+                                <a data-toggle="collapse" data-parent="#accordion2" href="#cmo">Catholic Men Organisation</a>
+                            </h3>
+                        </div>
+                        <div id="cmo" class="panel-collapse collapse in">
+                            <dl>
+                                <dt>Date</dt>
+                                <dd>3rd Sunday of every month</dd>
+                                <dt>Time</dt>
+                                <dd>After 6:30am Mass</dd>
+                                <dt>Contact</dt>
+                                <dd><a href="mailto:cmo@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                            </dl>
+                        </div>
+                    </div>
+
+                    <div class="panel panel-primary">
+                        <div class="panel-heading">
+                            <h3 class="panel-title">
+                                <a data-toggle="collapse" data-parent="#accordion2" href="#cwo">Catholic Women Organisation</a>
+                            </h3>
+                        </div>
+                        <div id="cwo" class="panel-collapse collapse">
+                            <dl>
+                                <dt>Date</dt>
+                                <dd>Last Sunday of every month</dd>
+                                <dt>Time</dt>
+                                <dd>After 6:30am Mass</dd>
+                                <dt>Contact</dt>
+                                <dd><a href="mailto:cwo@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                            </dl>
+                        </div>
+                    </div>
+
+                    <div class="panel panel-primary">
+                        <div class="panel-heading">
+                            <h3 class="panel-title">
+                                <a data-toggle="collapse" data-parent="#accordion2" href="#cyon">CYON</a>
+                            </h3>
+                        </div>
+                        <div id="cyon" class="panel-collapse collapse">
+                            <dl>
+                                <dt>Date</dt>
+                                <dd>Last Sunday of every month</dd>
+                                <dt>Time</dt>
+                                <dd>After 6:30am Mass</dd>
+                                <dt>Contact</dt>
+                                <dd><a href="mailto:cyon@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                            </dl>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
+
+        <div class="row">
+            <div class="col-lg-12 col-md-6">
+                <div class="text-center">
+                    <h3 class="well well-sm">Parish Councils</h3>
+                </div>
+            </div>
+
+            <div class="col-lg-12 col-md-6 text-center">
+                <div class="panel-group" id="accordion3">
+                    <div class="panel panel-primary">
+                        <div class="panel-heading">
+                            <h3 class="panel-title">
+                                <a data-toggle="collapse" data-parent="#accordion3" href="#pastorial-council">Pastoral council</a>
+                            </h3>
+                        </div>
+                        <div id="pastorial-council" class="panel-collapse collapse in">
+                            <dl>
+                                <dt>Date</dt>
+                                <dd>1st Sunday of every month</dd>
+                                <dt>Time</dt>
+                                <dd>After 6:30am Mass</dd>
+                                <dt>Contact</dt>
+                                <dd><a href="mailto:pastoral.council@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                            </dl>
+                        </div>
+                    </div>
+
+                    <div class="panel panel-primary">
+                        <div class="panel-heading">
+                            <h3 class="panel-title">
+                                <a data-toggle="collapse" data-parent="#accordion3" href="#laity">Laity Council</a>
+                            </h3>
+                        </div>
+                        <div id="laity" class="panel-collapse collapse">
+                            <dl>
+                                <dt>Date</dt>
+                                <dd>1st Sunday of every month</dd>
+                                <dt>Time</dt>
+                                <dd>After 6:30am Mass</dd>
+                                <dt>Contact</dt>
+                                <dd><a href="mailto:laity.council@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                            </dl>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12 col-md-6">
+                <div class="text-center">
+                    <h3 class="well well-sm">Associations</h3>
+                </div>
+            </div>
+
+            <div class="col-lg-12 col-md-6 text-center">
+                <div class="panel-group" id="accordion1">
+                    <div class="panel panel-primary">
+                        <div class="panel-heading">
+                            <h3 class="panel-title">
+                                <a data-toggle="collapse" data-parent="#accordion1" href="#holy-family">Holy Family</a>
+                            </h3>
+                        </div>
+                        <div id="holy-family" class="panel-collapse collapse">
+                            <dl>
+                                <dt>Date</dt>
+                                <dd>2nd Sunday of every month</dd>
+                                <dt>Time</dt>
+                                <dd>After 6:30am Mass</dd>
+                                <dt>Contact</dt>
+                                <dd><a href="mailto:holy.family@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                            </dl>
+                        </div>
+                    </div>
+
+                    <div class="panel panel-primary">
+                        <div class="panel-heading">
+                            <h3 class="panel-title">
+                                <a data-toggle="collapse" data-parent="#accordion1" href="#st-anthony">Saint Anthony</a>
+                            </h3>
+                        </div>
+                        <div id="st-anthony" class="panel-collapse collapse">
+                            <dl>
+                                <dt>Date</dt>
+                                <dd>Tuesdays</dd>
+                                <dt>Time</dt>
+                                <dd>5pm</dd>
+                                <dt>Contact</dt>
+                                <dd><a href="mailto:stanthony@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                            </dl>
+                        </div>
+                    </div>
+
+                    <div class="panel panel-primary">
+                        <div class="panel-heading">
+                            <h3 class="panel-title">
+                                <a data-toggle="collapse" data-parent="#accordion1" href="#st-jude">Saint Jude</a>
+                            </h3>
+                        </div>
+                        <div id="st-jude" class="panel-collapse collapse">
+                            <dl>
+                                <dt>Date</dt>
+                                <dd>Wednesdays</dd>
+                                <dt>Time</dt>
+                                <dd>4:30pm</dd>
+                                <dt>Contact</dt>
+                                <dd><a href="mailto:stjude@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                            </dl>
+                        </div>
+                    </div>
+
+                    <div class="panel panel-primary">
+                        <div class="panel-heading">
+                            <h3 class="panel-title">
+                                <a data-toggle="collapse" data-parent="#accordion1" href="#cbiu">CBIU</a>
+                            </h3>
+                        </div>
+                        <div id="cbiu" class="panel-collapse collapse">
+                            <dl>
+                                <dt>Date</dt>
+                                <dd>Sundays & Thursdays</dd>
+                                <dt>Time</dt>
+                                <dd>4 - 6pm & 5 - 7pm respectively</dd>
+                                <dt>Contact</dt>
+                                <dd><a href="mailto:cbiu@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                            </dl>
+                        </div>
+                    </div>
+
+                    <div class="panel panel-primary">
+                        <div class="panel-heading">
+                            <h3 class="panel-title">
+                                <a data-toggle="collapse" data-parent="#accordion1" href="#mass-servers">Mass Servers</a>
+                            </h3>
+                        </div>
+                        <div id="mass-servers" class="panel-collapse collapse">
+                            <dl>
+                                <dt>Date</dt>
+                                <dd>Saturdays</dd>
+                                <dt>Time</dt>
+                                <dd>5pm</dd>
+                                <dt>Contact</dt>
+                                <dd><a href="mailto:mass.servers@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                            </dl>
+                        </div>
+                    </div>
+
+                    <div class="panel panel-primary">
+                        <div class="panel-heading">
+                            <h3 class="panel-title">
+                                <a data-toggle="collapse" data-parent="#accordion1" href="#nurses-guilds">Nurses Guild</a>
+                            </h3>
+                        </div>
+                        <div id="nurses-guilds" class="panel-collapse collapse">
+                            <dl>
+                                <dt>Date</dt>
+                                <dd>3rd Sunday of every month</dd>
+                                <dt>Time</dt>
+                                <dd>6pm</dd>
+                                <dt>Contact</dt>
+                                <dd><a href="mailto:nurses.guild@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                            </dl>
+                        </div>
+                    </div>
+
+                    <div class="panel panel-primary">
+                        <div class="panel-heading">
+                            <h3 class="panel-title">
+                                <a data-toggle="collapse" data-parent="#accordion1" href="#lay-readers">Lay Readers</a>
+                            </h3>
+                        </div>
+                        <div id="lay-readers" class="panel-collapse collapse">
+                            <dl>
+                                <dt>Date</dt>
+                                <dd>Saturdays</dd>
+                                <dt>Time</dt>
+                                <dd>4:30pm</dd>
+                                <dt>Contact</dt>
+                                <dd><a href="mailto:lay.readers@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                            </dl>
+                        </div>
+                    </div>
+
+                    <div class="panel panel-primary">
+                        <div class="panel-heading">
+                            <h3 class="panel-title">
+                                <a data-toggle="collapse" data-parent="#accordion1" href="#ccrn">Charismatic</a>
+                            </h3>
+                        </div>
+                        <div id="ccrn" class="panel-collapse collapse">
+                            <dl>
+                                <dt>Date</dt>
+                                <dd>Mondays & Sunday</dd>
+                                <dt>Time</dt>
+                                <dd>6pm & 4pm respectively</dd>
+                                <dt>Contact</dt>
+                                <dd><a href="mailto:charismatic@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                            </dl>
+                        </div>
+                    </div>
+
+                    <div class="panel panel-primary">
+                        <div class="panel-heading">
+                            <h3 class="panel-title">
+                                <a data-toggle="collapse" data-parent="#accordion1" href="#choir-association">Choir Association</a>
+                            </h3>
+                        </div>
+                        <div id="choir-association" class="panel-collapse collapse">
+                            <dl>
+                                <dt>Date</dt>
+                                <dd>1st Friday of every month</dd>
+                                <dt>Time</dt>
+                                <dd>5pm</dd>
+                                <dt>Contact</dt>
+                                <dd><a href="mailto:choir.association@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                            </dl>
+                        </div>
+                    </div>
+
+                    <div class="panel panel-primary">
+                        <div class="panel-heading">
+                            <h3 class="panel-title">
+                                <a data-toggle="collapse" data-parent="#accordion1" href="#sacred-heart">Sacred Heart</a>
+                            </h3>
+                        </div>
+                        <div id="sacred-heart" class="panel-collapse collapse">
+                            <dl>
+                                <dt>Date</dt>
+                                <dd>Thursdays</dd>
+                                <dt>Time</dt>
+                                <dd>4:30pm</dd>
+                                <dt>Contact</dt>
+                                <dd><a href="mailto:sacred.heart@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                            </dl>
+                        </div>
+                    </div>
+
+                    <div class="panel panel-primary">
+                        <div class="panel-heading">
+                            <h3 class="panel-title">
+                                <a data-toggle="collapse" data-parent="#accordion1" href="#ministers-of-hospitality">Ministers of Hospitality</a>
+                            </h3>
+                        </div>
+                        <div id="ministers-of-hospitality" class="panel-collapse collapse">
+                            <dl>
+                                <dt>Date</dt>
+                                <dd>3rd Sunday of every month</dd>
+                                <dt>Time</dt>
+                                <dd>After 9:30am Mass</dd>
+                                <dt>Contact</dt>
+                                <dd><a href="mailto:ministers.hospitality@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                            </dl>
+                        </div>
+                    </div>
+
+                    <div class="panel panel-primary">
+                        <div class="panel-heading">
+                            <h3 class="panel-title">
+                                <a data-toggle="collapse" data-parent="#accordion1" href="#st-vincent-de-paul">St. Vincent De Paul</a>
+                            </h3>
+                        </div>
+                        <div id="st-vincent-de-paul" class="panel-collapse collapse">
+                            <dl>
+                                <dt>Date</dt>
+                                <dd>Mondays</dd>
+                                <dt>Time</dt>
+                                <dd>5pm</dd>
+                                <dt>Contact</dt>
+                                <dd><a href="mailto:vincent_de_paul@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                            </dl>
+                        </div>
+                    </div>
+
+                    <div class="panel panel-primary">
+                        <div class="panel-heading">
+                            <h3 class="panel-title">
+                                <a data-toggle="collapse" data-parent="#accordion1" href="#mary-league">Mary League</a>
+                            </h3>
+                        </div>
+                        <div id="mary-league" class="panel-collapse collapse">
+                            <dl>
+                                <dt>Date</dt>
+                                <dd>2nd Sunday of every month</dd>
+                                <dt>Time</dt>
+                                <dd>After 6:30am Mass</dd>
+                                <dt>Contact</dt>
+                                <dd><a href="mailto:mary.league@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                            </dl>
+                        </div>
+                    </div>
+
+                    <div class="panel panel-primary">
+                        <div class="panel-heading">
+                            <h3 class="panel-title">
+                                <a data-toggle="collapse" data-parent="#accordion1" href="#legion-of-mary">Legion of Mary</a>
+                            </h3>
+                        </div>
+                        <div id="legion-of-mary" class="panel-collapse collapse">
+                            <dl>
+                                <dt>Date</dt>
+                                <dd>Saturdays and Sundays</dd>
+                                <dt>Time</dt>
+                                <dd>4pm & after 6:30am Mass respectively</dd>
+                                <dt>Contact</dt>
+                                <dd><a href="mailto:legion_of_mary@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                            </dl>
+                        </div>
+                    </div>
+
+                    <div class="panel panel-primary">
+                        <div class="panel-heading">
+                            <h3 class="panel-title">
+                                <a data-toggle="collapse" data-parent="#accordion1" href="#fatima">Fatima</a>
+                            </h3>
+                        </div>
+                        <div id="fatima" class="panel-collapse collapse">
+                            <dl>
+                                <dt>Date</dt>
+                                <dd>Mondays & Wednesdays</dd>
+                                <dt>Time</dt>
+                                <dd>6am - 12 noon</dd>
+                                <dt>Contact</dt>
+                                <dd><a href="mailto:fatima@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                            </dl>
+                        </div>
+                    </div>
+
+                    <div class="panel panel-primary">
+                        <div class="panel-heading">
+                            <h3 class="panel-title">
+                                <a data-toggle="collapse" data-parent="#accordion1" href="#purgatorain-society">Purgatorain Society</a>
+                            </h3>
+                        </div>
+                        <div id="purgatorain-society" class="panel-collapse collapse">
+                            <dl>
+                                <dt>Date</dt>
+                                <dd>Mondays</dd>
+                                <dt>Time</dt>
+                                <dd>5 - 6pm</dd>
+                                <dt>Contact</dt>
+                                <dd><a href="mailto:purgatorain.society@stchaleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                            </dl>
+                        </div>
+                    </div>
+
+                    <div class="panel panel-primary">
+                        <div class="panel-heading">
+                            <h3 class="panel-title">
+                                <a data-toggle="collapse" data-parent="#accordion1" href="#amsp">A.M.S.P.</a>
+                            </h3>
+                        </div>
+                        <div id="amsp" class="panel-collapse collapse">
+                            <dl>
+                                <dt>Date</dt>
+                                <dd>2nd Thursday of every month</dd>
+                                <dt>Time</dt>
+                                <dd>5pm</dd>
+                                <dt>Contact</dt>
+                                <dd><a href="mailto:amsp@stcharleslwanaga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                            </dl>
+                        </div>
+                    </div>
+
+                    <div class="panel panel-primary">
+                        <div class="panel-heading">
+                            <h3 class="panel-title">
+                                <a data-toggle="collapse" data-parent="#accordion1" href="#st-monica">Saint Monica</a>
+                            </h3>
+                        </div>
+                        <div id="st-monica" class="panel-collapse collapse">
+                            <dl>
+                                <dt>Date</dt>
+                                <dd>3rd Sunday of every month</dd>
+                                <dt>Time</dt>
+                                <dd>After 6:30am Mass</dd>
+                                <dt>Contact</dt>
+                                <dd><a href="mailto:stmonica@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                            </dl>
+                        </div>
+                    </div>
+
+                    <div class="panel panel-primary">
+                        <div class="panel-heading">
+                            <h3 class="panel-title">
+                                <a data-toggle="collapse" data-parent="#accordion1" href="#st-theresa">Saint Theresa</a>
+                            </h3>
+                        </div>
+                        <div id="st-theresa" class="panel-collapse collapse">
+                            <dl>
+                                <dt>Date</dt>
+                                <dd>Mondays</dd>
+                                <dt>Time</dt>
+                                <dd>5pm</dd>
+                                <dt>Contact</dt>
+                                <dd><a href="mailto:st_theresa@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                            </dl>
+                        </div>
+                    </div>
+
+                    <div class="panel panel-primary">
+                        <div class="panel-heading">
+                            <h3 class="panel-title">
+                                <a data-toggle="collapse" data-parent="#accordion1" href="#st-mary">Saint Mary</a>
+                            </h3>
+                        </div>
+                        <div id="st-mary" class="panel-collapse collapse">
+                            <dl>
+                                <dt>Date</dt>
+                                <dd>2nd Sunday of every month</dd>
+                                <dt>Time</dt>
+                                <dd>Unknown yet</dd>
+                                <dt>Contact</dt>
+                                <dd><a href="mailto:stmary@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                            </dl>
+                        </div>
+                    </div>
+
+                    <div class="panel panel-primary">
+                        <div class="panel-heading">
+                            <h3 class="panel-title">
+                                <a data-toggle="collapse" data-parent="#accordion1" href="#divine-mercy">Divine Mercy</a>
+                            </h3>
+                        </div>
+                        <div id="divine-mercy" class="panel-collapse collapse">
+                            <dl>
+                                <dt>Date</dt>
+                                <dd>Tuesdays, Thursdays & Fridays</dd>
+                                <dt>Time</dt>
+                                <dd>3pm</dd>
+                                <dt>Contact</dt>
+                                <dd><a href="mailto:divine_mercy@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                            </dl>
+                        </div>
+                    </div>
+
+                    <div class="panel panel-primary">
+                        <div class="panel-heading">
+                            <h3 class="panel-title">
+                                <a data-toggle="collapse" data-parent="#accordion1" href="#friends-of-st-patrick">Friends of Saint Patrick</a>
+                            </h3>
+                        </div>
+                        <div id="friends-of-st-patrick" class="panel-collapse collapse">
+                            <dl>
+                                <dt>Date</dt>
+                                <dd>2nd Tuesday of every month</dd>
+                                <dt>Time</dt>
+                                <dd>5pm</dd>
+                                <dt>Contact</dt>
+                                <dd><a href="mailto:friends.of.st.patrick@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                            </dl>
+                        </div>
+                    </div>
+
+                    <div class="panel panel-primary">
+                        <div class="panel-heading">
+                            <h3 class="panel-title">
+                                <a data-toggle="collapse" data-parent="#accordion1" href="#precious-blood">Precious Blood</a>
+                            </h3>
+                        </div>
+                        <div id="precious-blood" class="panel-collapse collapse">
+                            <dl>
+                                <dt>Date</dt>
+                                <dd>Thursdays</dd>
+                                <dt>Time</dt>
+                                <dd>11pm - 3am</dd>
+                                <dt>Contact</dt>
+                                <dd><a href="mailto:precious.blood@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
+                            </dl>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div><!-- /.End of Parish Associations -->
+    </div>
         
         
         <div class="tooltip-content">
@@ -2253,544 +3069,7 @@ we who first hoped in Christ.
         </div><!--\.Modal -->
         
 
-        <div class="row">
-            <div class="col-lg-12 col-md-6">
-                <div class="text-center">
-                    <h3 class="well well-sm">Organization</h3>
-                </div>
-            </div>
-
-            <div class="col-lg-12 col-md-6 text-center">
-                <div class="panel-group" id="accordion2">
-                    <div class="panel panel-primary">
-                        <div class="panel-heading">
-                            <h3 class="panel-title">
-                                <a data-toggle="collapse" data-parent="#accordion2" href="#cmo">Catholic Men Organisation</a>
-                            </h3>
-                        </div>
-                        <div id="cmo" class="panel-collapse collapse in">
-                            <dl>
-                                <dt>Date</dt>
-                                <dd>3rd Sunday of every month</dd>
-                                <dt>Time</dt>
-                                <dd>After 6:30am Mass</dd>
-                                <dt>Contact</dt>
-                                <dd><a href="mailto:cmo@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
-                            </dl>
-                        </div>
-                    </div>
-
-                    <div class="panel panel-primary">
-                        <div class="panel-heading">
-                            <h3 class="panel-title">
-                                <a data-toggle="collapse" data-parent="#accordion2" href="#cwo">Catholic Women Organisation</a>
-                            </h3>
-                        </div>
-                        <div id="cwo" class="panel-collapse collapse">
-                            <dl>
-                                <dt>Date</dt>
-                                <dd>Last Sunday of every month</dd>
-                                <dt>Time</dt>
-                                <dd>After 6:30am Mass</dd>
-                                <dt>Contact</dt>
-                                <dd><a href="mailto:cwo@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
-                            </dl>
-                        </div>
-                    </div>
-
-                    <div class="panel panel-primary">
-                        <div class="panel-heading">
-                            <h3 class="panel-title">
-                                <a data-toggle="collapse" data-parent="#accordion2" href="#cyon">CYON</a>
-                            </h3>
-                        </div>
-                        <div id="cyon" class="panel-collapse collapse">
-                            <dl>
-                                <dt>Date</dt>
-                                <dd>Last Sunday of every month</dd>
-                                <dt>Time</dt>
-                                <dd>After 6:30am Mass</dd>
-                                <dt>Contact</dt>
-                                <dd><a href="mailto:cyon@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
-                            </dl>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="row">
-            <div class="col-lg-12 col-md-6">
-                <div class="text-center">
-                    <h3 class="well well-sm">Parish Councils</h3>
-                </div>
-            </div>
-
-            <div class="col-lg-12 col-md-6 text-center">
-                <div class="panel-group" id="accordion3">
-                    <div class="panel panel-primary">
-                        <div class="panel-heading">
-                            <h3 class="panel-title">
-                                <a data-toggle="collapse" data-parent="#accordion3" href="#pastorial-council">Pastoral council</a>
-                            </h3>
-                        </div>
-                        <div id="pastorial-council" class="panel-collapse collapse in">
-                            <dl>
-                                <dt>Date</dt>
-                                <dd>1st Sunday of every month</dd>
-                                <dt>Time</dt>
-                                <dd>After 6:30am Mass</dd>
-                                <dt>Contact</dt>
-                                <dd><a href="mailto:pastoral.council@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
-                            </dl>
-                        </div>
-                    </div>
-
-                    <div class="panel panel-primary">
-                        <div class="panel-heading">
-                            <h3 class="panel-title">
-                                <a data-toggle="collapse" data-parent="#accordion3" href="#laity">Laity Council</a>
-                            </h3>
-                        </div>
-                        <div id="laity" class="panel-collapse collapse">
-                            <dl>
-                                <dt>Date</dt>
-                                <dd>1st Sunday of every month</dd>
-                                <dt>Time</dt>
-                                <dd>After 6:30am Mass</dd>
-                                <dt>Contact</dt>
-                                <dd><a href="mailto:laity.council@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
-                            </dl>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-12 col-md-6">
-                <div class="text-center">
-                    <h3 class="well well-sm">Associations</h3>
-                </div>
-            </div>
-
-            <div class="col-lg-12 col-md-6 text-center">
-                <div class="panel-group" id="accordion1">
-                    <div class="panel panel-primary">
-                        <div class="panel-heading">
-                            <h3 class="panel-title">
-                                <a data-toggle="collapse" data-parent="#accordion1" href="#holy-family">Holy Family</a>
-                            </h3>
-                        </div>
-                        <div id="holy-family" class="panel-collapse collapse">
-                            <dl>
-                                <dt>Date</dt>
-                                <dd>2nd Sunday of every month</dd>
-                                <dt>Time</dt>
-                                <dd>After 6:30am Mass</dd>
-                                <dt>Contact</dt>
-                                <dd><a href="mailto:holy.family@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
-                            </dl>
-                        </div>
-                    </div>
-
-                    <div class="panel panel-primary">
-                        <div class="panel-heading">
-                            <h3 class="panel-title">
-                                <a data-toggle="collapse" data-parent="#accordion1" href="#st-anthony">Saint Anthony</a>
-                            </h3>
-                        </div>
-                        <div id="st-anthony" class="panel-collapse collapse">
-                            <dl>
-                                <dt>Date</dt>
-                                <dd>Tuesdays</dd>
-                                <dt>Time</dt>
-                                <dd>5pm</dd>
-                                <dt>Contact</dt>
-                                <dd><a href="mailto:stanthony@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
-                            </dl>
-                        </div>
-                    </div>
-
-                    <div class="panel panel-primary">
-                        <div class="panel-heading">
-                            <h3 class="panel-title">
-                                <a data-toggle="collapse" data-parent="#accordion1" href="#st-jude">Saint Jude</a>
-                            </h3>
-                        </div>
-                        <div id="st-jude" class="panel-collapse collapse">
-                            <dl>
-                                <dt>Date</dt>
-                                <dd>Wednesdays</dd>
-                                <dt>Time</dt>
-                                <dd>4:30pm</dd>
-                                <dt>Contact</dt>
-                                <dd><a href="mailto:stjude@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
-                            </dl>
-                        </div>
-                    </div>
-
-                    <div class="panel panel-primary">
-                        <div class="panel-heading">
-                            <h3 class="panel-title">
-                                <a data-toggle="collapse" data-parent="#accordion1" href="#cbiu">CBIU</a>
-                            </h3>
-                        </div>
-                        <div id="cbiu" class="panel-collapse collapse">
-                            <dl>
-                                <dt>Date</dt>
-                                <dd>Sundays & Thursdays</dd>
-                                <dt>Time</dt>
-                                <dd>4 - 6pm & 5 - 7pm respectively</dd>
-                                <dt>Contact</dt>
-                                <dd><a href="mailto:cbiu@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
-                            </dl>
-                        </div>
-                    </div>
-
-                    <div class="panel panel-primary">
-                        <div class="panel-heading">
-                            <h3 class="panel-title">
-                                <a data-toggle="collapse" data-parent="#accordion1" href="#mass-servers">Mass Servers</a>
-                            </h3>
-                        </div>
-                        <div id="mass-servers" class="panel-collapse collapse">
-                            <dl>
-                                <dt>Date</dt>
-                                <dd>Saturdays</dd>
-                                <dt>Time</dt>
-                                <dd>5pm</dd>
-                                <dt>Contact</dt>
-                                <dd><a href="mailto:mass.servers@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
-                            </dl>
-                        </div>
-                    </div>
-
-                    <div class="panel panel-primary">
-                        <div class="panel-heading">
-                            <h3 class="panel-title">
-                                <a data-toggle="collapse" data-parent="#accordion1" href="#nurses-guilds">Nurses Guild</a>
-                            </h3>
-                        </div>
-                        <div id="nurses-guilds" class="panel-collapse collapse">
-                            <dl>
-                                <dt>Date</dt>
-                                <dd>3rd Sunday of every month</dd>
-                                <dt>Time</dt>
-                                <dd>6pm</dd>
-                                <dt>Contact</dt>
-                                <dd><a href="mailto:nurses.guild@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
-                            </dl>
-                        </div>
-                    </div>
-
-                    <div class="panel panel-primary">
-                        <div class="panel-heading">
-                            <h3 class="panel-title">
-                                <a data-toggle="collapse" data-parent="#accordion1" href="#lay-readers">Lay Readers</a>
-                            </h3>
-                        </div>
-                        <div id="lay-readers" class="panel-collapse collapse">
-                            <dl>
-                                <dt>Date</dt>
-                                <dd>Saturdays</dd>
-                                <dt>Time</dt>
-                                <dd>4:30pm</dd>
-                                <dt>Contact</dt>
-                                <dd><a href="mailto:lay.readers@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
-                            </dl>
-                        </div>
-                    </div>
-
-                    <div class="panel panel-primary">
-                        <div class="panel-heading">
-                            <h3 class="panel-title">
-                                <a data-toggle="collapse" data-parent="#accordion1" href="#ccrn">Charismatic</a>
-                            </h3>
-                        </div>
-                        <div id="ccrn" class="panel-collapse collapse">
-                            <dl>
-                                <dt>Date</dt>
-                                <dd>Mondays & Sunday</dd>
-                                <dt>Time</dt>
-                                <dd>6pm & 4pm respectively</dd>
-                                <dt>Contact</dt>
-                                <dd><a href="mailto:charismatic@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
-                            </dl>
-                        </div>
-                    </div>
-
-                    <div class="panel panel-primary">
-                        <div class="panel-heading">
-                            <h3 class="panel-title">
-                                <a data-toggle="collapse" data-parent="#accordion1" href="#choir-association">Choir Association</a>
-                            </h3>
-                        </div>
-                        <div id="choir-association" class="panel-collapse collapse">
-                            <dl>
-                                <dt>Date</dt>
-                                <dd>1st Friday of every month</dd>
-                                <dt>Time</dt>
-                                <dd>5pm</dd>
-                                <dt>Contact</dt>
-                                <dd><a href="mailto:choir.association@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
-                            </dl>
-                        </div>
-                    </div>
-
-                    <div class="panel panel-primary">
-                        <div class="panel-heading">
-                            <h3 class="panel-title">
-                                <a data-toggle="collapse" data-parent="#accordion1" href="#sacred-heart">Sacred Heart</a>
-                            </h3>
-                        </div>
-                        <div id="sacred-heart" class="panel-collapse collapse">
-                            <dl>
-                                <dt>Date</dt>
-                                <dd>Thursdays</dd>
-                                <dt>Time</dt>
-                                <dd>4:30pm</dd>
-                                <dt>Contact</dt>
-                                <dd><a href="mailto:sacred.heart@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
-                            </dl>
-                        </div>
-                    </div>
-
-                    <div class="panel panel-primary">
-                        <div class="panel-heading">
-                            <h3 class="panel-title">
-                                <a data-toggle="collapse" data-parent="#accordion1" href="#ministers-of-hospitality">Ministers of Hospitality</a>
-                            </h3>
-                        </div>
-                        <div id="ministers-of-hospitality" class="panel-collapse collapse">
-                            <dl>
-                                <dt>Date</dt>
-                                <dd>3rd Sunday of every month</dd>
-                                <dt>Time</dt>
-                                <dd>After 9:30am Mass</dd>
-                                <dt>Contact</dt>
-                                <dd><a href="mailto:ministers.hospitality@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
-                            </dl>
-                        </div>
-                    </div>
-
-                    <div class="panel panel-primary">
-                        <div class="panel-heading">
-                            <h3 class="panel-title">
-                                <a data-toggle="collapse" data-parent="#accordion1" href="#st-vincent-de-paul">St. Vincent De Paul</a>
-                            </h3>
-                        </div>
-                        <div id="st-vincent-de-paul" class="panel-collapse collapse">
-                            <dl>
-                                <dt>Date</dt>
-                                <dd>Mondays</dd>
-                                <dt>Time</dt>
-                                <dd>5pm</dd>
-                                <dt>Contact</dt>
-                                <dd><a href="mailto:vincent_de_paul@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
-                            </dl>
-                        </div>
-                    </div>
-
-                    <div class="panel panel-primary">
-                        <div class="panel-heading">
-                            <h3 class="panel-title">
-                                <a data-toggle="collapse" data-parent="#accordion1" href="#mary-league">Mary League</a>
-                            </h3>
-                        </div>
-                        <div id="mary-league" class="panel-collapse collapse">
-                            <dl>
-                                <dt>Date</dt>
-                                <dd>2nd Sunday of every month</dd>
-                                <dt>Time</dt>
-                                <dd>After 6:30am Mass</dd>
-                                <dt>Contact</dt>
-                                <dd><a href="mailto:mary.league@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
-                            </dl>
-                        </div>
-                    </div>
-
-                    <div class="panel panel-primary">
-                        <div class="panel-heading">
-                            <h3 class="panel-title">
-                                <a data-toggle="collapse" data-parent="#accordion1" href="#legion-of-mary">Legion of Mary</a>
-                            </h3>
-                        </div>
-                        <div id="legion-of-mary" class="panel-collapse collapse">
-                            <dl>
-                                <dt>Date</dt>
-                                <dd>Saturdays and Sundays</dd>
-                                <dt>Time</dt>
-                                <dd>4pm & after 6:30am Mass respectively</dd>
-                                <dt>Contact</dt>
-                                <dd><a href="mailto:legion_of_mary@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
-                            </dl>
-                        </div>
-                    </div>
-
-                    <div class="panel panel-primary">
-                        <div class="panel-heading">
-                            <h3 class="panel-title">
-                                <a data-toggle="collapse" data-parent="#accordion1" href="#fatima">Fatima</a>
-                            </h3>
-                        </div>
-                        <div id="fatima" class="panel-collapse collapse">
-                            <dl>
-                                <dt>Date</dt>
-                                <dd>Mondays & Wednesdays</dd>
-                                <dt>Time</dt>
-                                <dd>6am - 12 noon</dd>
-                                <dt>Contact</dt>
-                                <dd><a href="mailto:fatima@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
-                            </dl>
-                        </div>
-                    </div>
-
-                    <div class="panel panel-primary">
-                        <div class="panel-heading">
-                            <h3 class="panel-title">
-                                <a data-toggle="collapse" data-parent="#accordion1" href="#purgatorain-society">Purgatorain Society</a>
-                            </h3>
-                        </div>
-                        <div id="purgatorain-society" class="panel-collapse collapse">
-                            <dl>
-                                <dt>Date</dt>
-                                <dd>Mondays</dd>
-                                <dt>Time</dt>
-                                <dd>5 - 6pm</dd>
-                                <dt>Contact</dt>
-                                <dd><a href="mailto:purgatorain.society@stchaleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
-                            </dl>
-                        </div>
-                    </div>
-
-                    <div class="panel panel-primary">
-                        <div class="panel-heading">
-                            <h3 class="panel-title">
-                                <a data-toggle="collapse" data-parent="#accordion1" href="#amsp">A.M.S.P.</a>
-                            </h3>
-                        </div>
-                        <div id="amsp" class="panel-collapse collapse">
-                            <dl>
-                                <dt>Date</dt>
-                                <dd>2nd Thursday of every month</dd>
-                                <dt>Time</dt>
-                                <dd>5pm</dd>
-                                <dt>Contact</dt>
-                                <dd><a href="mailto:amsp@stcharleslwanaga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
-                            </dl>
-                        </div>
-                    </div>
-
-                    <div class="panel panel-primary">
-                        <div class="panel-heading">
-                            <h3 class="panel-title">
-                                <a data-toggle="collapse" data-parent="#accordion1" href="#st-monica">Saint Monica</a>
-                            </h3>
-                        </div>
-                        <div id="st-monica" class="panel-collapse collapse">
-                            <dl>
-                                <dt>Date</dt>
-                                <dd>3rd Sunday of every month</dd>
-                                <dt>Time</dt>
-                                <dd>After 6:30am Mass</dd>
-                                <dt>Contact</dt>
-                                <dd><a href="mailto:stmonica@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
-                            </dl>
-                        </div>
-                    </div>
-
-                    <div class="panel panel-primary">
-                        <div class="panel-heading">
-                            <h3 class="panel-title">
-                                <a data-toggle="collapse" data-parent="#accordion1" href="#st-theresa">Saint Theresa</a>
-                            </h3>
-                        </div>
-                        <div id="st-theresa" class="panel-collapse collapse">
-                            <dl>
-                                <dt>Date</dt>
-                                <dd>Mondays</dd>
-                                <dt>Time</dt>
-                                <dd>5pm</dd>
-                                <dt>Contact</dt>
-                                <dd><a href="mailto:st_theresa@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
-                            </dl>
-                        </div>
-                    </div>
-
-                    <div class="panel panel-primary">
-                        <div class="panel-heading">
-                            <h3 class="panel-title">
-                                <a data-toggle="collapse" data-parent="#accordion1" href="#st-mary">Saint Mary</a>
-                            </h3>
-                        </div>
-                        <div id="st-mary" class="panel-collapse collapse">
-                            <dl>
-                                <dt>Date</dt>
-                                <dd>2nd Sunday of every month</dd>
-                                <dt>Time</dt>
-                                <dd>Unknown yet</dd>
-                                <dt>Contact</dt>
-                                <dd><a href="mailto:stmary@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
-                            </dl>
-                        </div>
-                    </div>
-
-                    <div class="panel panel-primary">
-                        <div class="panel-heading">
-                            <h3 class="panel-title">
-                                <a data-toggle="collapse" data-parent="#accordion1" href="#divine-mercy">Divine Mercy</a>
-                            </h3>
-                        </div>
-                        <div id="divine-mercy" class="panel-collapse collapse">
-                            <dl>
-                                <dt>Date</dt>
-                                <dd>Tuesdays, Thursdays & Fridays</dd>
-                                <dt>Time</dt>
-                                <dd>3pm</dd>
-                                <dt>Contact</dt>
-                                <dd><a href="mailto:divine_mercy@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
-                            </dl>
-                        </div>
-                    </div>
-
-                    <div class="panel panel-primary">
-                        <div class="panel-heading">
-                            <h3 class="panel-title">
-                                <a data-toggle="collapse" data-parent="#accordion1" href="#friends-of-st-patrick">Friends of Saint Patrick</a>
-                            </h3>
-                        </div>
-                        <div id="friends-of-st-patrick" class="panel-collapse collapse">
-                            <dl>
-                                <dt>Date</dt>
-                                <dd>2nd Tuesday of every month</dd>
-                                <dt>Time</dt>
-                                <dd>5pm</dd>
-                                <dt>Contact</dt>
-                                <dd><a href="mailto:friends.of.st.patrick@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
-                            </dl>
-                        </div>
-                    </div>
-
-                    <div class="panel panel-primary">
-                        <div class="panel-heading">
-                            <h3 class="panel-title">
-                                <a data-toggle="collapse" data-parent="#accordion1" href="#precious-blood">Precious Blood</a>
-                            </h3>
-                        </div>
-                        <div id="precious-blood" class="panel-collapse collapse">
-                            <dl>
-                                <dt>Date</dt>
-                                <dd>Thursdays</dd>
-                                <dt>Time</dt>
-                                <dd>11pm - 3am</dd>
-                                <dt>Contact</dt>
-                                <dd><a href="mailto:precious.blood@stcharleslwanga.com.ng"><i class="text-primary fa fa-envelope fa-2x"></i></a></dd>
-                            </dl>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div><!-- /.End of Parish Associations -->
+        
     </div><!-- /.End of Mass schedule and Associations -->
 </section>
 
@@ -2808,7 +3087,7 @@ we who first hoped in Christ.
                     </div>
                     <div class="footer-me-leftr">
                         <h4>Quote of the week</h4>
-                        <p>"Charity is no substitute for Justice withheld" - Saint Augustine</p>
+                        <p>"Anxiety is the greatest evil that can befall a soul except sin. God commands you to pray, but He forbids you to worry" - St. Francis de Sales</p>
                     </div>
                     <div class="clearfix"></div>
                 </div>
@@ -2851,6 +3130,7 @@ we who first hoped in Christ.
     </div>
 </footer>
 
+//
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="Boot/boot1/docs/assets/js/vendor/jquery.min.js"><\/script>')</script>
 <script src="Boot/boot1/dist/js/bootstrap.min.js"></script>
@@ -2918,33 +3198,33 @@ function adduser()
             //Verify if there is a hit
             if ($count_rows==1){
                 while ($rowsd = $query_select->fetch_assoc()){
-                $D_email = $rowsd['Email'];
-                header("refresh: 3; url=index.php");
-                echo "<h3>" . $D_email . " already exist on the database. You will hear from us soon.</h3>";
+                    $D_email = $rowsd['Email'];
+                    header("refresh: 3; url=index.php");
+                    echo "<h3>" . $D_email . " already exist on the database. You will hear from us soon.</h3>";
                 }
 
             }else {
                 //Add the user
-                    $date = date("Y-m-d");
+                $date = date("Y-m-d");
 //                    echo $id . "<br>";
 //                    echo $date . "<br>";
 //                    echo $email . "<br>";
 
 //                    //Insert the user into the database
-                    $insert = "INSERT INTO news(Email, Date_Registered)VALUE ('$email', '$date')";
-                    if ($connect->query($insert) === TRUE) {
+                $insert = "INSERT INTO news(Email, Date_Registered)VALUE ('$email', '$date')";
+                if ($connect->query($insert) === TRUE) {
 //                    Redirect the user to the index page if insertion is complete
-                        header("refresh:3; url=index.php");
-                        echo "<h1>Successful subscription</h1>";
+                    header("refresh:3; url=index.php");
+                    echo "<h1>Successful subscription</h1>";
 
                     exit();
-                        //Create a tooltip to get details about the user
-                    } else {
-                        header("refresh:3; url=index.php");
-                        echo "<h1>Unsuccessful subscription</h1>";
+                    //Create a tooltip to get details about the user
+                } else {
+                    header("refresh:3; url=index.php");
+                    echo "<h1>Unsuccessful subscription</h1>";
 
                     exit();
-                    }
+                }
                 mysqli_close($connect);
             }
         }
