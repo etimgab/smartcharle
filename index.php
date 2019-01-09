@@ -414,7 +414,7 @@ marquee{
                 <div class="modal-body modal-about">
                     <p><h3>Christmas Weekday</h3></p>
                     <p><strong>Take courage, it is I, do not be afraid! (Mark 6:50)</strong></p><br>
-                    
+                    <div></div>
                    <p>Jesus’ words are perplexing at best. Why wouldn’t the disciples be terrified, given the situation? 
                    Not only are they far out to sea, but it’s dark, a storm is raging, and what appears to be a ghost is 
                    walking toward them. Who wouldn’t be afraid?</p>
