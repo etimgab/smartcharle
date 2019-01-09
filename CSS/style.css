@@ -570,3 +570,6 @@ footer h3{
 .marquee{
     width: 100%;
 }
+.spaceimage{
+    float: right;
+}

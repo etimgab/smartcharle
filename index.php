@@ -93,7 +93,7 @@ marquee{
                     <a href="#about">About Us</a>
                 </li>
                 <li>
-                    <a href="#" data-toggle="modal" data-target="#myModaldaily">Daily Meditation</a>
+                    <a href="#" data-toggle="modal" data-target="#myModaldaily1">Daily Meditation</a>
                 </li>
                 <li>
                     <a href="lib-orgin.php">Online Library</a>
@@ -403,47 +403,46 @@ marquee{
 
 
 <div class="tooltip-content">
-    <div class="modal fade features-modal modal-about" id="myModaldaily" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal fade features-modal modal-about" id="myModaldaily1" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-dialog modal-lg modal-about">
             <div class="modal-content modal-about">
                 <div class="modal-header modal-about" style="background-color: black; color: white;">
                     <button type="button" class="close modal-about" data-dismiss="modal" aria-hidden="true" style="color: white;">&times;</button>
                     <h4 class="modal-title modal-about text-center">Daily Mediation </h4>
-                    <h6 class="modal-title modal-about text-center"><i>(Mark 6:42)</i></h6>
+                    <h6 class="modal-title modal-about text-center"><i>(Mark 6:50)</i></h6>
                 </div>
                 <div class="modal-body modal-about">
                     <p><h3>Christmas Weekday</h3></p>
-                    <p><strong>They all ate and were satisfied. (Mark 6:42)</strong></p><br>
+                    <p><strong>Take courage, it is I, do not be afraid! (Mark 6:50)</strong></p><br>
                     
-                   <p>Has anyone ever surprised you with a gift of food? Maybe it was dinner that a neighbor brought 
-                   over when a family member passed away. Maybe someone at work handed you a cup of gourmet coffee when 
-                   you were laboring over a tight deadline. Or maybe someone gave you a gift card to your favorite 
-                   restaurant for your birthday.</p>
+                   <p>Jesus’ words are perplexing at best. Why wouldn’t the disciples be terrified, given the situation? 
+                   Not only are they far out to sea, but it’s dark, a storm is raging, and what appears to be a ghost is 
+                   walking toward them. Who wouldn’t be afraid?</p>
 
-                   <p>The miracle of the feeding of the five thousand was also an unexpected gift. The people who had 
-                   followed Jesus into a deserted place weren’t expecting him or his disciples to give them dinner. No 
-                   one asked him to perform this miracle. He just chose to do it out of love for these people who had 
-                   come so far to see him. Jesus fed them because he wanted to spend more time with them rather than 
-                   have them leave early to find food in the surrounding villages.</p>
+                   <p>So how should we understand Jesus’ words to the disciples? And more to the point, how can we deal 
+                   with our fears when we face terrifying circumstances? We all know the kinds of things that could make 
+                   us afraid: a cancer diagnosis, job loss, financial upheaval, a child in a car accident, and many others. 
+                   These are the situations where fear can overwhelm and paralyze us. They’re the situations in which it 
+                   feels as if we are in the boat with the disciples—and just moments away from capsizing.</p>
 
-                   <p>What makes Jesus’ gesture even more striking is that he was grieving the execution of John the 
-                   Baptist at the time. He had initially wanted some time alone but changed his plans when he saw the 
-                   crowd of people eager to hear him teach. Mark tells us that Jesus’ “heart was moved with pity,” and 
-                   he decided to put aside his grief and care for the people (Mark 6:34).</p>
+                   <p>But look what happens right after Jesus tells the disciples to do something that seemed impossible: 
+                   “He got into the boat with them” (Mark 6:51). Which is exactly what Jesus does for us. He joins us in 
+                   our “boat.” He doesn’t just tell us not to be afraid; he enters into our situation and promises to 
+                   remain with us every step of the way.</p>
 
-                   <p>This says so much about the heart of Jesus. First, he wants to spend time with us. You could say 
-                   that he even enjoys his time with us. He will never “dismiss” us when we go to him (Mark 6:36). 
-                   Second, we can trust that Jesus will give us the gifts we need, even when we least expect it. Even 
-                   when it never occurred to us to ask, he will pour out his grace and his peace. We just have to make 
-                   time, like those in the crowd, to come and sit with him.</p>
+                   <p>This might not mean an instantaneous healing of cancer or a surprise check appearing in our mailbox. 
+                   But it may well entail the Lord offering you his help just when you most need it. Maybe he leads you 
+                   to an excellent doctor. Maybe you learn about a promising new job opportunity. Or maybe nothing 
+                   appears to happen at all, but you experience a sense of peace in the midst of turmoil. Whatever 
+                   happens, Jesus wants to show you that he is with you for the long haul. He has no intention of 
+                   abandoning you. This means you can trust in him, even in the most terrifying of storms.</p>
 				   
-				   <p>Jesus’ greatest gift to us is the Bread of Life in the Eucharist. Even better, we don’t have to 
-				   travel far to receive this heavenly food. He comes to us on every altar at every Mass and feeds us. 
-				   And just like the people who ate and were satisfied, we, too, can be filled to overflowing every time 
-				   we share a meal with Jesus.</p>			   
+				   <p>So whenever you feel like your boat is sinking, remember Jesus’ words: “Take courage, it is I, do 
+				   not be afraid” (Mark 6:50). Jesus is with you, and he will remain with you through every frightening 
+				   moment. Then keep your eyes open so that you don’t miss all the ways he is caring for you.</p>			   
 				   
 				   
-                    <p><strong><i>“Jesus, thank you for spending time with me and for feeding me in the Eucharist.”</i></strong></p>
+                    <p><strong><i>“Lord Jesus, thank you for being with me and helping me to face my fears.”</i></strong></p>
                     <p class="text-muted">&copy; Word Among Us - Mediation</p>
                 </div>
             </div>
@@ -895,7 +894,7 @@ by God’s grace has to be accessed; ‘inherited’ through human co-operation.
 
                         <!--Modal -->
                         <button class="btn btn-primary underline-from-left modal-about" data-toggle="modal" data-target="#myModal">ABOUT THE PARISH<span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span> </button>
-                        
+                        <div></div>
 
                         <div class="tooltip-content">
                             <div class="modal fade features-modal modal-about" id="myModal" tabindex="-1" role="dialog" aria-hidden="true">
@@ -3110,7 +3109,7 @@ we who first hoped in Christ.
                     </div>
                     <div class="footer-me-leftr">
                         <h4>Follow Us</h4>
-                        <a href="#"><i class="text-primary fa fa-facebook-official fa-3x tooltip-viewport-bottom" title="Facebook"></i> </a>
+                        <a href="https://www.facebook.com/groups/517035638777289"><i class="text-primary fa fa-facebook-official fa-3x tooltip-viewport-bottom" title="Facebook"></i> </a>
                         <a href="#"><i class="text-primary fa fa-instagram fa-3x tooltip-viewport-bottom" title="Facebook"></i> </a>
                     </div>
                     <div class="clearfix"></div>
